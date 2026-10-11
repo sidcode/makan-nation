@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kopi Compiler</title>
+  <meta name="description" content="Every kopitiam order is a tiny program. Type one in and watch uncle run it.">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="sign">
+    <div class="sign-board">
+      <span class="sign-han" lang="zh" aria-hidden="true">咖啡</span>
+      <div class="sign-text">
+        <h1>Kopi Compiler</h1>
+        <p>Every kopitiam order is a tiny program. Type one in and watch uncle run it.</p>
+      </div>
+      <a class="sign-back" href="../">All projects</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="shop" aria-label="Compiler">
+      <div class="counter">
+        <div class="tabs" role="tablist" aria-label="Mode">
+          <button role="tab" id="tab-type" aria-controls="panel-type" aria-selected="true">Type it</button>
+          <button role="tab" id="tab-build" aria-controls="panel-build" aria-selected="false" tabindex="-1">Build it</button>
+          <button role="tab" id="tab-rush" aria-controls="panel-rush" aria-selected="false" tabindex="-1">Uncle's Rush</button>
+        </div>
+
+        <div class="panel" id="panel-type" role="tabpanel" aria-labelledby="tab-type">
+          <label class="field-label" for="src">Your order</label>
+          <div class="src-wrap">
+            <input id="src" class="src" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" maxlength="120" placeholder="kopi-o kosong peng">
+          </div>
+          <div class="examples" aria-label="Example orders">
+            <span>Try</span>
+          </div>
+        </div>
+
+        <div class="panel" id="panel-build" role="tabpanel" aria-labelledby="tab-build" hidden>
+          <form class="builder" id="builder" aria-label="Build a drink">
+            <fieldset data-group="base"><legend>Drink</legend><div class="seg"></div></fieldset>
+            <fieldset data-group="milk"><legend>Milk</legend><div class="seg"></div></fieldset>
+            <fieldset data-group="sugar"><legend>Sugar</legend><div class="seg"></div></fieldset>
+            <fieldset data-group="strength"><legend>Strength</legend><div class="seg"></div></fieldset>
+            <fieldset data-group="extras"><legend>Extras</legend><div class="seg"></div></fieldset>
+          </form>
+        </div>
+
+        <div class="panel" id="panel-rush" role="tabpanel" aria-labelledby="tab-rush" hidden>
+          <div class="rush">
+            <div class="rush-idle" id="rush-idle">
+              <p class="rush-pitch">Sixty seconds. Orders keep coming. Build each one with the controls before uncle loses patience.</p>
+              <fieldset class="who">
+                <legend>Who reads the orders out loud</legend>
+                <label class="check"><input type="radio" name="who" value="uncle" checked> Uncle</label>
+                <label class="check"><input type="radio" name="who" value="auntie"> Auntie</label>
+                <label class="check"><input type="radio" name="who" value="none"> Nobody</label>
+              </fieldset>
+              <button class="btn btn-go" id="rush-start" type="button">Open the shop</button>
+              <p class="rush-best" id="rush-best"></p>
+            </div>
+            <div class="rush-live" id="rush-live" hidden>
+              <div class="rush-bar">
+                <span class="lcd" id="rush-time" aria-label="Seconds left">60</span>
+                <span class="rush-score"><span id="rush-score">0</span> served</span>
+                <button class="btn btn-small" id="rush-skip" type="button">Skip</button>
+              </div>
+              <p class="rush-order" id="rush-order" aria-live="assertive"></p>
+              <p class="rush-hint">Build it below. It serves itself when it matches.</p>
+            </div>
+            <div class="rush-done" id="rush-done" hidden>
+              <p class="rush-final" id="rush-final"></p>
+              <p class="rush-quip" id="rush-quip"></p>
+              <button class="btn btn-go" id="rush-again" type="button">Open again</button>
+            </div>
+          </div>
+          <div class="rush-builder-slot" id="rush-builder-slot"></div>
+        </div>
+
+        <div class="tokens" aria-label="How uncle read your order">
+          <ol class="chips" id="chips"></ol>
+        </div>
+        <div class="console" aria-live="polite">
+          <p class="console-status" id="status"></p>
+          <ul class="console-notes" id="notes"></ul>
+        </div>
+      </div>
+
+      <div class="table-side">
+        <div class="table">
+          <div class="scene" id="scene" data-vessel="cup" aria-hidden="true">
+            <div class="steam"><i></i><i></i><i></i></div>
+            <div class="string"></div>
+            <div class="stream"></div>
+            <div class="vessel">
+              <div class="liquid" id="liquid">
+                <div class="layer l-condensed"></div>
+                <div class="layer l-sugar"></div>
+                <div class="layer l-body"></div>
+                <div class="layer l-evap"></div>
+                <div class="layer l-froth"></div>
+              </div>
+              <div class="bits" id="bits"></div>
+              <div class="ice" id="ice"><i></i><i></i><i></i><i></i></div>
+              <div class="mound"></div>
+              <div class="spoon"></div>
+              <svg class="bag-line" viewBox="0 0 176 210" aria-hidden="true"><path d="M68 2 L108 2 C120 32 174 52 173 122 C172 186 140 207 88 207 C36 207 4 186 3 122 C2 52 56 32 68 2 Z"/></svg>
+              <div class="count-badge" id="count-badge"></div>
+            </div>
+            <div class="handle"></div>
+            <div class="saucer"></div>
+          </div>
+          <p class="caption" id="caption"></p>
+          <div class="table-actions">
+            <button class="btn" id="stir" type="button">Stir</button>
+            <button class="btn" id="shout" type="button">Shout it</button>
+            <button class="btn" id="copy" type="button">Copy order</button>
+          </div>
+        </div>
+
+        <figure class="ticket" id="ticket" aria-label="Order ticket">
+          <div class="ticket-head">
+            <span>KOPI COMPILER</span>
+            <span id="ticket-no"></span>
+          </div>
+          <p class="ticket-order" id="ticket-order"></p>
+          <p class="ticket-desc" id="ticket-desc"></p>
+          <div class="punch" id="punch" aria-hidden="true"></div>
+          <figcaption>Your order, punched like a loom card.</figcaption>
+          <div class="stamp" id="stamp"></div>
+        </figure>
+      </div>
+    </section>
+
+    <section class="then" aria-labelledby="then-title">
+      <div class="section-head">
+        <h2 id="then-title">Where the words come from</h2>
+        <p>The counter mixes Malay, Hokkien, Cantonese and English, sometimes in one breath. Hainanese families played a big part in starting Singapore's kopitiam culture, and kopitiam itself is Malay kopi plus Hokkien tiam, a shop.</p>
+        <ul class="legend" id="legend"></ul>
+      </div>
+      <div class="menuboard">
+        <ol class="menu" id="menu"></ol>
+      </div>
+    </section>
+
+    <section class="next" aria-labelledby="next-title">
+      <div class="section-head">
+        <h2 id="next-title">Teach uncle a new word</h2>
+        <p>Languages grow when people make things up. Invent a word, give it a job, and the compiler accepts it on this device.</p>
+      </div>
+      <div class="next-grid">
+        <form class="pad" id="teach" novalidate>
+          <label class="field-label" for="teach-word">New word</label>
+          <input id="teach-word" class="input" maxlength="16" autocomplete="off" spellcheck="false" placeholder="oat" required>
+
+          <fieldset class="teach-type">
+            <legend class="field-label">What it does</legend>
+            <label><input type="radio" name="type" value="milk" checked> A new milk</label>
+            <label><input type="radio" name="type" value="topping"> Something on top</label>
+            <label><input type="radio" name="type" value="macro"> A shortcut for a whole order</label>
+          </fieldset>
+
+          <div class="teach-meaning" id="teach-meaning-wrap">
+            <label class="field-label" for="teach-meaning">What it means</label>
+            <input id="teach-meaning" class="input" maxlength="60" autocomplete="off" placeholder="Oat milk instead of condensed">
+            <span class="field-label" id="swatch-label">Colour in the cup</span>
+            <div class="swatches" id="swatches" role="radiogroup" aria-labelledby="swatch-label"></div>
+          </div>
+
+          <div class="teach-macro" id="teach-macro-wrap" hidden>
+            <label class="field-label" for="teach-expands">Expands to</label>
+            <input id="teach-expands" class="input mono" maxlength="60" autocomplete="off" spellcheck="false" placeholder="kopi-o kosong gao">
+          </div>
+
+          <p class="teach-error" id="teach-error" role="alert"></p>
+          <button class="btn btn-go" type="submit">Add to my dialect</button>
+        </form>
+
+        <div class="dialect">
+          <h3>Your dialect</h3>
+          <p class="dialect-empty" id="dialect-empty">No words yet. Uncle is listening.</p>
+          <ul class="dialect-list" id="dialect-list"></ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p>Sources</p>
+    <ul id="sources"></ul>
+    <p class="foot-small">Made for Common Ground, Singapore. Your words stay in this browser.</p>
+  </footer>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

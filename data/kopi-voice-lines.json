@@ -1,0 +1,7538 @@
+[
+ {
+  "key": "call.kopisiewdai.ms",
+  "text": "Kopi Siew Dai"
+ },
+ {
+  "key": "call.kopisiewdaidabao.ms",
+  "text": "Kopi Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopisiewdaipeng.ms",
+  "text": "Kopi Siew Dai Peng"
+ },
+ {
+  "key": "call.kopisiewdaipengdabao.ms",
+  "text": "Kopi Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitariksiewdai.ms",
+  "text": "Kopi Tarik Siew Dai"
+ },
+ {
+  "key": "call.kopitariksiewdaidabao.ms",
+  "text": "Kopi Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopitariksiewdaipeng.ms",
+  "text": "Kopi Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.kopitariksiewdaipengdabao.ms",
+  "text": "Kopi Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliasiewdai.ms",
+  "text": "Kopi Halia Siew Dai"
+ },
+ {
+  "key": "call.kopihaliasiewdaidabao.ms",
+  "text": "Kopi Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliasiewdaipeng.ms",
+  "text": "Kopi Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.kopihaliasiewdaipengdabao.ms",
+  "text": "Kopi Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopigaosiewdai.ms",
+  "text": "Kopi Gao Siew Dai"
+ },
+ {
+  "key": "call.kopigaosiewdaidabao.ms",
+  "text": "Kopi Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopigaosiewdaipeng.ms",
+  "text": "Kopi Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopigaosiewdaipengdabao.ms",
+  "text": "Kopi Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikgaosiewdai.ms",
+  "text": "Kopi Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.kopitarikgaosiewdaidabao.ms",
+  "text": "Kopi Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopitarikgaosiewdaipeng.ms",
+  "text": "Kopi Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopitarikgaosiewdaipengdabao.ms",
+  "text": "Kopi Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliagaosiewdai.ms",
+  "text": "Kopi Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.kopihaliagaosiewdaidabao.ms",
+  "text": "Kopi Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliagaosiewdaipeng.ms",
+  "text": "Kopi Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopihaliagaosiewdaipengdabao.ms",
+  "text": "Kopi Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopipohsiewdai.ms",
+  "text": "Kopi Poh Siew Dai"
+ },
+ {
+  "key": "call.kopipohsiewdaidabao.ms",
+  "text": "Kopi Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopipohsiewdaipeng.ms",
+  "text": "Kopi Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopipohsiewdaipengdabao.ms",
+  "text": "Kopi Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikpohsiewdai.ms",
+  "text": "Kopi Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.kopitarikpohsiewdaidabao.ms",
+  "text": "Kopi Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopitarikpohsiewdaipeng.ms",
+  "text": "Kopi Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopitarikpohsiewdaipengdabao.ms",
+  "text": "Kopi Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliapohsiewdai.ms",
+  "text": "Kopi Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.kopihaliapohsiewdaidabao.ms",
+  "text": "Kopi Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliapohsiewdaipeng.ms",
+  "text": "Kopi Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopihaliapohsiewdaipengdabao.ms",
+  "text": "Kopi Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopidilosiewdai.ms",
+  "text": "Kopi Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopidilosiewdaidabao.ms",
+  "text": "Kopi Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopidilosiewdaipeng.ms",
+  "text": "Kopi Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopidilosiewdaipengdabao.ms",
+  "text": "Kopi Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikdilosiewdai.ms",
+  "text": "Kopi Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopitarikdilosiewdaidabao.ms",
+  "text": "Kopi Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopitarikdilosiewdaipeng.ms",
+  "text": "Kopi Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopitarikdilosiewdaipengdabao.ms",
+  "text": "Kopi Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliadilosiewdai.ms",
+  "text": "Kopi Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopihaliadilosiewdaidabao.ms",
+  "text": "Kopi Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliadilosiewdaipeng.ms",
+  "text": "Kopi Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopihaliadilosiewdaipengdabao.ms",
+  "text": "Kopi Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopi.ms",
+  "text": "Kopi"
+ },
+ {
+  "key": "call.kopidabao.ms",
+  "text": "Kopi Da Bao"
+ },
+ {
+  "key": "call.kopipeng.ms",
+  "text": "Kopi Peng"
+ },
+ {
+  "key": "call.kopipengdabao.ms",
+  "text": "Kopi Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarik.ms",
+  "text": "Kopi Tarik"
+ },
+ {
+  "key": "call.kopitarikdabao.ms",
+  "text": "Kopi Tarik Da Bao"
+ },
+ {
+  "key": "call.kopitarikpeng.ms",
+  "text": "Kopi Tarik Peng"
+ },
+ {
+  "key": "call.kopitarikpengdabao.ms",
+  "text": "Kopi Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.kopihalia.ms",
+  "text": "Kopi Halia"
+ },
+ {
+  "key": "call.kopihaliadabao.ms",
+  "text": "Kopi Halia Da Bao"
+ },
+ {
+  "key": "call.kopihaliapeng.ms",
+  "text": "Kopi Halia Peng"
+ },
+ {
+  "key": "call.kopihaliapengdabao.ms",
+  "text": "Kopi Halia Peng Da Bao"
+ },
+ {
+  "key": "call.kopigao.ms",
+  "text": "Kopi Gao"
+ },
+ {
+  "key": "call.kopigaodabao.ms",
+  "text": "Kopi Gao Da Bao"
+ },
+ {
+  "key": "call.kopigaopeng.ms",
+  "text": "Kopi Gao Peng"
+ },
+ {
+  "key": "call.kopigaopengdabao.ms",
+  "text": "Kopi Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikgao.ms",
+  "text": "Kopi Tarik Gao"
+ },
+ {
+  "key": "call.kopitarikgaodabao.ms",
+  "text": "Kopi Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.kopitarikgaopeng.ms",
+  "text": "Kopi Tarik Gao Peng"
+ },
+ {
+  "key": "call.kopitarikgaopengdabao.ms",
+  "text": "Kopi Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliagao.ms",
+  "text": "Kopi Halia Gao"
+ },
+ {
+  "key": "call.kopihaliagaodabao.ms",
+  "text": "Kopi Halia Gao Da Bao"
+ },
+ {
+  "key": "call.kopihaliagaopeng.ms",
+  "text": "Kopi Halia Gao Peng"
+ },
+ {
+  "key": "call.kopihaliagaopengdabao.ms",
+  "text": "Kopi Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopipoh.ms",
+  "text": "Kopi Poh"
+ },
+ {
+  "key": "call.kopipohdabao.ms",
+  "text": "Kopi Poh Da Bao"
+ },
+ {
+  "key": "call.kopipohpeng.ms",
+  "text": "Kopi Poh Peng"
+ },
+ {
+  "key": "call.kopipohpengdabao.ms",
+  "text": "Kopi Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikpoh.ms",
+  "text": "Kopi Tarik Poh"
+ },
+ {
+  "key": "call.kopitarikpohdabao.ms",
+  "text": "Kopi Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.kopitarikpohpeng.ms",
+  "text": "Kopi Tarik Poh Peng"
+ },
+ {
+  "key": "call.kopitarikpohpengdabao.ms",
+  "text": "Kopi Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliapoh.ms",
+  "text": "Kopi Halia Poh"
+ },
+ {
+  "key": "call.kopihaliapohdabao.ms",
+  "text": "Kopi Halia Poh Da Bao"
+ },
+ {
+  "key": "call.kopihaliapohpeng.ms",
+  "text": "Kopi Halia Poh Peng"
+ },
+ {
+  "key": "call.kopihaliapohpengdabao.ms",
+  "text": "Kopi Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopidilo.ms",
+  "text": "Kopi Di Lo"
+ },
+ {
+  "key": "call.kopidilodabao.ms",
+  "text": "Kopi Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopidilopeng.ms",
+  "text": "Kopi Di Lo Peng"
+ },
+ {
+  "key": "call.kopidilopengdabao.ms",
+  "text": "Kopi Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikdilo.ms",
+  "text": "Kopi Tarik Di Lo"
+ },
+ {
+  "key": "call.kopitarikdilodabao.ms",
+  "text": "Kopi Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopitarikdilopeng.ms",
+  "text": "Kopi Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.kopitarikdilopengdabao.ms",
+  "text": "Kopi Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliadilo.ms",
+  "text": "Kopi Halia Di Lo"
+ },
+ {
+  "key": "call.kopihaliadilodabao.ms",
+  "text": "Kopi Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopihaliadilopeng.ms",
+  "text": "Kopi Halia Di Lo Peng"
+ },
+ {
+  "key": "call.kopihaliadilopengdabao.ms",
+  "text": "Kopi Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopigadai.ms",
+  "text": "Kopi Ga Dai"
+ },
+ {
+  "key": "call.kopigadaidabao.ms",
+  "text": "Kopi Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopigadaipeng.ms",
+  "text": "Kopi Ga Dai Peng"
+ },
+ {
+  "key": "call.kopigadaipengdabao.ms",
+  "text": "Kopi Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikgadai.ms",
+  "text": "Kopi Tarik Ga Dai"
+ },
+ {
+  "key": "call.kopitarikgadaidabao.ms",
+  "text": "Kopi Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopitarikgadaipeng.ms",
+  "text": "Kopi Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.kopitarikgadaipengdabao.ms",
+  "text": "Kopi Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliagadai.ms",
+  "text": "Kopi Halia Ga Dai"
+ },
+ {
+  "key": "call.kopihaliagadaidabao.ms",
+  "text": "Kopi Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliagadaipeng.ms",
+  "text": "Kopi Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.kopihaliagadaipengdabao.ms",
+  "text": "Kopi Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopigaogadai.ms",
+  "text": "Kopi Gao Ga Dai"
+ },
+ {
+  "key": "call.kopigaogadaidabao.ms",
+  "text": "Kopi Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopigaogadaipeng.ms",
+  "text": "Kopi Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopigaogadaipengdabao.ms",
+  "text": "Kopi Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikgaogadai.ms",
+  "text": "Kopi Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.kopitarikgaogadaidabao.ms",
+  "text": "Kopi Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopitarikgaogadaipeng.ms",
+  "text": "Kopi Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopitarikgaogadaipengdabao.ms",
+  "text": "Kopi Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliagaogadai.ms",
+  "text": "Kopi Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.kopihaliagaogadaidabao.ms",
+  "text": "Kopi Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliagaogadaipeng.ms",
+  "text": "Kopi Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopihaliagaogadaipengdabao.ms",
+  "text": "Kopi Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopipohgadai.ms",
+  "text": "Kopi Poh Ga Dai"
+ },
+ {
+  "key": "call.kopipohgadaidabao.ms",
+  "text": "Kopi Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopipohgadaipeng.ms",
+  "text": "Kopi Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopipohgadaipengdabao.ms",
+  "text": "Kopi Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikpohgadai.ms",
+  "text": "Kopi Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.kopitarikpohgadaidabao.ms",
+  "text": "Kopi Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopitarikpohgadaipeng.ms",
+  "text": "Kopi Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopitarikpohgadaipengdabao.ms",
+  "text": "Kopi Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliapohgadai.ms",
+  "text": "Kopi Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.kopihaliapohgadaidabao.ms",
+  "text": "Kopi Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliapohgadaipeng.ms",
+  "text": "Kopi Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopihaliapohgadaipengdabao.ms",
+  "text": "Kopi Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopidilogadai.ms",
+  "text": "Kopi Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopidilogadaidabao.ms",
+  "text": "Kopi Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopidilogadaipeng.ms",
+  "text": "Kopi Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopidilogadaipengdabao.ms",
+  "text": "Kopi Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopitarikdilogadai.ms",
+  "text": "Kopi Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopitarikdilogadaidabao.ms",
+  "text": "Kopi Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopitarikdilogadaipeng.ms",
+  "text": "Kopi Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopitarikdilogadaipengdabao.ms",
+  "text": "Kopi Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopihaliadilogadai.ms",
+  "text": "Kopi Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopihaliadilogadaidabao.ms",
+  "text": "Kopi Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopihaliadilogadaipeng.ms",
+  "text": "Kopi Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopihaliadilogadaipengdabao.ms",
+  "text": "Kopi Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiokosong.ms",
+  "text": "Kopi-O Kosong"
+ },
+ {
+  "key": "call.kopiokosongdabao.ms",
+  "text": "Kopi-O Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiokosongpeng.ms",
+  "text": "Kopi-O Kosong Peng"
+ },
+ {
+  "key": "call.kopiokosongpengdabao.ms",
+  "text": "Kopi-O Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikkosong.ms",
+  "text": "Kopi-O Tarik Kosong"
+ },
+ {
+  "key": "call.kopiotarikkosongdabao.ms",
+  "text": "Kopi-O Tarik Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiotarikkosongpeng.ms",
+  "text": "Kopi-O Tarik Kosong Peng"
+ },
+ {
+  "key": "call.kopiotarikkosongpengdabao.ms",
+  "text": "Kopi-O Tarik Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliakosong.ms",
+  "text": "Kopi-O Halia Kosong"
+ },
+ {
+  "key": "call.kopiohaliakosongdabao.ms",
+  "text": "Kopi-O Halia Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiohaliakosongpeng.ms",
+  "text": "Kopi-O Halia Kosong Peng"
+ },
+ {
+  "key": "call.kopiohaliakosongpengdabao.ms",
+  "text": "Kopi-O Halia Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiogaokosong.ms",
+  "text": "Kopi-O Gao Kosong"
+ },
+ {
+  "key": "call.kopiogaokosongdabao.ms",
+  "text": "Kopi-O Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiogaokosongpeng.ms",
+  "text": "Kopi-O Gao Kosong Peng"
+ },
+ {
+  "key": "call.kopiogaokosongpengdabao.ms",
+  "text": "Kopi-O Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgaokosong.ms",
+  "text": "Kopi-O Tarik Gao Kosong"
+ },
+ {
+  "key": "call.kopiotarikgaokosongdabao.ms",
+  "text": "Kopi-O Tarik Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgaokosongpeng.ms",
+  "text": "Kopi-O Tarik Gao Kosong Peng"
+ },
+ {
+  "key": "call.kopiotarikgaokosongpengdabao.ms",
+  "text": "Kopi-O Tarik Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagaokosong.ms",
+  "text": "Kopi-O Halia Gao Kosong"
+ },
+ {
+  "key": "call.kopiohaliagaokosongdabao.ms",
+  "text": "Kopi-O Halia Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagaokosongpeng.ms",
+  "text": "Kopi-O Halia Gao Kosong Peng"
+ },
+ {
+  "key": "call.kopiohaliagaokosongpengdabao.ms",
+  "text": "Kopi-O Halia Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiopohkosong.ms",
+  "text": "Kopi-O Poh Kosong"
+ },
+ {
+  "key": "call.kopiopohkosongdabao.ms",
+  "text": "Kopi-O Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiopohkosongpeng.ms",
+  "text": "Kopi-O Poh Kosong Peng"
+ },
+ {
+  "key": "call.kopiopohkosongpengdabao.ms",
+  "text": "Kopi-O Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpohkosong.ms",
+  "text": "Kopi-O Tarik Poh Kosong"
+ },
+ {
+  "key": "call.kopiotarikpohkosongdabao.ms",
+  "text": "Kopi-O Tarik Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpohkosongpeng.ms",
+  "text": "Kopi-O Tarik Poh Kosong Peng"
+ },
+ {
+  "key": "call.kopiotarikpohkosongpengdabao.ms",
+  "text": "Kopi-O Tarik Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapohkosong.ms",
+  "text": "Kopi-O Halia Poh Kosong"
+ },
+ {
+  "key": "call.kopiohaliapohkosongdabao.ms",
+  "text": "Kopi-O Halia Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapohkosongpeng.ms",
+  "text": "Kopi-O Halia Poh Kosong Peng"
+ },
+ {
+  "key": "call.kopiohaliapohkosongpengdabao.ms",
+  "text": "Kopi-O Halia Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiodilokosong.ms",
+  "text": "Kopi-O Di Lo Kosong"
+ },
+ {
+  "key": "call.kopiodilokosongdabao.ms",
+  "text": "Kopi-O Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiodilokosongpeng.ms",
+  "text": "Kopi-O Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.kopiodilokosongpengdabao.ms",
+  "text": "Kopi-O Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilokosong.ms",
+  "text": "Kopi-O Tarik Di Lo Kosong"
+ },
+ {
+  "key": "call.kopiotarikdilokosongdabao.ms",
+  "text": "Kopi-O Tarik Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilokosongpeng.ms",
+  "text": "Kopi-O Tarik Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.kopiotarikdilokosongpengdabao.ms",
+  "text": "Kopi-O Tarik Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilokosong.ms",
+  "text": "Kopi-O Halia Di Lo Kosong"
+ },
+ {
+  "key": "call.kopiohaliadilokosongdabao.ms",
+  "text": "Kopi-O Halia Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilokosongpeng.ms",
+  "text": "Kopi-O Halia Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.kopiohaliadilokosongpengdabao.ms",
+  "text": "Kopi-O Halia Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopiosiewdai.ms",
+  "text": "Kopi-O Siew Dai"
+ },
+ {
+  "key": "call.kopiosiewdaidabao.ms",
+  "text": "Kopi-O Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiosiewdaipeng.ms",
+  "text": "Kopi-O Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiosiewdaipengdabao.ms",
+  "text": "Kopi-O Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotariksiewdai.ms",
+  "text": "Kopi-O Tarik Siew Dai"
+ },
+ {
+  "key": "call.kopiotariksiewdaidabao.ms",
+  "text": "Kopi-O Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotariksiewdaipeng.ms",
+  "text": "Kopi-O Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiotariksiewdaipengdabao.ms",
+  "text": "Kopi-O Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliasiewdai.ms",
+  "text": "Kopi-O Halia Siew Dai"
+ },
+ {
+  "key": "call.kopiohaliasiewdaidabao.ms",
+  "text": "Kopi-O Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliasiewdaipeng.ms",
+  "text": "Kopi-O Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliasiewdaipengdabao.ms",
+  "text": "Kopi-O Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiogaosiewdai.ms",
+  "text": "Kopi-O Gao Siew Dai"
+ },
+ {
+  "key": "call.kopiogaosiewdaidabao.ms",
+  "text": "Kopi-O Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiogaosiewdaipeng.ms",
+  "text": "Kopi-O Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiogaosiewdaipengdabao.ms",
+  "text": "Kopi-O Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgaosiewdai.ms",
+  "text": "Kopi-O Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.kopiotarikgaosiewdaidabao.ms",
+  "text": "Kopi-O Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgaosiewdaipeng.ms",
+  "text": "Kopi-O Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiotarikgaosiewdaipengdabao.ms",
+  "text": "Kopi-O Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagaosiewdai.ms",
+  "text": "Kopi-O Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.kopiohaliagaosiewdaidabao.ms",
+  "text": "Kopi-O Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagaosiewdaipeng.ms",
+  "text": "Kopi-O Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliagaosiewdaipengdabao.ms",
+  "text": "Kopi-O Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiopohsiewdai.ms",
+  "text": "Kopi-O Poh Siew Dai"
+ },
+ {
+  "key": "call.kopiopohsiewdaidabao.ms",
+  "text": "Kopi-O Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiopohsiewdaipeng.ms",
+  "text": "Kopi-O Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiopohsiewdaipengdabao.ms",
+  "text": "Kopi-O Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpohsiewdai.ms",
+  "text": "Kopi-O Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.kopiotarikpohsiewdaidabao.ms",
+  "text": "Kopi-O Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpohsiewdaipeng.ms",
+  "text": "Kopi-O Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiotarikpohsiewdaipengdabao.ms",
+  "text": "Kopi-O Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapohsiewdai.ms",
+  "text": "Kopi-O Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.kopiohaliapohsiewdaidabao.ms",
+  "text": "Kopi-O Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapohsiewdaipeng.ms",
+  "text": "Kopi-O Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliapohsiewdaipengdabao.ms",
+  "text": "Kopi-O Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiodilosiewdai.ms",
+  "text": "Kopi-O Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopiodilosiewdaidabao.ms",
+  "text": "Kopi-O Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiodilosiewdaipeng.ms",
+  "text": "Kopi-O Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiodilosiewdaipengdabao.ms",
+  "text": "Kopi-O Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilosiewdai.ms",
+  "text": "Kopi-O Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopiotarikdilosiewdaidabao.ms",
+  "text": "Kopi-O Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilosiewdaipeng.ms",
+  "text": "Kopi-O Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiotarikdilosiewdaipengdabao.ms",
+  "text": "Kopi-O Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilosiewdai.ms",
+  "text": "Kopi-O Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopiohaliadilosiewdaidabao.ms",
+  "text": "Kopi-O Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilosiewdaipeng.ms",
+  "text": "Kopi-O Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliadilosiewdaipengdabao.ms",
+  "text": "Kopi-O Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopio.ms",
+  "text": "Kopi-O"
+ },
+ {
+  "key": "call.kopiodabao.ms",
+  "text": "Kopi-O Da Bao"
+ },
+ {
+  "key": "call.kopiopeng.ms",
+  "text": "Kopi-O Peng"
+ },
+ {
+  "key": "call.kopiopengdabao.ms",
+  "text": "Kopi-O Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarik.ms",
+  "text": "Kopi-O Tarik"
+ },
+ {
+  "key": "call.kopiotarikdabao.ms",
+  "text": "Kopi-O Tarik Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpeng.ms",
+  "text": "Kopi-O Tarik Peng"
+ },
+ {
+  "key": "call.kopiotarikpengdabao.ms",
+  "text": "Kopi-O Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohalia.ms",
+  "text": "Kopi-O Halia"
+ },
+ {
+  "key": "call.kopiohaliadabao.ms",
+  "text": "Kopi-O Halia Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapeng.ms",
+  "text": "Kopi-O Halia Peng"
+ },
+ {
+  "key": "call.kopiohaliapengdabao.ms",
+  "text": "Kopi-O Halia Peng Da Bao"
+ },
+ {
+  "key": "call.kopiogao.ms",
+  "text": "Kopi-O Gao"
+ },
+ {
+  "key": "call.kopiogaodabao.ms",
+  "text": "Kopi-O Gao Da Bao"
+ },
+ {
+  "key": "call.kopiogaopeng.ms",
+  "text": "Kopi-O Gao Peng"
+ },
+ {
+  "key": "call.kopiogaopengdabao.ms",
+  "text": "Kopi-O Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgao.ms",
+  "text": "Kopi-O Tarik Gao"
+ },
+ {
+  "key": "call.kopiotarikgaodabao.ms",
+  "text": "Kopi-O Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgaopeng.ms",
+  "text": "Kopi-O Tarik Gao Peng"
+ },
+ {
+  "key": "call.kopiotarikgaopengdabao.ms",
+  "text": "Kopi-O Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagao.ms",
+  "text": "Kopi-O Halia Gao"
+ },
+ {
+  "key": "call.kopiohaliagaodabao.ms",
+  "text": "Kopi-O Halia Gao Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagaopeng.ms",
+  "text": "Kopi-O Halia Gao Peng"
+ },
+ {
+  "key": "call.kopiohaliagaopengdabao.ms",
+  "text": "Kopi-O Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopiopoh.ms",
+  "text": "Kopi-O Poh"
+ },
+ {
+  "key": "call.kopiopohdabao.ms",
+  "text": "Kopi-O Poh Da Bao"
+ },
+ {
+  "key": "call.kopiopohpeng.ms",
+  "text": "Kopi-O Poh Peng"
+ },
+ {
+  "key": "call.kopiopohpengdabao.ms",
+  "text": "Kopi-O Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpoh.ms",
+  "text": "Kopi-O Tarik Poh"
+ },
+ {
+  "key": "call.kopiotarikpohdabao.ms",
+  "text": "Kopi-O Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpohpeng.ms",
+  "text": "Kopi-O Tarik Poh Peng"
+ },
+ {
+  "key": "call.kopiotarikpohpengdabao.ms",
+  "text": "Kopi-O Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapoh.ms",
+  "text": "Kopi-O Halia Poh"
+ },
+ {
+  "key": "call.kopiohaliapohdabao.ms",
+  "text": "Kopi-O Halia Poh Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapohpeng.ms",
+  "text": "Kopi-O Halia Poh Peng"
+ },
+ {
+  "key": "call.kopiohaliapohpengdabao.ms",
+  "text": "Kopi-O Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopiodilo.ms",
+  "text": "Kopi-O Di Lo"
+ },
+ {
+  "key": "call.kopiodilodabao.ms",
+  "text": "Kopi-O Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopiodilopeng.ms",
+  "text": "Kopi-O Di Lo Peng"
+ },
+ {
+  "key": "call.kopiodilopengdabao.ms",
+  "text": "Kopi-O Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilo.ms",
+  "text": "Kopi-O Tarik Di Lo"
+ },
+ {
+  "key": "call.kopiotarikdilodabao.ms",
+  "text": "Kopi-O Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilopeng.ms",
+  "text": "Kopi-O Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.kopiotarikdilopengdabao.ms",
+  "text": "Kopi-O Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilo.ms",
+  "text": "Kopi-O Halia Di Lo"
+ },
+ {
+  "key": "call.kopiohaliadilodabao.ms",
+  "text": "Kopi-O Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilopeng.ms",
+  "text": "Kopi-O Halia Di Lo Peng"
+ },
+ {
+  "key": "call.kopiohaliadilopengdabao.ms",
+  "text": "Kopi-O Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopiogadai.ms",
+  "text": "Kopi-O Ga Dai"
+ },
+ {
+  "key": "call.kopiogadaidabao.ms",
+  "text": "Kopi-O Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiogadaipeng.ms",
+  "text": "Kopi-O Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiogadaipengdabao.ms",
+  "text": "Kopi-O Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgadai.ms",
+  "text": "Kopi-O Tarik Ga Dai"
+ },
+ {
+  "key": "call.kopiotarikgadaidabao.ms",
+  "text": "Kopi-O Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgadaipeng.ms",
+  "text": "Kopi-O Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiotarikgadaipengdabao.ms",
+  "text": "Kopi-O Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagadai.ms",
+  "text": "Kopi-O Halia Ga Dai"
+ },
+ {
+  "key": "call.kopiohaliagadaidabao.ms",
+  "text": "Kopi-O Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagadaipeng.ms",
+  "text": "Kopi-O Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliagadaipengdabao.ms",
+  "text": "Kopi-O Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiogaogadai.ms",
+  "text": "Kopi-O Gao Ga Dai"
+ },
+ {
+  "key": "call.kopiogaogadaidabao.ms",
+  "text": "Kopi-O Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiogaogadaipeng.ms",
+  "text": "Kopi-O Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiogaogadaipengdabao.ms",
+  "text": "Kopi-O Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgaogadai.ms",
+  "text": "Kopi-O Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.kopiotarikgaogadaidabao.ms",
+  "text": "Kopi-O Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotarikgaogadaipeng.ms",
+  "text": "Kopi-O Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiotarikgaogadaipengdabao.ms",
+  "text": "Kopi-O Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagaogadai.ms",
+  "text": "Kopi-O Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.kopiohaliagaogadaidabao.ms",
+  "text": "Kopi-O Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliagaogadaipeng.ms",
+  "text": "Kopi-O Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliagaogadaipengdabao.ms",
+  "text": "Kopi-O Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiopohgadai.ms",
+  "text": "Kopi-O Poh Ga Dai"
+ },
+ {
+  "key": "call.kopiopohgadaidabao.ms",
+  "text": "Kopi-O Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiopohgadaipeng.ms",
+  "text": "Kopi-O Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiopohgadaipengdabao.ms",
+  "text": "Kopi-O Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpohgadai.ms",
+  "text": "Kopi-O Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.kopiotarikpohgadaidabao.ms",
+  "text": "Kopi-O Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotarikpohgadaipeng.ms",
+  "text": "Kopi-O Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiotarikpohgadaipengdabao.ms",
+  "text": "Kopi-O Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapohgadai.ms",
+  "text": "Kopi-O Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.kopiohaliapohgadaidabao.ms",
+  "text": "Kopi-O Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliapohgadaipeng.ms",
+  "text": "Kopi-O Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliapohgadaipengdabao.ms",
+  "text": "Kopi-O Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiodilogadai.ms",
+  "text": "Kopi-O Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopiodilogadaidabao.ms",
+  "text": "Kopi-O Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiodilogadaipeng.ms",
+  "text": "Kopi-O Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiodilogadaipengdabao.ms",
+  "text": "Kopi-O Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilogadai.ms",
+  "text": "Kopi-O Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopiotarikdilogadaidabao.ms",
+  "text": "Kopi-O Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiotarikdilogadaipeng.ms",
+  "text": "Kopi-O Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiotarikdilogadaipengdabao.ms",
+  "text": "Kopi-O Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilogadai.ms",
+  "text": "Kopi-O Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopiohaliadilogadaidabao.ms",
+  "text": "Kopi-O Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopiohaliadilogadaipeng.ms",
+  "text": "Kopi-O Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopiohaliadilogadaipengdabao.ms",
+  "text": "Kopi-O Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopickosong.ms",
+  "text": "Kopi-C Kosong"
+ },
+ {
+  "key": "call.kopickosongdabao.ms",
+  "text": "Kopi-C Kosong Da Bao"
+ },
+ {
+  "key": "call.kopickosongpeng.ms",
+  "text": "Kopi-C Kosong Peng"
+ },
+ {
+  "key": "call.kopickosongpengdabao.ms",
+  "text": "Kopi-C Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikkosong.ms",
+  "text": "Kopi-C Tarik Kosong"
+ },
+ {
+  "key": "call.kopictarikkosongdabao.ms",
+  "text": "Kopi-C Tarik Kosong Da Bao"
+ },
+ {
+  "key": "call.kopictarikkosongpeng.ms",
+  "text": "Kopi-C Tarik Kosong Peng"
+ },
+ {
+  "key": "call.kopictarikkosongpengdabao.ms",
+  "text": "Kopi-C Tarik Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliakosong.ms",
+  "text": "Kopi-C Halia Kosong"
+ },
+ {
+  "key": "call.kopichaliakosongdabao.ms",
+  "text": "Kopi-C Halia Kosong Da Bao"
+ },
+ {
+  "key": "call.kopichaliakosongpeng.ms",
+  "text": "Kopi-C Halia Kosong Peng"
+ },
+ {
+  "key": "call.kopichaliakosongpengdabao.ms",
+  "text": "Kopi-C Halia Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopicgaokosong.ms",
+  "text": "Kopi-C Gao Kosong"
+ },
+ {
+  "key": "call.kopicgaokosongdabao.ms",
+  "text": "Kopi-C Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.kopicgaokosongpeng.ms",
+  "text": "Kopi-C Gao Kosong Peng"
+ },
+ {
+  "key": "call.kopicgaokosongpengdabao.ms",
+  "text": "Kopi-C Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikgaokosong.ms",
+  "text": "Kopi-C Tarik Gao Kosong"
+ },
+ {
+  "key": "call.kopictarikgaokosongdabao.ms",
+  "text": "Kopi-C Tarik Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.kopictarikgaokosongpeng.ms",
+  "text": "Kopi-C Tarik Gao Kosong Peng"
+ },
+ {
+  "key": "call.kopictarikgaokosongpengdabao.ms",
+  "text": "Kopi-C Tarik Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliagaokosong.ms",
+  "text": "Kopi-C Halia Gao Kosong"
+ },
+ {
+  "key": "call.kopichaliagaokosongdabao.ms",
+  "text": "Kopi-C Halia Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.kopichaliagaokosongpeng.ms",
+  "text": "Kopi-C Halia Gao Kosong Peng"
+ },
+ {
+  "key": "call.kopichaliagaokosongpengdabao.ms",
+  "text": "Kopi-C Halia Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopicpohkosong.ms",
+  "text": "Kopi-C Poh Kosong"
+ },
+ {
+  "key": "call.kopicpohkosongdabao.ms",
+  "text": "Kopi-C Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.kopicpohkosongpeng.ms",
+  "text": "Kopi-C Poh Kosong Peng"
+ },
+ {
+  "key": "call.kopicpohkosongpengdabao.ms",
+  "text": "Kopi-C Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikpohkosong.ms",
+  "text": "Kopi-C Tarik Poh Kosong"
+ },
+ {
+  "key": "call.kopictarikpohkosongdabao.ms",
+  "text": "Kopi-C Tarik Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.kopictarikpohkosongpeng.ms",
+  "text": "Kopi-C Tarik Poh Kosong Peng"
+ },
+ {
+  "key": "call.kopictarikpohkosongpengdabao.ms",
+  "text": "Kopi-C Tarik Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliapohkosong.ms",
+  "text": "Kopi-C Halia Poh Kosong"
+ },
+ {
+  "key": "call.kopichaliapohkosongdabao.ms",
+  "text": "Kopi-C Halia Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.kopichaliapohkosongpeng.ms",
+  "text": "Kopi-C Halia Poh Kosong Peng"
+ },
+ {
+  "key": "call.kopichaliapohkosongpengdabao.ms",
+  "text": "Kopi-C Halia Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopicdilokosong.ms",
+  "text": "Kopi-C Di Lo Kosong"
+ },
+ {
+  "key": "call.kopicdilokosongdabao.ms",
+  "text": "Kopi-C Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.kopicdilokosongpeng.ms",
+  "text": "Kopi-C Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.kopicdilokosongpengdabao.ms",
+  "text": "Kopi-C Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilokosong.ms",
+  "text": "Kopi-C Tarik Di Lo Kosong"
+ },
+ {
+  "key": "call.kopictarikdilokosongdabao.ms",
+  "text": "Kopi-C Tarik Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilokosongpeng.ms",
+  "text": "Kopi-C Tarik Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.kopictarikdilokosongpengdabao.ms",
+  "text": "Kopi-C Tarik Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilokosong.ms",
+  "text": "Kopi-C Halia Di Lo Kosong"
+ },
+ {
+  "key": "call.kopichaliadilokosongdabao.ms",
+  "text": "Kopi-C Halia Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilokosongpeng.ms",
+  "text": "Kopi-C Halia Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.kopichaliadilokosongpengdabao.ms",
+  "text": "Kopi-C Halia Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.kopicsiewdai.ms",
+  "text": "Kopi-C Siew Dai"
+ },
+ {
+  "key": "call.kopicsiewdaidabao.ms",
+  "text": "Kopi-C Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopicsiewdaipeng.ms",
+  "text": "Kopi-C Siew Dai Peng"
+ },
+ {
+  "key": "call.kopicsiewdaipengdabao.ms",
+  "text": "Kopi-C Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictariksiewdai.ms",
+  "text": "Kopi-C Tarik Siew Dai"
+ },
+ {
+  "key": "call.kopictariksiewdaidabao.ms",
+  "text": "Kopi-C Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopictariksiewdaipeng.ms",
+  "text": "Kopi-C Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.kopictariksiewdaipengdabao.ms",
+  "text": "Kopi-C Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliasiewdai.ms",
+  "text": "Kopi-C Halia Siew Dai"
+ },
+ {
+  "key": "call.kopichaliasiewdaidabao.ms",
+  "text": "Kopi-C Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliasiewdaipeng.ms",
+  "text": "Kopi-C Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.kopichaliasiewdaipengdabao.ms",
+  "text": "Kopi-C Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopicgaosiewdai.ms",
+  "text": "Kopi-C Gao Siew Dai"
+ },
+ {
+  "key": "call.kopicgaosiewdaidabao.ms",
+  "text": "Kopi-C Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopicgaosiewdaipeng.ms",
+  "text": "Kopi-C Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopicgaosiewdaipengdabao.ms",
+  "text": "Kopi-C Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikgaosiewdai.ms",
+  "text": "Kopi-C Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.kopictarikgaosiewdaidabao.ms",
+  "text": "Kopi-C Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopictarikgaosiewdaipeng.ms",
+  "text": "Kopi-C Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopictarikgaosiewdaipengdabao.ms",
+  "text": "Kopi-C Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliagaosiewdai.ms",
+  "text": "Kopi-C Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.kopichaliagaosiewdaidabao.ms",
+  "text": "Kopi-C Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliagaosiewdaipeng.ms",
+  "text": "Kopi-C Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.kopichaliagaosiewdaipengdabao.ms",
+  "text": "Kopi-C Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopicpohsiewdai.ms",
+  "text": "Kopi-C Poh Siew Dai"
+ },
+ {
+  "key": "call.kopicpohsiewdaidabao.ms",
+  "text": "Kopi-C Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopicpohsiewdaipeng.ms",
+  "text": "Kopi-C Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopicpohsiewdaipengdabao.ms",
+  "text": "Kopi-C Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikpohsiewdai.ms",
+  "text": "Kopi-C Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.kopictarikpohsiewdaidabao.ms",
+  "text": "Kopi-C Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopictarikpohsiewdaipeng.ms",
+  "text": "Kopi-C Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopictarikpohsiewdaipengdabao.ms",
+  "text": "Kopi-C Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliapohsiewdai.ms",
+  "text": "Kopi-C Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.kopichaliapohsiewdaidabao.ms",
+  "text": "Kopi-C Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliapohsiewdaipeng.ms",
+  "text": "Kopi-C Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.kopichaliapohsiewdaipengdabao.ms",
+  "text": "Kopi-C Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopicdilosiewdai.ms",
+  "text": "Kopi-C Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopicdilosiewdaidabao.ms",
+  "text": "Kopi-C Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopicdilosiewdaipeng.ms",
+  "text": "Kopi-C Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopicdilosiewdaipengdabao.ms",
+  "text": "Kopi-C Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilosiewdai.ms",
+  "text": "Kopi-C Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopictarikdilosiewdaidabao.ms",
+  "text": "Kopi-C Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilosiewdaipeng.ms",
+  "text": "Kopi-C Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopictarikdilosiewdaipengdabao.ms",
+  "text": "Kopi-C Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilosiewdai.ms",
+  "text": "Kopi-C Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.kopichaliadilosiewdaidabao.ms",
+  "text": "Kopi-C Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilosiewdaipeng.ms",
+  "text": "Kopi-C Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.kopichaliadilosiewdaipengdabao.ms",
+  "text": "Kopi-C Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopic.ms",
+  "text": "Kopi-C"
+ },
+ {
+  "key": "call.kopicdabao.ms",
+  "text": "Kopi-C Da Bao"
+ },
+ {
+  "key": "call.kopicpeng.ms",
+  "text": "Kopi-C Peng"
+ },
+ {
+  "key": "call.kopicpengdabao.ms",
+  "text": "Kopi-C Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarik.ms",
+  "text": "Kopi-C Tarik"
+ },
+ {
+  "key": "call.kopictarikdabao.ms",
+  "text": "Kopi-C Tarik Da Bao"
+ },
+ {
+  "key": "call.kopictarikpeng.ms",
+  "text": "Kopi-C Tarik Peng"
+ },
+ {
+  "key": "call.kopictarikpengdabao.ms",
+  "text": "Kopi-C Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.kopichalia.ms",
+  "text": "Kopi-C Halia"
+ },
+ {
+  "key": "call.kopichaliadabao.ms",
+  "text": "Kopi-C Halia Da Bao"
+ },
+ {
+  "key": "call.kopichaliapeng.ms",
+  "text": "Kopi-C Halia Peng"
+ },
+ {
+  "key": "call.kopichaliapengdabao.ms",
+  "text": "Kopi-C Halia Peng Da Bao"
+ },
+ {
+  "key": "call.kopicgao.ms",
+  "text": "Kopi-C Gao"
+ },
+ {
+  "key": "call.kopicgaodabao.ms",
+  "text": "Kopi-C Gao Da Bao"
+ },
+ {
+  "key": "call.kopicgaopeng.ms",
+  "text": "Kopi-C Gao Peng"
+ },
+ {
+  "key": "call.kopicgaopengdabao.ms",
+  "text": "Kopi-C Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikgao.ms",
+  "text": "Kopi-C Tarik Gao"
+ },
+ {
+  "key": "call.kopictarikgaodabao.ms",
+  "text": "Kopi-C Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.kopictarikgaopeng.ms",
+  "text": "Kopi-C Tarik Gao Peng"
+ },
+ {
+  "key": "call.kopictarikgaopengdabao.ms",
+  "text": "Kopi-C Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliagao.ms",
+  "text": "Kopi-C Halia Gao"
+ },
+ {
+  "key": "call.kopichaliagaodabao.ms",
+  "text": "Kopi-C Halia Gao Da Bao"
+ },
+ {
+  "key": "call.kopichaliagaopeng.ms",
+  "text": "Kopi-C Halia Gao Peng"
+ },
+ {
+  "key": "call.kopichaliagaopengdabao.ms",
+  "text": "Kopi-C Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.kopicpoh.ms",
+  "text": "Kopi-C Poh"
+ },
+ {
+  "key": "call.kopicpohdabao.ms",
+  "text": "Kopi-C Poh Da Bao"
+ },
+ {
+  "key": "call.kopicpohpeng.ms",
+  "text": "Kopi-C Poh Peng"
+ },
+ {
+  "key": "call.kopicpohpengdabao.ms",
+  "text": "Kopi-C Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikpoh.ms",
+  "text": "Kopi-C Tarik Poh"
+ },
+ {
+  "key": "call.kopictarikpohdabao.ms",
+  "text": "Kopi-C Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.kopictarikpohpeng.ms",
+  "text": "Kopi-C Tarik Poh Peng"
+ },
+ {
+  "key": "call.kopictarikpohpengdabao.ms",
+  "text": "Kopi-C Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliapoh.ms",
+  "text": "Kopi-C Halia Poh"
+ },
+ {
+  "key": "call.kopichaliapohdabao.ms",
+  "text": "Kopi-C Halia Poh Da Bao"
+ },
+ {
+  "key": "call.kopichaliapohpeng.ms",
+  "text": "Kopi-C Halia Poh Peng"
+ },
+ {
+  "key": "call.kopichaliapohpengdabao.ms",
+  "text": "Kopi-C Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.kopicdilo.ms",
+  "text": "Kopi-C Di Lo"
+ },
+ {
+  "key": "call.kopicdilodabao.ms",
+  "text": "Kopi-C Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopicdilopeng.ms",
+  "text": "Kopi-C Di Lo Peng"
+ },
+ {
+  "key": "call.kopicdilopengdabao.ms",
+  "text": "Kopi-C Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilo.ms",
+  "text": "Kopi-C Tarik Di Lo"
+ },
+ {
+  "key": "call.kopictarikdilodabao.ms",
+  "text": "Kopi-C Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilopeng.ms",
+  "text": "Kopi-C Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.kopictarikdilopengdabao.ms",
+  "text": "Kopi-C Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilo.ms",
+  "text": "Kopi-C Halia Di Lo"
+ },
+ {
+  "key": "call.kopichaliadilodabao.ms",
+  "text": "Kopi-C Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilopeng.ms",
+  "text": "Kopi-C Halia Di Lo Peng"
+ },
+ {
+  "key": "call.kopichaliadilopengdabao.ms",
+  "text": "Kopi-C Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.kopicgadai.ms",
+  "text": "Kopi-C Ga Dai"
+ },
+ {
+  "key": "call.kopicgadaidabao.ms",
+  "text": "Kopi-C Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopicgadaipeng.ms",
+  "text": "Kopi-C Ga Dai Peng"
+ },
+ {
+  "key": "call.kopicgadaipengdabao.ms",
+  "text": "Kopi-C Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikgadai.ms",
+  "text": "Kopi-C Tarik Ga Dai"
+ },
+ {
+  "key": "call.kopictarikgadaidabao.ms",
+  "text": "Kopi-C Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopictarikgadaipeng.ms",
+  "text": "Kopi-C Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.kopictarikgadaipengdabao.ms",
+  "text": "Kopi-C Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliagadai.ms",
+  "text": "Kopi-C Halia Ga Dai"
+ },
+ {
+  "key": "call.kopichaliagadaidabao.ms",
+  "text": "Kopi-C Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliagadaipeng.ms",
+  "text": "Kopi-C Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.kopichaliagadaipengdabao.ms",
+  "text": "Kopi-C Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopicgaogadai.ms",
+  "text": "Kopi-C Gao Ga Dai"
+ },
+ {
+  "key": "call.kopicgaogadaidabao.ms",
+  "text": "Kopi-C Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopicgaogadaipeng.ms",
+  "text": "Kopi-C Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopicgaogadaipengdabao.ms",
+  "text": "Kopi-C Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikgaogadai.ms",
+  "text": "Kopi-C Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.kopictarikgaogadaidabao.ms",
+  "text": "Kopi-C Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopictarikgaogadaipeng.ms",
+  "text": "Kopi-C Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopictarikgaogadaipengdabao.ms",
+  "text": "Kopi-C Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliagaogadai.ms",
+  "text": "Kopi-C Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.kopichaliagaogadaidabao.ms",
+  "text": "Kopi-C Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliagaogadaipeng.ms",
+  "text": "Kopi-C Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.kopichaliagaogadaipengdabao.ms",
+  "text": "Kopi-C Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopicpohgadai.ms",
+  "text": "Kopi-C Poh Ga Dai"
+ },
+ {
+  "key": "call.kopicpohgadaidabao.ms",
+  "text": "Kopi-C Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopicpohgadaipeng.ms",
+  "text": "Kopi-C Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopicpohgadaipengdabao.ms",
+  "text": "Kopi-C Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikpohgadai.ms",
+  "text": "Kopi-C Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.kopictarikpohgadaidabao.ms",
+  "text": "Kopi-C Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopictarikpohgadaipeng.ms",
+  "text": "Kopi-C Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopictarikpohgadaipengdabao.ms",
+  "text": "Kopi-C Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliapohgadai.ms",
+  "text": "Kopi-C Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.kopichaliapohgadaidabao.ms",
+  "text": "Kopi-C Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliapohgadaipeng.ms",
+  "text": "Kopi-C Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.kopichaliapohgadaipengdabao.ms",
+  "text": "Kopi-C Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopicdilogadai.ms",
+  "text": "Kopi-C Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopicdilogadaidabao.ms",
+  "text": "Kopi-C Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopicdilogadaipeng.ms",
+  "text": "Kopi-C Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopicdilogadaipengdabao.ms",
+  "text": "Kopi-C Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilogadai.ms",
+  "text": "Kopi-C Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopictarikdilogadaidabao.ms",
+  "text": "Kopi-C Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopictarikdilogadaipeng.ms",
+  "text": "Kopi-C Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopictarikdilogadaipengdabao.ms",
+  "text": "Kopi-C Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilogadai.ms",
+  "text": "Kopi-C Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.kopichaliadilogadaidabao.ms",
+  "text": "Kopi-C Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.kopichaliadilogadaipeng.ms",
+  "text": "Kopi-C Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.kopichaliadilogadaipengdabao.ms",
+  "text": "Kopi-C Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehsiewdai.ms",
+  "text": "Teh Siew Dai"
+ },
+ {
+  "key": "call.tehsiewdaidabao.ms",
+  "text": "Teh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehsiewdaipeng.ms",
+  "text": "Teh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehsiewdaipengdabao.ms",
+  "text": "Teh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtariksiewdai.ms",
+  "text": "Teh Tarik Siew Dai"
+ },
+ {
+  "key": "call.tehtariksiewdaidabao.ms",
+  "text": "Teh Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehtariksiewdaipeng.ms",
+  "text": "Teh Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.tehtariksiewdaipengdabao.ms",
+  "text": "Teh Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliasiewdai.ms",
+  "text": "Teh Halia Siew Dai"
+ },
+ {
+  "key": "call.tehhaliasiewdaidabao.ms",
+  "text": "Teh Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliasiewdaipeng.ms",
+  "text": "Teh Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.tehhaliasiewdaipengdabao.ms",
+  "text": "Teh Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehgaosiewdai.ms",
+  "text": "Teh Gao Siew Dai"
+ },
+ {
+  "key": "call.tehgaosiewdaidabao.ms",
+  "text": "Teh Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehgaosiewdaipeng.ms",
+  "text": "Teh Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehgaosiewdaipengdabao.ms",
+  "text": "Teh Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikgaosiewdai.ms",
+  "text": "Teh Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.tehtarikgaosiewdaidabao.ms",
+  "text": "Teh Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehtarikgaosiewdaipeng.ms",
+  "text": "Teh Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehtarikgaosiewdaipengdabao.ms",
+  "text": "Teh Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliagaosiewdai.ms",
+  "text": "Teh Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.tehhaliagaosiewdaidabao.ms",
+  "text": "Teh Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliagaosiewdaipeng.ms",
+  "text": "Teh Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehhaliagaosiewdaipengdabao.ms",
+  "text": "Teh Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehpohsiewdai.ms",
+  "text": "Teh Poh Siew Dai"
+ },
+ {
+  "key": "call.tehpohsiewdaidabao.ms",
+  "text": "Teh Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehpohsiewdaipeng.ms",
+  "text": "Teh Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehpohsiewdaipengdabao.ms",
+  "text": "Teh Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikpohsiewdai.ms",
+  "text": "Teh Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.tehtarikpohsiewdaidabao.ms",
+  "text": "Teh Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehtarikpohsiewdaipeng.ms",
+  "text": "Teh Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehtarikpohsiewdaipengdabao.ms",
+  "text": "Teh Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliapohsiewdai.ms",
+  "text": "Teh Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.tehhaliapohsiewdaidabao.ms",
+  "text": "Teh Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliapohsiewdaipeng.ms",
+  "text": "Teh Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehhaliapohsiewdaipengdabao.ms",
+  "text": "Teh Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehdilosiewdai.ms",
+  "text": "Teh Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehdilosiewdaidabao.ms",
+  "text": "Teh Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehdilosiewdaipeng.ms",
+  "text": "Teh Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehdilosiewdaipengdabao.ms",
+  "text": "Teh Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikdilosiewdai.ms",
+  "text": "Teh Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehtarikdilosiewdaidabao.ms",
+  "text": "Teh Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehtarikdilosiewdaipeng.ms",
+  "text": "Teh Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehtarikdilosiewdaipengdabao.ms",
+  "text": "Teh Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliadilosiewdai.ms",
+  "text": "Teh Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehhaliadilosiewdaidabao.ms",
+  "text": "Teh Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliadilosiewdaipeng.ms",
+  "text": "Teh Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehhaliadilosiewdaipengdabao.ms",
+  "text": "Teh Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.teh.ms",
+  "text": "Teh"
+ },
+ {
+  "key": "call.tehdabao.ms",
+  "text": "Teh Da Bao"
+ },
+ {
+  "key": "call.tehpeng.ms",
+  "text": "Teh Peng"
+ },
+ {
+  "key": "call.tehpengdabao.ms",
+  "text": "Teh Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarik.ms",
+  "text": "Teh Tarik"
+ },
+ {
+  "key": "call.tehtarikdabao.ms",
+  "text": "Teh Tarik Da Bao"
+ },
+ {
+  "key": "call.tehtarikpeng.ms",
+  "text": "Teh Tarik Peng"
+ },
+ {
+  "key": "call.tehtarikpengdabao.ms",
+  "text": "Teh Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.tehhalia.ms",
+  "text": "Teh Halia"
+ },
+ {
+  "key": "call.tehhaliadabao.ms",
+  "text": "Teh Halia Da Bao"
+ },
+ {
+  "key": "call.tehhaliapeng.ms",
+  "text": "Teh Halia Peng"
+ },
+ {
+  "key": "call.tehhaliapengdabao.ms",
+  "text": "Teh Halia Peng Da Bao"
+ },
+ {
+  "key": "call.tehgao.ms",
+  "text": "Teh Gao"
+ },
+ {
+  "key": "call.tehgaodabao.ms",
+  "text": "Teh Gao Da Bao"
+ },
+ {
+  "key": "call.tehgaopeng.ms",
+  "text": "Teh Gao Peng"
+ },
+ {
+  "key": "call.tehgaopengdabao.ms",
+  "text": "Teh Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikgao.ms",
+  "text": "Teh Tarik Gao"
+ },
+ {
+  "key": "call.tehtarikgaodabao.ms",
+  "text": "Teh Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.tehtarikgaopeng.ms",
+  "text": "Teh Tarik Gao Peng"
+ },
+ {
+  "key": "call.tehtarikgaopengdabao.ms",
+  "text": "Teh Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliagao.ms",
+  "text": "Teh Halia Gao"
+ },
+ {
+  "key": "call.tehhaliagaodabao.ms",
+  "text": "Teh Halia Gao Da Bao"
+ },
+ {
+  "key": "call.tehhaliagaopeng.ms",
+  "text": "Teh Halia Gao Peng"
+ },
+ {
+  "key": "call.tehhaliagaopengdabao.ms",
+  "text": "Teh Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehpoh.ms",
+  "text": "Teh Poh"
+ },
+ {
+  "key": "call.tehpohdabao.ms",
+  "text": "Teh Poh Da Bao"
+ },
+ {
+  "key": "call.tehpohpeng.ms",
+  "text": "Teh Poh Peng"
+ },
+ {
+  "key": "call.tehpohpengdabao.ms",
+  "text": "Teh Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikpoh.ms",
+  "text": "Teh Tarik Poh"
+ },
+ {
+  "key": "call.tehtarikpohdabao.ms",
+  "text": "Teh Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.tehtarikpohpeng.ms",
+  "text": "Teh Tarik Poh Peng"
+ },
+ {
+  "key": "call.tehtarikpohpengdabao.ms",
+  "text": "Teh Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliapoh.ms",
+  "text": "Teh Halia Poh"
+ },
+ {
+  "key": "call.tehhaliapohdabao.ms",
+  "text": "Teh Halia Poh Da Bao"
+ },
+ {
+  "key": "call.tehhaliapohpeng.ms",
+  "text": "Teh Halia Poh Peng"
+ },
+ {
+  "key": "call.tehhaliapohpengdabao.ms",
+  "text": "Teh Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehdilo.ms",
+  "text": "Teh Di Lo"
+ },
+ {
+  "key": "call.tehdilodabao.ms",
+  "text": "Teh Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehdilopeng.ms",
+  "text": "Teh Di Lo Peng"
+ },
+ {
+  "key": "call.tehdilopengdabao.ms",
+  "text": "Teh Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikdilo.ms",
+  "text": "Teh Tarik Di Lo"
+ },
+ {
+  "key": "call.tehtarikdilodabao.ms",
+  "text": "Teh Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehtarikdilopeng.ms",
+  "text": "Teh Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.tehtarikdilopengdabao.ms",
+  "text": "Teh Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliadilo.ms",
+  "text": "Teh Halia Di Lo"
+ },
+ {
+  "key": "call.tehhaliadilodabao.ms",
+  "text": "Teh Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehhaliadilopeng.ms",
+  "text": "Teh Halia Di Lo Peng"
+ },
+ {
+  "key": "call.tehhaliadilopengdabao.ms",
+  "text": "Teh Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehgadai.ms",
+  "text": "Teh Ga Dai"
+ },
+ {
+  "key": "call.tehgadaidabao.ms",
+  "text": "Teh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehgadaipeng.ms",
+  "text": "Teh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehgadaipengdabao.ms",
+  "text": "Teh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikgadai.ms",
+  "text": "Teh Tarik Ga Dai"
+ },
+ {
+  "key": "call.tehtarikgadaidabao.ms",
+  "text": "Teh Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehtarikgadaipeng.ms",
+  "text": "Teh Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.tehtarikgadaipengdabao.ms",
+  "text": "Teh Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliagadai.ms",
+  "text": "Teh Halia Ga Dai"
+ },
+ {
+  "key": "call.tehhaliagadaidabao.ms",
+  "text": "Teh Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliagadaipeng.ms",
+  "text": "Teh Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.tehhaliagadaipengdabao.ms",
+  "text": "Teh Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehgaogadai.ms",
+  "text": "Teh Gao Ga Dai"
+ },
+ {
+  "key": "call.tehgaogadaidabao.ms",
+  "text": "Teh Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehgaogadaipeng.ms",
+  "text": "Teh Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehgaogadaipengdabao.ms",
+  "text": "Teh Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikgaogadai.ms",
+  "text": "Teh Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.tehtarikgaogadaidabao.ms",
+  "text": "Teh Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehtarikgaogadaipeng.ms",
+  "text": "Teh Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehtarikgaogadaipengdabao.ms",
+  "text": "Teh Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliagaogadai.ms",
+  "text": "Teh Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.tehhaliagaogadaidabao.ms",
+  "text": "Teh Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliagaogadaipeng.ms",
+  "text": "Teh Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehhaliagaogadaipengdabao.ms",
+  "text": "Teh Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehpohgadai.ms",
+  "text": "Teh Poh Ga Dai"
+ },
+ {
+  "key": "call.tehpohgadaidabao.ms",
+  "text": "Teh Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehpohgadaipeng.ms",
+  "text": "Teh Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehpohgadaipengdabao.ms",
+  "text": "Teh Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikpohgadai.ms",
+  "text": "Teh Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.tehtarikpohgadaidabao.ms",
+  "text": "Teh Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehtarikpohgadaipeng.ms",
+  "text": "Teh Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehtarikpohgadaipengdabao.ms",
+  "text": "Teh Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliapohgadai.ms",
+  "text": "Teh Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.tehhaliapohgadaidabao.ms",
+  "text": "Teh Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliapohgadaipeng.ms",
+  "text": "Teh Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehhaliapohgadaipengdabao.ms",
+  "text": "Teh Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehdilogadai.ms",
+  "text": "Teh Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehdilogadaidabao.ms",
+  "text": "Teh Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehdilogadaipeng.ms",
+  "text": "Teh Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehdilogadaipengdabao.ms",
+  "text": "Teh Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehtarikdilogadai.ms",
+  "text": "Teh Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehtarikdilogadaidabao.ms",
+  "text": "Teh Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehtarikdilogadaipeng.ms",
+  "text": "Teh Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehtarikdilogadaipengdabao.ms",
+  "text": "Teh Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehhaliadilogadai.ms",
+  "text": "Teh Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehhaliadilogadaidabao.ms",
+  "text": "Teh Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehhaliadilogadaipeng.ms",
+  "text": "Teh Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehhaliadilogadaipengdabao.ms",
+  "text": "Teh Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehokosong.ms",
+  "text": "Teh-O Kosong"
+ },
+ {
+  "key": "call.tehokosongdabao.ms",
+  "text": "Teh-O Kosong Da Bao"
+ },
+ {
+  "key": "call.tehokosongpeng.ms",
+  "text": "Teh-O Kosong Peng"
+ },
+ {
+  "key": "call.tehokosongpengdabao.ms",
+  "text": "Teh-O Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikkosong.ms",
+  "text": "Teh-O Tarik Kosong"
+ },
+ {
+  "key": "call.tehotarikkosongdabao.ms",
+  "text": "Teh-O Tarik Kosong Da Bao"
+ },
+ {
+  "key": "call.tehotarikkosongpeng.ms",
+  "text": "Teh-O Tarik Kosong Peng"
+ },
+ {
+  "key": "call.tehotarikkosongpengdabao.ms",
+  "text": "Teh-O Tarik Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliakosong.ms",
+  "text": "Teh-O Halia Kosong"
+ },
+ {
+  "key": "call.tehohaliakosongdabao.ms",
+  "text": "Teh-O Halia Kosong Da Bao"
+ },
+ {
+  "key": "call.tehohaliakosongpeng.ms",
+  "text": "Teh-O Halia Kosong Peng"
+ },
+ {
+  "key": "call.tehohaliakosongpengdabao.ms",
+  "text": "Teh-O Halia Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehogaokosong.ms",
+  "text": "Teh-O Gao Kosong"
+ },
+ {
+  "key": "call.tehogaokosongdabao.ms",
+  "text": "Teh-O Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.tehogaokosongpeng.ms",
+  "text": "Teh-O Gao Kosong Peng"
+ },
+ {
+  "key": "call.tehogaokosongpengdabao.ms",
+  "text": "Teh-O Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikgaokosong.ms",
+  "text": "Teh-O Tarik Gao Kosong"
+ },
+ {
+  "key": "call.tehotarikgaokosongdabao.ms",
+  "text": "Teh-O Tarik Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.tehotarikgaokosongpeng.ms",
+  "text": "Teh-O Tarik Gao Kosong Peng"
+ },
+ {
+  "key": "call.tehotarikgaokosongpengdabao.ms",
+  "text": "Teh-O Tarik Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliagaokosong.ms",
+  "text": "Teh-O Halia Gao Kosong"
+ },
+ {
+  "key": "call.tehohaliagaokosongdabao.ms",
+  "text": "Teh-O Halia Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.tehohaliagaokosongpeng.ms",
+  "text": "Teh-O Halia Gao Kosong Peng"
+ },
+ {
+  "key": "call.tehohaliagaokosongpengdabao.ms",
+  "text": "Teh-O Halia Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehopohkosong.ms",
+  "text": "Teh-O Poh Kosong"
+ },
+ {
+  "key": "call.tehopohkosongdabao.ms",
+  "text": "Teh-O Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.tehopohkosongpeng.ms",
+  "text": "Teh-O Poh Kosong Peng"
+ },
+ {
+  "key": "call.tehopohkosongpengdabao.ms",
+  "text": "Teh-O Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikpohkosong.ms",
+  "text": "Teh-O Tarik Poh Kosong"
+ },
+ {
+  "key": "call.tehotarikpohkosongdabao.ms",
+  "text": "Teh-O Tarik Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.tehotarikpohkosongpeng.ms",
+  "text": "Teh-O Tarik Poh Kosong Peng"
+ },
+ {
+  "key": "call.tehotarikpohkosongpengdabao.ms",
+  "text": "Teh-O Tarik Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliapohkosong.ms",
+  "text": "Teh-O Halia Poh Kosong"
+ },
+ {
+  "key": "call.tehohaliapohkosongdabao.ms",
+  "text": "Teh-O Halia Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.tehohaliapohkosongpeng.ms",
+  "text": "Teh-O Halia Poh Kosong Peng"
+ },
+ {
+  "key": "call.tehohaliapohkosongpengdabao.ms",
+  "text": "Teh-O Halia Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehodilokosong.ms",
+  "text": "Teh-O Di Lo Kosong"
+ },
+ {
+  "key": "call.tehodilokosongdabao.ms",
+  "text": "Teh-O Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.tehodilokosongpeng.ms",
+  "text": "Teh-O Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.tehodilokosongpengdabao.ms",
+  "text": "Teh-O Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilokosong.ms",
+  "text": "Teh-O Tarik Di Lo Kosong"
+ },
+ {
+  "key": "call.tehotarikdilokosongdabao.ms",
+  "text": "Teh-O Tarik Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilokosongpeng.ms",
+  "text": "Teh-O Tarik Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.tehotarikdilokosongpengdabao.ms",
+  "text": "Teh-O Tarik Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilokosong.ms",
+  "text": "Teh-O Halia Di Lo Kosong"
+ },
+ {
+  "key": "call.tehohaliadilokosongdabao.ms",
+  "text": "Teh-O Halia Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilokosongpeng.ms",
+  "text": "Teh-O Halia Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.tehohaliadilokosongpengdabao.ms",
+  "text": "Teh-O Halia Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehosiewdai.ms",
+  "text": "Teh-O Siew Dai"
+ },
+ {
+  "key": "call.tehosiewdaidabao.ms",
+  "text": "Teh-O Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehosiewdaipeng.ms",
+  "text": "Teh-O Siew Dai Peng"
+ },
+ {
+  "key": "call.tehosiewdaipengdabao.ms",
+  "text": "Teh-O Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotariksiewdai.ms",
+  "text": "Teh-O Tarik Siew Dai"
+ },
+ {
+  "key": "call.tehotariksiewdaidabao.ms",
+  "text": "Teh-O Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehotariksiewdaipeng.ms",
+  "text": "Teh-O Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.tehotariksiewdaipengdabao.ms",
+  "text": "Teh-O Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliasiewdai.ms",
+  "text": "Teh-O Halia Siew Dai"
+ },
+ {
+  "key": "call.tehohaliasiewdaidabao.ms",
+  "text": "Teh-O Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliasiewdaipeng.ms",
+  "text": "Teh-O Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.tehohaliasiewdaipengdabao.ms",
+  "text": "Teh-O Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehogaosiewdai.ms",
+  "text": "Teh-O Gao Siew Dai"
+ },
+ {
+  "key": "call.tehogaosiewdaidabao.ms",
+  "text": "Teh-O Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehogaosiewdaipeng.ms",
+  "text": "Teh-O Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehogaosiewdaipengdabao.ms",
+  "text": "Teh-O Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikgaosiewdai.ms",
+  "text": "Teh-O Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.tehotarikgaosiewdaidabao.ms",
+  "text": "Teh-O Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehotarikgaosiewdaipeng.ms",
+  "text": "Teh-O Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehotarikgaosiewdaipengdabao.ms",
+  "text": "Teh-O Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliagaosiewdai.ms",
+  "text": "Teh-O Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.tehohaliagaosiewdaidabao.ms",
+  "text": "Teh-O Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliagaosiewdaipeng.ms",
+  "text": "Teh-O Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehohaliagaosiewdaipengdabao.ms",
+  "text": "Teh-O Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehopohsiewdai.ms",
+  "text": "Teh-O Poh Siew Dai"
+ },
+ {
+  "key": "call.tehopohsiewdaidabao.ms",
+  "text": "Teh-O Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehopohsiewdaipeng.ms",
+  "text": "Teh-O Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehopohsiewdaipengdabao.ms",
+  "text": "Teh-O Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikpohsiewdai.ms",
+  "text": "Teh-O Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.tehotarikpohsiewdaidabao.ms",
+  "text": "Teh-O Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehotarikpohsiewdaipeng.ms",
+  "text": "Teh-O Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehotarikpohsiewdaipengdabao.ms",
+  "text": "Teh-O Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliapohsiewdai.ms",
+  "text": "Teh-O Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.tehohaliapohsiewdaidabao.ms",
+  "text": "Teh-O Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliapohsiewdaipeng.ms",
+  "text": "Teh-O Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehohaliapohsiewdaipengdabao.ms",
+  "text": "Teh-O Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehodilosiewdai.ms",
+  "text": "Teh-O Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehodilosiewdaidabao.ms",
+  "text": "Teh-O Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehodilosiewdaipeng.ms",
+  "text": "Teh-O Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehodilosiewdaipengdabao.ms",
+  "text": "Teh-O Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilosiewdai.ms",
+  "text": "Teh-O Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehotarikdilosiewdaidabao.ms",
+  "text": "Teh-O Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilosiewdaipeng.ms",
+  "text": "Teh-O Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehotarikdilosiewdaipengdabao.ms",
+  "text": "Teh-O Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilosiewdai.ms",
+  "text": "Teh-O Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehohaliadilosiewdaidabao.ms",
+  "text": "Teh-O Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilosiewdaipeng.ms",
+  "text": "Teh-O Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehohaliadilosiewdaipengdabao.ms",
+  "text": "Teh-O Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.teho.ms",
+  "text": "Teh-O"
+ },
+ {
+  "key": "call.tehodabao.ms",
+  "text": "Teh-O Da Bao"
+ },
+ {
+  "key": "call.tehopeng.ms",
+  "text": "Teh-O Peng"
+ },
+ {
+  "key": "call.tehopengdabao.ms",
+  "text": "Teh-O Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarik.ms",
+  "text": "Teh-O Tarik"
+ },
+ {
+  "key": "call.tehotarikdabao.ms",
+  "text": "Teh-O Tarik Da Bao"
+ },
+ {
+  "key": "call.tehotarikpeng.ms",
+  "text": "Teh-O Tarik Peng"
+ },
+ {
+  "key": "call.tehotarikpengdabao.ms",
+  "text": "Teh-O Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.tehohalia.ms",
+  "text": "Teh-O Halia"
+ },
+ {
+  "key": "call.tehohaliadabao.ms",
+  "text": "Teh-O Halia Da Bao"
+ },
+ {
+  "key": "call.tehohaliapeng.ms",
+  "text": "Teh-O Halia Peng"
+ },
+ {
+  "key": "call.tehohaliapengdabao.ms",
+  "text": "Teh-O Halia Peng Da Bao"
+ },
+ {
+  "key": "call.tehogao.ms",
+  "text": "Teh-O Gao"
+ },
+ {
+  "key": "call.tehogaodabao.ms",
+  "text": "Teh-O Gao Da Bao"
+ },
+ {
+  "key": "call.tehogaopeng.ms",
+  "text": "Teh-O Gao Peng"
+ },
+ {
+  "key": "call.tehogaopengdabao.ms",
+  "text": "Teh-O Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikgao.ms",
+  "text": "Teh-O Tarik Gao"
+ },
+ {
+  "key": "call.tehotarikgaodabao.ms",
+  "text": "Teh-O Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.tehotarikgaopeng.ms",
+  "text": "Teh-O Tarik Gao Peng"
+ },
+ {
+  "key": "call.tehotarikgaopengdabao.ms",
+  "text": "Teh-O Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliagao.ms",
+  "text": "Teh-O Halia Gao"
+ },
+ {
+  "key": "call.tehohaliagaodabao.ms",
+  "text": "Teh-O Halia Gao Da Bao"
+ },
+ {
+  "key": "call.tehohaliagaopeng.ms",
+  "text": "Teh-O Halia Gao Peng"
+ },
+ {
+  "key": "call.tehohaliagaopengdabao.ms",
+  "text": "Teh-O Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehopoh.ms",
+  "text": "Teh-O Poh"
+ },
+ {
+  "key": "call.tehopohdabao.ms",
+  "text": "Teh-O Poh Da Bao"
+ },
+ {
+  "key": "call.tehopohpeng.ms",
+  "text": "Teh-O Poh Peng"
+ },
+ {
+  "key": "call.tehopohpengdabao.ms",
+  "text": "Teh-O Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikpoh.ms",
+  "text": "Teh-O Tarik Poh"
+ },
+ {
+  "key": "call.tehotarikpohdabao.ms",
+  "text": "Teh-O Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.tehotarikpohpeng.ms",
+  "text": "Teh-O Tarik Poh Peng"
+ },
+ {
+  "key": "call.tehotarikpohpengdabao.ms",
+  "text": "Teh-O Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliapoh.ms",
+  "text": "Teh-O Halia Poh"
+ },
+ {
+  "key": "call.tehohaliapohdabao.ms",
+  "text": "Teh-O Halia Poh Da Bao"
+ },
+ {
+  "key": "call.tehohaliapohpeng.ms",
+  "text": "Teh-O Halia Poh Peng"
+ },
+ {
+  "key": "call.tehohaliapohpengdabao.ms",
+  "text": "Teh-O Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehodilo.ms",
+  "text": "Teh-O Di Lo"
+ },
+ {
+  "key": "call.tehodilodabao.ms",
+  "text": "Teh-O Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehodilopeng.ms",
+  "text": "Teh-O Di Lo Peng"
+ },
+ {
+  "key": "call.tehodilopengdabao.ms",
+  "text": "Teh-O Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilo.ms",
+  "text": "Teh-O Tarik Di Lo"
+ },
+ {
+  "key": "call.tehotarikdilodabao.ms",
+  "text": "Teh-O Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilopeng.ms",
+  "text": "Teh-O Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.tehotarikdilopengdabao.ms",
+  "text": "Teh-O Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilo.ms",
+  "text": "Teh-O Halia Di Lo"
+ },
+ {
+  "key": "call.tehohaliadilodabao.ms",
+  "text": "Teh-O Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilopeng.ms",
+  "text": "Teh-O Halia Di Lo Peng"
+ },
+ {
+  "key": "call.tehohaliadilopengdabao.ms",
+  "text": "Teh-O Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehogadai.ms",
+  "text": "Teh-O Ga Dai"
+ },
+ {
+  "key": "call.tehogadaidabao.ms",
+  "text": "Teh-O Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehogadaipeng.ms",
+  "text": "Teh-O Ga Dai Peng"
+ },
+ {
+  "key": "call.tehogadaipengdabao.ms",
+  "text": "Teh-O Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikgadai.ms",
+  "text": "Teh-O Tarik Ga Dai"
+ },
+ {
+  "key": "call.tehotarikgadaidabao.ms",
+  "text": "Teh-O Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehotarikgadaipeng.ms",
+  "text": "Teh-O Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.tehotarikgadaipengdabao.ms",
+  "text": "Teh-O Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliagadai.ms",
+  "text": "Teh-O Halia Ga Dai"
+ },
+ {
+  "key": "call.tehohaliagadaidabao.ms",
+  "text": "Teh-O Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliagadaipeng.ms",
+  "text": "Teh-O Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.tehohaliagadaipengdabao.ms",
+  "text": "Teh-O Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehogaogadai.ms",
+  "text": "Teh-O Gao Ga Dai"
+ },
+ {
+  "key": "call.tehogaogadaidabao.ms",
+  "text": "Teh-O Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehogaogadaipeng.ms",
+  "text": "Teh-O Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehogaogadaipengdabao.ms",
+  "text": "Teh-O Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikgaogadai.ms",
+  "text": "Teh-O Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.tehotarikgaogadaidabao.ms",
+  "text": "Teh-O Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehotarikgaogadaipeng.ms",
+  "text": "Teh-O Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehotarikgaogadaipengdabao.ms",
+  "text": "Teh-O Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliagaogadai.ms",
+  "text": "Teh-O Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.tehohaliagaogadaidabao.ms",
+  "text": "Teh-O Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliagaogadaipeng.ms",
+  "text": "Teh-O Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehohaliagaogadaipengdabao.ms",
+  "text": "Teh-O Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehopohgadai.ms",
+  "text": "Teh-O Poh Ga Dai"
+ },
+ {
+  "key": "call.tehopohgadaidabao.ms",
+  "text": "Teh-O Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehopohgadaipeng.ms",
+  "text": "Teh-O Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehopohgadaipengdabao.ms",
+  "text": "Teh-O Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikpohgadai.ms",
+  "text": "Teh-O Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.tehotarikpohgadaidabao.ms",
+  "text": "Teh-O Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehotarikpohgadaipeng.ms",
+  "text": "Teh-O Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehotarikpohgadaipengdabao.ms",
+  "text": "Teh-O Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliapohgadai.ms",
+  "text": "Teh-O Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.tehohaliapohgadaidabao.ms",
+  "text": "Teh-O Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliapohgadaipeng.ms",
+  "text": "Teh-O Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehohaliapohgadaipengdabao.ms",
+  "text": "Teh-O Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehodilogadai.ms",
+  "text": "Teh-O Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehodilogadaidabao.ms",
+  "text": "Teh-O Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehodilogadaipeng.ms",
+  "text": "Teh-O Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehodilogadaipengdabao.ms",
+  "text": "Teh-O Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilogadai.ms",
+  "text": "Teh-O Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehotarikdilogadaidabao.ms",
+  "text": "Teh-O Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehotarikdilogadaipeng.ms",
+  "text": "Teh-O Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehotarikdilogadaipengdabao.ms",
+  "text": "Teh-O Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilogadai.ms",
+  "text": "Teh-O Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehohaliadilogadaidabao.ms",
+  "text": "Teh-O Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehohaliadilogadaipeng.ms",
+  "text": "Teh-O Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehohaliadilogadaipengdabao.ms",
+  "text": "Teh-O Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehckosong.ms",
+  "text": "Teh-C Kosong"
+ },
+ {
+  "key": "call.tehckosongdabao.ms",
+  "text": "Teh-C Kosong Da Bao"
+ },
+ {
+  "key": "call.tehckosongpeng.ms",
+  "text": "Teh-C Kosong Peng"
+ },
+ {
+  "key": "call.tehckosongpengdabao.ms",
+  "text": "Teh-C Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikkosong.ms",
+  "text": "Teh-C Tarik Kosong"
+ },
+ {
+  "key": "call.tehctarikkosongdabao.ms",
+  "text": "Teh-C Tarik Kosong Da Bao"
+ },
+ {
+  "key": "call.tehctarikkosongpeng.ms",
+  "text": "Teh-C Tarik Kosong Peng"
+ },
+ {
+  "key": "call.tehctarikkosongpengdabao.ms",
+  "text": "Teh-C Tarik Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliakosong.ms",
+  "text": "Teh-C Halia Kosong"
+ },
+ {
+  "key": "call.tehchaliakosongdabao.ms",
+  "text": "Teh-C Halia Kosong Da Bao"
+ },
+ {
+  "key": "call.tehchaliakosongpeng.ms",
+  "text": "Teh-C Halia Kosong Peng"
+ },
+ {
+  "key": "call.tehchaliakosongpengdabao.ms",
+  "text": "Teh-C Halia Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehcgaokosong.ms",
+  "text": "Teh-C Gao Kosong"
+ },
+ {
+  "key": "call.tehcgaokosongdabao.ms",
+  "text": "Teh-C Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.tehcgaokosongpeng.ms",
+  "text": "Teh-C Gao Kosong Peng"
+ },
+ {
+  "key": "call.tehcgaokosongpengdabao.ms",
+  "text": "Teh-C Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikgaokosong.ms",
+  "text": "Teh-C Tarik Gao Kosong"
+ },
+ {
+  "key": "call.tehctarikgaokosongdabao.ms",
+  "text": "Teh-C Tarik Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.tehctarikgaokosongpeng.ms",
+  "text": "Teh-C Tarik Gao Kosong Peng"
+ },
+ {
+  "key": "call.tehctarikgaokosongpengdabao.ms",
+  "text": "Teh-C Tarik Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliagaokosong.ms",
+  "text": "Teh-C Halia Gao Kosong"
+ },
+ {
+  "key": "call.tehchaliagaokosongdabao.ms",
+  "text": "Teh-C Halia Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.tehchaliagaokosongpeng.ms",
+  "text": "Teh-C Halia Gao Kosong Peng"
+ },
+ {
+  "key": "call.tehchaliagaokosongpengdabao.ms",
+  "text": "Teh-C Halia Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehcpohkosong.ms",
+  "text": "Teh-C Poh Kosong"
+ },
+ {
+  "key": "call.tehcpohkosongdabao.ms",
+  "text": "Teh-C Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.tehcpohkosongpeng.ms",
+  "text": "Teh-C Poh Kosong Peng"
+ },
+ {
+  "key": "call.tehcpohkosongpengdabao.ms",
+  "text": "Teh-C Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikpohkosong.ms",
+  "text": "Teh-C Tarik Poh Kosong"
+ },
+ {
+  "key": "call.tehctarikpohkosongdabao.ms",
+  "text": "Teh-C Tarik Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.tehctarikpohkosongpeng.ms",
+  "text": "Teh-C Tarik Poh Kosong Peng"
+ },
+ {
+  "key": "call.tehctarikpohkosongpengdabao.ms",
+  "text": "Teh-C Tarik Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliapohkosong.ms",
+  "text": "Teh-C Halia Poh Kosong"
+ },
+ {
+  "key": "call.tehchaliapohkosongdabao.ms",
+  "text": "Teh-C Halia Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.tehchaliapohkosongpeng.ms",
+  "text": "Teh-C Halia Poh Kosong Peng"
+ },
+ {
+  "key": "call.tehchaliapohkosongpengdabao.ms",
+  "text": "Teh-C Halia Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehcdilokosong.ms",
+  "text": "Teh-C Di Lo Kosong"
+ },
+ {
+  "key": "call.tehcdilokosongdabao.ms",
+  "text": "Teh-C Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.tehcdilokosongpeng.ms",
+  "text": "Teh-C Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.tehcdilokosongpengdabao.ms",
+  "text": "Teh-C Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilokosong.ms",
+  "text": "Teh-C Tarik Di Lo Kosong"
+ },
+ {
+  "key": "call.tehctarikdilokosongdabao.ms",
+  "text": "Teh-C Tarik Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilokosongpeng.ms",
+  "text": "Teh-C Tarik Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.tehctarikdilokosongpengdabao.ms",
+  "text": "Teh-C Tarik Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilokosong.ms",
+  "text": "Teh-C Halia Di Lo Kosong"
+ },
+ {
+  "key": "call.tehchaliadilokosongdabao.ms",
+  "text": "Teh-C Halia Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilokosongpeng.ms",
+  "text": "Teh-C Halia Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.tehchaliadilokosongpengdabao.ms",
+  "text": "Teh-C Halia Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.tehcsiewdai.ms",
+  "text": "Teh-C Siew Dai"
+ },
+ {
+  "key": "call.tehcsiewdaidabao.ms",
+  "text": "Teh-C Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehcsiewdaipeng.ms",
+  "text": "Teh-C Siew Dai Peng"
+ },
+ {
+  "key": "call.tehcsiewdaipengdabao.ms",
+  "text": "Teh-C Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctariksiewdai.ms",
+  "text": "Teh-C Tarik Siew Dai"
+ },
+ {
+  "key": "call.tehctariksiewdaidabao.ms",
+  "text": "Teh-C Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehctariksiewdaipeng.ms",
+  "text": "Teh-C Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.tehctariksiewdaipengdabao.ms",
+  "text": "Teh-C Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliasiewdai.ms",
+  "text": "Teh-C Halia Siew Dai"
+ },
+ {
+  "key": "call.tehchaliasiewdaidabao.ms",
+  "text": "Teh-C Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliasiewdaipeng.ms",
+  "text": "Teh-C Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.tehchaliasiewdaipengdabao.ms",
+  "text": "Teh-C Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehcgaosiewdai.ms",
+  "text": "Teh-C Gao Siew Dai"
+ },
+ {
+  "key": "call.tehcgaosiewdaidabao.ms",
+  "text": "Teh-C Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehcgaosiewdaipeng.ms",
+  "text": "Teh-C Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehcgaosiewdaipengdabao.ms",
+  "text": "Teh-C Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikgaosiewdai.ms",
+  "text": "Teh-C Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.tehctarikgaosiewdaidabao.ms",
+  "text": "Teh-C Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehctarikgaosiewdaipeng.ms",
+  "text": "Teh-C Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehctarikgaosiewdaipengdabao.ms",
+  "text": "Teh-C Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliagaosiewdai.ms",
+  "text": "Teh-C Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.tehchaliagaosiewdaidabao.ms",
+  "text": "Teh-C Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliagaosiewdaipeng.ms",
+  "text": "Teh-C Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.tehchaliagaosiewdaipengdabao.ms",
+  "text": "Teh-C Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehcpohsiewdai.ms",
+  "text": "Teh-C Poh Siew Dai"
+ },
+ {
+  "key": "call.tehcpohsiewdaidabao.ms",
+  "text": "Teh-C Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehcpohsiewdaipeng.ms",
+  "text": "Teh-C Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehcpohsiewdaipengdabao.ms",
+  "text": "Teh-C Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikpohsiewdai.ms",
+  "text": "Teh-C Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.tehctarikpohsiewdaidabao.ms",
+  "text": "Teh-C Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehctarikpohsiewdaipeng.ms",
+  "text": "Teh-C Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehctarikpohsiewdaipengdabao.ms",
+  "text": "Teh-C Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliapohsiewdai.ms",
+  "text": "Teh-C Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.tehchaliapohsiewdaidabao.ms",
+  "text": "Teh-C Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliapohsiewdaipeng.ms",
+  "text": "Teh-C Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.tehchaliapohsiewdaipengdabao.ms",
+  "text": "Teh-C Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehcdilosiewdai.ms",
+  "text": "Teh-C Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehcdilosiewdaidabao.ms",
+  "text": "Teh-C Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehcdilosiewdaipeng.ms",
+  "text": "Teh-C Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehcdilosiewdaipengdabao.ms",
+  "text": "Teh-C Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilosiewdai.ms",
+  "text": "Teh-C Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehctarikdilosiewdaidabao.ms",
+  "text": "Teh-C Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilosiewdaipeng.ms",
+  "text": "Teh-C Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehctarikdilosiewdaipengdabao.ms",
+  "text": "Teh-C Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilosiewdai.ms",
+  "text": "Teh-C Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.tehchaliadilosiewdaidabao.ms",
+  "text": "Teh-C Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilosiewdaipeng.ms",
+  "text": "Teh-C Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.tehchaliadilosiewdaipengdabao.ms",
+  "text": "Teh-C Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehc.ms",
+  "text": "Teh-C"
+ },
+ {
+  "key": "call.tehcdabao.ms",
+  "text": "Teh-C Da Bao"
+ },
+ {
+  "key": "call.tehcpeng.ms",
+  "text": "Teh-C Peng"
+ },
+ {
+  "key": "call.tehcpengdabao.ms",
+  "text": "Teh-C Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarik.ms",
+  "text": "Teh-C Tarik"
+ },
+ {
+  "key": "call.tehctarikdabao.ms",
+  "text": "Teh-C Tarik Da Bao"
+ },
+ {
+  "key": "call.tehctarikpeng.ms",
+  "text": "Teh-C Tarik Peng"
+ },
+ {
+  "key": "call.tehctarikpengdabao.ms",
+  "text": "Teh-C Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.tehchalia.ms",
+  "text": "Teh-C Halia"
+ },
+ {
+  "key": "call.tehchaliadabao.ms",
+  "text": "Teh-C Halia Da Bao"
+ },
+ {
+  "key": "call.tehchaliapeng.ms",
+  "text": "Teh-C Halia Peng"
+ },
+ {
+  "key": "call.tehchaliapengdabao.ms",
+  "text": "Teh-C Halia Peng Da Bao"
+ },
+ {
+  "key": "call.tehcgao.ms",
+  "text": "Teh-C Gao"
+ },
+ {
+  "key": "call.tehcgaodabao.ms",
+  "text": "Teh-C Gao Da Bao"
+ },
+ {
+  "key": "call.tehcgaopeng.ms",
+  "text": "Teh-C Gao Peng"
+ },
+ {
+  "key": "call.tehcgaopengdabao.ms",
+  "text": "Teh-C Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikgao.ms",
+  "text": "Teh-C Tarik Gao"
+ },
+ {
+  "key": "call.tehctarikgaodabao.ms",
+  "text": "Teh-C Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.tehctarikgaopeng.ms",
+  "text": "Teh-C Tarik Gao Peng"
+ },
+ {
+  "key": "call.tehctarikgaopengdabao.ms",
+  "text": "Teh-C Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliagao.ms",
+  "text": "Teh-C Halia Gao"
+ },
+ {
+  "key": "call.tehchaliagaodabao.ms",
+  "text": "Teh-C Halia Gao Da Bao"
+ },
+ {
+  "key": "call.tehchaliagaopeng.ms",
+  "text": "Teh-C Halia Gao Peng"
+ },
+ {
+  "key": "call.tehchaliagaopengdabao.ms",
+  "text": "Teh-C Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.tehcpoh.ms",
+  "text": "Teh-C Poh"
+ },
+ {
+  "key": "call.tehcpohdabao.ms",
+  "text": "Teh-C Poh Da Bao"
+ },
+ {
+  "key": "call.tehcpohpeng.ms",
+  "text": "Teh-C Poh Peng"
+ },
+ {
+  "key": "call.tehcpohpengdabao.ms",
+  "text": "Teh-C Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikpoh.ms",
+  "text": "Teh-C Tarik Poh"
+ },
+ {
+  "key": "call.tehctarikpohdabao.ms",
+  "text": "Teh-C Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.tehctarikpohpeng.ms",
+  "text": "Teh-C Tarik Poh Peng"
+ },
+ {
+  "key": "call.tehctarikpohpengdabao.ms",
+  "text": "Teh-C Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliapoh.ms",
+  "text": "Teh-C Halia Poh"
+ },
+ {
+  "key": "call.tehchaliapohdabao.ms",
+  "text": "Teh-C Halia Poh Da Bao"
+ },
+ {
+  "key": "call.tehchaliapohpeng.ms",
+  "text": "Teh-C Halia Poh Peng"
+ },
+ {
+  "key": "call.tehchaliapohpengdabao.ms",
+  "text": "Teh-C Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.tehcdilo.ms",
+  "text": "Teh-C Di Lo"
+ },
+ {
+  "key": "call.tehcdilodabao.ms",
+  "text": "Teh-C Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehcdilopeng.ms",
+  "text": "Teh-C Di Lo Peng"
+ },
+ {
+  "key": "call.tehcdilopengdabao.ms",
+  "text": "Teh-C Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilo.ms",
+  "text": "Teh-C Tarik Di Lo"
+ },
+ {
+  "key": "call.tehctarikdilodabao.ms",
+  "text": "Teh-C Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilopeng.ms",
+  "text": "Teh-C Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.tehctarikdilopengdabao.ms",
+  "text": "Teh-C Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilo.ms",
+  "text": "Teh-C Halia Di Lo"
+ },
+ {
+  "key": "call.tehchaliadilodabao.ms",
+  "text": "Teh-C Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilopeng.ms",
+  "text": "Teh-C Halia Di Lo Peng"
+ },
+ {
+  "key": "call.tehchaliadilopengdabao.ms",
+  "text": "Teh-C Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.tehcgadai.ms",
+  "text": "Teh-C Ga Dai"
+ },
+ {
+  "key": "call.tehcgadaidabao.ms",
+  "text": "Teh-C Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehcgadaipeng.ms",
+  "text": "Teh-C Ga Dai Peng"
+ },
+ {
+  "key": "call.tehcgadaipengdabao.ms",
+  "text": "Teh-C Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikgadai.ms",
+  "text": "Teh-C Tarik Ga Dai"
+ },
+ {
+  "key": "call.tehctarikgadaidabao.ms",
+  "text": "Teh-C Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehctarikgadaipeng.ms",
+  "text": "Teh-C Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.tehctarikgadaipengdabao.ms",
+  "text": "Teh-C Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliagadai.ms",
+  "text": "Teh-C Halia Ga Dai"
+ },
+ {
+  "key": "call.tehchaliagadaidabao.ms",
+  "text": "Teh-C Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliagadaipeng.ms",
+  "text": "Teh-C Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.tehchaliagadaipengdabao.ms",
+  "text": "Teh-C Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehcgaogadai.ms",
+  "text": "Teh-C Gao Ga Dai"
+ },
+ {
+  "key": "call.tehcgaogadaidabao.ms",
+  "text": "Teh-C Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehcgaogadaipeng.ms",
+  "text": "Teh-C Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehcgaogadaipengdabao.ms",
+  "text": "Teh-C Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikgaogadai.ms",
+  "text": "Teh-C Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.tehctarikgaogadaidabao.ms",
+  "text": "Teh-C Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehctarikgaogadaipeng.ms",
+  "text": "Teh-C Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehctarikgaogadaipengdabao.ms",
+  "text": "Teh-C Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliagaogadai.ms",
+  "text": "Teh-C Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.tehchaliagaogadaidabao.ms",
+  "text": "Teh-C Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliagaogadaipeng.ms",
+  "text": "Teh-C Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.tehchaliagaogadaipengdabao.ms",
+  "text": "Teh-C Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehcpohgadai.ms",
+  "text": "Teh-C Poh Ga Dai"
+ },
+ {
+  "key": "call.tehcpohgadaidabao.ms",
+  "text": "Teh-C Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehcpohgadaipeng.ms",
+  "text": "Teh-C Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehcpohgadaipengdabao.ms",
+  "text": "Teh-C Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikpohgadai.ms",
+  "text": "Teh-C Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.tehctarikpohgadaidabao.ms",
+  "text": "Teh-C Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehctarikpohgadaipeng.ms",
+  "text": "Teh-C Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehctarikpohgadaipengdabao.ms",
+  "text": "Teh-C Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliapohgadai.ms",
+  "text": "Teh-C Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.tehchaliapohgadaidabao.ms",
+  "text": "Teh-C Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliapohgadaipeng.ms",
+  "text": "Teh-C Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.tehchaliapohgadaipengdabao.ms",
+  "text": "Teh-C Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehcdilogadai.ms",
+  "text": "Teh-C Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehcdilogadaidabao.ms",
+  "text": "Teh-C Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehcdilogadaipeng.ms",
+  "text": "Teh-C Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehcdilogadaipengdabao.ms",
+  "text": "Teh-C Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilogadai.ms",
+  "text": "Teh-C Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehctarikdilogadaidabao.ms",
+  "text": "Teh-C Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehctarikdilogadaipeng.ms",
+  "text": "Teh-C Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehctarikdilogadaipengdabao.ms",
+  "text": "Teh-C Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilogadai.ms",
+  "text": "Teh-C Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.tehchaliadilogadaidabao.ms",
+  "text": "Teh-C Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.tehchaliadilogadaipeng.ms",
+  "text": "Teh-C Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.tehchaliadilogadaipengdabao.ms",
+  "text": "Teh-C Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangsiewdai.ms",
+  "text": "Yuan Yang Siew Dai"
+ },
+ {
+  "key": "call.yuanyangsiewdaidabao.ms",
+  "text": "Yuan Yang Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangsiewdaipeng.ms",
+  "text": "Yuan Yang Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangsiewdaipengdabao.ms",
+  "text": "Yuan Yang Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtariksiewdai.ms",
+  "text": "Yuan Yang Tarik Siew Dai"
+ },
+ {
+  "key": "call.yuanyangtariksiewdaidabao.ms",
+  "text": "Yuan Yang Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtariksiewdaipeng.ms",
+  "text": "Yuan Yang Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtariksiewdaipengdabao.ms",
+  "text": "Yuan Yang Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliasiewdai.ms",
+  "text": "Yuan Yang Halia Siew Dai"
+ },
+ {
+  "key": "call.yuanyanghaliasiewdaidabao.ms",
+  "text": "Yuan Yang Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliasiewdaipeng.ms",
+  "text": "Yuan Yang Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliasiewdaipengdabao.ms",
+  "text": "Yuan Yang Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanggaosiewdai.ms",
+  "text": "Yuan Yang Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyanggaosiewdaidabao.ms",
+  "text": "Yuan Yang Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanggaosiewdaipeng.ms",
+  "text": "Yuan Yang Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyanggaosiewdaipengdabao.ms",
+  "text": "Yuan Yang Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgaosiewdai.ms",
+  "text": "Yuan Yang Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyangtarikgaosiewdaidabao.ms",
+  "text": "Yuan Yang Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgaosiewdaipeng.ms",
+  "text": "Yuan Yang Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtarikgaosiewdaipengdabao.ms",
+  "text": "Yuan Yang Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagaosiewdai.ms",
+  "text": "Yuan Yang Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyanghaliagaosiewdaidabao.ms",
+  "text": "Yuan Yang Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagaosiewdaipeng.ms",
+  "text": "Yuan Yang Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliagaosiewdaipengdabao.ms",
+  "text": "Yuan Yang Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangpohsiewdai.ms",
+  "text": "Yuan Yang Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangpohsiewdaidabao.ms",
+  "text": "Yuan Yang Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangpohsiewdaipeng.ms",
+  "text": "Yuan Yang Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangpohsiewdaipengdabao.ms",
+  "text": "Yuan Yang Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikpohsiewdai.ms",
+  "text": "Yuan Yang Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangtarikpohsiewdaidabao.ms",
+  "text": "Yuan Yang Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikpohsiewdaipeng.ms",
+  "text": "Yuan Yang Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtarikpohsiewdaipengdabao.ms",
+  "text": "Yuan Yang Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliapohsiewdai.ms",
+  "text": "Yuan Yang Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyanghaliapohsiewdaidabao.ms",
+  "text": "Yuan Yang Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliapohsiewdaipeng.ms",
+  "text": "Yuan Yang Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliapohsiewdaipengdabao.ms",
+  "text": "Yuan Yang Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangdilosiewdai.ms",
+  "text": "Yuan Yang Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangdilosiewdaidabao.ms",
+  "text": "Yuan Yang Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangdilosiewdaipeng.ms",
+  "text": "Yuan Yang Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangdilosiewdaipengdabao.ms",
+  "text": "Yuan Yang Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikdilosiewdai.ms",
+  "text": "Yuan Yang Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangtarikdilosiewdaidabao.ms",
+  "text": "Yuan Yang Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikdilosiewdaipeng.ms",
+  "text": "Yuan Yang Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtarikdilosiewdaipengdabao.ms",
+  "text": "Yuan Yang Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliadilosiewdai.ms",
+  "text": "Yuan Yang Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyanghaliadilosiewdaidabao.ms",
+  "text": "Yuan Yang Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliadilosiewdaipeng.ms",
+  "text": "Yuan Yang Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliadilosiewdaipengdabao.ms",
+  "text": "Yuan Yang Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyang.ms",
+  "text": "Yuan Yang"
+ },
+ {
+  "key": "call.yuanyangdabao.ms",
+  "text": "Yuan Yang Da Bao"
+ },
+ {
+  "key": "call.yuanyangpeng.ms",
+  "text": "Yuan Yang Peng"
+ },
+ {
+  "key": "call.yuanyangpengdabao.ms",
+  "text": "Yuan Yang Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarik.ms",
+  "text": "Yuan Yang Tarik"
+ },
+ {
+  "key": "call.yuanyangtarikdabao.ms",
+  "text": "Yuan Yang Tarik Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikpeng.ms",
+  "text": "Yuan Yang Tarik Peng"
+ },
+ {
+  "key": "call.yuanyangtarikpengdabao.ms",
+  "text": "Yuan Yang Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghalia.ms",
+  "text": "Yuan Yang Halia"
+ },
+ {
+  "key": "call.yuanyanghaliadabao.ms",
+  "text": "Yuan Yang Halia Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliapeng.ms",
+  "text": "Yuan Yang Halia Peng"
+ },
+ {
+  "key": "call.yuanyanghaliapengdabao.ms",
+  "text": "Yuan Yang Halia Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanggao.ms",
+  "text": "Yuan Yang Gao"
+ },
+ {
+  "key": "call.yuanyanggaodabao.ms",
+  "text": "Yuan Yang Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyanggaopeng.ms",
+  "text": "Yuan Yang Gao Peng"
+ },
+ {
+  "key": "call.yuanyanggaopengdabao.ms",
+  "text": "Yuan Yang Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgao.ms",
+  "text": "Yuan Yang Tarik Gao"
+ },
+ {
+  "key": "call.yuanyangtarikgaodabao.ms",
+  "text": "Yuan Yang Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgaopeng.ms",
+  "text": "Yuan Yang Tarik Gao Peng"
+ },
+ {
+  "key": "call.yuanyangtarikgaopengdabao.ms",
+  "text": "Yuan Yang Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagao.ms",
+  "text": "Yuan Yang Halia Gao"
+ },
+ {
+  "key": "call.yuanyanghaliagaodabao.ms",
+  "text": "Yuan Yang Halia Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagaopeng.ms",
+  "text": "Yuan Yang Halia Gao Peng"
+ },
+ {
+  "key": "call.yuanyanghaliagaopengdabao.ms",
+  "text": "Yuan Yang Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangpoh.ms",
+  "text": "Yuan Yang Poh"
+ },
+ {
+  "key": "call.yuanyangpohdabao.ms",
+  "text": "Yuan Yang Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangpohpeng.ms",
+  "text": "Yuan Yang Poh Peng"
+ },
+ {
+  "key": "call.yuanyangpohpengdabao.ms",
+  "text": "Yuan Yang Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikpoh.ms",
+  "text": "Yuan Yang Tarik Poh"
+ },
+ {
+  "key": "call.yuanyangtarikpohdabao.ms",
+  "text": "Yuan Yang Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikpohpeng.ms",
+  "text": "Yuan Yang Tarik Poh Peng"
+ },
+ {
+  "key": "call.yuanyangtarikpohpengdabao.ms",
+  "text": "Yuan Yang Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliapoh.ms",
+  "text": "Yuan Yang Halia Poh"
+ },
+ {
+  "key": "call.yuanyanghaliapohdabao.ms",
+  "text": "Yuan Yang Halia Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliapohpeng.ms",
+  "text": "Yuan Yang Halia Poh Peng"
+ },
+ {
+  "key": "call.yuanyanghaliapohpengdabao.ms",
+  "text": "Yuan Yang Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangdilo.ms",
+  "text": "Yuan Yang Di Lo"
+ },
+ {
+  "key": "call.yuanyangdilodabao.ms",
+  "text": "Yuan Yang Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangdilopeng.ms",
+  "text": "Yuan Yang Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangdilopengdabao.ms",
+  "text": "Yuan Yang Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikdilo.ms",
+  "text": "Yuan Yang Tarik Di Lo"
+ },
+ {
+  "key": "call.yuanyangtarikdilodabao.ms",
+  "text": "Yuan Yang Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikdilopeng.ms",
+  "text": "Yuan Yang Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangtarikdilopengdabao.ms",
+  "text": "Yuan Yang Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliadilo.ms",
+  "text": "Yuan Yang Halia Di Lo"
+ },
+ {
+  "key": "call.yuanyanghaliadilodabao.ms",
+  "text": "Yuan Yang Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliadilopeng.ms",
+  "text": "Yuan Yang Halia Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyanghaliadilopengdabao.ms",
+  "text": "Yuan Yang Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanggadai.ms",
+  "text": "Yuan Yang Ga Dai"
+ },
+ {
+  "key": "call.yuanyanggadaidabao.ms",
+  "text": "Yuan Yang Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanggadaipeng.ms",
+  "text": "Yuan Yang Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyanggadaipengdabao.ms",
+  "text": "Yuan Yang Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgadai.ms",
+  "text": "Yuan Yang Tarik Ga Dai"
+ },
+ {
+  "key": "call.yuanyangtarikgadaidabao.ms",
+  "text": "Yuan Yang Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgadaipeng.ms",
+  "text": "Yuan Yang Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtarikgadaipengdabao.ms",
+  "text": "Yuan Yang Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagadai.ms",
+  "text": "Yuan Yang Halia Ga Dai"
+ },
+ {
+  "key": "call.yuanyanghaliagadaidabao.ms",
+  "text": "Yuan Yang Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagadaipeng.ms",
+  "text": "Yuan Yang Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliagadaipengdabao.ms",
+  "text": "Yuan Yang Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanggaogadai.ms",
+  "text": "Yuan Yang Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyanggaogadaidabao.ms",
+  "text": "Yuan Yang Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanggaogadaipeng.ms",
+  "text": "Yuan Yang Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyanggaogadaipengdabao.ms",
+  "text": "Yuan Yang Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgaogadai.ms",
+  "text": "Yuan Yang Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyangtarikgaogadaidabao.ms",
+  "text": "Yuan Yang Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikgaogadaipeng.ms",
+  "text": "Yuan Yang Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtarikgaogadaipengdabao.ms",
+  "text": "Yuan Yang Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagaogadai.ms",
+  "text": "Yuan Yang Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyanghaliagaogadaidabao.ms",
+  "text": "Yuan Yang Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliagaogadaipeng.ms",
+  "text": "Yuan Yang Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliagaogadaipengdabao.ms",
+  "text": "Yuan Yang Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangpohgadai.ms",
+  "text": "Yuan Yang Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangpohgadaidabao.ms",
+  "text": "Yuan Yang Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangpohgadaipeng.ms",
+  "text": "Yuan Yang Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangpohgadaipengdabao.ms",
+  "text": "Yuan Yang Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikpohgadai.ms",
+  "text": "Yuan Yang Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangtarikpohgadaidabao.ms",
+  "text": "Yuan Yang Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikpohgadaipeng.ms",
+  "text": "Yuan Yang Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtarikpohgadaipengdabao.ms",
+  "text": "Yuan Yang Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliapohgadai.ms",
+  "text": "Yuan Yang Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyanghaliapohgadaidabao.ms",
+  "text": "Yuan Yang Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliapohgadaipeng.ms",
+  "text": "Yuan Yang Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliapohgadaipengdabao.ms",
+  "text": "Yuan Yang Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangdilogadai.ms",
+  "text": "Yuan Yang Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangdilogadaidabao.ms",
+  "text": "Yuan Yang Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangdilogadaipeng.ms",
+  "text": "Yuan Yang Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangdilogadaipengdabao.ms",
+  "text": "Yuan Yang Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikdilogadai.ms",
+  "text": "Yuan Yang Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangtarikdilogadaidabao.ms",
+  "text": "Yuan Yang Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangtarikdilogadaipeng.ms",
+  "text": "Yuan Yang Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangtarikdilogadaipengdabao.ms",
+  "text": "Yuan Yang Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliadilogadai.ms",
+  "text": "Yuan Yang Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyanghaliadilogadaidabao.ms",
+  "text": "Yuan Yang Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyanghaliadilogadaipeng.ms",
+  "text": "Yuan Yang Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyanghaliadilogadaipengdabao.ms",
+  "text": "Yuan Yang Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangokosong.ms",
+  "text": "Yuan Yang-O Kosong"
+ },
+ {
+  "key": "call.yuanyangokosongdabao.ms",
+  "text": "Yuan Yang-O Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangokosongpeng.ms",
+  "text": "Yuan Yang-O Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangokosongpengdabao.ms",
+  "text": "Yuan Yang-O Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikkosong.ms",
+  "text": "Yuan Yang-O Tarik Kosong"
+ },
+ {
+  "key": "call.yuanyangotarikkosongdabao.ms",
+  "text": "Yuan Yang-O Tarik Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikkosongpeng.ms",
+  "text": "Yuan Yang-O Tarik Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangotarikkosongpengdabao.ms",
+  "text": "Yuan Yang-O Tarik Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliakosong.ms",
+  "text": "Yuan Yang-O Halia Kosong"
+ },
+ {
+  "key": "call.yuanyangohaliakosongdabao.ms",
+  "text": "Yuan Yang-O Halia Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliakosongpeng.ms",
+  "text": "Yuan Yang-O Halia Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangohaliakosongpengdabao.ms",
+  "text": "Yuan Yang-O Halia Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangogaokosong.ms",
+  "text": "Yuan Yang-O Gao Kosong"
+ },
+ {
+  "key": "call.yuanyangogaokosongdabao.ms",
+  "text": "Yuan Yang-O Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangogaokosongpeng.ms",
+  "text": "Yuan Yang-O Gao Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangogaokosongpengdabao.ms",
+  "text": "Yuan Yang-O Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgaokosong.ms",
+  "text": "Yuan Yang-O Tarik Gao Kosong"
+ },
+ {
+  "key": "call.yuanyangotarikgaokosongdabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgaokosongpeng.ms",
+  "text": "Yuan Yang-O Tarik Gao Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangotarikgaokosongpengdabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagaokosong.ms",
+  "text": "Yuan Yang-O Halia Gao Kosong"
+ },
+ {
+  "key": "call.yuanyangohaliagaokosongdabao.ms",
+  "text": "Yuan Yang-O Halia Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagaokosongpeng.ms",
+  "text": "Yuan Yang-O Halia Gao Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangohaliagaokosongpengdabao.ms",
+  "text": "Yuan Yang-O Halia Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangopohkosong.ms",
+  "text": "Yuan Yang-O Poh Kosong"
+ },
+ {
+  "key": "call.yuanyangopohkosongdabao.ms",
+  "text": "Yuan Yang-O Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangopohkosongpeng.ms",
+  "text": "Yuan Yang-O Poh Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangopohkosongpengdabao.ms",
+  "text": "Yuan Yang-O Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpohkosong.ms",
+  "text": "Yuan Yang-O Tarik Poh Kosong"
+ },
+ {
+  "key": "call.yuanyangotarikpohkosongdabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpohkosongpeng.ms",
+  "text": "Yuan Yang-O Tarik Poh Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangotarikpohkosongpengdabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapohkosong.ms",
+  "text": "Yuan Yang-O Halia Poh Kosong"
+ },
+ {
+  "key": "call.yuanyangohaliapohkosongdabao.ms",
+  "text": "Yuan Yang-O Halia Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapohkosongpeng.ms",
+  "text": "Yuan Yang-O Halia Poh Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangohaliapohkosongpengdabao.ms",
+  "text": "Yuan Yang-O Halia Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilokosong.ms",
+  "text": "Yuan Yang-O Di Lo Kosong"
+ },
+ {
+  "key": "call.yuanyangodilokosongdabao.ms",
+  "text": "Yuan Yang-O Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilokosongpeng.ms",
+  "text": "Yuan Yang-O Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangodilokosongpengdabao.ms",
+  "text": "Yuan Yang-O Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilokosong.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Kosong"
+ },
+ {
+  "key": "call.yuanyangotarikdilokosongdabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilokosongpeng.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangotarikdilokosongpengdabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilokosong.ms",
+  "text": "Yuan Yang-O Halia Di Lo Kosong"
+ },
+ {
+  "key": "call.yuanyangohaliadilokosongdabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilokosongpeng.ms",
+  "text": "Yuan Yang-O Halia Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangohaliadilokosongpengdabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangosiewdai.ms",
+  "text": "Yuan Yang-O Siew Dai"
+ },
+ {
+  "key": "call.yuanyangosiewdaidabao.ms",
+  "text": "Yuan Yang-O Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangosiewdaipeng.ms",
+  "text": "Yuan Yang-O Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangosiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotariksiewdai.ms",
+  "text": "Yuan Yang-O Tarik Siew Dai"
+ },
+ {
+  "key": "call.yuanyangotariksiewdaidabao.ms",
+  "text": "Yuan Yang-O Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotariksiewdaipeng.ms",
+  "text": "Yuan Yang-O Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotariksiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliasiewdai.ms",
+  "text": "Yuan Yang-O Halia Siew Dai"
+ },
+ {
+  "key": "call.yuanyangohaliasiewdaidabao.ms",
+  "text": "Yuan Yang-O Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliasiewdaipeng.ms",
+  "text": "Yuan Yang-O Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliasiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangogaosiewdai.ms",
+  "text": "Yuan Yang-O Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyangogaosiewdaidabao.ms",
+  "text": "Yuan Yang-O Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangogaosiewdaipeng.ms",
+  "text": "Yuan Yang-O Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangogaosiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgaosiewdai.ms",
+  "text": "Yuan Yang-O Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyangotarikgaosiewdaidabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgaosiewdaipeng.ms",
+  "text": "Yuan Yang-O Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotarikgaosiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagaosiewdai.ms",
+  "text": "Yuan Yang-O Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyangohaliagaosiewdaidabao.ms",
+  "text": "Yuan Yang-O Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagaosiewdaipeng.ms",
+  "text": "Yuan Yang-O Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliagaosiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangopohsiewdai.ms",
+  "text": "Yuan Yang-O Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangopohsiewdaidabao.ms",
+  "text": "Yuan Yang-O Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangopohsiewdaipeng.ms",
+  "text": "Yuan Yang-O Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangopohsiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpohsiewdai.ms",
+  "text": "Yuan Yang-O Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangotarikpohsiewdaidabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpohsiewdaipeng.ms",
+  "text": "Yuan Yang-O Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotarikpohsiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapohsiewdai.ms",
+  "text": "Yuan Yang-O Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangohaliapohsiewdaidabao.ms",
+  "text": "Yuan Yang-O Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapohsiewdaipeng.ms",
+  "text": "Yuan Yang-O Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliapohsiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilosiewdai.ms",
+  "text": "Yuan Yang-O Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangodilosiewdaidabao.ms",
+  "text": "Yuan Yang-O Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilosiewdaipeng.ms",
+  "text": "Yuan Yang-O Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangodilosiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilosiewdai.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangotarikdilosiewdaidabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilosiewdaipeng.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotarikdilosiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilosiewdai.ms",
+  "text": "Yuan Yang-O Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangohaliadilosiewdaidabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilosiewdaipeng.ms",
+  "text": "Yuan Yang-O Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliadilosiewdaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyango.ms",
+  "text": "Yuan Yang-O"
+ },
+ {
+  "key": "call.yuanyangodabao.ms",
+  "text": "Yuan Yang-O Da Bao"
+ },
+ {
+  "key": "call.yuanyangopeng.ms",
+  "text": "Yuan Yang-O Peng"
+ },
+ {
+  "key": "call.yuanyangopengdabao.ms",
+  "text": "Yuan Yang-O Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarik.ms",
+  "text": "Yuan Yang-O Tarik"
+ },
+ {
+  "key": "call.yuanyangotarikdabao.ms",
+  "text": "Yuan Yang-O Tarik Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpeng.ms",
+  "text": "Yuan Yang-O Tarik Peng"
+ },
+ {
+  "key": "call.yuanyangotarikpengdabao.ms",
+  "text": "Yuan Yang-O Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohalia.ms",
+  "text": "Yuan Yang-O Halia"
+ },
+ {
+  "key": "call.yuanyangohaliadabao.ms",
+  "text": "Yuan Yang-O Halia Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapeng.ms",
+  "text": "Yuan Yang-O Halia Peng"
+ },
+ {
+  "key": "call.yuanyangohaliapengdabao.ms",
+  "text": "Yuan Yang-O Halia Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangogao.ms",
+  "text": "Yuan Yang-O Gao"
+ },
+ {
+  "key": "call.yuanyangogaodabao.ms",
+  "text": "Yuan Yang-O Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyangogaopeng.ms",
+  "text": "Yuan Yang-O Gao Peng"
+ },
+ {
+  "key": "call.yuanyangogaopengdabao.ms",
+  "text": "Yuan Yang-O Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgao.ms",
+  "text": "Yuan Yang-O Tarik Gao"
+ },
+ {
+  "key": "call.yuanyangotarikgaodabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgaopeng.ms",
+  "text": "Yuan Yang-O Tarik Gao Peng"
+ },
+ {
+  "key": "call.yuanyangotarikgaopengdabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagao.ms",
+  "text": "Yuan Yang-O Halia Gao"
+ },
+ {
+  "key": "call.yuanyangohaliagaodabao.ms",
+  "text": "Yuan Yang-O Halia Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagaopeng.ms",
+  "text": "Yuan Yang-O Halia Gao Peng"
+ },
+ {
+  "key": "call.yuanyangohaliagaopengdabao.ms",
+  "text": "Yuan Yang-O Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangopoh.ms",
+  "text": "Yuan Yang-O Poh"
+ },
+ {
+  "key": "call.yuanyangopohdabao.ms",
+  "text": "Yuan Yang-O Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangopohpeng.ms",
+  "text": "Yuan Yang-O Poh Peng"
+ },
+ {
+  "key": "call.yuanyangopohpengdabao.ms",
+  "text": "Yuan Yang-O Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpoh.ms",
+  "text": "Yuan Yang-O Tarik Poh"
+ },
+ {
+  "key": "call.yuanyangotarikpohdabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpohpeng.ms",
+  "text": "Yuan Yang-O Tarik Poh Peng"
+ },
+ {
+  "key": "call.yuanyangotarikpohpengdabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapoh.ms",
+  "text": "Yuan Yang-O Halia Poh"
+ },
+ {
+  "key": "call.yuanyangohaliapohdabao.ms",
+  "text": "Yuan Yang-O Halia Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapohpeng.ms",
+  "text": "Yuan Yang-O Halia Poh Peng"
+ },
+ {
+  "key": "call.yuanyangohaliapohpengdabao.ms",
+  "text": "Yuan Yang-O Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilo.ms",
+  "text": "Yuan Yang-O Di Lo"
+ },
+ {
+  "key": "call.yuanyangodilodabao.ms",
+  "text": "Yuan Yang-O Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilopeng.ms",
+  "text": "Yuan Yang-O Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangodilopengdabao.ms",
+  "text": "Yuan Yang-O Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilo.ms",
+  "text": "Yuan Yang-O Tarik Di Lo"
+ },
+ {
+  "key": "call.yuanyangotarikdilodabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilopeng.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangotarikdilopengdabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilo.ms",
+  "text": "Yuan Yang-O Halia Di Lo"
+ },
+ {
+  "key": "call.yuanyangohaliadilodabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilopeng.ms",
+  "text": "Yuan Yang-O Halia Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangohaliadilopengdabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangogadai.ms",
+  "text": "Yuan Yang-O Ga Dai"
+ },
+ {
+  "key": "call.yuanyangogadaidabao.ms",
+  "text": "Yuan Yang-O Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangogadaipeng.ms",
+  "text": "Yuan Yang-O Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangogadaipengdabao.ms",
+  "text": "Yuan Yang-O Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgadai.ms",
+  "text": "Yuan Yang-O Tarik Ga Dai"
+ },
+ {
+  "key": "call.yuanyangotarikgadaidabao.ms",
+  "text": "Yuan Yang-O Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgadaipeng.ms",
+  "text": "Yuan Yang-O Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotarikgadaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagadai.ms",
+  "text": "Yuan Yang-O Halia Ga Dai"
+ },
+ {
+  "key": "call.yuanyangohaliagadaidabao.ms",
+  "text": "Yuan Yang-O Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagadaipeng.ms",
+  "text": "Yuan Yang-O Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliagadaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangogaogadai.ms",
+  "text": "Yuan Yang-O Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyangogaogadaidabao.ms",
+  "text": "Yuan Yang-O Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangogaogadaipeng.ms",
+  "text": "Yuan Yang-O Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangogaogadaipengdabao.ms",
+  "text": "Yuan Yang-O Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgaogadai.ms",
+  "text": "Yuan Yang-O Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyangotarikgaogadaidabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikgaogadaipeng.ms",
+  "text": "Yuan Yang-O Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotarikgaogadaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagaogadai.ms",
+  "text": "Yuan Yang-O Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyangohaliagaogadaidabao.ms",
+  "text": "Yuan Yang-O Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliagaogadaipeng.ms",
+  "text": "Yuan Yang-O Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliagaogadaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangopohgadai.ms",
+  "text": "Yuan Yang-O Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangopohgadaidabao.ms",
+  "text": "Yuan Yang-O Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangopohgadaipeng.ms",
+  "text": "Yuan Yang-O Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangopohgadaipengdabao.ms",
+  "text": "Yuan Yang-O Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpohgadai.ms",
+  "text": "Yuan Yang-O Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangotarikpohgadaidabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikpohgadaipeng.ms",
+  "text": "Yuan Yang-O Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotarikpohgadaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapohgadai.ms",
+  "text": "Yuan Yang-O Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangohaliapohgadaidabao.ms",
+  "text": "Yuan Yang-O Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliapohgadaipeng.ms",
+  "text": "Yuan Yang-O Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliapohgadaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilogadai.ms",
+  "text": "Yuan Yang-O Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangodilogadaidabao.ms",
+  "text": "Yuan Yang-O Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangodilogadaipeng.ms",
+  "text": "Yuan Yang-O Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangodilogadaipengdabao.ms",
+  "text": "Yuan Yang-O Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilogadai.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangotarikdilogadaidabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangotarikdilogadaipeng.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangotarikdilogadaipengdabao.ms",
+  "text": "Yuan Yang-O Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilogadai.ms",
+  "text": "Yuan Yang-O Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangohaliadilogadaidabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangohaliadilogadaipeng.ms",
+  "text": "Yuan Yang-O Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangohaliadilogadaipengdabao.ms",
+  "text": "Yuan Yang-O Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangckosong.ms",
+  "text": "Yuan Yang-C Kosong"
+ },
+ {
+  "key": "call.yuanyangckosongdabao.ms",
+  "text": "Yuan Yang-C Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangckosongpeng.ms",
+  "text": "Yuan Yang-C Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangckosongpengdabao.ms",
+  "text": "Yuan Yang-C Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikkosong.ms",
+  "text": "Yuan Yang-C Tarik Kosong"
+ },
+ {
+  "key": "call.yuanyangctarikkosongdabao.ms",
+  "text": "Yuan Yang-C Tarik Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikkosongpeng.ms",
+  "text": "Yuan Yang-C Tarik Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangctarikkosongpengdabao.ms",
+  "text": "Yuan Yang-C Tarik Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliakosong.ms",
+  "text": "Yuan Yang-C Halia Kosong"
+ },
+ {
+  "key": "call.yuanyangchaliakosongdabao.ms",
+  "text": "Yuan Yang-C Halia Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliakosongpeng.ms",
+  "text": "Yuan Yang-C Halia Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangchaliakosongpengdabao.ms",
+  "text": "Yuan Yang-C Halia Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgaokosong.ms",
+  "text": "Yuan Yang-C Gao Kosong"
+ },
+ {
+  "key": "call.yuanyangcgaokosongdabao.ms",
+  "text": "Yuan Yang-C Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgaokosongpeng.ms",
+  "text": "Yuan Yang-C Gao Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangcgaokosongpengdabao.ms",
+  "text": "Yuan Yang-C Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgaokosong.ms",
+  "text": "Yuan Yang-C Tarik Gao Kosong"
+ },
+ {
+  "key": "call.yuanyangctarikgaokosongdabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgaokosongpeng.ms",
+  "text": "Yuan Yang-C Tarik Gao Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangctarikgaokosongpengdabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagaokosong.ms",
+  "text": "Yuan Yang-C Halia Gao Kosong"
+ },
+ {
+  "key": "call.yuanyangchaliagaokosongdabao.ms",
+  "text": "Yuan Yang-C Halia Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagaokosongpeng.ms",
+  "text": "Yuan Yang-C Halia Gao Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangchaliagaokosongpengdabao.ms",
+  "text": "Yuan Yang-C Halia Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpohkosong.ms",
+  "text": "Yuan Yang-C Poh Kosong"
+ },
+ {
+  "key": "call.yuanyangcpohkosongdabao.ms",
+  "text": "Yuan Yang-C Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpohkosongpeng.ms",
+  "text": "Yuan Yang-C Poh Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangcpohkosongpengdabao.ms",
+  "text": "Yuan Yang-C Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpohkosong.ms",
+  "text": "Yuan Yang-C Tarik Poh Kosong"
+ },
+ {
+  "key": "call.yuanyangctarikpohkosongdabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpohkosongpeng.ms",
+  "text": "Yuan Yang-C Tarik Poh Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangctarikpohkosongpengdabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapohkosong.ms",
+  "text": "Yuan Yang-C Halia Poh Kosong"
+ },
+ {
+  "key": "call.yuanyangchaliapohkosongdabao.ms",
+  "text": "Yuan Yang-C Halia Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapohkosongpeng.ms",
+  "text": "Yuan Yang-C Halia Poh Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangchaliapohkosongpengdabao.ms",
+  "text": "Yuan Yang-C Halia Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilokosong.ms",
+  "text": "Yuan Yang-C Di Lo Kosong"
+ },
+ {
+  "key": "call.yuanyangcdilokosongdabao.ms",
+  "text": "Yuan Yang-C Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilokosongpeng.ms",
+  "text": "Yuan Yang-C Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangcdilokosongpengdabao.ms",
+  "text": "Yuan Yang-C Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilokosong.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Kosong"
+ },
+ {
+  "key": "call.yuanyangctarikdilokosongdabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilokosongpeng.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangctarikdilokosongpengdabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilokosong.ms",
+  "text": "Yuan Yang-C Halia Di Lo Kosong"
+ },
+ {
+  "key": "call.yuanyangchaliadilokosongdabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilokosongpeng.ms",
+  "text": "Yuan Yang-C Halia Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.yuanyangchaliadilokosongpengdabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcsiewdai.ms",
+  "text": "Yuan Yang-C Siew Dai"
+ },
+ {
+  "key": "call.yuanyangcsiewdaidabao.ms",
+  "text": "Yuan Yang-C Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcsiewdaipeng.ms",
+  "text": "Yuan Yang-C Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcsiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctariksiewdai.ms",
+  "text": "Yuan Yang-C Tarik Siew Dai"
+ },
+ {
+  "key": "call.yuanyangctariksiewdaidabao.ms",
+  "text": "Yuan Yang-C Tarik Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctariksiewdaipeng.ms",
+  "text": "Yuan Yang-C Tarik Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctariksiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliasiewdai.ms",
+  "text": "Yuan Yang-C Halia Siew Dai"
+ },
+ {
+  "key": "call.yuanyangchaliasiewdaidabao.ms",
+  "text": "Yuan Yang-C Halia Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliasiewdaipeng.ms",
+  "text": "Yuan Yang-C Halia Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliasiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgaosiewdai.ms",
+  "text": "Yuan Yang-C Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyangcgaosiewdaidabao.ms",
+  "text": "Yuan Yang-C Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgaosiewdaipeng.ms",
+  "text": "Yuan Yang-C Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcgaosiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgaosiewdai.ms",
+  "text": "Yuan Yang-C Tarik Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyangctarikgaosiewdaidabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgaosiewdaipeng.ms",
+  "text": "Yuan Yang-C Tarik Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctarikgaosiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagaosiewdai.ms",
+  "text": "Yuan Yang-C Halia Gao Siew Dai"
+ },
+ {
+  "key": "call.yuanyangchaliagaosiewdaidabao.ms",
+  "text": "Yuan Yang-C Halia Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagaosiewdaipeng.ms",
+  "text": "Yuan Yang-C Halia Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliagaosiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpohsiewdai.ms",
+  "text": "Yuan Yang-C Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangcpohsiewdaidabao.ms",
+  "text": "Yuan Yang-C Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpohsiewdaipeng.ms",
+  "text": "Yuan Yang-C Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcpohsiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpohsiewdai.ms",
+  "text": "Yuan Yang-C Tarik Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangctarikpohsiewdaidabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpohsiewdaipeng.ms",
+  "text": "Yuan Yang-C Tarik Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctarikpohsiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapohsiewdai.ms",
+  "text": "Yuan Yang-C Halia Poh Siew Dai"
+ },
+ {
+  "key": "call.yuanyangchaliapohsiewdaidabao.ms",
+  "text": "Yuan Yang-C Halia Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapohsiewdaipeng.ms",
+  "text": "Yuan Yang-C Halia Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliapohsiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilosiewdai.ms",
+  "text": "Yuan Yang-C Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangcdilosiewdaidabao.ms",
+  "text": "Yuan Yang-C Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilosiewdaipeng.ms",
+  "text": "Yuan Yang-C Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcdilosiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilosiewdai.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangctarikdilosiewdaidabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilosiewdaipeng.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctarikdilosiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilosiewdai.ms",
+  "text": "Yuan Yang-C Halia Di Lo Siew Dai"
+ },
+ {
+  "key": "call.yuanyangchaliadilosiewdaidabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilosiewdaipeng.ms",
+  "text": "Yuan Yang-C Halia Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliadilosiewdaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangc.ms",
+  "text": "Yuan Yang-C"
+ },
+ {
+  "key": "call.yuanyangcdabao.ms",
+  "text": "Yuan Yang-C Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpeng.ms",
+  "text": "Yuan Yang-C Peng"
+ },
+ {
+  "key": "call.yuanyangcpengdabao.ms",
+  "text": "Yuan Yang-C Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarik.ms",
+  "text": "Yuan Yang-C Tarik"
+ },
+ {
+  "key": "call.yuanyangctarikdabao.ms",
+  "text": "Yuan Yang-C Tarik Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpeng.ms",
+  "text": "Yuan Yang-C Tarik Peng"
+ },
+ {
+  "key": "call.yuanyangctarikpengdabao.ms",
+  "text": "Yuan Yang-C Tarik Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchalia.ms",
+  "text": "Yuan Yang-C Halia"
+ },
+ {
+  "key": "call.yuanyangchaliadabao.ms",
+  "text": "Yuan Yang-C Halia Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapeng.ms",
+  "text": "Yuan Yang-C Halia Peng"
+ },
+ {
+  "key": "call.yuanyangchaliapengdabao.ms",
+  "text": "Yuan Yang-C Halia Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgao.ms",
+  "text": "Yuan Yang-C Gao"
+ },
+ {
+  "key": "call.yuanyangcgaodabao.ms",
+  "text": "Yuan Yang-C Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgaopeng.ms",
+  "text": "Yuan Yang-C Gao Peng"
+ },
+ {
+  "key": "call.yuanyangcgaopengdabao.ms",
+  "text": "Yuan Yang-C Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgao.ms",
+  "text": "Yuan Yang-C Tarik Gao"
+ },
+ {
+  "key": "call.yuanyangctarikgaodabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgaopeng.ms",
+  "text": "Yuan Yang-C Tarik Gao Peng"
+ },
+ {
+  "key": "call.yuanyangctarikgaopengdabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagao.ms",
+  "text": "Yuan Yang-C Halia Gao"
+ },
+ {
+  "key": "call.yuanyangchaliagaodabao.ms",
+  "text": "Yuan Yang-C Halia Gao Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagaopeng.ms",
+  "text": "Yuan Yang-C Halia Gao Peng"
+ },
+ {
+  "key": "call.yuanyangchaliagaopengdabao.ms",
+  "text": "Yuan Yang-C Halia Gao Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpoh.ms",
+  "text": "Yuan Yang-C Poh"
+ },
+ {
+  "key": "call.yuanyangcpohdabao.ms",
+  "text": "Yuan Yang-C Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpohpeng.ms",
+  "text": "Yuan Yang-C Poh Peng"
+ },
+ {
+  "key": "call.yuanyangcpohpengdabao.ms",
+  "text": "Yuan Yang-C Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpoh.ms",
+  "text": "Yuan Yang-C Tarik Poh"
+ },
+ {
+  "key": "call.yuanyangctarikpohdabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpohpeng.ms",
+  "text": "Yuan Yang-C Tarik Poh Peng"
+ },
+ {
+  "key": "call.yuanyangctarikpohpengdabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapoh.ms",
+  "text": "Yuan Yang-C Halia Poh"
+ },
+ {
+  "key": "call.yuanyangchaliapohdabao.ms",
+  "text": "Yuan Yang-C Halia Poh Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapohpeng.ms",
+  "text": "Yuan Yang-C Halia Poh Peng"
+ },
+ {
+  "key": "call.yuanyangchaliapohpengdabao.ms",
+  "text": "Yuan Yang-C Halia Poh Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilo.ms",
+  "text": "Yuan Yang-C Di Lo"
+ },
+ {
+  "key": "call.yuanyangcdilodabao.ms",
+  "text": "Yuan Yang-C Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilopeng.ms",
+  "text": "Yuan Yang-C Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangcdilopengdabao.ms",
+  "text": "Yuan Yang-C Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilo.ms",
+  "text": "Yuan Yang-C Tarik Di Lo"
+ },
+ {
+  "key": "call.yuanyangctarikdilodabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilopeng.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangctarikdilopengdabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilo.ms",
+  "text": "Yuan Yang-C Halia Di Lo"
+ },
+ {
+  "key": "call.yuanyangchaliadilodabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilopeng.ms",
+  "text": "Yuan Yang-C Halia Di Lo Peng"
+ },
+ {
+  "key": "call.yuanyangchaliadilopengdabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgadai.ms",
+  "text": "Yuan Yang-C Ga Dai"
+ },
+ {
+  "key": "call.yuanyangcgadaidabao.ms",
+  "text": "Yuan Yang-C Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgadaipeng.ms",
+  "text": "Yuan Yang-C Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcgadaipengdabao.ms",
+  "text": "Yuan Yang-C Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgadai.ms",
+  "text": "Yuan Yang-C Tarik Ga Dai"
+ },
+ {
+  "key": "call.yuanyangctarikgadaidabao.ms",
+  "text": "Yuan Yang-C Tarik Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgadaipeng.ms",
+  "text": "Yuan Yang-C Tarik Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctarikgadaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagadai.ms",
+  "text": "Yuan Yang-C Halia Ga Dai"
+ },
+ {
+  "key": "call.yuanyangchaliagadaidabao.ms",
+  "text": "Yuan Yang-C Halia Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagadaipeng.ms",
+  "text": "Yuan Yang-C Halia Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliagadaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgaogadai.ms",
+  "text": "Yuan Yang-C Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyangcgaogadaidabao.ms",
+  "text": "Yuan Yang-C Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcgaogadaipeng.ms",
+  "text": "Yuan Yang-C Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcgaogadaipengdabao.ms",
+  "text": "Yuan Yang-C Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgaogadai.ms",
+  "text": "Yuan Yang-C Tarik Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyangctarikgaogadaidabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikgaogadaipeng.ms",
+  "text": "Yuan Yang-C Tarik Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctarikgaogadaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagaogadai.ms",
+  "text": "Yuan Yang-C Halia Gao Ga Dai"
+ },
+ {
+  "key": "call.yuanyangchaliagaogadaidabao.ms",
+  "text": "Yuan Yang-C Halia Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliagaogadaipeng.ms",
+  "text": "Yuan Yang-C Halia Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliagaogadaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpohgadai.ms",
+  "text": "Yuan Yang-C Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangcpohgadaidabao.ms",
+  "text": "Yuan Yang-C Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcpohgadaipeng.ms",
+  "text": "Yuan Yang-C Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcpohgadaipengdabao.ms",
+  "text": "Yuan Yang-C Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpohgadai.ms",
+  "text": "Yuan Yang-C Tarik Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangctarikpohgadaidabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikpohgadaipeng.ms",
+  "text": "Yuan Yang-C Tarik Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctarikpohgadaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapohgadai.ms",
+  "text": "Yuan Yang-C Halia Poh Ga Dai"
+ },
+ {
+  "key": "call.yuanyangchaliapohgadaidabao.ms",
+  "text": "Yuan Yang-C Halia Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliapohgadaipeng.ms",
+  "text": "Yuan Yang-C Halia Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliapohgadaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilogadai.ms",
+  "text": "Yuan Yang-C Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangcdilogadaidabao.ms",
+  "text": "Yuan Yang-C Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangcdilogadaipeng.ms",
+  "text": "Yuan Yang-C Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangcdilogadaipengdabao.ms",
+  "text": "Yuan Yang-C Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilogadai.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangctarikdilogadaidabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangctarikdilogadaipeng.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangctarikdilogadaipengdabao.ms",
+  "text": "Yuan Yang-C Tarik Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilogadai.ms",
+  "text": "Yuan Yang-C Halia Di Lo Ga Dai"
+ },
+ {
+  "key": "call.yuanyangchaliadilogadaidabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.yuanyangchaliadilogadaipeng.ms",
+  "text": "Yuan Yang-C Halia Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.yuanyangchaliadilogadaipengdabao.ms",
+  "text": "Yuan Yang-C Halia Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milosiewdai.ms",
+  "text": "Milo Siew Dai"
+ },
+ {
+  "key": "call.milosiewdaidabao.ms",
+  "text": "Milo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milosiewdaipeng.ms",
+  "text": "Milo Siew Dai Peng"
+ },
+ {
+  "key": "call.milosiewdaipengdabao.ms",
+  "text": "Milo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milosiewdaidinosaur.ms",
+  "text": "Milo Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milosiewdaidinosaurdabao.ms",
+  "text": "Milo Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milogaosiewdai.ms",
+  "text": "Milo Gao Siew Dai"
+ },
+ {
+  "key": "call.milogaosiewdaidabao.ms",
+  "text": "Milo Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milogaosiewdaipeng.ms",
+  "text": "Milo Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.milogaosiewdaipengdabao.ms",
+  "text": "Milo Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milogaosiewdaidinosaur.ms",
+  "text": "Milo Gao Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milogaosiewdaidinosaurdabao.ms",
+  "text": "Milo Gao Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milopohsiewdai.ms",
+  "text": "Milo Poh Siew Dai"
+ },
+ {
+  "key": "call.milopohsiewdaidabao.ms",
+  "text": "Milo Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milopohsiewdaipeng.ms",
+  "text": "Milo Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.milopohsiewdaipengdabao.ms",
+  "text": "Milo Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milopohsiewdaidinosaur.ms",
+  "text": "Milo Poh Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milopohsiewdaidinosaurdabao.ms",
+  "text": "Milo Poh Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milodilosiewdai.ms",
+  "text": "Milo Di Lo Siew Dai"
+ },
+ {
+  "key": "call.milodilosiewdaidabao.ms",
+  "text": "Milo Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milodilosiewdaipeng.ms",
+  "text": "Milo Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.milodilosiewdaipengdabao.ms",
+  "text": "Milo Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milodilosiewdaidinosaur.ms",
+  "text": "Milo Di Lo Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milodilosiewdaidinosaurdabao.ms",
+  "text": "Milo Di Lo Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milo.ms",
+  "text": "Milo"
+ },
+ {
+  "key": "call.milodabao.ms",
+  "text": "Milo Da Bao"
+ },
+ {
+  "key": "call.milopeng.ms",
+  "text": "Milo Peng"
+ },
+ {
+  "key": "call.milopengdabao.ms",
+  "text": "Milo Peng Da Bao"
+ },
+ {
+  "key": "call.milodinosaur.ms",
+  "text": "Milo Dinosaur"
+ },
+ {
+  "key": "call.milodinosaurdabao.ms",
+  "text": "Milo Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milogao.ms",
+  "text": "Milo Gao"
+ },
+ {
+  "key": "call.milogaodabao.ms",
+  "text": "Milo Gao Da Bao"
+ },
+ {
+  "key": "call.milogaopeng.ms",
+  "text": "Milo Gao Peng"
+ },
+ {
+  "key": "call.milogaopengdabao.ms",
+  "text": "Milo Gao Peng Da Bao"
+ },
+ {
+  "key": "call.milogaodinosaur.ms",
+  "text": "Milo Gao Dinosaur"
+ },
+ {
+  "key": "call.milogaodinosaurdabao.ms",
+  "text": "Milo Gao Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milopoh.ms",
+  "text": "Milo Poh"
+ },
+ {
+  "key": "call.milopohdabao.ms",
+  "text": "Milo Poh Da Bao"
+ },
+ {
+  "key": "call.milopohpeng.ms",
+  "text": "Milo Poh Peng"
+ },
+ {
+  "key": "call.milopohpengdabao.ms",
+  "text": "Milo Poh Peng Da Bao"
+ },
+ {
+  "key": "call.milopohdinosaur.ms",
+  "text": "Milo Poh Dinosaur"
+ },
+ {
+  "key": "call.milopohdinosaurdabao.ms",
+  "text": "Milo Poh Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milodilo.ms",
+  "text": "Milo Di Lo"
+ },
+ {
+  "key": "call.milodilodabao.ms",
+  "text": "Milo Di Lo Da Bao"
+ },
+ {
+  "key": "call.milodilopeng.ms",
+  "text": "Milo Di Lo Peng"
+ },
+ {
+  "key": "call.milodilopengdabao.ms",
+  "text": "Milo Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.milodilodinosaur.ms",
+  "text": "Milo Di Lo Dinosaur"
+ },
+ {
+  "key": "call.milodilodinosaurdabao.ms",
+  "text": "Milo Di Lo Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milogadai.ms",
+  "text": "Milo Ga Dai"
+ },
+ {
+  "key": "call.milogadaidabao.ms",
+  "text": "Milo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milogadaipeng.ms",
+  "text": "Milo Ga Dai Peng"
+ },
+ {
+  "key": "call.milogadaipengdabao.ms",
+  "text": "Milo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milogadaidinosaur.ms",
+  "text": "Milo Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milogadaidinosaurdabao.ms",
+  "text": "Milo Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milogaogadai.ms",
+  "text": "Milo Gao Ga Dai"
+ },
+ {
+  "key": "call.milogaogadaidabao.ms",
+  "text": "Milo Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milogaogadaipeng.ms",
+  "text": "Milo Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.milogaogadaipengdabao.ms",
+  "text": "Milo Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milogaogadaidinosaur.ms",
+  "text": "Milo Gao Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milogaogadaidinosaurdabao.ms",
+  "text": "Milo Gao Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milopohgadai.ms",
+  "text": "Milo Poh Ga Dai"
+ },
+ {
+  "key": "call.milopohgadaidabao.ms",
+  "text": "Milo Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milopohgadaipeng.ms",
+  "text": "Milo Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.milopohgadaipengdabao.ms",
+  "text": "Milo Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milopohgadaidinosaur.ms",
+  "text": "Milo Poh Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milopohgadaidinosaurdabao.ms",
+  "text": "Milo Poh Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milodilogadai.ms",
+  "text": "Milo Di Lo Ga Dai"
+ },
+ {
+  "key": "call.milodilogadaidabao.ms",
+  "text": "Milo Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milodilogadaipeng.ms",
+  "text": "Milo Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.milodilogadaipengdabao.ms",
+  "text": "Milo Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milodilogadaidinosaur.ms",
+  "text": "Milo Di Lo Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milodilogadaidinosaurdabao.ms",
+  "text": "Milo Di Lo Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milookosong.ms",
+  "text": "Milo-O Kosong"
+ },
+ {
+  "key": "call.milookosongdabao.ms",
+  "text": "Milo-O Kosong Da Bao"
+ },
+ {
+  "key": "call.milookosongpeng.ms",
+  "text": "Milo-O Kosong Peng"
+ },
+ {
+  "key": "call.milookosongpengdabao.ms",
+  "text": "Milo-O Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.milookosongdinosaur.ms",
+  "text": "Milo-O Kosong Dinosaur"
+ },
+ {
+  "key": "call.milookosongdinosaurdabao.ms",
+  "text": "Milo-O Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloogaokosong.ms",
+  "text": "Milo-O Gao Kosong"
+ },
+ {
+  "key": "call.miloogaokosongdabao.ms",
+  "text": "Milo-O Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.miloogaokosongpeng.ms",
+  "text": "Milo-O Gao Kosong Peng"
+ },
+ {
+  "key": "call.miloogaokosongpengdabao.ms",
+  "text": "Milo-O Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.miloogaokosongdinosaur.ms",
+  "text": "Milo-O Gao Kosong Dinosaur"
+ },
+ {
+  "key": "call.miloogaokosongdinosaurdabao.ms",
+  "text": "Milo-O Gao Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloopohkosong.ms",
+  "text": "Milo-O Poh Kosong"
+ },
+ {
+  "key": "call.miloopohkosongdabao.ms",
+  "text": "Milo-O Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.miloopohkosongpeng.ms",
+  "text": "Milo-O Poh Kosong Peng"
+ },
+ {
+  "key": "call.miloopohkosongpengdabao.ms",
+  "text": "Milo-O Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.miloopohkosongdinosaur.ms",
+  "text": "Milo-O Poh Kosong Dinosaur"
+ },
+ {
+  "key": "call.miloopohkosongdinosaurdabao.ms",
+  "text": "Milo-O Poh Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloodilokosong.ms",
+  "text": "Milo-O Di Lo Kosong"
+ },
+ {
+  "key": "call.miloodilokosongdabao.ms",
+  "text": "Milo-O Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.miloodilokosongpeng.ms",
+  "text": "Milo-O Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.miloodilokosongpengdabao.ms",
+  "text": "Milo-O Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.miloodilokosongdinosaur.ms",
+  "text": "Milo-O Di Lo Kosong Dinosaur"
+ },
+ {
+  "key": "call.miloodilokosongdinosaurdabao.ms",
+  "text": "Milo-O Di Lo Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloosiewdai.ms",
+  "text": "Milo-O Siew Dai"
+ },
+ {
+  "key": "call.miloosiewdaidabao.ms",
+  "text": "Milo-O Siew Dai Da Bao"
+ },
+ {
+  "key": "call.miloosiewdaipeng.ms",
+  "text": "Milo-O Siew Dai Peng"
+ },
+ {
+  "key": "call.miloosiewdaipengdabao.ms",
+  "text": "Milo-O Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloosiewdaidinosaur.ms",
+  "text": "Milo-O Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.miloosiewdaidinosaurdabao.ms",
+  "text": "Milo-O Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloogaosiewdai.ms",
+  "text": "Milo-O Gao Siew Dai"
+ },
+ {
+  "key": "call.miloogaosiewdaidabao.ms",
+  "text": "Milo-O Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.miloogaosiewdaipeng.ms",
+  "text": "Milo-O Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.miloogaosiewdaipengdabao.ms",
+  "text": "Milo-O Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloogaosiewdaidinosaur.ms",
+  "text": "Milo-O Gao Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.miloogaosiewdaidinosaurdabao.ms",
+  "text": "Milo-O Gao Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloopohsiewdai.ms",
+  "text": "Milo-O Poh Siew Dai"
+ },
+ {
+  "key": "call.miloopohsiewdaidabao.ms",
+  "text": "Milo-O Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.miloopohsiewdaipeng.ms",
+  "text": "Milo-O Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.miloopohsiewdaipengdabao.ms",
+  "text": "Milo-O Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloopohsiewdaidinosaur.ms",
+  "text": "Milo-O Poh Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.miloopohsiewdaidinosaurdabao.ms",
+  "text": "Milo-O Poh Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloodilosiewdai.ms",
+  "text": "Milo-O Di Lo Siew Dai"
+ },
+ {
+  "key": "call.miloodilosiewdaidabao.ms",
+  "text": "Milo-O Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.miloodilosiewdaipeng.ms",
+  "text": "Milo-O Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.miloodilosiewdaipengdabao.ms",
+  "text": "Milo-O Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloodilosiewdaidinosaur.ms",
+  "text": "Milo-O Di Lo Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.miloodilosiewdaidinosaurdabao.ms",
+  "text": "Milo-O Di Lo Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloo.ms",
+  "text": "Milo-O"
+ },
+ {
+  "key": "call.miloodabao.ms",
+  "text": "Milo-O Da Bao"
+ },
+ {
+  "key": "call.miloopeng.ms",
+  "text": "Milo-O Peng"
+ },
+ {
+  "key": "call.miloopengdabao.ms",
+  "text": "Milo-O Peng Da Bao"
+ },
+ {
+  "key": "call.miloodinosaur.ms",
+  "text": "Milo-O Dinosaur"
+ },
+ {
+  "key": "call.miloodinosaurdabao.ms",
+  "text": "Milo-O Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloogao.ms",
+  "text": "Milo-O Gao"
+ },
+ {
+  "key": "call.miloogaodabao.ms",
+  "text": "Milo-O Gao Da Bao"
+ },
+ {
+  "key": "call.miloogaopeng.ms",
+  "text": "Milo-O Gao Peng"
+ },
+ {
+  "key": "call.miloogaopengdabao.ms",
+  "text": "Milo-O Gao Peng Da Bao"
+ },
+ {
+  "key": "call.miloogaodinosaur.ms",
+  "text": "Milo-O Gao Dinosaur"
+ },
+ {
+  "key": "call.miloogaodinosaurdabao.ms",
+  "text": "Milo-O Gao Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloopoh.ms",
+  "text": "Milo-O Poh"
+ },
+ {
+  "key": "call.miloopohdabao.ms",
+  "text": "Milo-O Poh Da Bao"
+ },
+ {
+  "key": "call.miloopohpeng.ms",
+  "text": "Milo-O Poh Peng"
+ },
+ {
+  "key": "call.miloopohpengdabao.ms",
+  "text": "Milo-O Poh Peng Da Bao"
+ },
+ {
+  "key": "call.miloopohdinosaur.ms",
+  "text": "Milo-O Poh Dinosaur"
+ },
+ {
+  "key": "call.miloopohdinosaurdabao.ms",
+  "text": "Milo-O Poh Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloodilo.ms",
+  "text": "Milo-O Di Lo"
+ },
+ {
+  "key": "call.miloodilodabao.ms",
+  "text": "Milo-O Di Lo Da Bao"
+ },
+ {
+  "key": "call.miloodilopeng.ms",
+  "text": "Milo-O Di Lo Peng"
+ },
+ {
+  "key": "call.miloodilopengdabao.ms",
+  "text": "Milo-O Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.miloodilodinosaur.ms",
+  "text": "Milo-O Di Lo Dinosaur"
+ },
+ {
+  "key": "call.miloodilodinosaurdabao.ms",
+  "text": "Milo-O Di Lo Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloogadai.ms",
+  "text": "Milo-O Ga Dai"
+ },
+ {
+  "key": "call.miloogadaidabao.ms",
+  "text": "Milo-O Ga Dai Da Bao"
+ },
+ {
+  "key": "call.miloogadaipeng.ms",
+  "text": "Milo-O Ga Dai Peng"
+ },
+ {
+  "key": "call.miloogadaipengdabao.ms",
+  "text": "Milo-O Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloogadaidinosaur.ms",
+  "text": "Milo-O Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.miloogadaidinosaurdabao.ms",
+  "text": "Milo-O Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloogaogadai.ms",
+  "text": "Milo-O Gao Ga Dai"
+ },
+ {
+  "key": "call.miloogaogadaidabao.ms",
+  "text": "Milo-O Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.miloogaogadaipeng.ms",
+  "text": "Milo-O Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.miloogaogadaipengdabao.ms",
+  "text": "Milo-O Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloogaogadaidinosaur.ms",
+  "text": "Milo-O Gao Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.miloogaogadaidinosaurdabao.ms",
+  "text": "Milo-O Gao Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloopohgadai.ms",
+  "text": "Milo-O Poh Ga Dai"
+ },
+ {
+  "key": "call.miloopohgadaidabao.ms",
+  "text": "Milo-O Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.miloopohgadaipeng.ms",
+  "text": "Milo-O Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.miloopohgadaipengdabao.ms",
+  "text": "Milo-O Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloopohgadaidinosaur.ms",
+  "text": "Milo-O Poh Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.miloopohgadaidinosaurdabao.ms",
+  "text": "Milo-O Poh Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloodilogadai.ms",
+  "text": "Milo-O Di Lo Ga Dai"
+ },
+ {
+  "key": "call.miloodilogadaidabao.ms",
+  "text": "Milo-O Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.miloodilogadaipeng.ms",
+  "text": "Milo-O Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.miloodilogadaipengdabao.ms",
+  "text": "Milo-O Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.miloodilogadaidinosaur.ms",
+  "text": "Milo-O Di Lo Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.miloodilogadaidinosaurdabao.ms",
+  "text": "Milo-O Di Lo Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milockosong.ms",
+  "text": "Milo-C Kosong"
+ },
+ {
+  "key": "call.milockosongdabao.ms",
+  "text": "Milo-C Kosong Da Bao"
+ },
+ {
+  "key": "call.milockosongpeng.ms",
+  "text": "Milo-C Kosong Peng"
+ },
+ {
+  "key": "call.milockosongpengdabao.ms",
+  "text": "Milo-C Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.milockosongdinosaur.ms",
+  "text": "Milo-C Kosong Dinosaur"
+ },
+ {
+  "key": "call.milockosongdinosaurdabao.ms",
+  "text": "Milo-C Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocgaokosong.ms",
+  "text": "Milo-C Gao Kosong"
+ },
+ {
+  "key": "call.milocgaokosongdabao.ms",
+  "text": "Milo-C Gao Kosong Da Bao"
+ },
+ {
+  "key": "call.milocgaokosongpeng.ms",
+  "text": "Milo-C Gao Kosong Peng"
+ },
+ {
+  "key": "call.milocgaokosongpengdabao.ms",
+  "text": "Milo-C Gao Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.milocgaokosongdinosaur.ms",
+  "text": "Milo-C Gao Kosong Dinosaur"
+ },
+ {
+  "key": "call.milocgaokosongdinosaurdabao.ms",
+  "text": "Milo-C Gao Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocpohkosong.ms",
+  "text": "Milo-C Poh Kosong"
+ },
+ {
+  "key": "call.milocpohkosongdabao.ms",
+  "text": "Milo-C Poh Kosong Da Bao"
+ },
+ {
+  "key": "call.milocpohkosongpeng.ms",
+  "text": "Milo-C Poh Kosong Peng"
+ },
+ {
+  "key": "call.milocpohkosongpengdabao.ms",
+  "text": "Milo-C Poh Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.milocpohkosongdinosaur.ms",
+  "text": "Milo-C Poh Kosong Dinosaur"
+ },
+ {
+  "key": "call.milocpohkosongdinosaurdabao.ms",
+  "text": "Milo-C Poh Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocdilokosong.ms",
+  "text": "Milo-C Di Lo Kosong"
+ },
+ {
+  "key": "call.milocdilokosongdabao.ms",
+  "text": "Milo-C Di Lo Kosong Da Bao"
+ },
+ {
+  "key": "call.milocdilokosongpeng.ms",
+  "text": "Milo-C Di Lo Kosong Peng"
+ },
+ {
+  "key": "call.milocdilokosongpengdabao.ms",
+  "text": "Milo-C Di Lo Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.milocdilokosongdinosaur.ms",
+  "text": "Milo-C Di Lo Kosong Dinosaur"
+ },
+ {
+  "key": "call.milocdilokosongdinosaurdabao.ms",
+  "text": "Milo-C Di Lo Kosong Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocsiewdai.ms",
+  "text": "Milo-C Siew Dai"
+ },
+ {
+  "key": "call.milocsiewdaidabao.ms",
+  "text": "Milo-C Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milocsiewdaipeng.ms",
+  "text": "Milo-C Siew Dai Peng"
+ },
+ {
+  "key": "call.milocsiewdaipengdabao.ms",
+  "text": "Milo-C Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocsiewdaidinosaur.ms",
+  "text": "Milo-C Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milocsiewdaidinosaurdabao.ms",
+  "text": "Milo-C Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocgaosiewdai.ms",
+  "text": "Milo-C Gao Siew Dai"
+ },
+ {
+  "key": "call.milocgaosiewdaidabao.ms",
+  "text": "Milo-C Gao Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milocgaosiewdaipeng.ms",
+  "text": "Milo-C Gao Siew Dai Peng"
+ },
+ {
+  "key": "call.milocgaosiewdaipengdabao.ms",
+  "text": "Milo-C Gao Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocgaosiewdaidinosaur.ms",
+  "text": "Milo-C Gao Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milocgaosiewdaidinosaurdabao.ms",
+  "text": "Milo-C Gao Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocpohsiewdai.ms",
+  "text": "Milo-C Poh Siew Dai"
+ },
+ {
+  "key": "call.milocpohsiewdaidabao.ms",
+  "text": "Milo-C Poh Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milocpohsiewdaipeng.ms",
+  "text": "Milo-C Poh Siew Dai Peng"
+ },
+ {
+  "key": "call.milocpohsiewdaipengdabao.ms",
+  "text": "Milo-C Poh Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocpohsiewdaidinosaur.ms",
+  "text": "Milo-C Poh Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milocpohsiewdaidinosaurdabao.ms",
+  "text": "Milo-C Poh Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocdilosiewdai.ms",
+  "text": "Milo-C Di Lo Siew Dai"
+ },
+ {
+  "key": "call.milocdilosiewdaidabao.ms",
+  "text": "Milo-C Di Lo Siew Dai Da Bao"
+ },
+ {
+  "key": "call.milocdilosiewdaipeng.ms",
+  "text": "Milo-C Di Lo Siew Dai Peng"
+ },
+ {
+  "key": "call.milocdilosiewdaipengdabao.ms",
+  "text": "Milo-C Di Lo Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocdilosiewdaidinosaur.ms",
+  "text": "Milo-C Di Lo Siew Dai Dinosaur"
+ },
+ {
+  "key": "call.milocdilosiewdaidinosaurdabao.ms",
+  "text": "Milo-C Di Lo Siew Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.miloc.ms",
+  "text": "Milo-C"
+ },
+ {
+  "key": "call.milocdabao.ms",
+  "text": "Milo-C Da Bao"
+ },
+ {
+  "key": "call.milocpeng.ms",
+  "text": "Milo-C Peng"
+ },
+ {
+  "key": "call.milocpengdabao.ms",
+  "text": "Milo-C Peng Da Bao"
+ },
+ {
+  "key": "call.milocdinosaur.ms",
+  "text": "Milo-C Dinosaur"
+ },
+ {
+  "key": "call.milocdinosaurdabao.ms",
+  "text": "Milo-C Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocgao.ms",
+  "text": "Milo-C Gao"
+ },
+ {
+  "key": "call.milocgaodabao.ms",
+  "text": "Milo-C Gao Da Bao"
+ },
+ {
+  "key": "call.milocgaopeng.ms",
+  "text": "Milo-C Gao Peng"
+ },
+ {
+  "key": "call.milocgaopengdabao.ms",
+  "text": "Milo-C Gao Peng Da Bao"
+ },
+ {
+  "key": "call.milocgaodinosaur.ms",
+  "text": "Milo-C Gao Dinosaur"
+ },
+ {
+  "key": "call.milocgaodinosaurdabao.ms",
+  "text": "Milo-C Gao Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocpoh.ms",
+  "text": "Milo-C Poh"
+ },
+ {
+  "key": "call.milocpohdabao.ms",
+  "text": "Milo-C Poh Da Bao"
+ },
+ {
+  "key": "call.milocpohpeng.ms",
+  "text": "Milo-C Poh Peng"
+ },
+ {
+  "key": "call.milocpohpengdabao.ms",
+  "text": "Milo-C Poh Peng Da Bao"
+ },
+ {
+  "key": "call.milocpohdinosaur.ms",
+  "text": "Milo-C Poh Dinosaur"
+ },
+ {
+  "key": "call.milocpohdinosaurdabao.ms",
+  "text": "Milo-C Poh Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocdilo.ms",
+  "text": "Milo-C Di Lo"
+ },
+ {
+  "key": "call.milocdilodabao.ms",
+  "text": "Milo-C Di Lo Da Bao"
+ },
+ {
+  "key": "call.milocdilopeng.ms",
+  "text": "Milo-C Di Lo Peng"
+ },
+ {
+  "key": "call.milocdilopengdabao.ms",
+  "text": "Milo-C Di Lo Peng Da Bao"
+ },
+ {
+  "key": "call.milocdilodinosaur.ms",
+  "text": "Milo-C Di Lo Dinosaur"
+ },
+ {
+  "key": "call.milocdilodinosaurdabao.ms",
+  "text": "Milo-C Di Lo Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocgadai.ms",
+  "text": "Milo-C Ga Dai"
+ },
+ {
+  "key": "call.milocgadaidabao.ms",
+  "text": "Milo-C Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milocgadaipeng.ms",
+  "text": "Milo-C Ga Dai Peng"
+ },
+ {
+  "key": "call.milocgadaipengdabao.ms",
+  "text": "Milo-C Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocgadaidinosaur.ms",
+  "text": "Milo-C Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milocgadaidinosaurdabao.ms",
+  "text": "Milo-C Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocgaogadai.ms",
+  "text": "Milo-C Gao Ga Dai"
+ },
+ {
+  "key": "call.milocgaogadaidabao.ms",
+  "text": "Milo-C Gao Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milocgaogadaipeng.ms",
+  "text": "Milo-C Gao Ga Dai Peng"
+ },
+ {
+  "key": "call.milocgaogadaipengdabao.ms",
+  "text": "Milo-C Gao Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocgaogadaidinosaur.ms",
+  "text": "Milo-C Gao Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milocgaogadaidinosaurdabao.ms",
+  "text": "Milo-C Gao Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocpohgadai.ms",
+  "text": "Milo-C Poh Ga Dai"
+ },
+ {
+  "key": "call.milocpohgadaidabao.ms",
+  "text": "Milo-C Poh Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milocpohgadaipeng.ms",
+  "text": "Milo-C Poh Ga Dai Peng"
+ },
+ {
+  "key": "call.milocpohgadaipengdabao.ms",
+  "text": "Milo-C Poh Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocpohgadaidinosaur.ms",
+  "text": "Milo-C Poh Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milocpohgadaidinosaurdabao.ms",
+  "text": "Milo-C Poh Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.milocdilogadai.ms",
+  "text": "Milo-C Di Lo Ga Dai"
+ },
+ {
+  "key": "call.milocdilogadaidabao.ms",
+  "text": "Milo-C Di Lo Ga Dai Da Bao"
+ },
+ {
+  "key": "call.milocdilogadaipeng.ms",
+  "text": "Milo-C Di Lo Ga Dai Peng"
+ },
+ {
+  "key": "call.milocdilogadaipengdabao.ms",
+  "text": "Milo-C Di Lo Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.milocdilogadaidinosaur.ms",
+  "text": "Milo-C Di Lo Ga Dai Dinosaur"
+ },
+ {
+  "key": "call.milocdilogadaidinosaurdabao.ms",
+  "text": "Milo-C Di Lo Ga Dai Dinosaur Da Bao"
+ },
+ {
+  "key": "call.bandungkosong.ms",
+  "text": "Bandung Kosong"
+ },
+ {
+  "key": "call.bandungkosongdabao.ms",
+  "text": "Bandung Kosong Da Bao"
+ },
+ {
+  "key": "call.bandungkosongpeng.ms",
+  "text": "Bandung Kosong Peng"
+ },
+ {
+  "key": "call.bandungkosongpengdabao.ms",
+  "text": "Bandung Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.bandungsiewdai.ms",
+  "text": "Bandung Siew Dai"
+ },
+ {
+  "key": "call.bandungsiewdaidabao.ms",
+  "text": "Bandung Siew Dai Da Bao"
+ },
+ {
+  "key": "call.bandungsiewdaipeng.ms",
+  "text": "Bandung Siew Dai Peng"
+ },
+ {
+  "key": "call.bandungsiewdaipengdabao.ms",
+  "text": "Bandung Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.bandung.ms",
+  "text": "Bandung"
+ },
+ {
+  "key": "call.bandungdabao.ms",
+  "text": "Bandung Da Bao"
+ },
+ {
+  "key": "call.bandungpeng.ms",
+  "text": "Bandung Peng"
+ },
+ {
+  "key": "call.bandungpengdabao.ms",
+  "text": "Bandung Peng Da Bao"
+ },
+ {
+  "key": "call.bandunggadai.ms",
+  "text": "Bandung Ga Dai"
+ },
+ {
+  "key": "call.bandunggadaidabao.ms",
+  "text": "Bandung Ga Dai Da Bao"
+ },
+ {
+  "key": "call.bandunggadaipeng.ms",
+  "text": "Bandung Ga Dai Peng"
+ },
+ {
+  "key": "call.bandunggadaipengdabao.ms",
+  "text": "Bandung Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.michaeljacksonkosong.ms",
+  "text": "Michael Jackson Kosong"
+ },
+ {
+  "key": "call.michaeljacksonkosongdabao.ms",
+  "text": "Michael Jackson Kosong Da Bao"
+ },
+ {
+  "key": "call.michaeljacksonkosongpeng.ms",
+  "text": "Michael Jackson Kosong Peng"
+ },
+ {
+  "key": "call.michaeljacksonkosongpengdabao.ms",
+  "text": "Michael Jackson Kosong Peng Da Bao"
+ },
+ {
+  "key": "call.michaeljacksonsiewdai.ms",
+  "text": "Michael Jackson Siew Dai"
+ },
+ {
+  "key": "call.michaeljacksonsiewdaidabao.ms",
+  "text": "Michael Jackson Siew Dai Da Bao"
+ },
+ {
+  "key": "call.michaeljacksonsiewdaipeng.ms",
+  "text": "Michael Jackson Siew Dai Peng"
+ },
+ {
+  "key": "call.michaeljacksonsiewdaipengdabao.ms",
+  "text": "Michael Jackson Siew Dai Peng Da Bao"
+ },
+ {
+  "key": "call.michaeljackson.ms",
+  "text": "Michael Jackson"
+ },
+ {
+  "key": "call.michaeljacksondabao.ms",
+  "text": "Michael Jackson Da Bao"
+ },
+ {
+  "key": "call.michaeljacksonpeng.ms",
+  "text": "Michael Jackson Peng"
+ },
+ {
+  "key": "call.michaeljacksonpengdabao.ms",
+  "text": "Michael Jackson Peng Da Bao"
+ },
+ {
+  "key": "call.michaeljacksongadai.ms",
+  "text": "Michael Jackson Ga Dai"
+ },
+ {
+  "key": "call.michaeljacksongadaidabao.ms",
+  "text": "Michael Jackson Ga Dai Da Bao"
+ },
+ {
+  "key": "call.michaeljacksongadaipeng.ms",
+  "text": "Michael Jackson Ga Dai Peng"
+ },
+ {
+  "key": "call.michaeljacksongadaipengdabao.ms",
+  "text": "Michael Jackson Ga Dai Peng Da Bao"
+ },
+ {
+  "key": "call.cups2.ms",
+  "text": "Two"
+ },
+ {
+  "key": "call.cups3.ms",
+  "text": "Three"
+ },
+ {
+  "key": "call.cups4.ms",
+  "text": "Four"
+ },
+ {
+  "key": "call.cups5.ms",
+  "text": "Five"
+ }
+]
