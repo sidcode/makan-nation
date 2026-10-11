@@ -1,0 +1,29 @@
+{
+  "name": "makan-nation-demo-video",
+  "private": true,
+  "type": "module",
+  "description": "The Makan Nation demo video: scripted playthroughs captured from the real site, cut together in Remotion",
+  "scripts": {
+    "shoot": "node capture/shoot.mjs",
+    "studio": "remotion studio src/index.ts",
+    "stills": "remotion still src/index.ts MakanNation out/still.png",
+    "render": "remotion render src/index.ts MakanNation out/makan-nation-demo.mp4"
+  },
+  "dependencies": {
+    "playwright-core": "1.62.1",
+    "remotion": "4.0.489",
+    "@remotion/cli": "4.0.489",
+    "@remotion/transitions": "4.0.489",
+    "@remotion/media": "4.0.489",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "@fontsource-variable/fraunces": "^5.3.0",
+    "@fontsource-variable/bricolage-grotesque": "^5.3.0",
+    "@fontsource/dm-mono": "^5.3.0",
+    "@fontsource/vt323": "^5.3.0"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "@types/react": "19.2.7"
+  }
+}
