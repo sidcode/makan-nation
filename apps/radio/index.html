@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Time Capsule Radio</title>
+  <meta name="description" content="One dial from 1905 to 2065: old 78s, Rediffusion dialect stories, live Singapore radio, and songs sealed for the future.">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="top">
+    <a class="top__back" href="../">Common Ground</a>
+    <label class="travel">
+      <input type="checkbox" id="travel">
+      <span class="travel__track" aria-hidden="true"><span class="travel__thumb"></span></span>
+      <span class="travel__text">Pretend it's 2065</span>
+    </label>
+  </header>
+
+  <main class="stage">
+    <div class="intro">
+      <h1 class="wordmark">Time Capsule <em>Radio</em></h1>
+      <p class="tagline">Turn left for the past. Stay in the middle for now. Turn right for songs people have sealed for later.</p>
+    </div>
+
+    <section class="radio" id="radio" aria-label="Radio">
+      <div class="radio__handle" aria-hidden="true"></div>
+      <div class="radio__face">
+        <div class="radio__upper">
+          <div class="grille" aria-hidden="true">
+            <div class="grille__badge">
+              <span>TCR</span>
+              <small>1905 to 2065</small>
+            </div>
+          </div>
+          <div class="card" id="card"></div>
+        </div>
+
+        <div class="readout" id="readout" aria-hidden="true">
+          <span class="readout__year" id="readoutYear">----</span>
+          <span class="readout__band" id="readoutBand">OFF</span>
+        </div>
+
+        <div class="dial" id="dial" tabindex="0" role="slider" aria-label="Tuning dial. Use arrow keys to tune, Page Up and Page Down to jump between stations." aria-valuemin="0" aria-valuemax="100" aria-valuenow="0">
+          <div class="dial__scale" id="scale"></div>
+          <div class="dial__needle" aria-hidden="true"></div>
+          <div class="dial__glass" aria-hidden="true"></div>
+        </div>
+
+        <div class="controls">
+          <button class="power" id="power" type="button" aria-pressed="false" aria-label="Power">
+            <span class="power__dot" aria-hidden="true"></span>
+            <span class="power__label">On</span>
+          </button>
+          <div class="keys" id="keys" role="group" aria-label="Bands"></div>
+          <label class="hiss">
+            <input type="checkbox" id="static" checked>
+            <span class="hiss__switch" aria-hidden="true"><span class="hiss__nub"></span></span>
+            <span class="hiss__label">Static</span>
+          </label>
+          <button class="seek" id="prev" type="button" aria-label="Previous station">&#9664;</button>
+          <div class="knob" id="knob" aria-hidden="true"><span class="knob__dot"></span></div>
+          <button class="seek" id="next" type="button" aria-label="Next station">&#9654;</button>
+        </div>
+      </div>
+    </section>
+
+    <div class="seal-row">
+      <button class="seal-cta" id="sealOpen" type="button">
+        <span class="seal-cta__tin" aria-hidden="true"></span>
+        Seal a song for later
+      </button>
+    </div>
+
+    <article class="ticket" id="ticket" aria-live="polite"></article>
+
+    <section class="guide" aria-labelledby="guideTitle">
+      <h2 class="guide__title" id="guideTitle">Station guide</h2>
+      <div class="guide__cols" id="guide"></div>
+    </section>
+
+    <footer class="credits">
+      <p>Records via the <a href="https://archive.org/details/georgeblood" target="_blank" rel="noopener">Internet Archive's Great 78 Project</a> and its uploaders. Rediffusion stories via a <a href="https://archive.org/search?query=rediffusion.sg" target="_blank" rel="noopener">community upload</a>. Live streams listed by <a href="https://www.radio-browser.info/" target="_blank" rel="noopener">radio-browser.info</a>. Song previews from Apple Music.</p>
+    </footer>
+  </main>
+
+  <dialog class="sealer" id="sealer" aria-labelledby="sealTitle">
+    <form class="sealer__form" id="sealForm" method="dialog" novalidate>
+      <button class="sealer__close" type="button" id="sealClose" aria-label="Close">&times;</button>
+      <h2 id="sealTitle">Seal a song for later</h2>
+      <p class="sealer__lede">Pick one song the future should not miss. It goes into the tin and stays muffled until the year you pick.</p>
+
+      <label class="field">
+        <span class="field__label">1. Find the song</span>
+        <input type="search" id="sealSearch" placeholder="Try Kit Chan, xinyao, Gentle Bones..." autocomplete="off" maxlength="80">
+      </label>
+      <ul class="results" id="sealResults" aria-live="polite"></ul>
+
+      <label class="field">
+        <span class="field__label">2. Why should the future hear it?</span>
+        <textarea id="sealNote" rows="3" maxlength="200" placeholder="Played this on every road trip to JB..."></textarea>
+        <span class="field__count" id="sealCount">0 / 200</span>
+      </label>
+
+      <label class="field">
+        <span class="field__label">3. Who is sealing it? <small>(optional)</small></span>
+        <input type="text" id="sealName" maxlength="40" placeholder="Your name or a nickname" autocomplete="nickname">
+      </label>
+
+      <fieldset class="field years">
+        <legend class="field__label">4. Open it in</legend>
+        <div class="years__row" id="sealYears"></div>
+      </fieldset>
+
+      <p class="sealer__error" id="sealError" role="alert"></p>
+      <button class="sealer__go" id="sealGo" type="submit">Into the tin</button>
+    </form>
+  </dialog>
+
+  <div class="toast" id="toast" role="status"></div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "example-930759487",
+    "song": {
+      "id": 930759487,
+      "title": "Kamelia",
+      "artist": "Sweet Charity",
+      "album": "Gemilang 35",
+      "year": 2004,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/1d/a9/62/1da9622b-1ab0-9998-3220-d348f4411746/825646282371.jpg/300x300bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5d/83/75/5d8375c8-7059-647f-3879-43f7f2270e11/mzaf_14613566056033955978.plus.aac.p.m4a"
+    },
+    "note": "Singapore rock with long hair and big feelings. Turn it up.",
+    "name": "Example capsule",
+    "openYear": 2030,
+    "sealedAt": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "id": "example-973582550",
+    "song": {
+      "id": 973582550,
+      "title": "Fried Rice Paradise",
+      "artist": "Dick Lee",
+      "album": "40th Anniversary Collection",
+      "year": 2015,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music3/v4/7d/f4/5e/7df45e39-1771-4508-f6e3-6f65dacb376b/825646133147.jpg/300x300bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/57/96/ab/5796abd7-2b17-f3e7-f819-d2e00f5f9f91/mzaf_13655665383230636698.plus.aac.p.m4a"
+    },
+    "note": "Proof that this island can be silly and proud in the same song.",
+    "name": "Example capsule",
+    "openYear": 2040,
+    "sealedAt": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "id": "example-1071753628",
+    "song": {
+      "id": 1071753628,
+      "title": "江南",
+      "artist": "JJ Lin",
+      "album": "第二天堂(江南)",
+      "year": 2004,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music49/v4/9b/98/eb/9b98ebae-69b1-8009-678c-65e94124e0a8/dj.cqtiyqmo.jpg/300x300bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/0d/0a/1f/0d0a1f64-1faa-01a3-6b82-3f71c7f1ad53/mzaf_6171234305789252058.plus.aac.p.m4a"
+    },
+    "note": "Every KTV night ended with this one. Please keep the KTV rooms open.",
+    "name": "Example capsule",
+    "openYear": 2050,
+    "sealedAt": "2026-10-05T00:00:00.000Z"
+  },
+  {
+    "id": "example-1136286496",
+    "song": {
+      "id": 1136286496,
+      "title": "Home",
+      "artist": "Kit Chan",
+      "album": "My August 9th / 50 Wonderful Years (2016 Edition)",
+      "year": 2015,
+      "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+      "preview": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/d8/8f/4ad88f06-2b0a-29e0-b32d-278b0e6416f4/mzaf_8904411897398247594.plus.aac.p.m4a"
+    },
+    "note": "For SG100. If a stadium still goes quiet for this, we did fine.",
+    "name": "Example capsule",
+    "openYear": 2065,
+    "sealedAt": "2026-10-05T00:00:00.000Z"
+  }
+]
