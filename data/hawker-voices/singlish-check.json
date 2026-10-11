@@ -1,0 +1,80 @@
+{
+ "classifier": "Jzuluaga/accent-id-commonaccent_ecapa",
+ "local": "P(singapore) + P(malaysia), on lines strung together",
+ "personas": {
+  "auntie": {
+   "voice": {
+    "instruct": "female, elderly",
+    "local": 0.913,
+    "top": "singapore"
+   },
+   "used": "clone",
+   "lines tried with the chosen voice": 0.996,
+   "kept lines": {
+    "local": 0.99,
+    "top": "malaysia"
+   },
+   "OmniVoice default, same lines": {
+    "local": 0.0,
+    "top": "us"
+   },
+   "written": 39
+  },
+  "uncle": {
+   "voice": {
+    "instruct": "male, elderly, low pitch",
+    "local": 0.123,
+    "top": "hongkong"
+   },
+   "used": "hokkien",
+   "lines tried with the chosen voice": 0.058,
+   "kept lines": {
+    "local": 0.001,
+    "top": "england"
+   },
+   "OmniVoice default, same lines": {
+    "local": 0.0,
+    "top": "us"
+   },
+   "written": 0,
+   "note": "below 0.5: no Singlish clips for this persona"
+  },
+  "youngwoman": {
+   "voice": {
+    "instruct": "female, young adult",
+    "local": 0.344,
+    "top": "us"
+   },
+   "used": "clone",
+   "lines tried with the chosen voice": 0.827,
+   "kept lines": {
+    "local": 0.633,
+    "top": "malaysia"
+   },
+   "OmniVoice default, same lines": {
+    "local": 0.0,
+    "top": "us"
+   },
+   "written": 42
+  },
+  "youngman": {
+   "voice": {
+    "instruct": "male, young adult, low pitch",
+    "local": 0.089,
+    "top": "us"
+   },
+   "used": "clone",
+   "lines tried with the chosen voice": 0.094,
+   "kept lines": {
+    "local": 0.162,
+    "top": "england"
+   },
+   "OmniVoice default, same lines": {
+    "local": 0.0,
+    "top": "us"
+   },
+   "written": 0,
+   "note": "below 0.5: no Singlish clips for this persona"
+  }
+ }
+}

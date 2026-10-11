@@ -1,0 +1,20 @@
+[project]
+name = "makan-voices"
+version = "0.1.0"
+description = "Generates local-accent voice clips for Makan Nation on a local GPU"
+requires-python = ">=3.10,<3.13"
+dependencies = [
+  "torch==2.8.0",
+  "torchaudio==2.8.0",
+  "omnivoice",
+  "soundfile",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu128" }
+torchaudio = { index = "pytorch-cu128" }
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true

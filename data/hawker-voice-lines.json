@@ -1,0 +1,4943 @@
+[
+ {
+  "key": "order.plain.en",
+  "lg": "en",
+  "text": "One, please.",
+  "mean": "One, please."
+ },
+ {
+  "key": "order.plain.ms",
+  "lg": "ms",
+  "text": "Satu.",
+  "mean": "One."
+ },
+ {
+  "key": "order.plain.yue",
+  "lg": "yue",
+  "text": "唔該",
+  "mean": "Please."
+ },
+ {
+  "key": "order.takeaway.en",
+  "lg": "en",
+  "text": "Dabao.",
+  "mean": "Takeaway (Singlish, from Mandarin 打包)."
+ },
+ {
+  "key": "order.takeaway.ms",
+  "lg": "ms",
+  "text": "Bungkus.",
+  "mean": "Wrap it up, to take away."
+ },
+ {
+  "key": "order.takeaway.zh",
+  "lg": "zh",
+  "text": "打包",
+  "mean": "Pack it to take away."
+ },
+ {
+  "key": "order.takeaway.yue",
+  "lg": "yue",
+  "text": "打包",
+  "mean": "Pack it to take away."
+ },
+ {
+  "key": "order.nochilli.en",
+  "lg": "en",
+  "text": "No chilli, hor.",
+  "mean": "No chilli, remember."
+ },
+ {
+  "key": "order.nochilli.ms",
+  "lg": "ms",
+  "text": "Jangan pedas.",
+  "mean": "Don't make it spicy."
+ },
+ {
+  "key": "order.nochilli.zh",
+  "lg": "zh",
+  "text": "不要辣",
+  "mean": "Not spicy, please."
+ },
+ {
+  "key": "order.nochilli.yue",
+  "lg": "yue",
+  "text": "走辣",
+  "mean": "Leave out the chilli."
+ },
+ {
+  "key": "order.nochilli.nan",
+  "lg": "nan",
+  "text": "毋愛薟",
+  "mean": "Don't want it spicy."
+ },
+ {
+  "key": "order.nochilli.ta",
+  "lg": "ta",
+  "text": "காரம் வேண்டாம்",
+  "mean": "No spice, please."
+ },
+ {
+  "key": "order.extrachilli.en",
+  "lg": "en",
+  "text": "More chilli lah.",
+  "mean": "More chilli, please."
+ },
+ {
+  "key": "order.extrachilli.ms",
+  "lg": "ms",
+  "text": "Tambah sambal.",
+  "mean": "Add sambal."
+ },
+ {
+  "key": "order.extrachilli.zh",
+  "lg": "zh",
+  "text": "加辣",
+  "mean": "Add chilli."
+ },
+ {
+  "key": "react.uncle.en",
+  "lg": "en",
+  "text": "Uncle!",
+  "mean": "Calling an older man, like a hawker."
+ },
+ {
+  "key": "react.uncle.ms",
+  "lg": "ms",
+  "text": "Pak cik!",
+  "mean": "Uncle! (calling an older man)"
+ },
+ {
+  "key": "react.auntie.en",
+  "lg": "en",
+  "text": "Auntie!",
+  "mean": "Calling an older woman, like a hawker."
+ },
+ {
+  "key": "react.auntie.ms",
+  "lg": "ms",
+  "text": "Mak cik!",
+  "mean": "Auntie!"
+ },
+ {
+  "key": "react.hello.zh",
+  "lg": "zh",
+  "text": "老板！",
+  "mean": "Boss! (polite way to call a stall owner)"
+ },
+ {
+  "key": "react.hello.yue",
+  "lg": "yue",
+  "text": "老闆！",
+  "mean": "Boss!"
+ },
+ {
+  "key": "react.hello.nan",
+  "lg": "nan",
+  "text": "頭家！",
+  "mean": "Boss! (how customers call a shop owner)"
+ },
+ {
+  "key": "react.hello.ta",
+  "lg": "ta",
+  "text": "வணக்கம்!",
+  "mean": "Hello!"
+ },
+ {
+  "key": "react.thanks.en",
+  "lg": "en",
+  "text": "Thank you ah.",
+  "mean": "Thank you."
+ },
+ {
+  "key": "react.thanks.ms",
+  "lg": "ms",
+  "text": "Terima kasih.",
+  "mean": "Thank you."
+ },
+ {
+  "key": "react.thanks.zh",
+  "lg": "zh",
+  "text": "谢谢。",
+  "mean": "Thank you."
+ },
+ {
+  "key": "react.thanks.yue",
+  "lg": "yue",
+  "text": "唔該。",
+  "mean": "Thanks (for the service)."
+ },
+ {
+  "key": "react.thanks.nan",
+  "lg": "nan",
+  "text": "多謝。",
+  "mean": "Thank you."
+ },
+ {
+  "key": "react.thanks.ta",
+  "lg": "ta",
+  "text": "நன்றி.",
+  "mean": "Thank you."
+ },
+ {
+  "key": "react.tasty.en",
+  "lg": "en",
+  "text": "Wah, shiok!",
+  "mean": "Wow, so good!"
+ },
+ {
+  "key": "react.tasty.ms",
+  "lg": "ms",
+  "text": "Sedapnya!",
+  "mean": "So delicious!"
+ },
+ {
+  "key": "react.tasty.zh",
+  "lg": "zh",
+  "text": "好吃！",
+  "mean": "Tasty!"
+ },
+ {
+  "key": "react.tasty.yue",
+  "lg": "yue",
+  "text": "好食！",
+  "mean": "Tasty!"
+ },
+ {
+  "key": "react.tasty.nan",
+  "lg": "nan",
+  "text": "好食！",
+  "mean": "Tasty!"
+ },
+ {
+  "key": "react.tasty.ta",
+  "lg": "ta",
+  "text": "நல்ல சுவை!",
+  "mean": "Good taste!"
+ },
+ {
+  "key": "react.tastyyoung.en",
+  "lg": "en",
+  "text": "Shiok sia!",
+  "mean": "So good! (sia: an exclamation, mostly young speakers)"
+ },
+ {
+  "key": "react.fast.en",
+  "lg": "en",
+  "text": "Ready already meh?",
+  "mean": "Ready already? Really?"
+ },
+ {
+  "key": "react.slow.en",
+  "lg": "en",
+  "text": "Aiyo, so slow leh.",
+  "mean": "Oh dear, this is slow."
+ },
+ {
+  "key": "react.slow.ms",
+  "lg": "ms",
+  "text": "Lambatnya!",
+  "mean": "So slow!"
+ },
+ {
+  "key": "react.slow.zh",
+  "lg": "zh",
+  "text": "怎么这么慢？",
+  "mean": "Why so slow?"
+ },
+ {
+  "key": "react.slow.yue",
+  "lg": "yue",
+  "text": "好慢呀！",
+  "mean": "So slow!"
+ },
+ {
+  "key": "react.slow.nan",
+  "lg": "nan",
+  "text": "真慢！",
+  "mean": "Really slow!"
+ },
+ {
+  "key": "react.slow.ta",
+  "lg": "ta",
+  "text": "சீக்கிரம்!",
+  "mean": "Quickly, please!"
+ },
+ {
+  "key": "react.gone.en",
+  "lg": "en",
+  "text": "Never mind lor, next time.",
+  "mean": "Never mind, maybe next time."
+ },
+ {
+  "key": "react.wrong.en",
+  "lg": "en",
+  "text": "This one I never order leh.",
+  "mean": "I didn't order this."
+ },
+ {
+  "key": "chef.burnt.en",
+  "lg": "en",
+  "text": "Aiyo, burnt!",
+  "mean": "Oh no, it burnt!"
+ },
+ {
+  "key": "chef.fire.en",
+  "lg": "en",
+  "text": "Alamak, fire!",
+  "mean": "Oh dear, a fire!"
+ },
+ {
+  "key": "chef.streak.en",
+  "lg": "en",
+  "text": "Steady lah!",
+  "mean": "Nice one!"
+ },
+ {
+  "key": "call.chickenrice.nan",
+  "lg": "nan",
+  "text": "一盤雞飯",
+  "mean": "One plate of chicken rice."
+ },
+ {
+  "key": "call.chickenricesteamed.nan",
+  "lg": "nan",
+  "text": "一盤白雞飯",
+  "mean": "One plate of white (steamed) chicken rice."
+ },
+ {
+  "key": "call.chickenriceroasted.nan",
+  "lg": "nan",
+  "text": "一盤燒雞飯",
+  "mean": "One plate of roast chicken rice."
+ },
+ {
+  "key": "call.duckrice.nan",
+  "lg": "nan",
+  "text": "一盤滷鴨飯",
+  "mean": "One plate of braised duck rice."
+ },
+ {
+  "key": "call.ckt.nan",
+  "lg": "nan",
+  "text": "一盤炒粿條",
+  "mean": "One plate of char kway teow."
+ },
+ {
+  "key": "call.carrotcake.nan",
+  "lg": "nan",
+  "text": "一盤菜頭粿",
+  "mean": "One plate of carrot cake."
+ },
+ {
+  "key": "call.carrotcakewhite.nan",
+  "lg": "nan",
+  "text": "一盤白的菜頭粿",
+  "mean": "One plate of carrot cake, the white one."
+ },
+ {
+  "key": "call.carrotcakeblack.nan",
+  "lg": "nan",
+  "text": "一盤烏的菜頭粿",
+  "mean": "One plate of carrot cake, the black one."
+ },
+ {
+  "key": "call.hokkienmee.nan",
+  "lg": "nan",
+  "text": "一盤福建蝦麵",
+  "mean": "One plate of Hokkien prawn mee."
+ },
+ {
+  "key": "call.orhluak.nan",
+  "lg": "nan",
+  "text": "一盤蠔煎",
+  "mean": "One plate of oyster omelette."
+ },
+ {
+  "key": "call.chweekueh.nan",
+  "lg": "nan",
+  "text": "一份水粿",
+  "mean": "One serving of chwee kueh."
+ },
+ {
+  "key": "call.bakkutteh.nan",
+  "lg": "nan",
+  "text": "一碗肉骨茶",
+  "mean": "One bowl of bak kut teh."
+ },
+ {
+  "key": "call.economyrice.nan",
+  "lg": "nan",
+  "text": "一盤菜飯",
+  "mean": "One plate of economy rice."
+ },
+ {
+  "key": "call.kwaychap.nan",
+  "lg": "nan",
+  "text": "一碗粿汁",
+  "mean": "One bowl of kway chap."
+ },
+ {
+  "key": "call.porridge.nan",
+  "lg": "nan",
+  "text": "一碗糜",
+  "mean": "One bowl of porridge."
+ },
+ {
+  "key": "call.prawnnoodles.nan",
+  "lg": "nan",
+  "text": "一碗蝦麵",
+  "mean": "One bowl of prawn noodles."
+ },
+ {
+  "key": "call.lormee.nan",
+  "lg": "nan",
+  "text": "一碗滷麵",
+  "mean": "One bowl of lor mee."
+ },
+ {
+  "key": "call.bakchormee.nan",
+  "lg": "nan",
+  "text": "一碗肉脞麵",
+  "mean": "One bowl of bak chor mee."
+ },
+ {
+  "key": "call.fishsoup.nan",
+  "lg": "nan",
+  "text": "一碗魚湯",
+  "mean": "One bowl of fish soup."
+ },
+ {
+  "key": "call.popiah.nan",
+  "lg": "nan",
+  "text": "一條薄餅",
+  "mean": "One roll of popiah."
+ },
+ {
+  "key": "call.oystercake.nan",
+  "lg": "nan",
+  "text": "一粒蠔餅",
+  "mean": "One oyster cake."
+ },
+ {
+  "key": "call.curryrice.nan",
+  "lg": "nan",
+  "text": "一盤咖哩飯",
+  "mean": "One plate of curry rice."
+ },
+ {
+  "key": "call.rojak.nan",
+  "lg": "nan",
+  "text": "一盤囉惹",
+  "mean": "One plate of rojak."
+ },
+ {
+  "key": "call.icekachang.nan",
+  "lg": "nan",
+  "text": "一碗紅豆冰",
+  "mean": "One bowl of ice kachang (red bean ice)."
+ },
+ {
+  "key": "call.chengtng.nan",
+  "lg": "nan",
+  "text": "一碗清湯",
+  "mean": "One bowl of cheng tng."
+ },
+ {
+  "key": "call.wantonmee.yue",
+  "lg": "yue",
+  "text": "一碟雲吞麵",
+  "mean": "One plate of wanton mee."
+ },
+ {
+  "key": "call.roastmeat.yue",
+  "lg": "yue",
+  "text": "一碟叉燒飯",
+  "mean": "One plate of char siew rice."
+ },
+ {
+  "key": "call.roastmeatcharsiew.yue",
+  "lg": "yue",
+  "text": "一碟叉燒飯",
+  "mean": "One plate of char siew rice."
+ },
+ {
+  "key": "call.roastmeatduck.yue",
+  "lg": "yue",
+  "text": "一碟燒鴨飯",
+  "mean": "One plate of roast duck rice."
+ },
+ {
+  "key": "call.roastmeatsoya.yue",
+  "lg": "yue",
+  "text": "一碟豉油雞飯",
+  "mean": "One plate of soya sauce chicken rice."
+ },
+ {
+  "key": "call.claypot.yue",
+  "lg": "yue",
+  "text": "一個瓦煲飯",
+  "mean": "One claypot rice."
+ },
+ {
+  "key": "call.banmian.zh",
+  "lg": "zh",
+  "text": "一碗板面",
+  "mean": "One bowl of ban mian."
+ },
+ {
+  "key": "call.yongtaufoo.zh",
+  "lg": "zh",
+  "text": "一碗酿豆腐",
+  "mean": "One bowl of yong tau foo."
+ },
+ {
+  "key": "call.chillicrab.zh",
+  "lg": "zh",
+  "text": "一份辣椒螃蟹",
+  "mean": "One chilli crab."
+ },
+ {
+  "key": "call.peppercrab.zh",
+  "lg": "zh",
+  "text": "一份黑胡椒螃蟹",
+  "mean": "One black pepper crab."
+ },
+ {
+  "key": "call.wings.zh",
+  "lg": "zh",
+  "text": "一份烧鸡翅",
+  "mean": "One serving of grilled chicken wings."
+ },
+ {
+  "key": "call.sugarcane.zh",
+  "lg": "zh",
+  "text": "一杯甘蔗水",
+  "mean": "One cup of sugarcane juice."
+ },
+ {
+  "key": "call.soya.zh",
+  "lg": "zh",
+  "text": "一杯豆奶",
+  "mean": "One cup of soya bean milk."
+ },
+ {
+  "key": "call.nasilemak.ms",
+  "lg": "ms",
+  "text": "Nasi lemak satu",
+  "mean": "One nasi lemak."
+ },
+ {
+  "key": "call.laksa.ms",
+  "lg": "ms",
+  "text": "Laksa satu",
+  "mean": "One laksa."
+ },
+ {
+  "key": "call.meerebus.ms",
+  "lg": "ms",
+  "text": "Mee rebus satu",
+  "mean": "One mee rebus."
+ },
+ {
+  "key": "call.nasipadang.ms",
+  "lg": "ms",
+  "text": "Nasi padang satu",
+  "mean": "One nasi padang."
+ },
+ {
+  "key": "call.sambalstingray.ms",
+  "lg": "ms",
+  "text": "Ikan pari bakar satu",
+  "mean": "One grilled stingray (sambal stingray)."
+ },
+ {
+  "key": "call.satay.ms",
+  "lg": "ms",
+  "text": "Sate sepuluh cucuk",
+  "mean": "Ten sticks of satay."
+ },
+ {
+  "key": "call.sataychicken.ms",
+  "lg": "ms",
+  "text": "Sate ayam sepuluh cucuk",
+  "mean": "Ten sticks of chicken satay."
+ },
+ {
+  "key": "call.sataymutton.ms",
+  "lg": "ms",
+  "text": "Sate kambing sepuluh cucuk",
+  "mean": "Ten sticks of mutton satay."
+ },
+ {
+  "key": "call.chendol.ms",
+  "lg": "ms",
+  "text": "Cendol satu",
+  "mean": "One chendol."
+ },
+ {
+  "key": "call.pisang.ms",
+  "lg": "ms",
+  "text": "Pisang goreng satu",
+  "mean": "One goreng pisang."
+ },
+ {
+  "key": "call.currypuff.ms",
+  "lg": "ms",
+  "text": "Karipap satu",
+  "mean": "One curry puff."
+ },
+ {
+  "key": "call.kueh.ms",
+  "lg": "ms",
+  "text": "Kuih satu",
+  "mean": "One kueh."
+ },
+ {
+  "key": "call.kuehondeh.ms",
+  "lg": "ms",
+  "text": "Ondeh-ondeh satu",
+  "mean": "One ondeh-ondeh."
+ },
+ {
+  "key": "call.kuehlapis.ms",
+  "lg": "ms",
+  "text": "Kuih lapis satu",
+  "mean": "One kueh lapis."
+ },
+ {
+  "key": "call.prata.ms",
+  "lg": "ms",
+  "text": "Roti prata kosong satu",
+  "mean": "One plain roti prata."
+ },
+ {
+  "key": "call.prataplain.ms",
+  "lg": "ms",
+  "text": "Roti prata kosong satu",
+  "mean": "One plain roti prata."
+ },
+ {
+  "key": "call.prataegg.ms",
+  "lg": "ms",
+  "text": "Roti telur satu",
+  "mean": "One egg prata."
+ },
+ {
+  "key": "call.murtabak.ms",
+  "lg": "ms",
+  "text": "Murtabak satu",
+  "mean": "One murtabak."
+ },
+ {
+  "key": "call.meegoreng.ms",
+  "lg": "ms",
+  "text": "Mee goreng satu",
+  "mean": "One mee goreng."
+ },
+ {
+  "key": "call.biryani.ms",
+  "lg": "ms",
+  "text": "Nasi briyani satu",
+  "mean": "One nasi briyani."
+ },
+ {
+  "key": "call.biryanichicken.ms",
+  "lg": "ms",
+  "text": "Nasi briyani ayam satu",
+  "mean": "One chicken briyani."
+ },
+ {
+  "key": "call.biryanimutton.ms",
+  "lg": "ms",
+  "text": "Nasi briyani kambing satu",
+  "mean": "One mutton briyani."
+ },
+ {
+  "key": "call.kayatoast.ms",
+  "lg": "ms",
+  "text": "Roti kaya satu",
+  "mean": "One kaya toast."
+ },
+ {
+  "key": "call.thosai.ta",
+  "lg": "ta",
+  "text": "ஒரு தோசை",
+  "mean": "One thosai."
+ },
+ {
+  "key": "call.kopisiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Siew Dai",
+  "mean": "Kopi Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopisiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Siew Dai Peng",
+  "mean": "Kopi Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopi.ms",
+  "lg": "ms",
+  "text": "Kopi",
+  "mean": "Kopi",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Peng",
+  "mean": "Kopi Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopio.ms",
+  "lg": "ms",
+  "text": "Kopi-O",
+  "mean": "Kopi-O",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.bandungsiewdai.ms",
+  "lg": "ms",
+  "text": "Bandung Siew Dai",
+  "mean": "Bandung Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.michaeljacksonsiewdai.ms",
+  "lg": "ms",
+  "text": "Michael Jackson Siew Dai",
+  "mean": "Michael Jackson Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Siew Dai",
+  "mean": "Kopi-O Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.bandungsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Bandung Siew Dai Peng",
+  "mean": "Bandung Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.michaeljacksonsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Michael Jackson Siew Dai Peng",
+  "mean": "Michael Jackson Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.teho.ms",
+  "lg": "ms",
+  "text": "Teh-O",
+  "mean": "Teh-O",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Siew Dai",
+  "mean": "Teh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.bandung.ms",
+  "lg": "ms",
+  "text": "Bandung",
+  "mean": "Bandung",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Peng",
+  "mean": "Kopi-O Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.michaeljackson.ms",
+  "lg": "ms",
+  "text": "Michael Jackson",
+  "mean": "Michael Jackson",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Siew Dai Peng",
+  "mean": "Kopi-O Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Siew Dai",
+  "mean": "Teh-O Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.bandungpeng.ms",
+  "lg": "ms",
+  "text": "Bandung Peng",
+  "mean": "Bandung Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Siew Dai Peng",
+  "mean": "Teh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.teh.ms",
+  "lg": "ms",
+  "text": "Teh",
+  "mean": "Teh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehopeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Peng",
+  "mean": "Teh-O Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.michaeljacksonpeng.ms",
+  "lg": "ms",
+  "text": "Michael Jackson Peng",
+  "mean": "Michael Jackson Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopic.ms",
+  "lg": "ms",
+  "text": "Kopi-C",
+  "mean": "Kopi-C",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Siew Dai Peng",
+  "mean": "Teh-O Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehpeng.ms",
+  "lg": "ms",
+  "text": "Teh Peng",
+  "mean": "Teh Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicsiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Siew Dai",
+  "mean": "Kopi-C Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Peng",
+  "mean": "Kopi-C Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehc.ms",
+  "lg": "ms",
+  "text": "Teh-C",
+  "mean": "Teh-C",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangsiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Siew Dai",
+  "mean": "Yuan Yang Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiokosong.ms",
+  "lg": "ms",
+  "text": "Kopi-O Kosong",
+  "mean": "Kopi-O Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Siew Dai Peng",
+  "mean": "Kopi-C Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Siew Dai",
+  "mean": "Teh-C Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Peng",
+  "mean": "Teh-C Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Siew Dai Peng",
+  "mean": "Yuan Yang Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyang.ms",
+  "lg": "ms",
+  "text": "Yuan Yang",
+  "mean": "Yuan Yang",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiokosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Kosong Peng",
+  "mean": "Kopi-O Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehokosong.ms",
+  "lg": "ms",
+  "text": "Teh-O Kosong",
+  "mean": "Teh-O Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Siew Dai Peng",
+  "mean": "Teh-C Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopigaosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Gao Siew Dai",
+  "mean": "Kopi Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangpeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Peng",
+  "mean": "Yuan Yang Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopickosong.ms",
+  "lg": "ms",
+  "text": "Kopi-C Kosong",
+  "mean": "Kopi-C Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehokosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Kosong Peng",
+  "mean": "Teh-O Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogao.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao",
+  "mean": "Kopi-O Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopigaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Gao Siew Dai Peng",
+  "mean": "Kopi Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopigao.ms",
+  "lg": "ms",
+  "text": "Kopi Gao",
+  "mean": "Kopi Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopickosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Kosong Peng",
+  "mean": "Kopi-C Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogaosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao Siew Dai",
+  "mean": "Kopi-O Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehckosong.ms",
+  "lg": "ms",
+  "text": "Teh-C Kosong",
+  "mean": "Teh-C Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogaopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao Peng",
+  "mean": "Kopi-O Gao Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopigaopeng.ms",
+  "lg": "ms",
+  "text": "Kopi Gao Peng",
+  "mean": "Kopi Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopigadai.ms",
+  "lg": "ms",
+  "text": "Kopi Ga Dai",
+  "mean": "Kopi Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Gao Siew Dai",
+  "mean": "Teh Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehogao.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao",
+  "mean": "Teh-O Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiogaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao Siew Dai Peng",
+  "mean": "Kopi-O Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo Siew Dai",
+  "mean": "Milo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehogaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao Siew Dai",
+  "mean": "Teh-O Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloo.ms",
+  "lg": "ms",
+  "text": "Milo-O",
+  "mean": "Milo-O",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-O Siew Dai",
+  "mean": "Milo-O Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Siew Dai Dinosaur",
+  "mean": "Milo-O Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehckosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Kosong Peng",
+  "mean": "Teh-C Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Dinosaur",
+  "mean": "Milo-O Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Gao Siew Dai Peng",
+  "mean": "Teh Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopigadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Ga Dai Peng",
+  "mean": "Kopi Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehogaopeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao Peng",
+  "mean": "Teh-O Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehgao.ms",
+  "lg": "ms",
+  "text": "Teh Gao",
+  "mean": "Teh Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Siew Dai Dinosaur",
+  "mean": "Milo Siew Dai Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogadai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Ga Dai",
+  "mean": "Kopi-O Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo Siew Dai Peng",
+  "mean": "Milo Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloopeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Peng",
+  "mean": "Milo-O Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicgao.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao",
+  "mean": "Kopi-C Gao",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehogaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao Siew Dai Peng",
+  "mean": "Teh-O Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Siew Dai Peng",
+  "mean": "Milo-O Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliasiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Halia Siew Dai",
+  "mean": "Teh Halia Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehgaopeng.ms",
+  "lg": "ms",
+  "text": "Teh Gao Peng",
+  "mean": "Teh Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milo.ms",
+  "lg": "ms",
+  "text": "Milo",
+  "mean": "Milo",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliasiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Siew Dai",
+  "mean": "Teh-O Halia Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Dinosaur",
+  "mean": "Milo Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohalia.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia",
+  "mean": "Teh-O Halia",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao Siew Dai",
+  "mean": "Kopi-C Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiogadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Ga Dai Peng",
+  "mean": "Kopi-O Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicgaopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao Peng",
+  "mean": "Kopi-C Gao Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopipohsiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Poh Siew Dai",
+  "mean": "Kopi Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopidilosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Di Lo Siew Dai",
+  "mean": "Kopi Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milopeng.ms",
+  "lg": "ms",
+  "text": "Milo Peng",
+  "mean": "Milo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliasiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Siew Dai Peng",
+  "mean": "Teh Halia Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyanggaosiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Gao Siew Dai",
+  "mean": "Yuan Yang Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehogadai.ms",
+  "lg": "ms",
+  "text": "Teh-O Ga Dai",
+  "mean": "Teh-O Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcgao.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao",
+  "mean": "Teh-C Gao",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloc.ms",
+  "lg": "ms",
+  "text": "Milo-C",
+  "mean": "Milo-C",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiodilo.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo",
+  "mean": "Kopi-O Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliapeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Peng",
+  "mean": "Teh-O Halia Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliasiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Siew Dai Peng",
+  "mean": "Teh-O Halia Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogaokosong.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao Kosong",
+  "mean": "Kopi-O Gao Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiopoh.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh",
+  "mean": "Kopi-O Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhalia.ms",
+  "lg": "ms",
+  "text": "Teh Halia",
+  "mean": "Teh Halia",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao Siew Dai",
+  "mean": "Teh-C Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopipohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Poh Siew Dai Peng",
+  "mean": "Kopi Poh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao Siew Dai Peng",
+  "mean": "Kopi-C Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopidilo.ms",
+  "lg": "ms",
+  "text": "Kopi Di Lo",
+  "mean": "Kopi Di Lo",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiodilosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo Siew Dai",
+  "mean": "Kopi-O Di Lo Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocsiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-C Siew Dai",
+  "mean": "Milo-C Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopipoh.ms",
+  "lg": "ms",
+  "text": "Kopi Poh",
+  "mean": "Kopi Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Dinosaur",
+  "mean": "Milo-C Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcgaopeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao Peng",
+  "mean": "Teh-C Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiopohsiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh Siew Dai",
+  "mean": "Kopi-O Poh Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopidilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Di Lo Siew Dai Peng",
+  "mean": "Kopi Di Lo Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyanggao.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Gao",
+  "mean": "Yuan Yang Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyanggaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Gao Siew Dai Peng",
+  "mean": "Yuan Yang Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliapeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Peng",
+  "mean": "Teh Halia Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicgadai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Ga Dai",
+  "mean": "Kopi-C Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehogadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Ga Dai Peng",
+  "mean": "Teh-O Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehgadai.ms",
+  "lg": "ms",
+  "text": "Teh Ga Dai",
+  "mean": "Teh Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.michaeljacksongadai.ms",
+  "lg": "ms",
+  "text": "Michael Jackson Ga Dai",
+  "mean": "Michael Jackson Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.bandunggadai.ms",
+  "lg": "ms",
+  "text": "Bandung Ga Dai",
+  "mean": "Bandung Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocsiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Siew Dai Dinosaur",
+  "mean": "Milo-C Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiodilopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo Peng",
+  "mean": "Kopi-O Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocpeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Peng",
+  "mean": "Milo-C Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehogaokosong.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao Kosong",
+  "mean": "Teh-O Gao Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehdilosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Di Lo Siew Dai",
+  "mean": "Teh Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Poh Siew Dai",
+  "mean": "Teh Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehodilo.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo",
+  "mean": "Teh-O Di Lo",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiopohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh Siew Dai Peng",
+  "mean": "Kopi-O Poh Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao Kosong Peng",
+  "mean": "Kopi-O Gao Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopipohpeng.ms",
+  "lg": "ms",
+  "text": "Kopi Poh Peng",
+  "mean": "Kopi Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao Siew Dai Peng",
+  "mean": "Teh-C Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopidilopeng.ms",
+  "lg": "ms",
+  "text": "Kopi Di Lo Peng",
+  "mean": "Kopi Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiopohpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh Peng",
+  "mean": "Kopi-O Poh Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.michaeljacksongadaipeng.ms",
+  "lg": "ms",
+  "text": "Michael Jackson Ga Dai Peng",
+  "mean": "Michael Jackson Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehodilosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo Siew Dai",
+  "mean": "Teh-O Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyanggaopeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Gao Peng",
+  "mean": "Yuan Yang Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehgadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Ga Dai Peng",
+  "mean": "Teh Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehopoh.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh",
+  "mean": "Teh-O Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiodilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo Siew Dai Peng",
+  "mean": "Kopi-O Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.bandunggadaipeng.ms",
+  "lg": "ms",
+  "text": "Bandung Ga Dai Peng",
+  "mean": "Bandung Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milookosong.ms",
+  "lg": "ms",
+  "text": "Milo-O Kosong",
+  "mean": "Milo-O Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehpohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Poh Siew Dai Peng",
+  "mean": "Teh Poh Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehopohsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh Siew Dai",
+  "mean": "Teh-O Poh Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milookosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Kosong Dinosaur",
+  "mean": "Milo-O Kosong Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehdilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Di Lo Siew Dai Peng",
+  "mean": "Teh Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchalia.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia",
+  "mean": "Teh-C Halia",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicgaokosong.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao Kosong",
+  "mean": "Kopi-C Gao Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Siew Dai Peng",
+  "mean": "Milo-C Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicgadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Ga Dai Peng",
+  "mean": "Kopi-C Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcgadai.ms",
+  "lg": "ms",
+  "text": "Teh-C Ga Dai",
+  "mean": "Teh-C Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehodilopeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo Peng",
+  "mean": "Teh-O Di Lo Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliasiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Siew Dai",
+  "mean": "Teh-C Halia Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarik.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik",
+  "mean": "Kopi-O Tarik",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milookosongpeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Kosong Peng",
+  "mean": "Milo-O Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehpoh.ms",
+  "lg": "ms",
+  "text": "Teh Poh",
+  "mean": "Teh Poh",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehdilo.ms",
+  "lg": "ms",
+  "text": "Teh Di Lo",
+  "mean": "Teh Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehopohpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh Peng",
+  "mean": "Teh-O Poh Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehogaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao Kosong Peng",
+  "mean": "Teh-O Gao Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliapeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Peng",
+  "mean": "Teh-C Halia Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicdilo.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo",
+  "mean": "Kopi-C Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopitariksiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Siew Dai",
+  "mean": "Kopi Tarik Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehpohpeng.ms",
+  "lg": "ms",
+  "text": "Teh Poh Peng",
+  "mean": "Teh Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehodilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo Siew Dai Peng",
+  "mean": "Teh-O Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicpoh.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh",
+  "mean": "Kopi-C Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehopohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh Siew Dai Peng",
+  "mean": "Teh-O Poh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangosiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Siew Dai",
+  "mean": "Yuan Yang-O Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicgaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao Kosong Peng",
+  "mean": "Kopi-C Gao Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehdilopeng.ms",
+  "lg": "ms",
+  "text": "Teh Di Lo Peng",
+  "mean": "Teh Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliasiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Siew Dai Peng",
+  "mean": "Teh-C Halia Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotariksiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Siew Dai",
+  "mean": "Kopi-O Tarik Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcgaokosong.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao Kosong",
+  "mean": "Teh-C Gao Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Peng",
+  "mean": "Kopi-O Tarik Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milockosong.ms",
+  "lg": "ms",
+  "text": "Milo-C Kosong",
+  "mean": "Milo-C Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicdilopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo Peng",
+  "mean": "Kopi-C Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcdilo.ms",
+  "lg": "ms",
+  "text": "Teh-C Di Lo",
+  "mean": "Teh-C Di Lo",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliakosong.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Kosong",
+  "mean": "Teh-O Halia Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milockosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Kosong Dinosaur",
+  "mean": "Milo-C Kosong Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehtariksiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Siew Dai",
+  "mean": "Teh Tarik Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehotarik.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik",
+  "mean": "Teh-O Tarik",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopitariksiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Siew Dai Peng",
+  "mean": "Kopi Tarik Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcgadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Ga Dai Peng",
+  "mean": "Teh-C Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopitarik.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik",
+  "mean": "Kopi Tarik",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milogaosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo Gao Siew Dai",
+  "mean": "Milo Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicdilosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo Siew Dai",
+  "mean": "Kopi-C Di Lo Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogao.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao",
+  "mean": "Milo-O Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcpoh.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh",
+  "mean": "Teh-C Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyanggadai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Ga Dai",
+  "mean": "Yuan Yang Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Poh Siew Dai",
+  "mean": "Yuan Yang Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh Siew Dai",
+  "mean": "Kopi-C Poh Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicpohpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh Peng",
+  "mean": "Kopi-C Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogaosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Siew Dai",
+  "mean": "Milo-O Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangdilosiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Di Lo Siew Dai",
+  "mean": "Yuan Yang Di Lo Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehotariksiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Siew Dai",
+  "mean": "Teh-O Tarik Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiodilokosong.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo Kosong",
+  "mean": "Kopi-O Di Lo Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotariksiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Siew Dai Peng",
+  "mean": "Kopi-O Tarik Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyango.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O",
+  "mean": "Yuan Yang-O",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milockosongpeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Kosong Peng",
+  "mean": "Milo-C Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Siew Dai Peng",
+  "mean": "Yuan Yang-O Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiopohkosong.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh Kosong",
+  "mean": "Kopi-O Poh Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehtariksiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Siew Dai Peng",
+  "mean": "Teh Tarik Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicdilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo Siew Dai Peng",
+  "mean": "Kopi-C Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcgaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao Kosong Peng",
+  "mean": "Teh-C Gao Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogaosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Siew Dai Dinosaur",
+  "mean": "Milo-O Gao Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloogaodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Dinosaur",
+  "mean": "Milo-O Gao Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehtarik.ms",
+  "lg": "ms",
+  "text": "Teh Tarik",
+  "mean": "Teh Tarik",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcdilopeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Di Lo Peng",
+  "mean": "Teh-C Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milogaosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Gao Siew Dai Dinosaur",
+  "mean": "Milo Gao Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicpohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh Siew Dai Peng",
+  "mean": "Kopi-C Poh Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliakosong.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Kosong",
+  "mean": "Teh-C Halia Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopitarikpeng.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Peng",
+  "mean": "Kopi Tarik Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliakosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Kosong Peng",
+  "mean": "Teh-O Halia Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloogaopeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Peng",
+  "mean": "Milo-O Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milogaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo Gao Siew Dai Peng",
+  "mean": "Milo Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh Siew Dai",
+  "mean": "Teh-C Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milogao.ms",
+  "lg": "ms",
+  "text": "Milo Gao",
+  "mean": "Milo Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcdilosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Di Lo Siew Dai",
+  "mean": "Teh-C Di Lo Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyanggadaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Ga Dai Peng",
+  "mean": "Yuan Yang Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangpohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Poh Siew Dai Peng",
+  "mean": "Yuan Yang Poh Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Siew Dai Peng",
+  "mean": "Milo-O Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangpoh.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Poh",
+  "mean": "Yuan Yang Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangdilo.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Di Lo",
+  "mean": "Yuan Yang Di Lo",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotariksiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Siew Dai Peng",
+  "mean": "Teh-O Tarik Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiopohkosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh Kosong Peng",
+  "mean": "Kopi-O Poh Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Peng",
+  "mean": "Teh-O Tarik Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangdilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Di Lo Siew Dai Peng",
+  "mean": "Yuan Yang Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcpohpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh Peng",
+  "mean": "Teh-C Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopictarik.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik",
+  "mean": "Kopi-C Tarik",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milogaodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Gao Dinosaur",
+  "mean": "Milo Gao Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogaogadai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao Ga Dai",
+  "mean": "Kopi-O Gao Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehodilokosong.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo Kosong",
+  "mean": "Teh-O Di Lo Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehopohkosong.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh Kosong",
+  "mean": "Teh-O Poh Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangopeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Peng",
+  "mean": "Yuan Yang-O Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangdilopeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Di Lo Peng",
+  "mean": "Yuan Yang Di Lo Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiodilokosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo Kosong Peng",
+  "mean": "Kopi-O Di Lo Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliagaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Gao Siew Dai",
+  "mean": "Teh-O Halia Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliagao.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Gao",
+  "mean": "Teh-O Halia Gao",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehtarikpeng.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Peng",
+  "mean": "Teh Tarik Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliagaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Halia Gao Siew Dai",
+  "mean": "Teh Halia Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicdilokosong.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo Kosong",
+  "mean": "Kopi-C Di Lo Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopictarikpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Peng",
+  "mean": "Kopi-C Tarik Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcpohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh Siew Dai Peng",
+  "mean": "Teh-C Poh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcdilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Di Lo Siew Dai Peng",
+  "mean": "Teh-C Di Lo Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehogaogadai.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao Ga Dai",
+  "mean": "Teh-O Gao Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangpohpeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Poh Peng",
+  "mean": "Yuan Yang Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milogaopeng.ms",
+  "lg": "ms",
+  "text": "Milo Gao Peng",
+  "mean": "Milo Gao Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliakosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Kosong Peng",
+  "mean": "Teh-C Halia Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopigaogadai.ms",
+  "lg": "ms",
+  "text": "Kopi Gao Ga Dai",
+  "mean": "Kopi Gao Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicpohkosong.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh Kosong",
+  "mean": "Kopi-C Poh Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiogaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Gao Ga Dai Peng",
+  "mean": "Kopi-O Gao Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopictariksiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Siew Dai",
+  "mean": "Kopi-C Tarik Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehopohkosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh Kosong Peng",
+  "mean": "Teh-O Poh Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliagaopeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Gao Peng",
+  "mean": "Teh-O Halia Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehctarik.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik",
+  "mean": "Teh-C Tarik",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliagaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Gao Siew Dai Peng",
+  "mean": "Teh Halia Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehodilokosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo Kosong Peng",
+  "mean": "Teh-O Di Lo Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliagao.ms",
+  "lg": "ms",
+  "text": "Teh Halia Gao",
+  "mean": "Teh Halia Gao",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogadai.ms",
+  "lg": "ms",
+  "text": "Milo-O Ga Dai",
+  "mean": "Milo-O Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopigaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Gao Ga Dai Peng",
+  "mean": "Kopi Gao Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcpohkosong.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh Kosong",
+  "mean": "Teh-C Poh Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopisiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi Siew Dai Dinosaur",
+  "mean": "Kopi Siew Dai Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogadaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Ga Dai Dinosaur",
+  "mean": "Milo-O Ga Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Siew Dai",
+  "mean": "Milo-C Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicpohkosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh Kosong Peng",
+  "mean": "Kopi-C Poh Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocgaodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Dinosaur",
+  "mean": "Milo-C Gao Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocgao.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao",
+  "mean": "Milo-C Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicdilokosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo Kosong Peng",
+  "mean": "Kopi-C Di Lo Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcdilokosong.ms",
+  "lg": "ms",
+  "text": "Teh-C Di Lo Kosong",
+  "mean": "Teh-C Di Lo Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopictariksiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Siew Dai Peng",
+  "mean": "Kopi-C Tarik Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehctariksiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Siew Dai",
+  "mean": "Teh-C Tarik Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikkosong.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Kosong",
+  "mean": "Kopi-O Tarik Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliagaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Gao Siew Dai Peng",
+  "mean": "Teh-O Halia Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliagadai.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Ga Dai",
+  "mean": "Teh-O Halia Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogadaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Ga Dai Peng",
+  "mean": "Milo-O Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehogaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Gao Ga Dai Peng",
+  "mean": "Teh-O Gao Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloopoh.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh",
+  "mean": "Milo-O Poh",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehctarikpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Peng",
+  "mean": "Teh-C Tarik Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehgaogadai.ms",
+  "lg": "ms",
+  "text": "Teh Gao Ga Dai",
+  "mean": "Teh Gao Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliagaopeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Gao Peng",
+  "mean": "Teh Halia Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocgaopeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Peng",
+  "mean": "Milo-C Gao Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloopohdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Dinosaur",
+  "mean": "Milo-O Poh Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocgaosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Siew Dai Dinosaur",
+  "mean": "Milo-C Gao Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikkosong.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Kosong",
+  "mean": "Teh-O Tarik Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehgaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Gao Ga Dai Peng",
+  "mean": "Teh Gao Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Siew Dai Peng",
+  "mean": "Milo-C Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarikkosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Kosong Peng",
+  "mean": "Kopi-O Tarik Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloodilo.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo",
+  "mean": "Milo-O Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicgaogadai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao Ga Dai",
+  "mean": "Kopi-C Gao Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloopohsiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Siew Dai",
+  "mean": "Milo-O Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopidinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi Dinosaur",
+  "mean": "Kopi Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcpohkosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh Kosong Peng",
+  "mean": "Teh-C Poh Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehctariksiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Siew Dai Peng",
+  "mean": "Teh-C Tarik Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloodilodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Dinosaur",
+  "mean": "Milo-O Di Lo Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcdilokosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Di Lo Kosong Peng",
+  "mean": "Teh-C Di Lo Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milogadai.ms",
+  "lg": "ms",
+  "text": "Milo Ga Dai",
+  "mean": "Milo Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milodilosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo Di Lo Siew Dai",
+  "mean": "Milo Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milopohsiewdai.ms",
+  "lg": "ms",
+  "text": "Milo Poh Siew Dai",
+  "mean": "Milo Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliagadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Ga Dai Peng",
+  "mean": "Teh-O Halia Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloodilosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Siew Dai",
+  "mean": "Milo-O Di Lo Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogaokosong.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Kosong",
+  "mean": "Milo-O Gao Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcgaogadai.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao Ga Dai",
+  "mean": "Teh-C Gao Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliagao.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Gao",
+  "mean": "Teh-C Halia Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloogaokosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Kosong Dinosaur",
+  "mean": "Milo-O Gao Kosong Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloopohsiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Siew Dai Dinosaur",
+  "mean": "Milo-O Poh Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloodilosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Siew Dai Dinosaur",
+  "mean": "Milo-O Di Lo Siew Dai Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milopohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo Poh Siew Dai Peng",
+  "mean": "Milo Poh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikkosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Kosong Peng",
+  "mean": "Teh-O Tarik Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milopohsiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Poh Siew Dai Dinosaur",
+  "mean": "Milo Poh Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopictarikkosong.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Kosong",
+  "mean": "Kopi-C Tarik Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopitarikgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Gao Siew Dai",
+  "mean": "Kopi Tarik Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliagaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Gao Siew Dai",
+  "mean": "Teh-C Halia Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopihaliasiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Halia Siew Dai",
+  "mean": "Kopi Halia Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiopohgadai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh Ga Dai",
+  "mean": "Kopi-O Poh Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicgaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Gao Ga Dai Peng",
+  "mean": "Kopi-C Gao Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milodilosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Di Lo Siew Dai Dinosaur",
+  "mean": "Milo Di Lo Siew Dai Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgao.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Gao",
+  "mean": "Kopi-O Tarik Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocgadai.ms",
+  "lg": "ms",
+  "text": "Milo-C Ga Dai",
+  "mean": "Milo-C Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliagadai.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Ga Dai",
+  "mean": "Teh-C Halia Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloopohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Siew Dai Peng",
+  "mean": "Milo-O Poh Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiodilogadai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo Ga Dai",
+  "mean": "Kopi-O Di Lo Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliapohsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Poh Siew Dai",
+  "mean": "Teh-O Halia Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloodilopeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Peng",
+  "mean": "Milo-O Di Lo Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milogadaipeng.ms",
+  "lg": "ms",
+  "text": "Milo Ga Dai Peng",
+  "mean": "Milo Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangogaosiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Gao Siew Dai",
+  "mean": "Yuan Yang-O Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloopohpeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Peng",
+  "mean": "Milo-O Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milodilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo Di Lo Siew Dai Peng",
+  "mean": "Milo Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milopoh.ms",
+  "lg": "ms",
+  "text": "Milo Poh",
+  "mean": "Milo Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milogadaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Ga Dai Dinosaur",
+  "mean": "Milo Ga Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Gao Siew Dai",
+  "mean": "Kopi-O Tarik Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliagaopeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Gao Peng",
+  "mean": "Teh-C Halia Gao Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milodilo.ms",
+  "lg": "ms",
+  "text": "Milo Di Lo",
+  "mean": "Milo Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliadilosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Halia Di Lo Siew Dai",
+  "mean": "Teh Halia Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliapohsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Halia Poh Siew Dai",
+  "mean": "Teh Halia Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliapoh.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Poh",
+  "mean": "Teh-O Halia Poh",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiodinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi-O Dinosaur",
+  "mean": "Kopi-O Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliadilo.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Di Lo",
+  "mean": "Teh-O Halia Di Lo",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milopohdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Poh Dinosaur",
+  "mean": "Milo Poh Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopitarikgao.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Gao",
+  "mean": "Kopi Tarik Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehctarikkosong.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Kosong",
+  "mean": "Teh-C Tarik Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliagaokosong.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Gao Kosong",
+  "mean": "Teh-O Halia Gao Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milodilodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo Di Lo Dinosaur",
+  "mean": "Milo Di Lo Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopipohgadai.ms",
+  "lg": "ms",
+  "text": "Kopi Poh Ga Dai",
+  "mean": "Kopi Poh Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocgadaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Ga Dai Dinosaur",
+  "mean": "Milo-C Ga Dai Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milopohpeng.ms",
+  "lg": "ms",
+  "text": "Milo Poh Peng",
+  "mean": "Milo Poh Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgaopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Gao Peng",
+  "mean": "Kopi-O Tarik Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milodilopeng.ms",
+  "lg": "ms",
+  "text": "Milo Di Lo Peng",
+  "mean": "Milo Di Lo Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliadilosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Di Lo Siew Dai",
+  "mean": "Teh-O Halia Di Lo Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocgaokosong.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Kosong",
+  "mean": "Milo-C Gao Kosong",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopictarikkosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Kosong Peng",
+  "mean": "Kopi-C Tarik Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopidilogadai.ms",
+  "lg": "ms",
+  "text": "Kopi Di Lo Ga Dai",
+  "mean": "Kopi Di Lo Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocgadaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Ga Dai Peng",
+  "mean": "Milo-C Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliagaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Gao Siew Dai Peng",
+  "mean": "Teh-C Halia Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocgaokosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Kosong Dinosaur",
+  "mean": "Milo-C Gao Kosong Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Kosong Peng",
+  "mean": "Milo-O Gao Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliagadai.ms",
+  "lg": "ms",
+  "text": "Teh Halia Ga Dai",
+  "mean": "Teh Halia Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcgaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Gao Ga Dai Peng",
+  "mean": "Teh-C Gao Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopihaliasiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Halia Siew Dai Peng",
+  "mean": "Kopi Halia Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliagadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Ga Dai Peng",
+  "mean": "Teh Halia Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikgao.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Gao",
+  "mean": "Teh-O Tarik Gao",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiodilogadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Di Lo Ga Dai Peng",
+  "mean": "Kopi-O Di Lo Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloodilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Siew Dai Peng",
+  "mean": "Milo-O Di Lo Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliadilo.ms",
+  "lg": "ms",
+  "text": "Teh Halia Di Lo",
+  "mean": "Teh Halia Di Lo",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehodilogadai.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo Ga Dai",
+  "mean": "Teh-O Di Lo Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehctarikkosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Kosong Peng",
+  "mean": "Teh-C Tarik Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopitarikgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Gao Siew Dai Peng",
+  "mean": "Kopi Tarik Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocpohdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Poh Dinosaur",
+  "mean": "Milo-C Poh Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiopohgadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Poh Ga Dai Peng",
+  "mean": "Kopi-O Poh Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliadilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Di Lo Siew Dai Peng",
+  "mean": "Teh-O Halia Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehtarikgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Gao Siew Dai",
+  "mean": "Teh Tarik Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehopohgadai.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh Ga Dai",
+  "mean": "Teh-O Poh Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocpoh.ms",
+  "lg": "ms",
+  "text": "Milo-C Poh",
+  "mean": "Milo-C Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliadilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Di Lo Siew Dai Peng",
+  "mean": "Teh Halia Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Gao Siew Dai",
+  "mean": "Teh-O Tarik Gao Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliapohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Poh Siew Dai Peng",
+  "mean": "Teh Halia Poh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehohaliadilopeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Di Lo Peng",
+  "mean": "Teh-O Halia Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi-O Siew Dai Dinosaur",
+  "mean": "Kopi-O Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangogao.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Gao",
+  "mean": "Yuan Yang-O Gao",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangogaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Gao Siew Dai Peng",
+  "mean": "Yuan Yang-O Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyanggaogadai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Gao Ga Dai",
+  "mean": "Yuan Yang Gao Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Gao Siew Dai Peng",
+  "mean": "Kopi-O Tarik Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopipohgadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Poh Ga Dai Peng",
+  "mean": "Kopi Poh Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocdilodinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Di Lo Dinosaur",
+  "mean": "Milo-C Di Lo Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehtarikgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Gao Siew Dai Peng",
+  "mean": "Teh Tarik Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliapohpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Poh Peng",
+  "mean": "Teh-O Halia Poh Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocpohpeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Poh Peng",
+  "mean": "Milo-C Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopitarikgaopeng.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Gao Peng",
+  "mean": "Kopi Tarik Gao Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliapoh.ms",
+  "lg": "ms",
+  "text": "Teh Halia Poh",
+  "mean": "Teh Halia Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliapohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Poh Siew Dai Peng",
+  "mean": "Teh-O Halia Poh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliagaokosong.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Gao Kosong",
+  "mean": "Teh-C Halia Gao Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopihalia.ms",
+  "lg": "ms",
+  "text": "Kopi Halia",
+  "mean": "Kopi Halia",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehopohgadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Poh Ga Dai Peng",
+  "mean": "Teh-O Poh Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehtarikgao.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Gao",
+  "mean": "Teh Tarik Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikgaopeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Gao Peng",
+  "mean": "Teh-O Tarik Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopihaliapeng.ms",
+  "lg": "ms",
+  "text": "Kopi Halia Peng",
+  "mean": "Kopi Halia Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehodilogadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Di Lo Ga Dai Peng",
+  "mean": "Teh-O Di Lo Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocpohsiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Poh Siew Dai Dinosaur",
+  "mean": "Milo-C Poh Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangogaopeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Gao Peng",
+  "mean": "Yuan Yang-O Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehohaliagaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Halia Gao Kosong Peng",
+  "mean": "Teh-O Halia Gao Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocdilo.ms",
+  "lg": "ms",
+  "text": "Milo-C Di Lo",
+  "mean": "Milo-C Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocgaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Gao Kosong Peng",
+  "mean": "Milo-C Gao Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehpohgadai.ms",
+  "lg": "ms",
+  "text": "Teh Poh Ga Dai",
+  "mean": "Teh Poh Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgadai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Ga Dai",
+  "mean": "Kopi-O Tarik Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehhaliadilopeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Di Lo Peng",
+  "mean": "Teh Halia Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopidilogadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Di Lo Ga Dai Peng",
+  "mean": "Kopi Di Lo Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Gao Siew Dai Peng",
+  "mean": "Teh-O Tarik Gao Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiohalia.ms",
+  "lg": "ms",
+  "text": "Kopi-O Halia",
+  "mean": "Kopi-O Halia",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyanggaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang Gao Ga Dai Peng",
+  "mean": "Yuan Yang Gao Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliagadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Ga Dai Peng",
+  "mean": "Teh-C Halia Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicdinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi-C Dinosaur",
+  "mean": "Kopi-C Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocdilosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Di Lo Siew Dai Dinosaur",
+  "mean": "Milo-C Di Lo Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicpohgadai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh Ga Dai",
+  "mean": "Kopi-C Poh Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocdilosiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-C Di Lo Siew Dai",
+  "mean": "Milo-C Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehdilogadai.ms",
+  "lg": "ms",
+  "text": "Teh Di Lo Ga Dai",
+  "mean": "Teh Di Lo Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopicdilogadai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo Ga Dai",
+  "mean": "Kopi-C Di Lo Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloodilokosong.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Kosong",
+  "mean": "Milo-O Di Lo Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloopohkosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Kosong Dinosaur",
+  "mean": "Milo-O Poh Kosong Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliagaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Gao Kosong Peng",
+  "mean": "Teh-C Halia Gao Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopictarikgao.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Gao",
+  "mean": "Kopi-C Tarik Gao",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Milo-C Poh Siew Dai",
+  "mean": "Milo-C Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloodilokosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Kosong Dinosaur",
+  "mean": "Milo-O Di Lo Kosong Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliadilo.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Di Lo",
+  "mean": "Teh-C Halia Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehotarikgadai.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Ga Dai",
+  "mean": "Teh-O Tarik Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopictarikgaopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Gao Peng",
+  "mean": "Kopi-C Tarik Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloogaogadai.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Ga Dai",
+  "mean": "Milo-O Gao Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangogadai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Ga Dai",
+  "mean": "Yuan Yang-O Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocdilopeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Di Lo Peng",
+  "mean": "Milo-C Di Lo Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcpohgadai.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh Ga Dai",
+  "mean": "Teh-C Poh Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliapoh.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Poh",
+  "mean": "Teh-C Halia Poh",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehtarikgaopeng.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Gao Peng",
+  "mean": "Teh Tarik Gao Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehpohgadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Poh Ga Dai Peng",
+  "mean": "Teh Poh Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehdilogadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh Di Lo Ga Dai Peng",
+  "mean": "Teh Di Lo Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Ga Dai Peng",
+  "mean": "Kopi-O Tarik Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloopohkosong.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Kosong",
+  "mean": "Milo-O Poh Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocpohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Poh Siew Dai Peng",
+  "mean": "Milo-C Poh Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehctarikgao.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Gao",
+  "mean": "Teh-C Tarik Gao",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopitarikpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Poh Siew Dai",
+  "mean": "Kopi Tarik Poh Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliapohsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Poh Siew Dai",
+  "mean": "Teh-C Halia Poh Siew Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehhaliapohpeng.ms",
+  "lg": "ms",
+  "text": "Teh Halia Poh Peng",
+  "mean": "Teh Halia Poh Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicsiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi-C Siew Dai Dinosaur",
+  "mean": "Kopi-C Siew Dai Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopitarikdilosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Di Lo Siew Dai",
+  "mean": "Kopi Tarik Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikdilo.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Di Lo",
+  "mean": "Kopi-O Tarik Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopictarikgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Gao Siew Dai",
+  "mean": "Kopi-C Tarik Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloodilokosongpeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Di Lo Kosong Peng",
+  "mean": "Milo-O Di Lo Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiohaliasiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Halia Siew Dai",
+  "mean": "Kopi-O Halia Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiohaliapeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Halia Peng",
+  "mean": "Kopi-O Halia Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehchaliadilosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Di Lo Siew Dai",
+  "mean": "Teh-C Halia Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikpoh.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Poh",
+  "mean": "Kopi-O Tarik Poh",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarikpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Poh Siew Dai",
+  "mean": "Kopi-O Tarik Poh Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicdilogadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Di Lo Ga Dai Peng",
+  "mean": "Kopi-C Di Lo Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocdilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-C Di Lo Siew Dai Peng",
+  "mean": "Milo-C Di Lo Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgaokosong.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Gao Kosong",
+  "mean": "Kopi-O Tarik Gao Kosong",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopictarikgaosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Tarik Gao Siew Dai Peng",
+  "mean": "Kopi-C Tarik Gao Siew Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehcdilogadai.ms",
+  "lg": "ms",
+  "text": "Teh-C Di Lo Ga Dai",
+  "mean": "Teh-C Di Lo Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopigaosiewdaidinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi Gao Siew Dai Dinosaur",
+  "mean": "Kopi Gao Siew Dai Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopicpohgadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi-C Poh Ga Dai Peng",
+  "mean": "Kopi-C Poh Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.miloopohkosongpeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Poh Kosong Peng",
+  "mean": "Milo-O Poh Kosong Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiotarikgaokosongpeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Gao Kosong Peng",
+  "mean": "Kopi-O Tarik Gao Kosong Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangodilosiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Di Lo Siew Dai",
+  "mean": "Yuan Yang-O Di Lo Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopiokosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi-O Kosong Dinosaur",
+  "mean": "Kopi-O Kosong Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehctarikgaopeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Gao Peng",
+  "mean": "Teh-C Tarik Gao Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliapohpeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Poh Peng",
+  "mean": "Teh-C Halia Poh Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehotarikgadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Ga Dai Peng",
+  "mean": "Teh-O Tarik Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloogaogadaidinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Ga Dai Dinosaur",
+  "mean": "Milo-O Gao Ga Dai Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.milocpohkosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Poh Kosong Dinosaur",
+  "mean": "Milo-C Poh Kosong Dinosaur",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.milocdilokosongdinosaur.ms",
+  "lg": "ms",
+  "text": "Milo-C Di Lo Kosong Dinosaur",
+  "mean": "Milo-C Di Lo Kosong Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopiotarikdilopeng.ms",
+  "lg": "ms",
+  "text": "Kopi-O Tarik Di Lo Peng",
+  "mean": "Kopi-O Tarik Di Lo Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopitarikdilosiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Di Lo Siew Dai Peng",
+  "mean": "Kopi Tarik Di Lo Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangogadaipeng.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Ga Dai Peng",
+  "mean": "Yuan Yang-O Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliadilopeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Di Lo Peng",
+  "mean": "Teh-C Halia Di Lo Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.yuanyangopohsiewdai.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Poh Siew Dai",
+  "mean": "Yuan Yang-O Poh Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopigaodinosaur.ms",
+  "lg": "ms",
+  "text": "Kopi Gao Dinosaur",
+  "mean": "Kopi Gao Dinosaur",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehtarikgadai.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Ga Dai",
+  "mean": "Teh Tarik Ga Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.kopitarikgadai.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Ga Dai",
+  "mean": "Kopi Tarik Ga Dai",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehctarikgaosiewdai.ms",
+  "lg": "ms",
+  "text": "Teh-C Tarik Gao Siew Dai",
+  "mean": "Teh-C Tarik Gao Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehchaliapohsiewdaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Halia Poh Siew Dai Peng",
+  "mean": "Teh-C Halia Poh Siew Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehcpohgadaipeng.ms",
+  "lg": "ms",
+  "text": "Teh-C Poh Ga Dai Peng",
+  "mean": "Teh-C Poh Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.miloogaogadaipeng.ms",
+  "lg": "ms",
+  "text": "Milo-O Gao Ga Dai Peng",
+  "mean": "Milo-O Gao Ga Dai Peng",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehtarikpohsiewdai.ms",
+  "lg": "ms",
+  "text": "Teh Tarik Poh Siew Dai",
+  "mean": "Teh Tarik Poh Siew Dai",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.tehotarikdilo.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Di Lo",
+  "mean": "Teh-O Tarik Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.kopitarikgadaipeng.ms",
+  "lg": "ms",
+  "text": "Kopi Tarik Ga Dai Peng",
+  "mean": "Kopi Tarik Ga Dai Peng",
+  "personas": [
+   "uncle"
+  ]
+ },
+ {
+  "key": "call.yuanyangodilo.ms",
+  "lg": "ms",
+  "text": "Yuan Yang-O Di Lo",
+  "mean": "Yuan Yang-O Di Lo",
+  "personas": [
+   "auntie"
+  ]
+ },
+ {
+  "key": "call.tehotarikpoh.ms",
+  "lg": "ms",
+  "text": "Teh-O Tarik Poh",
+  "mean": "Teh-O Tarik Poh",
+  "personas": [
+   "uncle"
+  ]
+ }
+]
