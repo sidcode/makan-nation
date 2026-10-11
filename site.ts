@@ -7,6 +7,7 @@
 //   /hawker-media/    apps/hawker/media, as it is
 //   /hawker-voices/   the generated voice clips and their manifest (data/hawker-voices)
 //   /radio-labels/    record label thumbnails (data/radio-labels)
+//   /share/           the link preview image (lobby/share)
 //
 // A project site on Pages lives under a subpath (https://<user>.github.io/<repo>/), so pages only use relative
 // links: an app reaches the shared folders, the lobby and the other apps through "../".
@@ -24,6 +25,8 @@ export const FOLDERS: Record<string, { from: string; files: RegExp }> = {
   "hawker-media": { from: "apps/hawker/media", files: /\.(jpg|png|webp|hdr|mp3|mp4|webm|json)$/ },
   "hawker-voices": { from: "data/hawker-voices", files: /^([a-f0-9]{16}\.mp3|manifest\.json)$/ },
   "radio-labels": { from: "data/radio-labels", files: /\.jpg$/ },
+  // The link preview image, at a fixed address for the lobby's og:image.
+  share: { from: "lobby/share", files: /\.jpg$/ },
 };
 
 const copy = (name: string) => async () => Bun.file(`${import.meta.dir}/data/${name}`).text();

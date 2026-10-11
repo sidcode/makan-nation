@@ -745,6 +745,19 @@ h1 em {
   margin: 0 auto;
 }
 
+.foot .foot__credit {
+  margin-top: 18px;
+  font: 500 13px/1.4 var(--mono);
+  letter-spacing: 0.06em;
+}
+
+.foot__credit a {
+  color: var(--now);
+  font-weight: 700;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
 code {
   font: 500 13px/1 var(--mono);
   padding: 2px 6px;
