@@ -1,0 +1,384 @@
+{
+  "source": "Wikimedia Commons",
+  "dishes": {
+    "chickenrice": {
+      "file": "chickenrice.jpg",
+      "caption": "Hainanese chicken rice with cucumber",
+      "author": "ProjectManhattan",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:White_chicken_rice.jpg"
+    },
+    "duckrice": {
+      "file": "duckrice.jpg",
+      "caption": "Teochew style braised duck",
+      "author": "Chensiyuan",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Braised_duck_teochew.jpg"
+    },
+    "kayatoast": {
+      "file": "kayatoast.jpg",
+      "caption": "Kaya toast with soft boiled eggs and kopi",
+      "author": "Goodiesfirst",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ya_Kun_Koya_toast,_eggs_and_coffee.jpg"
+    },
+    "drink": {
+      "file": "drink.jpg",
+      "caption": "Kopi O in a traditional cup and saucer",
+      "author": "Digital Terrorist",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kopi_O.jpg"
+    },
+    "ckt": {
+      "file": "ckt.jpg",
+      "caption": "Char kway teow with cockles and egg",
+      "author": "Foodi-elaine",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaysian_Char_Kuey_Teow.jpg"
+    },
+    "carrotcake": {
+      "file": "carrotcake.jpg",
+      "caption": "Fried carrot cake, white style",
+      "author": "Banej",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Fried_Chinese_Carrot_Cake_by_Banej.jpg"
+    },
+    "hokkienmee": {
+      "file": "hokkienmee.jpg",
+      "caption": "Hokkien prawn mee with sambal and lime",
+      "author": "Jpatokal",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Newton_HokkienMee.JPG"
+    },
+    "wantonmee": {
+      "file": "wantonmee.jpg",
+      "caption": "Wanton mee with char siew",
+      "author": "Choo Yut Shing",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Char_Siew_Wanton_Mee_(52354080769).jpg"
+    },
+    "orhluak": {
+      "file": "orhluak.jpg",
+      "caption": "Oyster omelette with chilli sauce",
+      "author": "Banej",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Oyster_omelette_-_Singapore_Style.jpg"
+    },
+    "laksa": {
+      "file": "laksa.jpg",
+      "caption": "Katong laksa",
+      "author": "Jpatokal",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Food_KatongLaksa.JPG"
+    },
+    "chweekueh": {
+      "file": "chweekueh.jpg",
+      "caption": "Chwee kueh topped with preserved radish",
+      "author": "Ruth Ellison",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chwee_kueh_(cropped).jpg"
+    },
+    "satay": {
+      "file": "satay.jpg",
+      "caption": "Satay with ketupat, onion and cucumber",
+      "author": "ProjectManhattan",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Nice_satay.jpg"
+    },
+    "nasilemak": {
+      "file": "nasilemak.jpg",
+      "caption": "Nasi lemak on banana leaf with sambal, ikan bilis and fried chicken",
+      "author": "Jpatokal",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Nasi_lemak_on_banana_leaf.jpg"
+    },
+    "meerebus": {
+      "file": "meerebus.jpg",
+      "caption": "Mee rebus with egg and lime",
+      "author": "Miss Izzah",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mee_Rebus.jpg"
+    },
+    "prata": {
+      "file": "prata.jpg",
+      "caption": "Roti prata kosong with curry",
+      "author": "ProjectManhattan",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Roti_prata.jpg"
+    },
+    "murtabak": {
+      "file": "murtabak.jpg",
+      "caption": "Murtabak with curry",
+      "author": "Orderinchaos",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Singapore_food_-_Murtabak_at_Food_Republic_Nov_2016.jpg"
+    },
+    "icekachang": {
+      "file": "icekachang.jpg",
+      "caption": "Ice kachang topped with ice cream",
+      "author": "Andrew Bogott",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ais_kacang.jpg"
+    },
+    "chendol": {
+      "file": "chendol.jpg",
+      "caption": "Chendol with shaved ice, green jelly and gula melaka",
+      "author": "Banej",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chendol_in_a_bowl.JPG"
+    },
+    "roastmeat": {
+      "file": "roastmeat.jpg",
+      "caption": "Char siew and roast pork rice",
+      "author": "Juay Ding Hong",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Char_Siew_and_Roasted_Pork_Rice.jpg"
+    },
+    "bakkutteh": {
+      "file": "bakkutteh.jpg",
+      "caption": "Bak kut teh with rice and side dishes",
+      "author": "Pauloleong2002",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:%E8%82%89%E9%AA%A8%E8%8C%B6(%E6%96%B0%E5%8A%A0%E5%9D%A1).jpg"
+    },
+    "curryrice": {
+      "file": "curryrice.jpg",
+      "caption": "Hainanese curry rice with pork cutlet and egg",
+      "author": "Banej",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Hainanese_Curry_Rice_by_Banej.jpg"
+    },
+    "economyrice": {
+      "file": "economyrice.jpg",
+      "caption": "Economy rice: rice with a few dishes picked from the counter",
+      "author": "Aneeshnl",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Economy_Rice_dish.jpg"
+    },
+    "yongtaufoo": {
+      "file": "yongtaufoo.jpg",
+      "caption": "Yong tau foo: stuffed tofu, vegetables and fish balls",
+      "author": "Foodi-elaine",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Malaysian_Yong_Tau_Foo.jpg"
+    },
+    "kwaychap": {
+      "file": "kwaychap.jpg",
+      "caption": "Kway chap with braised pork, tofu and egg",
+      "author": "Grunty89",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Kway_Chap_Dec_2025.jpg"
+    },
+    "porridge": {
+      "file": "porridge.jpg",
+      "caption": "Teochew porridge with side dishes",
+      "author": "Walter Lim",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Our_favourite_teochew_porridge_at_only_S$12_for_four_persons!_-foodie_(8837144635).jpg"
+    },
+    "prawnnoodles": {
+      "file": "prawnnoodles.jpg",
+      "caption": "Prawn noodle soup",
+      "author": "lazy fri13th",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Singapore_prawn_noodle_soup.jpg"
+    },
+    "banmian": {
+      "file": "banmian.jpg",
+      "caption": "Ban mian soup with ikan bilis and greens",
+      "author": "Goh Wei Zhong",
+      "licence": "CC BY 2.5",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+      "page": "https://commons.wikimedia.org/wiki/File:Ban_mian.jpg"
+    },
+    "meegoreng": {
+      "file": "meegoreng.jpg",
+      "caption": "Mee goreng mamak with lime",
+      "author": "Wiki Farazi",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Mee_goreng_mamak_20231114_133123.jpg"
+    },
+    "nasipadang": {
+      "file": "nasipadang.jpg",
+      "caption": "Nasi padang with beef rendang and cassava leaves",
+      "author": "Dr.Francostein1975",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Nasi_Padang_With_beef_rendang.jpg"
+    },
+    "sambalstingray": {
+      "file": "sambalstingray.jpg",
+      "caption": "BBQ stingray with sambal on banana leaf",
+      "author": "Chensiyuan",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:BBQ_stingray.jpg"
+    },
+    "currypuff": {
+      "file": "currypuff.jpg",
+      "caption": "Curry puffs, one cut open",
+      "author": "Mdsheth1986",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Karipap_Daging.jpg"
+    },
+    "kueh": {
+      "file": "kueh.jpg",
+      "caption": "Ondeh ondeh filled with gula melaka",
+      "author": "ProjectManhattan",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Ondeh_ondeh_kueh.jpg"
+    },
+    "soya": {
+      "file": "soya.jpg",
+      "caption": "A glass of soya bean milk",
+      "author": "LinasD",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Soy_milk.jpg"
+    },
+    "chillicrab": {
+      "file": "chillicrab.jpg",
+      "caption": "Chilli crab",
+      "author": "Dekcuf",
+      "licence": "CC BY-SA 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Chilli_crab-01.jpg"
+    },
+    "fishsoup": {
+      "file": "fishsoup.jpg",
+      "caption": "Sliced fish soup",
+      "author": "Kars Alfrink",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Sliced_fish_soup,_Pek_Kio_Market_%26_Food_Centre_(25065937730).jpg"
+    },
+    "biryani": {
+      "file": "biryani.jpg",
+      "caption": "Mutton biryani",
+      "author": "EurovisionNim",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Mutton_Biryani,_Singapore.jpg"
+    },
+    "lormee": {
+      "file": "lormee.jpg",
+      "caption": "Lor mee with braised egg",
+      "author": "Kcdtsg",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:LorMee.JPG"
+    },
+    "rojak": {
+      "file": "rojak.jpg",
+      "caption": "Chinese rojak with peanuts",
+      "author": "ProjectManhattan",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Rojak_in_Singapore.jpg"
+    },
+    "bakchormee": {
+      "file": "bakchormee.jpg",
+      "caption": "Bak chor mee with minced pork and mushrooms",
+      "author": "Mokkie",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Bak_chor_mee.jpg"
+    },
+    "wings": {
+      "file": "wings.jpg",
+      "caption": "Grilled chicken wings",
+      "author": "Diana Fadila",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:KEPAK_BAKAR_MEYMEY.jpg"
+    },
+    "popiah": {
+      "file": "popiah.jpg",
+      "caption": "Popiah rolls cut into pieces",
+      "author": "Chensiyuan",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "page": "https://commons.wikimedia.org/wiki/File:Popiah_cu.JPG"
+    },
+    "pisang": {
+      "file": "pisang.jpg",
+      "caption": "Goreng pisang",
+      "author": "ProjectManhattan",
+      "licence": "CC0",
+      "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File:Goreng_pisang.jpg"
+    },
+    "thosai": {
+      "file": "thosai.jpg",
+      "caption": "Thosai with chutneys on banana leaf",
+      "author": "Kai Hendry",
+      "licence": "CC BY 2.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Dosai_meal_at_http---komalavilas.jpg"
+    },
+    "peppercrab": {
+      "file": "peppercrab.jpg",
+      "caption": "Black pepper crab",
+      "author": "Smuconlaw",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Black_pepper_crab,_New_Ubin_Seafood,_Singapore_-_20150424.jpg"
+    },
+    "sugarcane": {
+      "file": "sugarcane.jpg",
+      "caption": "A glass of sugarcane juice",
+      "author": "Fgnievinski",
+      "licence": "CC BY-SA 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Glass_of_sugarcane_juice.jpg"
+    },
+    "claypot": {
+      "file": "claypot.jpg",
+      "caption": "Claypot chicken rice with Chinese sausage and greens",
+      "author": "Banej",
+      "licence": "CC BY-SA 3.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File:Claypot_Chicken_Rice,_Singapore.JPG"
+    },
+    "oystercake": {
+      "file": "oystercake.jpg",
+      "caption": "Fuzhou oyster cake",
+      "author": "Alex Lozupone",
+      "licence": "CC BY 4.0",
+      "licenceUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File:20241214_172015oyster.jpg"
+    }
+  },
+  "missing": [
+    "chengtng"
+  ]
+}

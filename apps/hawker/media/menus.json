@@ -1,0 +1,3265 @@
+{
+  "checked": "2026-10-08",
+  "stalls": [
+    {
+      "centre": "Maxwell Food Centre",
+      "stall": "Tian Tian Hainanese Chicken Rice",
+      "unit": "#01-10/11",
+      "items": [
+        {
+          "name": "Chicken rice, roasted or steamed, medium",
+          "dish": "chickenrice",
+          "prices": [
+            6
+          ],
+          "note": "medium plate at the Maxwell stall"
+        },
+        {
+          "name": "Roasted chicken rice, small",
+          "dish": "chickenrice",
+          "prices": [
+            5
+          ],
+          "note": "small plate at the Maxwell stall"
+        }
+      ],
+      "date": "2026-08-21",
+      "source": [
+        "Time Out Singapore: Tian Tian opens at Jewel Changi, 21 August 2026",
+        "https://www.timeout.com/singapore/news/tian-tian-hainanese-chicken-rice-opens-a-flagship-outlet-at-jewel-changi-how-does-it-compare-to-the-original-082126"
+      ]
+    },
+    {
+      "centre": "Maxwell Food Centre",
+      "stall": "Zhen Zhen Porridge",
+      "unit": "#01-54",
+      "items": [
+        {
+          "name": "Sliced fish with shredded chicken and century egg porridge",
+          "dish": "porridge",
+          "prices": [
+            4,
+            5
+          ],
+          "note": "two sizes; a plain bowl is $4"
+        }
+      ],
+      "date": "2026-09-04",
+      "source": [
+        "Eatbook: Maxwell Food Centre guide, 4 September 2026",
+        "https://eatbook.sg/maxwell-food-centre/"
+      ]
+    },
+    {
+      "centre": "Maxwell Food Centre",
+      "stall": "Jin Hua Fish Head Bee Hoon",
+      "unit": "#01-77",
+      "items": [
+        {
+          "name": "Fish soup, sliced or fried fish",
+          "dish": "fishsoup",
+          "prices": [
+            5
+          ],
+          "note": "starting price; with rice or noodles, evaporated milk on request"
+        }
+      ],
+      "date": "2026-09-04",
+      "source": [
+        "Eatbook: Maxwell Food Centre guide, 4 September 2026",
+        "https://eatbook.sg/maxwell-food-centre/"
+      ]
+    },
+    {
+      "centre": "Maxwell Food Centre",
+      "stall": "Maxwell Fuzhou Oyster Cake",
+      "unit": "#01-05",
+      "items": [
+        {
+          "name": "Oyster cake",
+          "dish": "oystercake",
+          "prices": [
+            2.5
+          ],
+          "note": "oysters, prawns and minced meat"
+        }
+      ],
+      "date": "2026-09-04",
+      "source": [
+        "Eatbook: Maxwell Food Centre guide, 4 September 2026",
+        "https://eatbook.sg/maxwell-food-centre/"
+      ]
+    },
+    {
+      "centre": "Chinatown Complex Market and Food Centre",
+      "stall": "Lian He Ben Ji Claypot Rice",
+      "unit": "#02-198/199",
+      "items": [
+        {
+          "name": "Mixed claypot rice",
+          "dish": "claypot",
+          "prices": [
+            8
+          ],
+          "note": "starting price; chicken, lup cheong and vegetables"
+        },
+        {
+          "name": "Old cucumber pork rib soup",
+          "dish": null,
+          "prices": [
+            2.5
+          ],
+          "note": null
+        }
+      ],
+      "date": "2026-01-05",
+      "source": [
+        "Eatbook: Chinatown Complex Food Centre guide, 5 January 2026",
+        "https://eatbook.sg/chinatown-complex-food/"
+      ]
+    },
+    {
+      "centre": "Chinatown Complex Market and Food Centre",
+      "stall": "Woo Ji Cooked Food",
+      "unit": "#02-056",
+      "items": [
+        {
+          "name": "Laksa",
+          "dish": "laksa",
+          "prices": [
+            2.5
+          ],
+          "note": "with yong tau foo pieces"
+        },
+        {
+          "name": "Prawn noodles",
+          "dish": "prawnnoodles",
+          "prices": [
+            2.5
+          ],
+          "note": null
+        }
+      ],
+      "date": "2026-01-05",
+      "source": [
+        "Eatbook: Chinatown Complex Food Centre guide, 5 January 2026",
+        "https://eatbook.sg/chinatown-complex-food/"
+      ]
+    },
+    {
+      "centre": "Chinatown Complex Market and Food Centre",
+      "stall": "Hill Street Fried Kway Teow",
+      "unit": "#02-032",
+      "items": [
+        {
+          "name": "Char kway teow",
+          "dish": "ckt",
+          "prices": [
+            4,
+            5
+          ],
+          "note": "two sizes"
+        }
+      ],
+      "date": "2026-08-12",
+      "source": [
+        "Seth Lui: 12 best stalls in Chinatown Complex Food Centre, updated 12 August 2026",
+        "https://sethlui.com/chinatown-complex-food-centre-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Chinatown Complex Market and Food Centre",
+      "stall": "Ann Chin Popiah",
+      "unit": "#02-112",
+      "items": [
+        {
+          "name": "Popiah",
+          "dish": "popiah",
+          "prices": [
+            2.2
+          ],
+          "note": "per roll"
+        }
+      ],
+      "date": "2026-01-05",
+      "source": [
+        "Eatbook: Chinatown Complex Food Centre guide, 5 January 2026",
+        "https://eatbook.sg/chinatown-complex-food/"
+      ]
+    },
+    {
+      "centre": "Hong Lim Market and Food Centre",
+      "stall": "Outram Park Fried Kway Teow Mee",
+      "unit": "#02-17",
+      "items": [
+        {
+          "name": "Char kway teow",
+          "dish": "ckt",
+          "prices": [
+            5,
+            6
+          ],
+          "note": "two portion sizes"
+        },
+        {
+          "name": "Extra cockles",
+          "dish": null,
+          "prices": [
+            2
+          ],
+          "note": "add-on"
+        },
+        {
+          "name": "Extra egg",
+          "dish": null,
+          "prices": [
+            0.5
+          ],
+          "note": "add-on"
+        }
+      ],
+      "date": "2025-12-04",
+      "source": [
+        "Seth Lui: Outram Park Fried Kway Teow Mee, updated 4 December 2025",
+        "https://sethlui.com/outram-park-fried-kway-teow-mee-singapore/"
+      ]
+    },
+    {
+      "centre": "Hong Lim Market and Food Centre",
+      "stall": "Ji Ji Wanton Noodle Specialist",
+      "unit": "#02-48/49",
+      "items": [
+        {
+          "name": "Signature char siew wanton noodle",
+          "dish": "wantonmee",
+          "prices": [
+            4.5,
+            5.5,
+            6.5,
+            8.5
+          ],
+          "note": "four sizes, same for all noodle dishes"
+        }
+      ],
+      "date": "2025-01-09",
+      "source": [
+        "Eatbook: Hong Lim Food Centre guide, 9 January 2025",
+        "https://eatbook.sg/hong-lim-food-centre/"
+      ]
+    },
+    {
+      "centre": "Hong Lim Market and Food Centre",
+      "stall": "Ah Heng Duck Rice",
+      "unit": "#02-64",
+      "items": [
+        {
+          "name": "Duck rice",
+          "dish": "duckrice",
+          "prices": [
+            4.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Kway chap",
+          "dish": "kwaychap",
+          "prices": [
+            5
+          ],
+          "note": null
+        },
+        {
+          "name": "Pig skin",
+          "dish": null,
+          "prices": [
+            1.5,
+            3
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Pork belly",
+          "dish": null,
+          "prices": [
+            4,
+            6
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Braised egg, tau pok or tau kua",
+          "dish": null,
+          "prices": [
+            0.7
+          ],
+          "note": "add-on, each"
+        }
+      ],
+      "date": "2025-01-09",
+      "source": [
+        "Eatbook: Hong Lim Food Centre guide, 9 January 2025",
+        "https://eatbook.sg/hong-lim-food-centre/"
+      ]
+    },
+    {
+      "centre": "Hong Lim Market and Food Centre",
+      "stall": "Hokkien Street Bak Kut Teh",
+      "unit": "#01-66",
+      "items": [
+        {
+          "name": "Bak kut teh",
+          "dish": "bakkutteh",
+          "prices": [
+            4
+          ],
+          "note": "starting price; long or short ribs"
+        },
+        {
+          "name": "Pig's trotter",
+          "dish": null,
+          "prices": [
+            4
+          ],
+          "note": "starting price"
+        },
+        {
+          "name": "You tiao",
+          "dish": null,
+          "prices": [
+            1,
+            2
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Peanuts",
+          "dish": null,
+          "prices": [
+            1,
+            2
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Yam rice",
+          "dish": null,
+          "prices": [
+            0.7
+          ],
+          "note": null
+        }
+      ],
+      "date": "2025-01-09",
+      "source": [
+        "Eatbook: Hong Lim Food Centre guide, 9 January 2025",
+        "https://eatbook.sg/hong-lim-food-centre/"
+      ]
+    },
+    {
+      "centre": "Amoy Street Food Centre",
+      "stall": "Han Kee Fish Soup",
+      "unit": "#02-129",
+      "items": [
+        {
+          "name": "Sliced fish soup",
+          "dish": "fishsoup",
+          "prices": [
+            6
+          ],
+          "note": "starting price"
+        }
+      ],
+      "date": "2026-07-10",
+      "source": [
+        "Eatbook: Amoy Street Food Centre guide, 10 July 2026",
+        "https://eatbook.sg/amoy-street-food-centre/"
+      ]
+    },
+    {
+      "centre": "Amoy Street Food Centre",
+      "stall": "A Noodle Story",
+      "unit": "#01-39",
+      "items": [
+        {
+          "name": "Singapore style ramen",
+          "dish": null,
+          "prices": [
+            10.8
+          ],
+          "note": "chashu, potato-wrapped prawn, wontons and lava egg"
+        }
+      ],
+      "date": "2026-07-10",
+      "source": [
+        "Eatbook: Amoy Street Food Centre guide, 10 July 2026",
+        "https://eatbook.sg/amoy-street-food-centre/"
+      ]
+    },
+    {
+      "centre": "Amoy Street Food Centre",
+      "stall": "Ah Seng (Hai Nam) Coffee",
+      "unit": "#02-95",
+      "items": [
+        {
+          "name": "Kaya toast",
+          "dish": "kayatoast",
+          "prices": [
+            2.4
+          ],
+          "note": "two pieces, charcoal-grilled"
+        },
+        {
+          "name": "French toast",
+          "dish": null,
+          "prices": [
+            4
+          ],
+          "note": null
+        },
+        {
+          "name": "Two eggs",
+          "dish": null,
+          "prices": [
+            1.6
+          ],
+          "note": "add-on"
+        },
+        {
+          "name": "Kopi O",
+          "dish": "drink",
+          "prices": [
+            1
+          ],
+          "note": "with a meal"
+        }
+      ],
+      "date": "2026-07-10",
+      "source": [
+        "Eatbook: Amoy Street Food Centre guide, 10 July 2026",
+        "https://eatbook.sg/amoy-street-food-centre/"
+      ]
+    },
+    {
+      "centre": "Amoy Street Food Centre",
+      "stall": "J2 Famous Crispy Curry Puff",
+      "unit": "#01-21",
+      "items": [
+        {
+          "name": "Curry puff",
+          "dish": "currypuff",
+          "prices": [
+            2
+          ],
+          "note": "starting price; fillings include sardine and curry potato"
+        }
+      ],
+      "date": "2026-07-10",
+      "source": [
+        "Eatbook: Amoy Street Food Centre guide, 10 July 2026",
+        "https://eatbook.sg/amoy-street-food-centre/"
+      ]
+    },
+    {
+      "centre": "Lau Pa Sat",
+      "stall": "Best Satay No. 7 & 8",
+      "unit": "Stall FC4 & FC5",
+      "items": [
+        {
+          "name": "Satay Set A",
+          "dish": "satay",
+          "prices": [
+            31.2
+          ],
+          "note": "10 chicken, 10 mutton or beef and 6 prawn sticks"
+        }
+      ],
+      "date": "2026-07-17",
+      "source": [
+        "Seth Lui: Lau Pa Sat food guide, updated 17 July 2026",
+        "https://sethlui.com/lau-pa-sat-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Lau Pa Sat",
+      "stall": "Satay Power 6",
+      "unit": "Stall 6",
+      "items": [
+        {
+          "name": "Satay, mutton, beef, chicken or duck",
+          "dish": "satay",
+          "prices": [
+            0.8
+          ],
+          "note": "per stick"
+        },
+        {
+          "name": "Prawn satay",
+          "dish": "satay",
+          "prices": [
+            2
+          ],
+          "note": "per stick"
+        },
+        {
+          "name": "Ketupat",
+          "dish": null,
+          "prices": [
+            1
+          ],
+          "note": null
+        }
+      ],
+      "date": "2025-04-23",
+      "source": [
+        "Seth Lui: Satay Power 6 at Lau Pa Sat, updated 23 April 2025",
+        "https://sethlui.com/satay-power-6-lau-pa-sat-singapore/"
+      ]
+    },
+    {
+      "centre": "Lau Pa Sat",
+      "stall": "Warong Pak Sapari",
+      "unit": "Stall 58",
+      "items": [
+        {
+          "name": "Original mee rebus",
+          "dish": "meerebus",
+          "prices": [
+            5.3
+          ],
+          "note": null
+        },
+        {
+          "name": "Original mee soto",
+          "dish": null,
+          "prices": [
+            5.8
+          ],
+          "note": null
+        }
+      ],
+      "date": "2026-07-17",
+      "source": [
+        "Seth Lui: Lau Pa Sat food guide, updated 17 July 2026",
+        "https://sethlui.com/lau-pa-sat-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Lau Pa Sat",
+      "stall": "Lao Fu Zi Fried Kway Teow",
+      "unit": "Stall 74 & 75",
+      "items": [
+        {
+          "name": "Black fried kway teow",
+          "dish": "ckt",
+          "prices": [
+            7.5
+          ],
+          "note": "Singapore style, Lau Pa Sat branch"
+        },
+        {
+          "name": "White fried kway teow",
+          "dish": null,
+          "prices": [
+            7.5
+          ],
+          "note": "no sweet dark sauce"
+        },
+        {
+          "name": "Laksa",
+          "dish": "laksa",
+          "prices": [
+            7.5
+          ],
+          "note": null
+        }
+      ],
+      "date": "2026-07-17",
+      "source": [
+        "Seth Lui: Lau Pa Sat food guide, updated 17 July 2026",
+        "https://sethlui.com/lau-pa-sat-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Tiong Bahru Market",
+      "stall": "Jian Bo Shui Kueh",
+      "unit": "#02-05",
+      "items": [
+        {
+          "name": "Chwee kueh",
+          "dish": "chweekueh",
+          "prices": [
+            3.5
+          ],
+          "note": "five pieces"
+        },
+        {
+          "name": "Steamed yam cake",
+          "dish": null,
+          "prices": [
+            3,
+            4.5
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Chee cheong fun",
+          "dish": null,
+          "prices": [
+            3,
+            4.5
+          ],
+          "note": "two sizes"
+        }
+      ],
+      "date": "2026-01-08",
+      "source": [
+        "Eatbook: Tiong Bahru Market guide, 8 January 2026",
+        "https://eatbook.sg/tiong-bahru-market/"
+      ]
+    },
+    {
+      "centre": "Tiong Bahru Market",
+      "stall": "Lor Mee 178",
+      "unit": "#02-23",
+      "items": [
+        {
+          "name": "Lor mee",
+          "dish": "lormee",
+          "prices": [
+            4.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Deep-fried shark nuggets",
+          "dish": null,
+          "prices": [
+            1
+          ],
+          "note": "add-on"
+        }
+      ],
+      "date": "2026-01-08",
+      "source": [
+        "Eatbook: Tiong Bahru Market guide, 8 January 2026",
+        "https://eatbook.sg/tiong-bahru-market/"
+      ]
+    },
+    {
+      "centre": "Tiong Bahru Market",
+      "stall": "Loo's Hainanese Curry Rice",
+      "unit": "#02-67/68",
+      "items": [
+        {
+          "name": "Rice",
+          "dish": "curryrice",
+          "prices": [
+            0.8
+          ],
+          "note": "base; add toppings"
+        },
+        {
+          "name": "Pork chop",
+          "dish": null,
+          "prices": [
+            2
+          ],
+          "note": "topping"
+        },
+        {
+          "name": "Braised pork",
+          "dish": null,
+          "prices": [
+            2
+          ],
+          "note": "topping"
+        },
+        {
+          "name": "Prawn paste chicken",
+          "dish": null,
+          "prices": [
+            1.5
+          ],
+          "note": "topping"
+        },
+        {
+          "name": "Cabbage",
+          "dish": null,
+          "prices": [
+            1.2
+          ],
+          "note": "topping"
+        },
+        {
+          "name": "Fried egg",
+          "dish": null,
+          "prices": [
+            0.8
+          ],
+          "note": "topping"
+        }
+      ],
+      "date": "2026-01-08",
+      "source": [
+        "Eatbook: Tiong Bahru Market guide, 8 January 2026",
+        "https://eatbook.sg/tiong-bahru-market/"
+      ]
+    },
+    {
+      "centre": "Tiong Bahru Market",
+      "stall": "Tiong Bahru Hainanese Boneless Chicken Rice",
+      "unit": "#02-82",
+      "items": [
+        {
+          "name": "Steamed or roasted chicken rice",
+          "dish": "chickenrice",
+          "prices": [
+            3.8,
+            4.8
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Lemon chicken rice",
+          "dish": null,
+          "prices": [
+            3.8,
+            4.8
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Soya sauce vegetables",
+          "dish": null,
+          "prices": [
+            3.3
+          ],
+          "note": null
+        }
+      ],
+      "date": "2026-01-08",
+      "source": [
+        "Eatbook: Tiong Bahru Market guide, 8 January 2026",
+        "https://eatbook.sg/tiong-bahru-market/"
+      ]
+    },
+    {
+      "centre": "Old Airport Road Food Centre",
+      "stall": "Nam Sing Hokkien Fried Mee",
+      "unit": "#01-32",
+      "items": [
+        {
+          "name": "Hokkien fried mee",
+          "dish": "hokkienmee",
+          "prices": [
+            5,
+            8
+          ],
+          "note": "two sizes"
+        }
+      ],
+      "date": "2026-08-12",
+      "source": [
+        "Seth Lui: 23 food stalls at Old Airport Road Food Centre",
+        "https://sethlui.com/old-airport-road-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Old Airport Road Food Centre",
+      "stall": "Lao Fu Zi Fried Kway Teow",
+      "unit": "#01-12",
+      "items": [
+        {
+          "name": "Char kway teow",
+          "dish": "ckt",
+          "prices": [
+            6,
+            8
+          ],
+          "note": "medium, large"
+        }
+      ],
+      "date": "2026-05-02",
+      "source": [
+        "Seth Lui: Lao Fu Zi Fried Kway Teow review",
+        "https://sethlui.com/lao-fu-zi-fried-kway-teow-singapore/"
+      ]
+    },
+    {
+      "centre": "Old Airport Road Food Centre",
+      "stall": "Toa Payoh Rojak",
+      "unit": "#01-108",
+      "items": [
+        {
+          "name": "Rojak",
+          "dish": "rojak",
+          "prices": [
+            4
+          ],
+          "note": null
+        },
+        {
+          "name": "Add cuttlefish",
+          "dish": null,
+          "prices": [
+            2
+          ],
+          "note": "add-on"
+        },
+        {
+          "name": "Add century egg",
+          "dish": null,
+          "prices": [
+            1
+          ],
+          "note": "add-on"
+        }
+      ],
+      "date": "2026-08-12",
+      "source": [
+        "Seth Lui: 23 food stalls at Old Airport Road Food Centre",
+        "https://sethlui.com/old-airport-road-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Old Airport Road Food Centre",
+      "stall": "Famous Old Airport Road Oyster Omelette",
+      "unit": "#01-101",
+      "items": [
+        {
+          "name": "Oyster omelette",
+          "dish": "orhluak",
+          "prices": [
+            6,
+            8,
+            10
+          ],
+          "note": "three sizes"
+        },
+        {
+          "name": "Prawn omelette",
+          "dish": null,
+          "prices": [
+            6,
+            8,
+            10
+          ],
+          "note": "three sizes"
+        },
+        {
+          "name": "3 in 1 omelette (oyster, prawn, sotong)",
+          "dish": null,
+          "prices": [
+            10,
+            12,
+            14
+          ],
+          "note": "three sizes"
+        }
+      ],
+      "date": "2026-08-12",
+      "source": [
+        "Seth Lui: 23 food stalls at Old Airport Road Food Centre",
+        "https://sethlui.com/old-airport-road-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Newton Food Centre",
+      "stall": "Hup Kee Fried Oyster Omelette",
+      "unit": "#01-73",
+      "items": [
+        {
+          "name": "Fried oyster omelette",
+          "dish": "orhluak",
+          "prices": [
+            8,
+            10,
+            12
+          ],
+          "note": "three sizes"
+        }
+      ],
+      "date": "2025-12-23",
+      "source": [
+        "Eatbook: 15 Newton Food Centre stalls",
+        "https://eatbook.sg/newton-food-centre/"
+      ]
+    },
+    {
+      "centre": "Newton Food Centre",
+      "stall": "TKR Satay",
+      "unit": "#01-33",
+      "items": [
+        {
+          "name": "Chicken satay",
+          "dish": "satay",
+          "prices": [
+            1
+          ],
+          "note": "per stick"
+        },
+        {
+          "name": "Mutton satay",
+          "dish": "satay",
+          "prices": [
+            1
+          ],
+          "note": "per stick"
+        },
+        {
+          "name": "Pork satay",
+          "dish": "satay",
+          "prices": [
+            1
+          ],
+          "note": "per stick"
+        }
+      ],
+      "date": "2025-12-23",
+      "source": [
+        "Eatbook: 15 Newton Food Centre stalls",
+        "https://eatbook.sg/newton-food-centre/"
+      ]
+    },
+    {
+      "centre": "Newton Food Centre",
+      "stall": "31 Heng Heng BBQ",
+      "unit": "#01-31",
+      "items": [
+        {
+          "name": "Chilli crab",
+          "dish": "chillicrab",
+          "prices": [
+            46
+          ],
+          "note": "from"
+        },
+        {
+          "name": "Black pepper crab",
+          "dish": "peppercrab",
+          "prices": [
+            46
+          ],
+          "note": "from"
+        },
+        {
+          "name": "Tiger prawn",
+          "dish": null,
+          "prices": [
+            18
+          ],
+          "note": "from"
+        },
+        {
+          "name": "Cereal prawns",
+          "dish": null,
+          "prices": [
+            25
+          ],
+          "note": "from"
+        }
+      ],
+      "date": "2025-12-23",
+      "source": [
+        "Eatbook: 15 Newton Food Centre stalls",
+        "https://eatbook.sg/newton-food-centre/"
+      ]
+    },
+    {
+      "centre": "Newton Food Centre",
+      "stall": "Guan Kee Grilled Seafood",
+      "unit": "#01-53",
+      "items": [
+        {
+          "name": "BBQ sambal stingray",
+          "dish": "sambalstingray",
+          "prices": [
+            15
+          ],
+          "note": "from"
+        }
+      ],
+      "date": "2025-12-23",
+      "source": [
+        "Eatbook: 15 Newton Food Centre stalls",
+        "https://eatbook.sg/newton-food-centre/"
+      ]
+    },
+    {
+      "centre": "Tekka Centre",
+      "stall": "Allauddin's Briyani",
+      "unit": "#01-229",
+      "items": [
+        {
+          "name": "Mutton briyani set with egg and papadum",
+          "dish": "biryani",
+          "prices": [
+            7
+          ],
+          "note": null
+        },
+        {
+          "name": "Add XL fried chicken or fish",
+          "dish": null,
+          "prices": [
+            4
+          ],
+          "note": "add-on"
+        }
+      ],
+      "date": "2024-06-07",
+      "source": [
+        "Eatbook: Tekka Centre food guide, 15 stalls",
+        "https://eatbook.sg/tekka-centre/"
+      ]
+    },
+    {
+      "centre": "Tekka Centre",
+      "stall": "Neha Tiffin Centre",
+      "unit": "#01-274",
+      "items": [
+        {
+          "name": "Plain thosai",
+          "dish": "thosai",
+          "prices": [
+            2
+          ],
+          "note": null
+        },
+        {
+          "name": "Onion thosai",
+          "dish": "thosai",
+          "prices": [
+            2.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Egg masala thosai",
+          "dish": "thosai",
+          "prices": [
+            3
+          ],
+          "note": null
+        },
+        {
+          "name": "Vadai",
+          "dish": null,
+          "prices": [
+            0.5
+          ],
+          "note": "per piece"
+        },
+        {
+          "name": "Samosa",
+          "dish": null,
+          "prices": [
+            1
+          ],
+          "note": null
+        },
+        {
+          "name": "Putu mayam",
+          "dish": null,
+          "prices": [
+            2
+          ],
+          "note": "3 pieces"
+        }
+      ],
+      "date": "2024-06-07",
+      "source": [
+        "Eatbook: Tekka Centre food guide, 15 stalls",
+        "https://eatbook.sg/tekka-centre/"
+      ]
+    },
+    {
+      "centre": "Tekka Centre",
+      "stall": "545 Whampoa Prawn Noodles",
+      "unit": "#01-326",
+      "items": [
+        {
+          "name": "Prawn noodles",
+          "dish": "prawnnoodles",
+          "prices": [
+            5
+          ],
+          "note": "one regular size"
+        },
+        {
+          "name": "Extra prawns",
+          "dish": null,
+          "prices": [
+            2
+          ],
+          "note": "add-on"
+        },
+        {
+          "name": "Extra noodles",
+          "dish": null,
+          "prices": [
+            0.5,
+            1
+          ],
+          "note": "add-on, two sizes"
+        }
+      ],
+      "date": "2025-10-03",
+      "source": [
+        "Seth Lui: Tekka Centre food guide",
+        "https://sethlui.com/tekka-centre-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Tekka Centre",
+      "stall": "Zham Zham Muslim Food",
+      "unit": "#01-217",
+      "items": [
+        {
+          "name": "Fish briyani",
+          "dish": "biryani",
+          "prices": [
+            6.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Mutton curry",
+          "dish": null,
+          "prices": [
+            5.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Chicken masala",
+          "dish": null,
+          "prices": [
+            5
+          ],
+          "note": null
+        },
+        {
+          "name": "Poori set",
+          "dish": null,
+          "prices": [
+            2.5
+          ],
+          "note": "2 pieces with potato and dhal curry"
+        }
+      ],
+      "date": "2025-10-03",
+      "source": [
+        "Seth Lui: Tekka Centre food guide",
+        "https://sethlui.com/tekka-centre-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Golden Mile Food Centre",
+      "stall": "Wedang",
+      "unit": "#B1-19",
+      "items": [
+        {
+          "name": "Mee soto ayam",
+          "dish": null,
+          "prices": [
+            5
+          ],
+          "note": null
+        },
+        {
+          "name": "Tahu goreng",
+          "dish": null,
+          "prices": [
+            4.5
+          ],
+          "note": null
+        }
+      ],
+      "date": "2026-05-11",
+      "source": [
+        "HungryGoWhere: 15 stalls at Golden Mile Food Centre",
+        "https://hungrygowhere.com/what-to-eat/golden-mile-food-centre-guide/"
+      ]
+    },
+    {
+      "centre": "Golden Mile Food Centre",
+      "stall": "Chung Cheng Chilli Prawn Noodles",
+      "unit": "#01-59",
+      "items": [
+        {
+          "name": "Chilli mee (chilli prawn noodles)",
+          "dish": "prawnnoodles",
+          "prices": [
+            4.5
+          ],
+          "note": "from"
+        }
+      ],
+      "date": "2025-08-21",
+      "source": [
+        "Eatbook: 18 Golden Mile Food Centre stalls",
+        "https://eatbook.sg/golden-mile-food-centre/"
+      ]
+    },
+    {
+      "centre": "Golden Mile Food Centre",
+      "stall": "Yew Chuan Claypot Rice",
+      "unit": "#01-73",
+      "items": [
+        {
+          "name": "Claypot chicken rice",
+          "dish": "claypot",
+          "prices": [
+            15,
+            36
+          ],
+          "note": "smallest and largest pot; sizes between not listed"
+        }
+      ],
+      "date": "2025-08-21",
+      "source": [
+        "Eatbook: 18 Golden Mile Food Centre stalls",
+        "https://eatbook.sg/golden-mile-food-centre/"
+      ]
+    },
+    {
+      "centre": "Golden Mile Food Centre",
+      "stall": "Oyster Boy",
+      "unit": "#01-111",
+      "items": [
+        {
+          "name": "Oyster cake, original",
+          "dish": "oystercake",
+          "prices": [
+            3
+          ],
+          "note": "from"
+        },
+        {
+          "name": "Oyster cake, prawn",
+          "dish": "oystercake",
+          "prices": [
+            3
+          ],
+          "note": "from; prawn version without oysters"
+        }
+      ],
+      "date": "2025-08-21",
+      "source": [
+        "Eatbook: 18 Golden Mile Food Centre stalls",
+        "https://eatbook.sg/golden-mile-food-centre/"
+      ]
+    },
+    {
+      "centre": "Chomp Chomp Food Centre",
+      "stall": "Carrot Cake",
+      "unit": "#01-36",
+      "items": [
+        {
+          "name": "Carrot cake, black or white",
+          "dish": "carrotcake",
+          "prices": [
+            3,
+            5
+          ],
+          "note": "small, large"
+        }
+      ],
+      "date": "2025-08-01",
+      "source": [
+        "Seth Lui: 10 best hawker stalls at Chomp Chomp Food Centre",
+        "https://sethlui.com/chomp-chomp-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Chomp Chomp Food Centre",
+      "stall": "Wang Da Shen Chicken Wing & Satay",
+      "unit": "#01-03",
+      "items": [
+        {
+          "name": "BBQ chicken wing",
+          "dish": "wings",
+          "prices": [
+            1.5
+          ],
+          "note": "per piece, minimum 2"
+        },
+        {
+          "name": "Satay (chicken, pork, mutton or beef)",
+          "dish": "satay",
+          "prices": [
+            0.8
+          ],
+          "note": "per stick, minimum 10"
+        },
+        {
+          "name": "Ketupat",
+          "dish": null,
+          "prices": [
+            0.8
+          ],
+          "note": null
+        }
+      ],
+      "date": "2025-08-01",
+      "source": [
+        "Seth Lui: 10 best hawker stalls at Chomp Chomp Food Centre",
+        "https://sethlui.com/chomp-chomp-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Chomp Chomp Food Centre",
+      "stall": "Ah Hock Fried Hokkien Noodles",
+      "unit": "#01-27",
+      "items": [
+        {
+          "name": "Fried Hokkien noodles",
+          "dish": "hokkienmee",
+          "prices": [
+            4,
+            5,
+            6
+          ],
+          "note": "three sizes"
+        }
+      ],
+      "date": "2025-08-01",
+      "source": [
+        "Seth Lui: 10 best hawker stalls at Chomp Chomp Food Centre",
+        "https://sethlui.com/chomp-chomp-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Chomp Chomp Food Centre",
+      "stall": "Ding Hao Sugarcane Juice",
+      "unit": "#01-16",
+      "items": [
+        {
+          "name": "Sugarcane juice tower",
+          "dish": "sugarcane",
+          "prices": [
+            15
+          ],
+          "note": "3 litres"
+        }
+      ],
+      "date": "2023-08-31",
+      "source": [
+        "HungryGoWhere: 12 best hawker stalls at Chomp Chomp Food Centre",
+        "https://hungrygowhere.com/what-to-eat/chomp-chomp-food-centre/"
+      ]
+    },
+    {
+      "centre": "Adam Road Food Centre",
+      "stall": "Selera Rasa Nasi Lemak",
+      "unit": "#01-02",
+      "items": [
+        {
+          "name": "Regular meal with fried egg",
+          "dish": "nasilemak",
+          "prices": [
+            4
+          ],
+          "note": null
+        },
+        {
+          "name": "Chicken wing meal",
+          "dish": "nasilemak",
+          "prices": [
+            5
+          ],
+          "note": null
+        },
+        {
+          "name": "Fish meal",
+          "dish": "nasilemak",
+          "prices": [
+            5
+          ],
+          "note": null
+        },
+        {
+          "name": "Royal Flush (chicken wing, otah, begedil, fried egg)",
+          "dish": "nasilemak",
+          "prices": [
+            6.5
+          ],
+          "note": null
+        }
+      ],
+      "date": "2025-10-29",
+      "source": [
+        "Seth Lui: 11 best stalls at Adam Road Food Centre",
+        "https://sethlui.com/adam-road-food-centre-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Adam Road Food Centre",
+      "stall": "Adam Rd Noo Cheng Big Prawn Noodle",
+      "unit": "#01-27",
+      "items": [
+        {
+          "name": "Pork ribs prawn noodle",
+          "dish": "prawnnoodles",
+          "prices": [
+            7,
+            10
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "3 in 1 prawn noodle",
+          "dish": "prawnnoodles",
+          "prices": [
+            12,
+            15
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Big prawn noodle",
+          "dish": "prawnnoodles",
+          "prices": [
+            18
+          ],
+          "note": null
+        }
+      ],
+      "date": "2025-10-29",
+      "source": [
+        "Seth Lui: 11 best stalls at Adam Road Food Centre",
+        "https://sethlui.com/adam-road-food-centre-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Adam Road Food Centre",
+      "stall": "Warong Pak Sapari",
+      "unit": "#01-09",
+      "items": [
+        {
+          "name": "Mee soto",
+          "dish": null,
+          "prices": [
+            4.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Mee rebus",
+          "dish": "meerebus",
+          "prices": [
+            4.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Bergedil",
+          "dish": null,
+          "prices": [
+            1.2
+          ],
+          "note": "add-on"
+        }
+      ],
+      "date": "2025-10-29",
+      "source": [
+        "Seth Lui: 11 best stalls at Adam Road Food Centre",
+        "https://sethlui.com/adam-road-food-centre-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Adam Road Food Centre",
+      "stall": "Bahrakath Mutton Soup",
+      "unit": "#01-10",
+      "items": [
+        {
+          "name": "Mutton soup, meat",
+          "dish": null,
+          "prices": [
+            7,
+            10
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Mutton briyani",
+          "dish": "biryani",
+          "prices": [
+            8
+          ],
+          "note": null
+        },
+        {
+          "name": "French loaf",
+          "dish": null,
+          "prices": [
+            1
+          ],
+          "note": "add-on"
+        }
+      ],
+      "date": "2025-10-29",
+      "source": [
+        "Seth Lui: 11 best stalls at Adam Road Food Centre",
+        "https://sethlui.com/adam-road-food-centre-food-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Geylang Serai Market and Food Centre",
+      "stall": "Sinar Pagi Nasi Padang",
+      "unit": "#02-137",
+      "items": [
+        {
+          "name": "Ayam sambal",
+          "dish": "nasipadang",
+          "prices": [
+            6
+          ],
+          "note": "meat dish, priced per item on a nasi padang plate"
+        },
+        {
+          "name": "Sayur lodeh",
+          "dish": "nasipadang",
+          "prices": [
+            1
+          ],
+          "note": "vegetable dish, priced per item"
+        },
+        {
+          "name": "Brinjal belado",
+          "dish": "nasipadang",
+          "prices": [
+            1
+          ],
+          "note": "vegetable dish, priced per item"
+        },
+        {
+          "name": "Sambal goreng",
+          "dish": "nasipadang",
+          "prices": [
+            1
+          ],
+          "note": "vegetable dish, priced per item"
+        }
+      ],
+      "date": "2023-05-01",
+      "source": [
+        "Seth Lui: Sinar Pagi Nasi Padang (published 1 May 2023, updated 29 July 2025)",
+        "https://sethlui.com/sinar-pagi-nasi-padang-singapore/"
+      ]
+    },
+    {
+      "centre": "Geylang Serai Market and Food Centre",
+      "stall": "Alrahman Kitchen",
+      "unit": "#02-139",
+      "items": [
+        {
+          "name": "Mee rebus",
+          "dish": "meerebus",
+          "prices": [
+            3
+          ],
+          "note": null
+        },
+        {
+          "name": "Begedil",
+          "dish": null,
+          "prices": [
+            0.5
+          ],
+          "note": "add-on to mee rebus"
+        }
+      ],
+      "date": "2019-06-24",
+      "source": [
+        "Seth Lui: 10 Stalls In Geylang Serai Market & Food Centre",
+        "https://sethlui.com/geylang-serai-market-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Geylang Serai Market and Food Centre",
+      "stall": "Alhambra Heritage & Original Satay Club",
+      "unit": "#02-145",
+      "items": [
+        {
+          "name": "Satay, chicken, mutton or beef",
+          "dish": "satay",
+          "prices": [
+            0.6
+          ],
+          "note": "per stick"
+        }
+      ],
+      "date": "2019-06-24",
+      "source": [
+        "Seth Lui: 10 Stalls In Geylang Serai Market & Food Centre",
+        "https://sethlui.com/geylang-serai-market-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "Geylang Serai Market and Food Centre",
+      "stall": "Kueh Talam Asli",
+      "unit": "#02-148",
+      "items": [
+        {
+          "name": "Kueh, five pieces",
+          "dish": "kueh",
+          "prices": [
+            3.8
+          ],
+          "note": "any five pieces of your choice"
+        }
+      ],
+      "date": "2019-06-24",
+      "source": [
+        "Seth Lui: 10 Stalls In Geylang Serai Market & Food Centre",
+        "https://sethlui.com/geylang-serai-market-food-centre-guide-singapore/"
+      ]
+    },
+    {
+      "centre": "East Coast Lagoon Food Village",
+      "stall": "Haron Satay 55",
+      "unit": "#01-55",
+      "items": [
+        {
+          "name": "Satay, chicken, beef or mutton",
+          "dish": "satay",
+          "prices": [
+            1
+          ],
+          "note": "per stick"
+        }
+      ],
+      "date": "2024-02-23",
+      "source": [
+        "Eatbook: 15 East Coast Lagoon Food Village Stalls",
+        "https://eatbook.sg/east-coast-lagoon/"
+      ]
+    },
+    {
+      "centre": "East Coast Lagoon Food Village",
+      "stall": "Stingray Forever BBQ Seafood",
+      "unit": "#01-43",
+      "items": [
+        {
+          "name": "Hottest Stingray",
+          "dish": "sambalstingray",
+          "prices": [
+            18
+          ],
+          "note": null
+        },
+        {
+          "name": "Sambal la la",
+          "dish": null,
+          "prices": [
+            13
+          ],
+          "note": null
+        },
+        {
+          "name": "Gong gong",
+          "dish": null,
+          "prices": [
+            13
+          ],
+          "note": null
+        },
+        {
+          "name": "BBQ sea prawns",
+          "dish": null,
+          "prices": [
+            16
+          ],
+          "note": null
+        }
+      ],
+      "date": "2024-02-23",
+      "source": [
+        "Eatbook: 15 East Coast Lagoon Food Village Stalls",
+        "https://eatbook.sg/east-coast-lagoon/"
+      ]
+    },
+    {
+      "centre": "East Coast Lagoon Food Village",
+      "stall": "Ah Hwee BBQ Chicken",
+      "unit": "#01-14",
+      "items": [
+        {
+          "name": "Charcoal BBQ wing",
+          "dish": "wings",
+          "prices": [
+            1.4
+          ],
+          "note": "per wing"
+        },
+        {
+          "name": "Spring chicken, whole",
+          "dish": null,
+          "prices": [
+            9
+          ],
+          "note": null
+        }
+      ],
+      "date": "2024-02-23",
+      "source": [
+        "Eatbook: 15 East Coast Lagoon Food Village Stalls",
+        "https://eatbook.sg/east-coast-lagoon/"
+      ]
+    },
+    {
+      "centre": "East Coast Lagoon Food Village",
+      "stall": "Lagoon Famous Carrot Cake",
+      "unit": "#01-40",
+      "items": [
+        {
+          "name": "Black and white carrot cake",
+          "dish": "carrotcake",
+          "prices": [
+            7
+          ],
+          "note": "starting price"
+        },
+        {
+          "name": "Popiah",
+          "dish": "popiah",
+          "prices": [
+            2.4
+          ],
+          "note": null
+        }
+      ],
+      "date": "2024-02-23",
+      "source": [
+        "Eatbook: 15 East Coast Lagoon Food Village Stalls",
+        "https://eatbook.sg/east-coast-lagoon/"
+      ]
+    },
+    {
+      "centre": "Zion Riverside Food Centre",
+      "stall": "No. 18 Zion Road Fried Kway Teow",
+      "unit": "#01-17",
+      "items": [
+        {
+          "name": "Char kway teow",
+          "dish": "ckt",
+          "prices": [
+            6,
+            8
+          ],
+          "note": "two sizes"
+        }
+      ],
+      "date": "2024-02-09",
+      "source": [
+        "Eatbook: 10 Zion Riverside Food Centre Stalls To Try",
+        "https://eatbook.sg/zion-riverside-food/"
+      ]
+    },
+    {
+      "centre": "Zion Riverside Food Centre",
+      "stall": "Zion Road Big Prawn Mee",
+      "unit": "#01-04",
+      "items": [
+        {
+          "name": "Prawn noodles",
+          "dish": "prawnnoodles",
+          "prices": [
+            8,
+            13,
+            20,
+            28
+          ],
+          "note": "four sizes"
+        }
+      ],
+      "date": "2024-02-09",
+      "source": [
+        "Eatbook: 10 Zion Riverside Food Centre Stalls To Try",
+        "https://eatbook.sg/zion-riverside-food/"
+      ]
+    },
+    {
+      "centre": "Zion Riverside Food Centre",
+      "stall": "Kang's Wanton Noodle",
+      "unit": "#01-06",
+      "items": [
+        {
+          "name": "Wanton mee",
+          "dish": "wantonmee",
+          "prices": [
+            5
+          ],
+          "note": "starting price"
+        },
+        {
+          "name": "Wanton soup",
+          "dish": null,
+          "prices": [
+            5
+          ],
+          "note": "starting price"
+        },
+        {
+          "name": "Fried wanton",
+          "dish": null,
+          "prices": [
+            5
+          ],
+          "note": "starting price"
+        }
+      ],
+      "date": "2024-02-09",
+      "source": [
+        "Eatbook: 10 Zion Riverside Food Centre Stalls To Try",
+        "https://eatbook.sg/zion-riverside-food/"
+      ]
+    },
+    {
+      "centre": "Zion Riverside Food Centre",
+      "stall": "Mohamed Sultan Road Hot & Cold Cheng Tng",
+      "unit": null,
+      "items": [
+        {
+          "name": "Cheng tng, hot or cold",
+          "dish": "chengtng",
+          "prices": [
+            1.5
+          ],
+          "note": "starting price"
+        }
+      ],
+      "date": "2024-02-09",
+      "source": [
+        "Eatbook: 10 Zion Riverside Food Centre Stalls To Try",
+        "https://eatbook.sg/zion-riverside-food/"
+      ]
+    },
+    {
+      "centre": "ABC Brickworks Market and Food Centre",
+      "stall": "Fatty Cheong",
+      "unit": "#01-120",
+      "items": [
+        {
+          "name": "Char siew rice or roasted pork rice",
+          "dish": "roastmeat",
+          "prices": [
+            4.5
+          ],
+          "note": "starting price"
+        }
+      ],
+      "date": "2025-12-21",
+      "source": [
+        "Eatbook: 15 ABC Brickworks Food Centre Stalls",
+        "https://eatbook.sg/abc-brickworks/"
+      ]
+    },
+    {
+      "centre": "ABC Brickworks Market and Food Centre",
+      "stall": "Yuan Yuan Claypot Rice",
+      "unit": "#01-38",
+      "items": [
+        {
+          "name": "Famous claypot rice",
+          "dish": "claypot",
+          "prices": [
+            15,
+            20,
+            25,
+            30
+          ],
+          "note": "four sizes"
+        }
+      ],
+      "date": "2025-12-21",
+      "source": [
+        "Eatbook: 15 ABC Brickworks Food Centre Stalls",
+        "https://eatbook.sg/abc-brickworks/"
+      ]
+    },
+    {
+      "centre": "ABC Brickworks Market and Food Centre",
+      "stall": "Jason Penang Cuisine",
+      "unit": "#01-112",
+      "items": [
+        {
+          "name": "Penang pork rib and prawn noodles",
+          "dish": "prawnnoodles",
+          "prices": [
+            5
+          ],
+          "note": null
+        },
+        {
+          "name": "Penang assam laksa",
+          "dish": "laksa",
+          "prices": [
+            5
+          ],
+          "note": "Penang style, sour fish broth"
+        },
+        {
+          "name": "Penang fried kway teow",
+          "dish": "ckt",
+          "prices": [
+            5
+          ],
+          "note": null
+        }
+      ],
+      "date": "2025-12-21",
+      "source": [
+        "Eatbook: 15 ABC Brickworks Food Centre Stalls",
+        "https://eatbook.sg/abc-brickworks/"
+      ]
+    },
+    {
+      "centre": "ABC Brickworks Market and Food Centre",
+      "stall": "Jin Jin Dessert",
+      "unit": "#01-21",
+      "items": [
+        {
+          "name": "Power chendol",
+          "dish": "chendol",
+          "prices": [
+            2.5
+          ],
+          "note": null
+        },
+        {
+          "name": "Gangster ice",
+          "dish": null,
+          "prices": [
+            3.5
+          ],
+          "note": "mango and durian over shaved ice"
+        }
+      ],
+      "date": "2025-12-21",
+      "source": [
+        "Eatbook: 15 ABC Brickworks Food Centre Stalls",
+        "https://eatbook.sg/abc-brickworks/"
+      ]
+    },
+    {
+      "centre": "Whampoa Makan Place",
+      "stall": "Balestier Road Hoover Rojak",
+      "unit": "Blk 90 #01-06",
+      "items": [
+        {
+          "name": "Rojak",
+          "dish": "rojak",
+          "prices": [
+            4
+          ],
+          "note": "starting price"
+        }
+      ],
+      "date": "2023-08-31",
+      "source": [
+        "Eatbook: 25 Whampoa Market Stalls To Try",
+        "https://eatbook.sg/whampoa-market/"
+      ]
+    },
+    {
+      "centre": "Whampoa Makan Place",
+      "stall": "Singapore Fried Hokkien Mee",
+      "unit": "Blk 90 #01-32",
+      "items": [
+        {
+          "name": "Hokkien mee",
+          "dish": "hokkienmee",
+          "prices": [
+            5
+          ],
+          "note": "starting price"
+        }
+      ],
+      "date": "2023-08-31",
+      "source": [
+        "Eatbook: 25 Whampoa Market Stalls To Try",
+        "https://eatbook.sg/whampoa-market/"
+      ]
+    },
+    {
+      "centre": "Whampoa Makan Place",
+      "stall": "Liang Zhao Ji Duck Rice",
+      "unit": "Blk 90 #01-07",
+      "items": [
+        {
+          "name": "Braised duck rice",
+          "dish": "duckrice",
+          "prices": [
+            4
+          ],
+          "note": "starting price"
+        }
+      ],
+      "date": "2023-08-31",
+      "source": [
+        "Eatbook: 25 Whampoa Market Stalls To Try",
+        "https://eatbook.sg/whampoa-market/"
+      ]
+    },
+    {
+      "centre": "Whampoa Makan Place",
+      "stall": "Huat Heng Fried Oyster",
+      "unit": "Blk 90 #01-26",
+      "items": [
+        {
+          "name": "Fried oyster omelette",
+          "dish": "orhluak",
+          "prices": [
+            5,
+            8,
+            10
+          ],
+          "note": "small, medium, large"
+        }
+      ],
+      "date": "2022-09-07",
+      "source": [
+        "Eatbook: Huat Heng Fried Oyster review",
+        "https://eatbook.sg/huat-heng-fried-oyster/"
+      ]
+    },
+    {
+      "centre": "Albert Centre Market and Food Centre",
+      "stall": "Bai Nian Niang Dou Fu",
+      "unit": "#01-106",
+      "items": [
+        {
+          "name": "Yong tau foo set",
+          "dish": "yongtaufoo",
+          "prices": [
+            7.9
+          ],
+          "note": "bee hoon soup with handmade items and a fried chicken wing"
+        }
+      ],
+      "date": "2024-02-08",
+      "source": [
+        "Eatbook: 15 Bugis Hawker Food Stalls Near The MRT",
+        "https://eatbook.sg/bugis-hawker-food/"
+      ]
+    },
+    {
+      "centre": "Albert Centre Market and Food Centre",
+      "stall": "Guan Kee Carrot Cake",
+      "unit": "#01-59",
+      "items": [
+        {
+          "name": "Black carrot cake",
+          "dish": "carrotcake",
+          "prices": [
+            4
+          ],
+          "note": "regular portion"
+        },
+        {
+          "name": "White and black carrot cake",
+          "dish": "carrotcake",
+          "prices": [
+            6
+          ],
+          "note": null
+        }
+      ],
+      "date": "2024-02-08",
+      "source": [
+        "Eatbook: 15 Bugis Hawker Food Stalls Near The MRT",
+        "https://eatbook.sg/bugis-hawker-food/"
+      ]
+    },
+    {
+      "centre": "Albert Centre Market and Food Centre",
+      "stall": "Angel Horse Teochew Fish Soup",
+      "unit": "#01-95",
+      "items": [
+        {
+          "name": "Sliced fish soup",
+          "dish": "fishsoup",
+          "prices": [
+            5.5,
+            6.5
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Sliced fish bee hoon",
+          "dish": "fishsoup",
+          "prices": [
+            5,
+            6
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Sliced fish mee sua",
+          "dish": "fishsoup",
+          "prices": [
+            5,
+            6
+          ],
+          "note": "two sizes"
+        },
+        {
+          "name": "Rice with the soup",
+          "dish": null,
+          "prices": [
+            0.5
+          ],
+          "note": "add-on"
+        }
+      ],
+      "date": "2024-02-08",
+      "source": [
+        "Eatbook: 15 Bugis Hawker Food Stalls Near The MRT",
+        "https://eatbook.sg/bugis-hawker-food/"
+      ]
+    },
+    {
+      "centre": "Albert Centre Market and Food Centre",
+      "stall": "Bedok Chwee Kueh",
+      "unit": "#01-79",
+      "items": [
+        {
+          "name": "Chwee kueh",
+          "dish": "chweekueh",
+          "prices": [
+            2.4,
+            3.6
+          ],
+          "note": "2 pieces, 3 pieces"
+        }
+      ],
+      "date": "2024-02-08",
+      "source": [
+        "Eatbook: 15 Bugis Hawker Food Stalls Near The MRT",
+        "https://eatbook.sg/bugis-hawker-food/"
+      ]
+    },
+    {
+      "centre": "Changi Village Hawker Centre",
+      "stall": "International Muslim Food Stall Nasi Lemak",
+      "unit": "#01-03",
+      "items": [
+        {
+          "name": "Nasi lemak chicken set",
+          "dish": "nasilemak",
+          "prices": [
+            4
+          ],
+          "note": "coconut rice, fried egg, fried chicken, ikan bilis, sambal"
+        }
+      ],
+      "date": "2024-06-07",
+      "source": [
+        "Eatbook: Changi Village Hawker Centre Food Guide",
+        "https://eatbook.sg/changi-village-hawker-centre/"
+      ]
+    },
+    {
+      "centre": "Changi Village Hawker Centre",
+      "stall": "Jason's Place",
+      "unit": "#01-66",
+      "items": [
+        {
+          "name": "BBQ chicken wing",
+          "dish": "wings",
+          "prices": [
+            1.4
+          ],
+          "note": "per piece, minimum two"
+        },
+        {
+          "name": "Satay, pork, chicken or mutton",
+          "dish": "satay",
+          "prices": [
+            0.7
+          ],
+          "note": "per stick, minimum ten"
+        },
+        {
+          "name": "Pork belly satay",
+          "dish": null,
+          "prices": [
+            1.5
+          ],
+          "note": "per stick"
+        }
+      ],
+      "date": "2024-06-07",
+      "source": [
+        "Eatbook: Changi Village Hawker Centre Food Guide",
+        "https://eatbook.sg/changi-village-hawker-centre/"
+      ]
+    },
+    {
+      "centre": "Changi Village Hawker Centre",
+      "stall": "Changi Village Fried Hokkien Mee",
+      "unit": "#01-53",
+      "items": [
+        {
+          "name": "Hokkien mee",
+          "dish": "hokkienmee",
+          "prices": [
+            5,
+            6,
+            8
+          ],
+          "note": "three sizes"
+        }
+      ],
+      "date": "2024-06-07",
+      "source": [
+        "Eatbook: Changi Village Hawker Centre Food Guide",
+        "https://eatbook.sg/changi-village-hawker-centre/"
+      ]
+    },
+    {
+      "centre": "Changi Village Hawker Centre",
+      "stall": "Makan Melaka Cendol",
+      "unit": null,
+      "items": [
+        {
+          "name": "Cendol Melaka",
+          "dish": "chendol",
+          "prices": [
+            2
+          ],
+          "note": null
+        },
+        {
+          "name": "Nasi lemak",
+          "dish": "nasilemak",
+          "prices": [
+            4
+          ],
+          "note": null
+        },
+        {
+          "name": "Mee rebus Melaka",
+          "dish": "meerebus",
+          "prices": [
+            4
+          ],
+          "note": null
+        },
+        {
+          "name": "Kuih, ondeh-ondeh or putri salat",
+          "dish": "kueh",
+          "prices": [
+            2
+          ],
+          "note": "three pieces"
+        }
+      ],
+      "date": "2024-06-07",
+      "source": [
+        "Eatbook: Changi Village Hawker Centre Food Guide",
+        "https://eatbook.sg/changi-village-hawker-centre/"
+      ]
+    }
+  ],
+  "eraPrices": [
+    {
+      "dish": null,
+      "item": "A meal of three to four dishes from a street hawker, 1800s",
+      "price": 0.03,
+      "currency": "Straits dollar",
+      "year": 1800,
+      "where": "street hawkers in the 1800s",
+      "source": [
+        "Roots (NHB): The History and Evolution of Singapore's Hawker Culture (Serving Up a Legacy)",
+        "https://www.roots.gov.sg/stories-landing/stories/serving-up-a-legacy"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Cup of coffee with milk from a street seller, early 1900s",
+      "price": 0.02,
+      "currency": "Straits dollar",
+      "year": 1900,
+      "where": "on the street, early 1900s",
+      "source": [
+        "Roots (NHB): Street Hawkers of Singapore's Past, by Vidya Murthy, National Museum of Singapore",
+        "https://www.roots.gov.sg/en/stories-landing/stories/street-hawkers-of-singapores-past/story"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Cup of coffee with milk in a coffee shop, early 1900s",
+      "price": 0.03,
+      "currency": "Straits dollar",
+      "year": 1900,
+      "where": "in a coffee shop, early 1900s",
+      "source": [
+        "Roots (NHB): Street Hawkers of Singapore's Past, by Vidya Murthy, National Museum of Singapore",
+        "https://www.roots.gov.sg/en/stories-landing/stories/street-hawkers-of-singapores-past/story"
+      ]
+    },
+    {
+      "dish": "hokkienmee",
+      "item": "Bowl of Hokkien mee, early 1900s",
+      "price": 0.1,
+      "currency": "Straits dollar",
+      "year": 1900,
+      "where": "street hawkers, early 1900s",
+      "source": [
+        "Roots (NHB): Street Hawkers of Singapore's Past, by Vidya Murthy, National Museum of Singapore",
+        "https://www.roots.gov.sg/en/stories-landing/stories/street-hawkers-of-singapores-past/story"
+      ]
+    },
+    {
+      "dish": "satay",
+      "item": "Satay per stick, early 1900s",
+      "price": 0.02,
+      "currency": "Straits dollar",
+      "year": 1900,
+      "where": "sold on the five-foot way, early 1900s",
+      "source": [
+        "Roots (NHB): Street Hawkers of Singapore's Past, by Vidya Murthy, National Museum of Singapore",
+        "https://www.roots.gov.sg/en/stories-landing/stories/street-hawkers-of-singapores-past/story"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Cup of kopi before the Second World War (no exact year given; half a cup cost less)",
+      "price": 0.03,
+      "currency": "Straits dollar",
+      "year": 1939,
+      "where": null,
+      "source": [
+        "Makansutra: Kopi Kopi I Love You Still, 16 September 2011",
+        "https://makansutra.com/?p=10352"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Cheap meal at a government Family Restaurant, from December 1946",
+      "price": 0.08,
+      "currency": "Malayan dollar",
+      "year": 1946,
+      "where": "Maxwell Road Market, first of a Social Welfare Department chain",
+      "source": [
+        "Roots (NHB): Maxwell Road Food Centre",
+        "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/maxwell-road-food-centre"
+      ]
+    },
+    {
+      "dish": "currypuff",
+      "item": "Curry puff, 1950s, when Tham Niap Tiong started at 19",
+      "price": 0.1,
+      "currency": "Malayan dollar",
+      "year": 1950,
+      "where": "Rolina, roadside stall near Novena Church, Thomson",
+      "source": [
+        "Time Out Singapore: The stories of pioneer hawkers who have been around since your parents' time, 7 November 2016",
+        "https://www.timeout.com/singapore/restaurants/old-school-hawkers-in-singapore"
+      ]
+    },
+    {
+      "dish": "prawnnoodles",
+      "item": "Bowl of prawn mee when the stall began, more than 60 years before 2016",
+      "price": 0.2,
+      "currency": "Malaya and British Borneo dollar",
+      "year": 1955,
+      "where": "Wah Kee Big Prawn Noodles (owner Lau Wah Kee)",
+      "source": [
+        "Time Out Singapore: The stories of pioneer hawkers who have been around since your parents' time, 7 November 2016",
+        "https://www.timeout.com/singapore/restaurants/old-school-hawkers-in-singapore"
+      ]
+    },
+    {
+      "dish": "laksa",
+      "item": "Bowl of laksa from a pushcart, 1956",
+      "price": 0.2,
+      "currency": "Malaya and British Borneo dollar",
+      "year": 1956,
+      "where": "Sungei Road Laksa, Johor Road by day and off Sungei Road by night",
+      "source": [
+        "Makansutra: SG50: 50 Years on and still Cooking (Part 1), 16 July 2015 (page prints '0.20 cents')",
+        "https://makansutra.com/sg50-50-years-on-and-still-cooking-part-1/"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Bowl of noodles from a street hawker, 1960s",
+      "price": 0.5,
+      "currency": "Malaya and British Borneo dollar",
+      "year": 1960,
+      "where": "street hawker, 1960s (a full meal at Magnolia cost $5)",
+      "source": [
+        "BiblioAsia (NLB): Going Shopping in the 60s, by Yu-Mei Balasingamchow, 7 July 2018",
+        "https://biblioasia.nlb.gov.sg/all-sections/vol-14-issue-2-jul-sep-2018-going-shopping-in-60s/"
+      ]
+    },
+    {
+      "dish": "satay",
+      "item": "Satay per stick from a pushcart, 1960",
+      "price": 0.05,
+      "currency": "Malaya and British Borneo dollar",
+      "year": 1960,
+      "where": "Chye Seng Satay (then a pushcart in Tai Seng), now at Old Airport Road",
+      "source": [
+        "ieatishootipost: Chye Seng Satay: Old School Mom and Pop Satay, 13 April 2021",
+        "https://ieatishootipost.sg/chye-seng-satay/"
+      ]
+    },
+    {
+      "dish": "wantonmee",
+      "item": "Bowl of wonton mee, 1962",
+      "price": 0.3,
+      "currency": "Malaya and British Borneo dollar",
+      "year": 1962,
+      "where": "Nam Seng, canteen of the old National Library on Stamford Road",
+      "source": [
+        "Eatbook: Nam Seng Wanton Noodles: History Of Singapore's Oldest Hawker, 22 June 2023",
+        "https://eatbook.sg/nam-seng-wanton-noodles/"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Glass of coconut water from a street hawker, about 1967 (photo caption)",
+      "price": 0.1,
+      "currency": "SGD",
+      "year": 1967,
+      "where": "street hawkers",
+      "source": [
+        "IPS Update: A Recipe for Success: How Singapore Hawker Centres Came to Be, by Azhar Ghani, May 2011",
+        "https://lkyspp.nus.edu.sg/docs/default-source/ips/ag_history-of-hawkers_010511.pdf"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Bowl of noodles, 1970s",
+      "price": 0.3,
+      "currency": "SGD",
+      "year": 1970,
+      "where": "hawkers, 1970s",
+      "source": [
+        "Roots (NHB) collection: License issued to Wang San Wu, a hawker",
+        "https://www.roots.gov.sg/Collection-Landing/listing/1107767"
+      ]
+    },
+    {
+      "dish": "nasilemak",
+      "item": "Small packet of nasi lemak wrapped in banana leaf, 1970s",
+      "price": 0.3,
+      "currency": "SGD",
+      "year": 1970,
+      "where": "sold door to door, 1970s",
+      "source": [
+        "SG101: Nasi Lemak in Singapore",
+        "https://www.sg101.gov.sg/resources/archives/heritage-nasi-lemak-in-singapore/"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Bowl of fishball soup, late 1970s",
+      "price": 0.7,
+      "currency": "SGD",
+      "year": 1978,
+      "where": "Bukit Timah Food Centre",
+      "source": [
+        "Remember Singapore: Goodbye Bukit Timah Market and Hawker Centre, 29 September 2024",
+        "https://remembersingapore.org/2024/09/29/bukit-timah-market-hawker-centre-closure/"
+      ]
+    },
+    {
+      "dish": "carrotcake",
+      "item": "Plate of carrot cake, late 1970s",
+      "price": 1.0,
+      "currency": "SGD",
+      "year": 1978,
+      "where": "Bukit Timah Food Centre",
+      "source": [
+        "Remember Singapore: Goodbye Bukit Timah Market and Hawker Centre, 29 September 2024",
+        "https://remembersingapore.org/2024/09/29/bukit-timah-market-hawker-centre-closure/"
+      ]
+    },
+    {
+      "dish": "ckt",
+      "item": "Plate of char kway teow, late 1970s",
+      "price": 0.8,
+      "currency": "SGD",
+      "year": 1978,
+      "where": "Bukit Timah Food Centre",
+      "source": [
+        "Remember Singapore: Goodbye Bukit Timah Market and Hawker Centre, 29 September 2024",
+        "https://remembersingapore.org/2024/09/29/bukit-timah-market-hawker-centre-closure/"
+      ]
+    },
+    {
+      "dish": "satay",
+      "item": "Satay per stick, a 1980s price the stall still charged in 2020",
+      "price": 0.3,
+      "currency": "SGD",
+      "year": 1980,
+      "where": "Night Hoover Satay, Geylang Bahru (open since 1979)",
+      "source": [
+        "Must Share News: Geylang Bahru Satay Stall Has Kept 1980s Price, Still $0.30/Stick 41 Years Later, 29 August 2020",
+        "https://mustsharenews.com/geylang-bahru-satay/"
+      ]
+    },
+    {
+      "dish": "soya",
+      "item": "Cup of soya milk or chin chow, price unchanged since 1985 ($0.30 or $0.50)",
+      "price": 0.3,
+      "currency": "SGD",
+      "year": 1985,
+      "where": "Sun Kee Drinks, Kovan",
+      "source": [
+        "Eatbook: 10 Rare Hawker Dishes You Should Try Before They Are Gone, 27 January 2026",
+        "https://eatbook.sg/rare-hawker-dishes/"
+      ]
+    },
+    {
+      "dish": "bakchormee",
+      "item": "Bowl of bak chor mee, 1990s",
+      "price": 2.0,
+      "currency": "SGD",
+      "year": 1990,
+      "where": "1990s, no outlet given",
+      "source": [
+        "TheFinance.sg: 20 Price Differences In Singapore Between 1990s vs 2010s, 6 September 2017",
+        "https://thefinance.sg/2017/09/06/20-price-differences-in-singapore-between-1990s-vs-2010s/"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Cup of kopi, 1990s",
+      "price": 0.4,
+      "currency": "SGD",
+      "year": 1990,
+      "where": "1990s, no outlet given",
+      "source": [
+        "TheFinance.sg: 20 Price Differences In Singapore Between 1990s vs 2010s, 6 September 2017",
+        "https://thefinance.sg/2017/09/06/20-price-differences-in-singapore-between-1990s-vs-2010s/"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Cup of kopi, 2011",
+      "price": 0.8,
+      "currency": "SGD",
+      "year": 2011,
+      "where": null,
+      "source": [
+        "Makansutra: Kopi Kopi I Love You Still, 16 September 2011",
+        "https://makansutra.com/?p=10352"
+      ]
+    },
+    {
+      "dish": "nasilemak",
+      "item": "Simple plate of nasi lemak, 2012",
+      "price": 1.0,
+      "currency": "SGD",
+      "year": 2012,
+      "where": "a kampong kopitiam in Seletar",
+      "source": [
+        "Remember Singapore: Sipping Teh at a Kampong Kopitiam, 24 August 2012",
+        "https://remembersingapore.org/2012/08/24/seletar-kampong-kopitiam/"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Bowl of fishball noodles, most common price",
+      "price": 3.0,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "CASE survey of hawker stalls, July to August 2015 (also $3.00 in 2014)",
+      "source": [
+        "CASE media release, 30 October 2015",
+        "https://case.org.sg/wp-content/uploads/2022/08/250_pdf.pdf"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Fishball noodles, per bowl, 2015 average",
+      "price": 3.21,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "biryani",
+      "item": "Chicken nasi briyani, most common price",
+      "price": 5.0,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "CASE survey of hawker stalls, July to August 2015 (also $5.00 in 2014)",
+      "source": [
+        "CASE media release, 30 October 2015",
+        "https://case.org.sg/wp-content/uploads/2022/08/250_pdf.pdf"
+      ]
+    },
+    {
+      "dish": "biryani",
+      "item": "Chicken nasi briyani, per plate, 2015 average",
+      "price": 5.18,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "carrotcake",
+      "item": "Fried carrot cake, per plate, 2015 average",
+      "price": 2.85,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "chickenrice",
+      "item": "Chicken rice, per plate, 2015 average",
+      "price": 3.21,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "chickenrice",
+      "item": "Plate of chicken rice, most common price",
+      "price": 3.0,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "CASE survey of hawker stalls, July to August 2015 (also $3.00 in 2014)",
+      "source": [
+        "CASE media release, 30 October 2015",
+        "https://case.org.sg/wp-content/uploads/2022/08/250_pdf.pdf"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Coffee or tea with condensed milk, per cup, 2015 average",
+      "price": 1.09,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Coffee or tea without milk, per cup, 2015 average",
+      "price": 0.98,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "economyrice",
+      "item": "Economical rice (1 meat and 2 vegetables), per plate, 2015 average",
+      "price": 3.15,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "economyrice",
+      "item": "Mixed vegetable rice, two vegetables and one meat, most common price",
+      "price": 3.0,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "CASE survey of hawker stalls, July to August 2015 (also $3.00 in 2014)",
+      "source": [
+        "CASE media release, 30 October 2015",
+        "https://case.org.sg/wp-content/uploads/2022/08/250_pdf.pdf"
+      ]
+    },
+    {
+      "dish": "icekachang",
+      "item": "Ice kachang, per bowl, 2015 average",
+      "price": 1.9,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "laksa",
+      "item": "Small bowl of laksa, 2015 (bigger bowl $3)",
+      "price": 2.0,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Sungei Road Laksa, Jin Shui Kopitiam, Jalan Berseh",
+      "source": [
+        "Makansutra: SG50: 50 Years on and still Cooking (Part 1), 16 July 2015",
+        "https://makansutra.com/sg50-50-years-on-and-still-cooking-part-1/"
+      ]
+    },
+    {
+      "dish": "meerebus",
+      "item": "Mee rebus, per bowl, 2015 average",
+      "price": 3.01,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "prata",
+      "item": "Roti prata (plain), per piece, 2015 average",
+      "price": 1.0,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "prata",
+      "item": "Two plain roti prata, most common price",
+      "price": 1.8,
+      "currency": "SGD",
+      "year": 2015,
+      "where": "CASE survey of hawker stalls, July to August 2015 (also $1.80 in 2014)",
+      "source": [
+        "CASE media release, 30 October 2015",
+        "https://case.org.sg/wp-content/uploads/2022/08/250_pdf.pdf"
+      ]
+    },
+    {
+      "dish": "chendol",
+      "item": "Bowl of chendol, 2022 (takeaway $3)",
+      "price": 2.0,
+      "currency": "SGD",
+      "year": 2022,
+      "where": "Cendol Geylang Serai",
+      "source": [
+        "Eatbook: Cendol Geylang Serai Review, 14 October 2022",
+        "https://eatbook.sg/cendol-geylang-serai/"
+      ]
+    },
+    {
+      "dish": "chickenrice",
+      "item": "Plate of chicken rice at one stall, up from $3 a few weeks earlier",
+      "price": 3.5,
+      "currency": "SGD",
+      "year": 2022,
+      "where": "one hawker stall, reported by CNA",
+      "source": [
+        "Mothership, 29 April 2022",
+        "https://mothership.sg/2022/04/singapore-hawkers-raise-prices-inflation/"
+      ]
+    },
+    {
+      "dish": "chweekueh",
+      "item": "Four pieces of chwee kueh, up from $1.20",
+      "price": 1.6,
+      "currency": "SGD",
+      "year": 2022,
+      "where": "one chwee kueh stall, reported by CNA",
+      "source": [
+        "Mothership, 29 April 2022",
+        "https://mothership.sg/2022/04/singapore-hawkers-raise-prices-inflation/"
+      ]
+    },
+    {
+      "dish": "soya",
+      "item": "Glass of soya bean milk, up from 70 cents",
+      "price": 0.8,
+      "currency": "SGD",
+      "year": 2022,
+      "where": "a stall at a central hawker centre, reported by CNA",
+      "source": [
+        "Mothership, 29 April 2022",
+        "https://mothership.sg/2022/04/singapore-hawkers-raise-prices-inflation/"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Fishball noodles, per bowl, 2025 average",
+      "price": 4.27,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": null,
+      "item": "Mee siam, per bowl, 2025 average",
+      "price": 3.88,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "biryani",
+      "item": "Chicken nasi briyani, per plate, 2025 average",
+      "price": 6.92,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "carrotcake",
+      "item": "Fried carrot cake, per plate, 2025 average",
+      "price": 3.8,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "chickenrice",
+      "item": "Chicken rice, per plate, 2025 average",
+      "price": 4.14,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "ckt",
+      "item": "Char kway teow, per plate, 2025 average",
+      "price": 4.62,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Coffee or tea with condensed milk, per cup, 2025 average",
+      "price": 1.39,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Coffee or tea without milk, per cup, 2025 average",
+      "price": 1.19,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "drink",
+      "item": "Milo with condensed milk, per cup, 2025 average",
+      "price": 1.6,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "duckrice",
+      "item": "Duck rice, per plate, 2025 average",
+      "price": 4.68,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "economyrice",
+      "item": "Economical rice (1 meat and 2 vegetables), per plate, 2025 average",
+      "price": 3.74,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "fishsoup",
+      "item": "Sliced fish bee hoon, per bowl, 2025 average",
+      "price": 5.81,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "icekachang",
+      "item": "Ice kachang, per bowl, 2025 average",
+      "price": 2.64,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "meerebus",
+      "item": "Mee rebus, per bowl, 2025 average",
+      "price": 4.0,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "prata",
+      "item": "Roti prata (plain), per piece, 2025 average",
+      "price": 1.27,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "roastmeat",
+      "item": "Char siew rice, per plate, 2025 average",
+      "price": 4.13,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "satay",
+      "item": "One stick of satay",
+      "price": 0.9,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Maxwell Satay, Maxwell Food Centre; the same check found $1 at a Newton stall and $0.70 at Albert Centre",
+      "source": [
+        "Seth Lui, 21 September 2025",
+        "https://sethlui.com/tourist-complains-food-prices-newton-food-centre-singapore-sep-2025/"
+      ]
+    },
+    {
+      "dish": "wantonmee",
+      "item": "Wanton noodles, per plate, 2025 average",
+      "price": 4.47,
+      "currency": "SGD",
+      "year": 2025,
+      "where": "Singapore-wide average from SingStat's CPI price collection, annual average; 2024-based basket",
+      "source": [
+        "SingStat Table Builder M213821: Average Retail Prices Of Selected Consumer Items, Annual (data updated 28 May 2026)",
+        "https://tablebuilder.singstat.gov.sg/table/TS/M213821"
+      ]
+    },
+    {
+      "dish": "satay",
+      "item": "Satay per stick (beef, chicken or mutton), 2026",
+      "price": 0.9,
+      "currency": "SGD",
+      "year": 2026,
+      "where": "Original Alhambra Satay, Geylang Serai Market and Food Centre",
+      "source": [
+        "Eatbook: 13 Oldest Hawker Stalls In Singapore, 26 January 2026",
+        "https://eatbook.sg/oldest-hawker-stalls-singapore/"
+      ]
+    }
+  ],
+  "conventions": [
+    {
+      "id": "hawkers-prohibited",
+      "text": "Municipal signs and notices marked the streets where hawkers were not allowed to trade.",
+      "since": "1950",
+      "source": [
+        "Roots (NHB collection): Chinese 'Hawkers Prohibited' sign by Singapore Municipal Commission, 1950",
+        "https://www.roots.gov.sg/Collection-Landing/listing/1186432"
+      ]
+    },
+    {
+      "id": "licence-on-stall",
+      "text": "Licensed mobile stalls showed their hawker licence on the stall itself.",
+      "since": null,
+      "source": [
+        "Roots (NHB collection): postcard of a mobile tea stall with licence displayed, c. 1970",
+        "https://www.roots.gov.sg/Collection-Landing/listing/1191272"
+      ]
+    },
+    {
+      "id": "stall-name",
+      "text": "Hawkers had to name their stalls once they moved into hawker centres in the 1970s; the usual pattern is a name plus the food sold, and well-known stalls that open new branches often name the place where they first did well.",
+      "since": "1970s",
+      "source": [
+        "Social Sciences (MDPI), June 2023: What Is Your Legacy? Naming practices of legacy hawker stalls",
+        "https://ideas.repec.org/a/gam/jscscx/v12y2023i6p341-d1167427.html"
+      ]
+    },
+    {
+      "id": "signboard-classic",
+      "text": "Older stall signboards are bright and busy: the stall name in big Chinese characters with the English name below, photos of the dishes, and a price for each dish.",
+      "since": null,
+      "source": [
+        "Rice Media: Hawker Signboards: Hello Minimalism, Goodbye Neon, 30 August 2017",
+        "https://www.ricemedia.co/?p=7233"
+      ]
+    },
+    {
+      "id": "signboard-new",
+      "text": "Some newer stalls use plain, cafe-style signboards, a few with no photos or prices at all.",
+      "since": null,
+      "source": [
+        "Rice Media: Hawker Signboards: Hello Minimalism, Goodbye Neon, 30 August 2017",
+        "https://www.ricemedia.co/?p=7233"
+      ]
+    },
+    {
+      "id": "price-display",
+      "text": "Most stalls show their prices; in a 2015 survey 89 of 584 stalls did not, more than half of them mixed vegetable rice stalls.",
+      "since": null,
+      "source": [
+        "CASE media release, 30 October 2015",
+        "https://case.org.sg/wp-content/uploads/2022/08/250_pdf.pdf"
+      ]
+    },
+    {
+      "id": "sizes",
+      "text": "Some stalls sell one dish in two to four sizes at stepped prices, for example wanton noodles at $4.50, $5.50, $6.50 or $8.50.",
+      "since": null,
+      "source": [
+        "Eatbook: Hong Lim Food Centre guide, 9 January 2025",
+        "https://eatbook.sg/hong-lim-food-centre/"
+      ]
+    },
+    {
+      "id": "add-ons",
+      "text": "Extras are priced on their own, for example an extra egg for 50 cents or more cockles for $2 on a plate of char kway teow.",
+      "since": null,
+      "source": [
+        "Seth Lui: Outram Park Fried Kway Teow Mee, updated 4 December 2025",
+        "https://sethlui.com/outram-park-fried-kway-teow-mee-singapore/"
+      ]
+    },
+    {
+      "id": "takeaway-charge-2015",
+      "text": "Takeaway charges ran from 10 to 50 cents, depending on the container: plastic bag, styrofoam box or plastic box.",
+      "since": null,
+      "source": [
+        "CASE media release, 30 October 2015",
+        "https://case.org.sg/wp-content/uploads/2022/08/250_pdf.pdf"
+      ]
+    },
+    {
+      "id": "takeaway-charge",
+      "text": "Many hawkers charge 20 to 30 cents extra for a takeaway container.",
+      "since": null,
+      "source": [
+        "Dollars and Sense: Sustainable Package Practices, 23 January 2023",
+        "https://dollarsandsense.sg/business/sustainable-package-practices-how-much-does-it-really-cost-for-hawkers-and-you-to-go-green/"
+      ]
+    },
+    {
+      "id": "takeaway-sign",
+      "text": "Many stalls put up a sign giving the extra charge for takeaway; at the new Bukit Canberra centre most charged 30 to 50 cents until the operator capped it at 30 cents.",
+      "since": "2022",
+      "source": [
+        "Mothership, 21 December 2022",
+        "https://mothership.sg/2022/12/takeaway-container-80-cents/"
+      ]
+    },
+    {
+      "id": "takeaway-drink",
+      "text": "A takeaway drink costs more than one served at the stall: one soya bean milk stall charged 80 cents for a glass and $1.40 in a paper cup.",
+      "since": "2022",
+      "source": [
+        "Mothership, 29 April 2022",
+        "https://mothership.sg/2022/04/singapore-hawkers-raise-prices-inflation/"
+      ]
+    },
+    {
+      "id": "no-disposables",
+      "text": "Newer hawker centres serve dine-in meals on reusable plates and bowls only, and since September 2018 new stallholders at older NEA centres cannot use disposables for dine-in either.",
+      "since": "2018",
+      "source": [
+        "NEA reply in The Straits Times, 19 June 2019",
+        "https://www.nea.gov.sg/media/readers-letters/index/nea-strives-to-design-and-encourage-environmentally-sustainable-hawker-centres-and-reduce-consumption-of-disposables"
+      ]
+    },
+    {
+      "id": "hygiene-grade",
+      "text": "Stallholders had to display their hygiene grade, from A (best) to D, where diners could see it.",
+      "since": "1998",
+      "source": [
+        "BiblioAsia: Hawkers: From Public Nuisance to National Icons, 2013",
+        "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+      ]
+    },
+    {
+      "id": "licence-qr",
+      "text": "Every licensed stall displays a licence decal with a QR code that links to its hygiene record.",
+      "since": null,
+      "source": [
+        "NEA reply in The Straits Times, 19 December 2018",
+        "https://www.nea.gov.sg/media/readers-letters/index/food-outlets-hygiene-track-records-are-listed-on-nea-s-website"
+      ]
+    },
+    {
+      "id": "safe-grade",
+      "text": "Grades A, B or C now reflect a stall's food safety track record, with NEW for stalls under a year old; diners check the grade by scanning the QR code on the SFA licence at the stall.",
+      "since": "2026-01-19",
+      "source": [
+        "Singapore Food Agency, 7 January 2026",
+        "https://www.sfa.gov.sg/news-publications/newsroom/new-safety-assurance-for-food-establishment--safe--framework--to-strengthen-food-safety"
+      ]
+    },
+    {
+      "id": "halal-cert",
+      "text": "Halal-certified stalls display a MUIS halal certificate; showing the MUIS halal logo without a valid certificate is an offence.",
+      "since": null,
+      "source": [
+        "Muslim.sg (HalalSG guide), 20 March 2024",
+        "https://muslim.sg/articles/navigating-the-ramadan-bazaar-halalsg-s-guide-to-halal-food"
+      ]
+    },
+    {
+      "id": "no-pork-no-lard",
+      "text": "A 'no pork, no lard' sign is not halal certification; halal covers more than leaving out pork and lard.",
+      "since": null,
+      "source": [
+        "Muslim.sg (HalalSG guide), 20 March 2024",
+        "https://muslim.sg/articles/navigating-the-ramadan-bazaar-halalsg-s-guide-to-halal-food"
+      ]
+    },
+    {
+      "id": "halal-qr",
+      "text": "New MUIS halal certificates carry a QR code that diners can scan to check the certification is real and still valid.",
+      "since": "2025-10-01",
+      "source": [
+        "MUIS media release, 24 September 2025",
+        "https://www.muis.gov.sg/resources/media-releases/muis-launches-enhanced-recognition-framework-and-new-digital-halal-certificates/"
+      ]
+    },
+    {
+      "id": "healthier-dining",
+      "text": "Stalls in HPB's Healthier Dining Programme tag lighter dishes with a 'lower in calories' label, and drink stalls show reminders to ask for less or no sugar.",
+      "since": null,
+      "source": [
+        "Health Promotion Board, 9 July 2017",
+        "https://www.hpb.gov.sg/newsroom/healthier-dining-programme-extended-to-include-food-in-hawker-centres-and-coffee-shops/"
+      ]
+    },
+    {
+      "id": "sgqr",
+      "text": "One SGQR label at the stall replaces several separate payment QR codes and works with many apps, including PayNow, NETS and GrabPay.",
+      "since": "2018-09-17",
+      "source": [
+        "MAS media release, 17 September 2018",
+        "https://www.mas.gov.sg/news/media-releases/2018/singapore-introduces-worlds-first-unified-payment-qr-code"
+      ]
+    },
+    {
+      "id": "e-payment",
+      "text": "A unified e-payment scheme for hawker centres, with NETS as the acquirer, started in June 2019, and stallholders could earn up to $1,500 in bonuses for using it.",
+      "since": "2019-06",
+      "source": [
+        "IMDA and Enterprise Singapore factsheet: Hawkers Go Digital, June 2020",
+        "https://www.imda.gov.sg/-/media/imda/files/about/media-releases/2020/annex-c-hawkers-go-digital.pdf"
+      ]
+    },
+    {
+      "id": "cdc-voucher",
+      "text": "Stalls that take CDC vouchers show a CDC Vouchers decal at the stall front.",
+      "since": "2020",
+      "source": [
+        "CDC Vouchers Scheme media release, 25 January 2021",
+        "https://vouchers.cdc.gov.sg/about/newsroom/launch-of-20-million-cdc-vouchers-scheme-tranche-2/"
+      ]
+    },
+    {
+      "id": "value-meal",
+      "text": "At socially-conscious enterprise hawker centres, every stall offers at least one value meal at a lower price, alongside its other dishes.",
+      "since": null,
+      "source": [
+        "MSE written reply to a parliamentary question, 3 February 2026",
+        "https://www.mse.gov.sg/latest-news/written-reply-to-parliamentary-question-on-budget-meal-options-at-hawker-centres-/"
+      ]
+    },
+    {
+      "id": "drink-codes",
+      "text": "Drink orders use short codes: kopi O is black coffee with sugar, kopi O kosong has no sugar, and adding peng makes it iced.",
+      "since": null,
+      "source": [
+        "Singaporean Mandarin Database: kopi-o",
+        "https://www.languagecouncils.sg/mandarin/en/learning-resources/singaporean-mandarin-database/terms/kopi-o"
+      ]
+    }
+  ]
+}

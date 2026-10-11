@@ -1,0 +1,633 @@
+{
+ "note": "Short silent loops of the gesture behind each dish, cut by scripts/make-dish-loops.ts from free footage: Singapore stalls filmed by SETHLUI.com and shared on Wikimedia Commons under CC BY 3.0 where Commons has them, and otherwise Pexels footage filmed elsewhere in Southeast and South Asia, where the same dishes are cooked. filmedAt says where when the source does. CC BY clips are cropped and cut to a loop; Pexels and Pixabay footage is credited even where its licence does not ask for it.",
+ "checked": "2026-10-09",
+ "loops": {
+  "bakchormee": {
+   "file": "bakchormee.mp4",
+   "poster": "bakchormee.jpg",
+   "shows": "Mee pok blanched in a strainer basket in boiling water.",
+   "segment": [
+    86.3,
+    89.1
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Michelin Bib Gourmand Fishball Noodles - The Fishball Story 2019.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Michelin_Bib_Gourmand_Fishball_Noodles_-_The_Fishball_Story_2019.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Michelin_Bib_Gourmand_Fishball_Noodles_-_The_Fishball_Story_2019.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.6042:ih*0.8056:iw*0.2292:ih*0.0278"
+  },
+  "banmian": {
+   "file": "banmian.mp4",
+   "poster": "banmian.jpg",
+   "shows": "Dough torn by hand into a pot of simmering soup.",
+   "segment": [
+    184.25,
+    186.6
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "We found the CHEAPEST KWAY CHAP in Singapore ¦ Food Finders Singapore S6E9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:We_found_the_CHEAPEST_KWAY_CHAP_in_Singapore_%C2%A6_Food_Finders_Singapore_S6E9.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/We_found_the_CHEAPEST_KWAY_CHAP_in_Singapore_%C2%A6_Food_Finders_Singapore_S6E9.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "biryani": {
+   "file": "biryani.mp4",
+   "poster": "biryani.jpg",
+   "shows": "Biryani scooped from a giant pot onto a plate.",
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Chef Preparing Traditional Biryani Dish",
+    "page": "https://www.pexels.com/video/chef-preparing-traditional-biryani-dish-34242290/",
+    "fileUrl": "https://videos.pexels.com/video-files/34242290/14511306_1280_720_30fps.mp4",
+    "author": "Sojib Omar",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  },
+  "chendol": {
+   "file": "chendol.mp4",
+   "poster": "chendol.jpg",
+   "shows": "Gula melaka poured over shaved ice in a bowl of chendol.",
+   "segment": [
+    267.0,
+    270.0
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Lee Kuan Yew's Favourite Peranakan Restaurant That Almost Closed Down - Guan Hoe Soon Restaurant 2019.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Lee_Kuan_Yew%27s_Favourite_Peranakan_Restaurant_That_Almost_Closed_Down_-_Guan_Hoe_Soon_Restaurant_2019.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/45/Lee_Kuan_Yew%27s_Favourite_Peranakan_Restaurant_That_Almost_Closed_Down_-_Guan_Hoe_Soon_Restaurant_2019.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.6042:ih*0.8056:iw*0.1979:ih*0.0278"
+  },
+  "chickenrice": {
+   "file": "chickenrice.mp4",
+   "poster": "chickenrice.jpg",
+   "shows": "A cleaver through poached chicken on a round wooden block.",
+   "segment": [
+    429.3,
+    432.1
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "What exactly is Hainanese cuisine? - Food Finders Singapore S7E10.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:What_exactly_is_Hainanese_cuisine%3F_-_Food_Finders_Singapore_S7E10.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/What_exactly_is_Hainanese_cuisine%3F_-_Food_Finders_Singapore_S7E10.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.6667:ih*0.8889:iw*0.25:ih*0.1111"
+  },
+  "chillicrab": {
+   "file": "chillicrab.mp4",
+   "poster": "chillicrab.jpg",
+   "shows": "Crab claws turned through thick red chilli sauce in the wok.",
+   "segment": [
+    9.5,
+    12.5
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Cooking a Crab Cuisine",
+    "page": "https://www.pexels.com/video/cooking-a-crab-cuisine-4926197/",
+    "fileUrl": "https://videos.pexels.com/video-files/4926197/4926197-hd_1366_720_30fps.mp4",
+    "author": "ROMAN ODINTSOV",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  },
+  "chweekueh": {
+   "file": "chweekueh.mp4",
+   "poster": "chweekueh.jpg",
+   "shows": "A plate of chwee kueh under chai poh.",
+   "segment": [
+    85.0,
+    87.95
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Hunting for $2.50 breakfast spots in Singapore - Food Finders Singapore S7E1.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Hunting_for_$2.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hunting_for_%242.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "ckt": {
+   "file": "ckt.mp4",
+   "poster": "ckt.jpg",
+   "shows": "A night-market wok over a roaring burner, flames up the side as the cook works it.",
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Cooking Fried Rice In A Wok",
+    "page": "https://www.pexels.com/video/cooking-fried-rice-in-a-wok-2882115/",
+    "fileUrl": "https://videos.pexels.com/video-files/2882115/2882115-hd_1280_720_24fps.mp4",
+    "author": "K",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  },
+  "currypuff": {
+   "file": "currypuff.mp4",
+   "poster": "currypuff.jpg",
+   "shows": "A crimped pastry puffing in hot oil.",
+   "segment": [
+    3.5,
+    6.5
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Golden Fried Pastry in Hot Oil",
+    "page": "https://www.pexels.com/video/golden-fried-pastry-in-hot-oil-36886089/",
+    "fileUrl": "https://videos.pexels.com/video-files/36886089/15625177_720_1280_24fps.mp4",
+    "author": "Subhrajyoti Paul",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   },
+   "crop": "720:540:0:200"
+  },
+  "curryrice": {
+   "file": "curryrice.mp4",
+   "poster": "curryrice.jpg",
+   "shows": "Thick curry ladled over a plate of rice at a Hainanese curry rice stall.",
+   "segment": [
+    129.2,
+    131.9
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "What exactly is Hainanese cuisine? - Food Finders Singapore S7E10.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:What_exactly_is_Hainanese_cuisine%3F_-_Food_Finders_Singapore_S7E10.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/What_exactly_is_Hainanese_cuisine%3F_-_Food_Finders_Singapore_S7E10.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "drink": {
+   "file": "drink.mp4",
+   "poster": "drink.jpg",
+   "shows": "Kopi poured from a tin mug into a glass of ice.",
+   "segment": [
+    173.05,
+    174.75
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Hunting for $2.50 breakfast spots in Singapore - Food Finders Singapore S7E1.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Hunting_for_$2.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hunting_for_%242.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.5667:ih*0.7556:iw*0.2:ih*0"
+  },
+  "economyrice": {
+   "file": "economyrice.mp4",
+   "poster": "economyrice.jpg",
+   "shows": "Dishes spooned from the trays onto a plate of rice.",
+   "segment": [
+    383.75,
+    386.75
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "We found $2.70 CAI FAN in Singapore?! - Food Finders Singapore S8E5.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:We_found_$2.70_CAI_FAN_in_Singapore%3F!_-_Food_Finders_Singapore_S8E5.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/6/64/We_found_%242.70_CAI_FAN_in_Singapore%3F%21_-_Food_Finders_Singapore_S8E5.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "fishsoup": {
+   "file": "fishsoup.mp4",
+   "poster": "fishsoup.jpg",
+   "shows": "Milky fish stock lifted and poured back into the pot.",
+   "segment": [
+    81.1,
+    83.45
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Bridging Cultures and Differences- You & Me Teochew Fish Soup.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Bridging_Cultures_and_Differences-_You_%26_Me_Teochew_Fish_Soup.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Bridging_Cultures_and_Differences-_You_%26_Me_Teochew_Fish_Soup.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "hokkienmee": {
+   "file": "hokkienmee.mp4",
+   "poster": "hokkienmee.jpg",
+   "shows": "Yellow noodles folded in a wok as flames leap behind it.",
+   "segment": [
+    23.45,
+    25.6
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "The Best Hokkien Mee in Singapore - Food Finders EP1 2019.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Best_Hokkien_Mee_in_Singapore_-_Food_Finders_EP1_2019.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/The_Best_Hokkien_Mee_in_Singapore_-_Food_Finders_EP1_2019.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.5833:ih*0.7778:iw*0.4062:ih*0.0611"
+  },
+  "icekachang": {
+   "file": "icekachang.mp4",
+   "poster": "icekachang.jpg",
+   "shows": "Ice shaved into a soft mound.",
+   "segment": [
+    9.0,
+    12.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Close-Up Video Of Shaved Ice",
+    "page": "https://www.pexels.com/video/close-up-video-of-shaved-ice-855764/",
+    "fileUrl": "https://videos.pexels.com/video-files/855764/855764-hd_1280_720_25fps.mp4",
+    "author": "Pixabay",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  },
+  "kayatoast": {
+   "file": "kayatoast.mp4",
+   "poster": "kayatoast.jpg",
+   "shows": "Bread toasting on a charcoal grill, turned with tongs.",
+   "segment": [
+    215.5,
+    218.2
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Hunting for $2.50 breakfast spots in Singapore - Food Finders Singapore S7E1.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Hunting_for_$2.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hunting_for_%242.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "kwaychap": {
+   "file": "kwaychap.mp4",
+   "poster": "kwaychap.jpg",
+   "shows": "Braised pork, tofu and egg ladled onto a plate over a steaming pot.",
+   "segment": [
+    359.7,
+    362.4
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "We found the CHEAPEST KWAY CHAP in Singapore ¦ Food Finders Singapore S6E9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:We_found_the_CHEAPEST_KWAY_CHAP_in_Singapore_%C2%A6_Food_Finders_Singapore_S6E9.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/We_found_the_CHEAPEST_KWAY_CHAP_in_Singapore_%C2%A6_Food_Finders_Singapore_S6E9.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "laksa": {
+   "file": "laksa.mp4",
+   "poster": "laksa.jpg",
+   "shows": "A bowl of curry laksa: prawns, tau pok, fish cake, egg and lime.",
+   "segment": [
+    4.0,
+    7.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "A Bowl of Laksa",
+    "page": "https://www.pexels.com/video/a-bowl-of-laksa-9694890/",
+    "fileUrl": "https://videos.pexels.com/video-files/9694890/9694890-hd_720_1280_50fps.mp4",
+    "author": "AMANDA LIM",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  },
+  "murtabak": {
+   "file": "murtabak.mp4",
+   "poster": "murtabak.jpg",
+   "shows": "Martabak dough laid across a huge griddle, ready for its egg and meat.",
+   "segment": [
+    0.0,
+    3.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Cinematic shot. The making process of Martabak Telor",
+    "page": "https://www.pexels.com/video/cinematic-shot-the-making-process-of-martabak-telor-17639084/",
+    "fileUrl": "https://videos.pexels.com/video-files/17639084/17639084-hd_1280_720_30fps.mp4",
+    "author": "wd toro",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "filmedAt": "Indonesia"
+   }
+  },
+  "nasipadang": {
+   "file": "nasipadang.mp4",
+   "poster": "nasipadang.jpg",
+   "shows": "Trays of curries, rendang and greens at a warung.",
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Traditional Indonesian Buffet Spread",
+    "page": "https://www.pexels.com/video/traditional-indonesian-buffet-spread-39327754/",
+    "fileUrl": "https://videos.pexels.com/video-files/39327754/16735653_720_1280_60fps.mp4",
+    "author": "Syafril Anggara",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "filmedAt": "Indonesia"
+   }
+  },
+  "orhluak": {
+   "file": "orhluak.mp4",
+   "poster": "orhluak.jpg",
+   "shows": "Egg and oysters spread across a big round griddle.",
+   "segment": [
+    1.0,
+    4.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Oyster omelette",
+    "page": "https://www.pexels.com/video/oyster-omelette-15817860/",
+    "fileUrl": "https://videos.pexels.com/video-files/15817860/15817860-hd_1280_720_60fps.mp4",
+    "author": "CHIN-YUE YANG",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "filmedAt": "Taiwan"
+   }
+  },
+  "oystercake": {
+   "file": "oystercake.mp4",
+   "poster": "oystercake.jpg",
+   "shows": "A Fuzhou oyster cake frying in its ladle in hot oil.",
+   "segment": [
+    95.9,
+    97.7
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "福州蠔餅.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:%E7%A6%8F%E5%B7%9E%E8%A0%94%E9%A4%85.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E7%A6%8F%E5%B7%9E%E8%A0%94%E9%A4%85.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.5833:ih*0.7778:iw*0.125:ih*0.037"
+  },
+  "peppercrab": {
+   "file": "peppercrab.mp4",
+   "poster": "peppercrab.jpg",
+   "shows": "Crab lifted from a wok of hot oil, flames round the rim.",
+   "segment": [
+    4.5,
+    7.5
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Deep Frying A Crab On A Wok In High Fire",
+    "page": "https://www.pexels.com/video/deep-frying-a-crab-on-a-wok-in-high-fire-2894882/",
+    "fileUrl": "https://videos.pexels.com/video-files/2894882/2894882-hd_1280_720_24fps.mp4",
+    "author": "K",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  },
+  "pisang": {
+   "file": "pisang.mp4",
+   "poster": "pisang.jpg",
+   "shows": "Battered bananas lifted out of hot oil.",
+   "segment": [
+    0.5,
+    3.5
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Filipino Street Vendor Frying Banana Fritters",
+    "page": "https://www.pexels.com/video/filipino-street-vendor-frying-banana-fritters-36337213/",
+    "fileUrl": "https://videos.pexels.com/video-files/36337213/15411560_720_1280_25fps.mp4",
+    "author": "MNRD JON",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "filmedAt": "the Philippines"
+   }
+  },
+  "porridge": {
+   "file": "porridge.mp4",
+   "poster": "porridge.jpg",
+   "shows": "Trays of side dishes at a Teochew porridge stall.",
+   "segment": [
+    88.0,
+    90.0
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Will these heritage eateries CLOSE DOWN soon? - Food Finders Singapore S8E9.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Will_these_heritage_eateries_CLOSE_DOWN_soon%3F_-_Food_Finders_Singapore_S8E9.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Will_these_heritage_eateries_CLOSE_DOWN_soon%3F_-_Food_Finders_Singapore_S8E9.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.45:ih*0.6:iw*0.3646:ih*0.1037"
+  },
+  "prata": {
+   "file": "prata.mp4",
+   "poster": "prata.jpg",
+   "shows": "Roti dough stretched paper thin and thrown onto a hot griddle.",
+   "segment": [
+    5.5,
+    8.5
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Street Vendor Making Thai Roti with Bananas",
+    "page": "https://www.pexels.com/video/street-vendor-making-thai-roti-with-bananas-30119040/",
+    "fileUrl": "https://videos.pexels.com/video-files/30119040/12917671_720_1280_60fps.mp4",
+    "author": "LayG Traveller",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "filmedAt": "Thailand"
+   }
+  },
+  "roastmeat": {
+   "file": "roastmeat.mp4",
+   "poster": "roastmeat.jpg",
+   "shows": "Glaze dripping from char siew on the rack.",
+   "segment": [
+    79.55,
+    82.4
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Roast Paradise - KL Style Char Siew in Singapore 2018.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Roast_Paradise_-_KL_Style_Char_Siew_in_Singapore_2018.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/2/22/Roast_Paradise_-_KL_Style_Char_Siew_in_Singapore_2018.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   },
+   "crop": "iw*0.5833:ih*0.7778:iw*0.1562:ih*0.037"
+  },
+  "sambalstingray": {
+   "file": "sambalstingray.mp4",
+   "poster": "sambalstingray.jpg",
+   "shows": "Seafood in sambal grilling on banana leaf on a hotplate.",
+   "segment": [
+    6.0,
+    9.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Grilling A Fish Over A Banana Leaves",
+    "page": "https://www.pexels.com/video/grilling-a-fish-over-a-banana-leaves-2882100/",
+    "fileUrl": "https://videos.pexels.com/video-files/2882100/2882100-hd_1280_720_24fps.mp4",
+    "author": "K",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  },
+  "satay": {
+   "file": "satay.mp4",
+   "poster": "satay.jpg",
+   "shows": "Satay fanned over charcoal with a woven fan while the sticks are turned.",
+   "segment": [
+    2.0,
+    5.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Authentic Indonesian Beef Satay Grilling Process",
+    "page": "https://www.pexels.com/video/authentic-indonesian-beef-satay-grilling-process-37253160/",
+    "fileUrl": "https://videos.pexels.com/video-files/37253160/15781750_1280_720_25fps.mp4",
+    "author": "Irma Sjachlan",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "filmedAt": "Indonesia"
+   }
+  },
+  "sugarcane": {
+   "file": "sugarcane.mp4",
+   "poster": "sugarcane.jpg",
+   "shows": "Sugarcane fed into a roller press as its wheel spins.",
+   "segment": [
+    10.8,
+    13.2
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Sugar cane juice machine in Kep 02.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Sugar_cane_juice_machine_in_Kep_02.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Sugar_cane_juice_machine_in_Kep_02.webm",
+    "author": "Mx. Granger",
+    "licence": "CC0",
+    "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "filmedAt": "Kep, Cambodia"
+   }
+  },
+  "thosai": {
+   "file": "thosai.mp4",
+   "poster": "thosai.jpg",
+   "shows": "Potato masala spread on a thosai on the griddle, then folded over.",
+   "segment": [
+    356.2,
+    359.2
+   ],
+   "source": {
+    "site": "wikimedia commons",
+    "title": "Hunting for $2.50 breakfast spots in Singapore - Food Finders Singapore S7E1.webm",
+    "page": "https://commons.wikimedia.org/wiki/File:Hunting_for_$2.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "fileUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hunting_for_%242.50_breakfast_spots_in_Singapore_-_Food_Finders_Singapore_S7E1.webm",
+    "author": "SETHLUI.com",
+    "licence": "CC BY 3.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+    "filmedAt": "Singapore"
+   }
+  },
+  "wantonmee": {
+   "file": "wantonmee.mp4",
+   "poster": "wantonmee.jpg",
+   "shows": "Egg noodles shaken in a wire basket in boiling water and loosened with chopsticks.",
+   "segment": [
+    0.5,
+    3.5
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Cinematic shot of serving process of boiled chicken noddles, Bakmi Ayam",
+    "page": "https://www.pexels.com/video/cinematic-shot-of-serving-process-of-boiled-chicken-noddles-bakmi-ayam-it-is-best-served-with-vegetables-chicken-chopped-meat-and-fried-dumplings-asian-culinary-delicacy-17377506/",
+    "fileUrl": "https://videos.pexels.com/video-files/17377506/17377506-hd_1280_720_30fps.mp4",
+    "author": "wd toro",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "filmedAt": "Indonesia"
+   }
+  },
+  "wings": {
+   "file": "wings.mp4",
+   "poster": "wings.jpg",
+   "shows": "Chicken wings on skewers turned over charcoal.",
+   "segment": [
+    5.0,
+    8.0
+   ],
+   "source": {
+    "site": "pexels",
+    "title": "Person Grilling the Chicken Wings on Sticks",
+    "page": "https://www.pexels.com/video/person-grilling-the-chicken-wings-on-sticks-15092939/",
+    "fileUrl": "https://videos.pexels.com/video-files/15092939/15092939-hd_1280_720_24fps.mp4",
+    "author": "khanhhoangminh",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/"
+   }
+  }
+ }
+}

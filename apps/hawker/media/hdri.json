@@ -1,0 +1,29 @@
+{
+  "day": {
+    "asset": "chinese_garden",
+    "url": "https://polyhaven.com/a/chinese_garden",
+    "licence": "CC0",
+    "author": "Andreas Mischok",
+    "file": "day.hdr",
+    "resolution": "1024x512",
+    "note": "Clear sky, strong sun, lush trees and a pond with Chinese garden buildings. High contrast."
+  },
+  "dusk": {
+    "asset": "venice_sunset",
+    "url": "https://polyhaven.com/a/venice_sunset",
+    "licence": "CC0",
+    "author": "Greg Zaal",
+    "file": "dusk.hdr",
+    "resolution": "1024x512",
+    "note": "Sun on the horizon over water, warm orange glow, old buildings on both sides of a stone waterfront."
+  },
+  "night": {
+    "asset": "shanghai_bund",
+    "url": "https://polyhaven.com/a/shanghai_bund",
+    "licence": "CC0",
+    "author": "Greg Zaal",
+    "file": "night.hdr",
+    "resolution": "1024x512",
+    "note": "City at night, lit buildings and neon skyline across a river, dark sky, warm lamps on a paved promenade."
+  }
+}

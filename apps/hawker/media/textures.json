@@ -1,0 +1,115 @@
+{
+  "about": "PBR texture sets for the realistic art style. Each map is 512x512 JPEG, downscaled from the 1K source. Normal maps are OpenGL style (green up), which is what three.js expects. Fetched 2026-10-08.",
+  "textures": {
+    "terrazzo": {
+      "source": "ambientCG",
+      "asset": "Terrazzo001",
+      "url": "https://ambientcg.com/a/Terrazzo001",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg"],
+      "metresPerTile": 1,
+      "tint": "light"
+    },
+    "floortiles": {
+      "source": "Poly Haven",
+      "asset": "floor_tiles_08",
+      "url": "https://polyhaven.com/a/floor_tiles_08",
+      "licence": "CC0",
+      "author": "Rob Tuytel",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg", "ao.jpg"],
+      "metresPerTile": 1.5,
+      "tint": "mid",
+      "note": "Beige and brown ceramic squares, 5 by 5 tiles per texture, so about 30 cm tiles."
+    },
+    "walltiles": {
+      "source": "ambientCG",
+      "asset": "Tiles133A",
+      "url": "https://ambientcg.com/a/Tiles133A",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg", "ao.jpg"],
+      "metresPerTile": 1.2,
+      "tint": "light",
+      "note": "Small white glazed squares, 12 by 12 tiles per texture, so about 10 cm tiles."
+    },
+    "concrete": {
+      "source": "ambientCG",
+      "asset": "Concrete034",
+      "url": "https://ambientcg.com/a/Concrete034",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg"],
+      "metresPerTile": 2,
+      "tint": "light",
+      "note": "The source is 2:1, so it was stacked twice vertically before scaling to keep it square and seamless."
+    },
+    "steel": {
+      "source": "ambientCG",
+      "asset": "Metal009",
+      "url": "https://ambientcg.com/a/Metal009",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg"],
+      "metresPerTile": 1,
+      "tint": "mid",
+      "note": "Brushed lines run along the U axis. Use metalness 1 in the material."
+    },
+    "wood": {
+      "source": "Poly Haven",
+      "asset": "wood_table_worn",
+      "url": "https://polyhaven.com/a/wood_table_worn",
+      "licence": "CC0",
+      "author": "Dimitrios Savva (photography), Rico Cilliers (processing)",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg", "ao.jpg"],
+      "metresPerTile": 0.55,
+      "tint": "dark",
+      "note": "Worn varnished planks, grain runs along the U axis."
+    },
+    "plaster": {
+      "source": "ambientCG",
+      "asset": "Plaster001",
+      "url": "https://ambientcg.com/a/Plaster001",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg"],
+      "metresPerTile": 2,
+      "tint": "light",
+      "note": "Off white, so it takes a paint colour well as a material tint."
+    },
+    "asphalt": {
+      "source": "ambientCG",
+      "asset": "Asphalt023S",
+      "url": "https://ambientcg.com/a/Asphalt023S",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg", "ao.jpg"],
+      "metresPerTile": 1.5,
+      "tint": "mid"
+    },
+    "corrugated": {
+      "source": "ambientCG",
+      "asset": "CorrugatedSteel005",
+      "url": "https://ambientcg.com/a/CorrugatedSteel005",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg", "ao.jpg"],
+      "metresPerTile": 0.6,
+      "tint": "mid",
+      "note": "Bare galvanised sheet. 8 ribs per texture, ribs run along the V axis and live mostly in the normal map. Use metalness 1 (the source metalness map is almost all white)."
+    },
+    "fabric": {
+      "source": "ambientCG",
+      "asset": "Fabric061",
+      "url": "https://ambientcg.com/a/Fabric061",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg", "ao.jpg"],
+      "metresPerTile": 0.5,
+      "tint": "mid",
+      "note": "Light grey woven canvas. Neutral enough to tint for striped awnings."
+    },
+    "marble": {
+      "source": "ambientCG",
+      "asset": "Marble012",
+      "url": "https://ambientcg.com/a/Marble012",
+      "licence": "CC0",
+      "files": ["color.jpg", "normal.jpg", "rough.jpg"],
+      "metresPerTile": 1,
+      "tint": "light",
+      "note": "White with grey veins, polished."
+    }
+  }
+}

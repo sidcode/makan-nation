@@ -1,0 +1,72 @@
+{
+  "hawker-ambience-1.mp3": {
+    "title": "Singaporian Food court ambience",
+    "author": "djuvray",
+    "licence": "CC0 1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://freesound.org/people/djuvray/sounds/432341/",
+    "where": "A food court in Singapore at lunch time, busy with diners",
+    "seconds": 41.1,
+    "loop": true,
+    "changes": "Freesound HQ preview, mixed to mono, 64 kbps, gain +2.3 dB, 1.5 s fade in and out"
+  },
+  "hawker-ambience-2.mp3": {
+    "title": "KuchaiLamaFoodCourtNoise1.wav",
+    "author": "LoopUdu",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://freesound.org/people/LoopUdu/sounds/263164/",
+    "where": "Kuchai Lama food court, Kuala Lumpur, Malaysia",
+    "seconds": 25.9,
+    "loop": true,
+    "attribution": "KuchaiLamaFoodCourtNoise1.wav by LoopUdu, https://freesound.org/s/263164/, licensed under CC BY 4.0",
+    "changes": "Freesound HQ preview, mixed to mono, 64 kbps, gain -1.5 dB, 1.5 s fade in and out"
+  },
+  "hawker-ambience-3.mp3": {
+    "title": "Chinese Stall Pangkor Town.wav",
+    "author": "LoopUdu",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://freesound.org/people/LoopUdu/sounds/263157/",
+    "where": "A Chinese noodle shop in Pangkor town, Perak, Malaysia",
+    "seconds": 31.6,
+    "loop": true,
+    "attribution": "Chinese Stall Pangkor Town.wav by LoopUdu, https://freesound.org/s/263157/, licensed under CC BY 4.0",
+    "changes": "Freesound HQ preview, mixed to mono, 64 kbps, gain -2 dB, 1.5 s fade in and out"
+  },
+  "hawker-ambience-4.mp3": {
+    "title": "KuchaiLamaFoodCourtNoise2.wav",
+    "author": "LoopUdu",
+    "licence": "CC BY 4.0",
+    "licenceUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "page": "https://freesound.org/people/LoopUdu/sounds/263165/",
+    "where": "Kuchai Lama food court, Kuala Lumpur, Malaysia",
+    "seconds": 15.2,
+    "loop": true,
+    "attribution": "KuchaiLamaFoodCourtNoise2.wav by LoopUdu, https://freesound.org/s/263165/, licensed under CC BY 4.0",
+    "changes": "Freesound HQ preview, mixed to mono, 64 kbps, 1.5 s fade in and out"
+  },
+  "wok.mp3": {
+    "title": "wok cooker -  full flame frying cooking.WAV",
+    "author": "martian",
+    "licence": "CC0 1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://freesound.org/people/martian/sounds/194636/",
+    "where": "A village off Bride's Pool Road, Tai Po, Hong Kong. Wok burner at full flame, frying rice",
+    "seconds": 59.2,
+    "loop": true,
+    "changes": "Freesound HQ preview, mixed to mono, 64 kbps, gain -4 dB with a peak limiter, 0.5 s fade in and out"
+  },
+  "kopi.mp3": {
+    "title": "tea poured into a cup.mp3",
+    "author": "ibrizie",
+    "licence": "CC0 1.0",
+    "licenceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page": "https://freesound.org/people/ibrizie/sounds/620105/",
+    "where": "Not stated. Tea poured into a cup from a medium height",
+    "seconds": 12.4,
+    "loop": false,
+    "changes": "Freesound HQ preview, cut to the two main pours (3.4 s to 15.8 s), mixed to mono, 64 kbps, gain +11.5 dB, short fades",
+    "note": "Stand-in for a kopi pull. No CC0 or CC BY recording of kopi or teh tarik being pulled was found on Freesound."
+  }
+}
