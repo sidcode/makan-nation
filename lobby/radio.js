@@ -1,4 +1,5 @@
-// The lobby's radio: the Time Capsule Radio's shellac 78s as a backdrop, off until someone turns it on.
+// The lobby's radio: the Time Capsule Radio's shellac 78s as a backdrop. It is on for a first visit and remembers
+// when someone turns it off. Browsers hold back sound until the first tap or key press, so until then it waits.
 // It reads the radio's own station list, so on the Bun server the 78s play from its local copies and on a
 // static site they stream from the Internet Archive, which can take a while to start.
 
@@ -21,6 +22,23 @@ let on = false;
 let failures = 0;
 let slowTimer = 0;
 let fadeFrame = 0;
+let blocked = false;
+
+// Only "off" is remembered; anything else, including storage that cannot be read, means on.
+const KEY = "lobby-radio";
+const GESTURES = ["pointerup", "keydown", "touchend"];
+function wanted() {
+  try {
+    return localStorage.getItem(KEY) !== "off";
+  } catch {
+    return true;
+  }
+}
+function remember(value) {
+  try {
+    localStorage.setItem(KEY, value);
+  } catch {}
+}
 
 // Rasa Sayang first, since every Singaporean knows it, then the rest in a new order each visit.
 async function load() {
@@ -53,6 +71,34 @@ function show(text) {
   state.textContent = text;
 }
 
+// The browser said no to sound before a gesture: start on the first tap or key press anywhere on the page.
+function start() {
+  audio.play().catch((e) => {
+    if (e.name !== "NotAllowedError" || !on) return;
+    blocked = true;
+    clearTimeout(slowTimer);
+    show("Tap to play");
+    meta.textContent = "Your browser waits for a tap or a key before it plays sound.";
+    for (const g of GESTURES) document.addEventListener(g, unlock, true);
+  });
+}
+
+function unlock(e) {
+  // A tap on the radio button itself is handled by its own click.
+  if (e && toggle.contains(e.target)) return;
+  stopWaiting();
+  if (!on) return;
+  const r = records[at];
+  meta.textContent = [r.year, r.artist, r.place].filter(Boolean).join(" · ");
+  show("Tuning in");
+  audio.play().catch(() => {});
+}
+
+function stopWaiting() {
+  blocked = false;
+  for (const g of GESTURES) document.removeEventListener(g, unlock, true);
+}
+
 function play(i) {
   at = (i + records.length) % records.length;
   const r = records[at];
@@ -66,9 +112,9 @@ function play(i) {
   show("Tuning in");
   clearTimeout(slowTimer);
   slowTimer = setTimeout(() => {
-    if (on && audio.paused) meta.textContent = "The Internet Archive is slow today. Still tuning in…";
+    if (on && !blocked && audio.paused) meta.textContent = "The Internet Archive is slow today. Still tuning in…";
   }, 12000);
-  audio.play().catch(() => {});
+  start();
 }
 
 audio.addEventListener("playing", () => {
@@ -114,12 +160,13 @@ async function turnOn() {
     fade(VOLUME);
   } else if (audio.src && !audio.ended) {
     audio.volume = 0;
-    audio.play().catch(() => {});
+    start();
   } else play(at);
 }
 
 function turnOff() {
   on = false;
+  stopWaiting();
   clearTimeout(slowTimer);
   toggle.setAttribute("aria-pressed", "false");
   root.classList.remove("is-playing");
@@ -128,8 +175,14 @@ function turnOff() {
   fade(0, () => audio.pause());
 }
 
-toggle.addEventListener("click", () => (on ? turnOff() : turnOn()));
+toggle.addEventListener("click", () => {
+  if (blocked) return unlock();
+  remember(on ? "off" : "on");
+  on ? turnOff() : turnOn();
+});
 next.addEventListener("click", () => {
   root.classList.remove("is-playing");
   play(at + 1);
 });
+
+if (wanted()) turnOn();

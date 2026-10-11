@@ -789,7 +789,7 @@ code {
   }
 }
 
-/* ---------- The lobby radio: the Time Capsule Radio's 78s, off until turned on ---------- */
+/* ---------- The lobby radio: the Time Capsule Radio's 78s, on for a first visit ---------- */
 
 /* Room under the footer so the radio never sits on top of it. */
 .lobby {
