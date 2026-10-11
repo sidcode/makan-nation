@@ -1,0 +1,33 @@
+/* Self-hosted fonts shared by every prototype.
+   The variable faces are declared here by hand: Bun drops the quotes from format("woff2-variations"),
+   which makes browsers skip the face, so these have no format hint at all.
+   Only the Latin subset is used because Bun also mangles unicode-range. */
+
+@import "@fontsource/vt323/index.css";
+@import "@fontsource/dm-mono/400.css";
+@import "@fontsource/dm-mono/500.css";
+
+@font-face {
+  font-family: "Fraunces Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../node_modules/@fontsource-variable/fraunces/files/fraunces-latin-full-normal.woff2");
+}
+
+@font-face {
+  font-family: "Fraunces Variable";
+  font-style: italic;
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("../node_modules/@fontsource-variable/fraunces/files/fraunces-latin-full-italic.woff2");
+}
+
+@font-face {
+  font-family: "Bricolage Grotesque Variable";
+  font-style: normal;
+  font-display: swap;
+  font-weight: 200 800;
+  font-stretch: 75% 100%;
+  src: url("../node_modules/@fontsource-variable/bricolage-grotesque/files/bricolage-grotesque-latin-standard-normal.woff2");
+}

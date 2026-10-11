@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+data/capsules.json
+data/cache/
+data/block-wishes.json
+data/hawker-memories.json
+data/hawker-voice-bank/
+.certs/
+tools/voices/.venv/
+data/loops-raw/
+site/
+
+# local notes and form drafts
+ignore/
+__pycache__/
