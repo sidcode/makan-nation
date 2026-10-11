@@ -293,7 +293,7 @@ export class KitchenView {
     const i = Math.floor(v.x + v.fx * 0.75);
     const j = Math.floor(v.z + v.fz * 0.75);
     const st = this.map?.stations.find((s) => s.x === i && s.z === j);
-    return { board: "chop", wok: "wok", pot: "blanch", cooker: "scoop", grill: "fan", urn: "pull", shaver: "shave", press: "shave", sink: "wipe" }[st?.type] ?? "scoop";
+    return { board: "chop", wok: "wok", pot: "blanch", cooker: "scoop", grill: "fan", urn: "pull", shaver: "shave", press: "shave", kaya: "wipe", sink: "wipe" }[st?.type] ?? "scoop";
   }
 
   // Cartoon, Soft or Real (realism.js): turns the built scene's materials and sky light over.

@@ -89,6 +89,7 @@ const C = {
   crust: "#c98f4a",
   toast: "#e0a85a",
   kaya: "#c6a23a",
+  butter: "#fff3b0",
   noodle: "#f6efd9",
   mee: "#f2c94c",
   egg: "#fbf6ea",
@@ -193,8 +194,15 @@ const FOOD = {
   "bread|toast": () =>
     group(
       mesh("box", mat(C.toast), { pos: [0, 0.03, 0], scale: [0.26, 0.05, 0.26] }),
+      mesh("box", mat(C.toast), { pos: [0, 0.08, 0], scale: [0.26, 0.05, 0.26], rot: [0, 0.2, 0] }),
+    ),
+  // Kaya and a cold slab of butter go between the slices once the toast is off the grill.
+  "bread|toast,spread": () =>
+    group(
+      mesh("box", mat(C.toast), { pos: [0, 0.03, 0], scale: [0.26, 0.05, 0.26] }),
       mesh("box", mat(C.kaya), { pos: [0, 0.065, 0], scale: [0.24, 0.02, 0.24] }),
-      mesh("box", mat(C.toast), { pos: [0, 0.095, 0], scale: [0.26, 0.05, 0.26], rot: [0, 0.2, 0] }),
+      mesh("box", mat(C.butter), { pos: [0.03, 0.08, 0], scale: [0.1, 0.02, 0.05], shadow: false }),
+      mesh("box", mat(C.toast), { pos: [0, 0.11, 0], scale: [0.26, 0.05, 0.26], rot: [0, 0.2, 0] }),
     ),
   "kwayteow|": () => group(...[-0.07, 0, 0.07].map((x) => mesh("box", mat(C.noodle), { pos: [x, 0.04, 0], scale: [0.05, 0.05, 0.26] }))),
   "egg|": () => mesh("sphere", mat(C.egg), { pos: [0, 0.09, 0], scale: [0.08, 0.1, 0.08] }),
@@ -567,6 +575,19 @@ export function makeStation(st, level) {
       g.add(mesh("cyl8", mat("#c8553d"), { pos: [0.24, 1.55, -0.1], scale: [0.03, 0.3, 0.03], rot: [0, 0, Math.PI / 2] }));
       g.add(mesh("sphere", mat("#c8553d"), { pos: [0.4, 1.55, -0.1], scale: [0.05, 0.05, 0.05] }));
       g.add(mesh("cyl", mat("#9aa3a8"), { pos: [0, 1.12, -0.1], scale: [0.04, 0.06, 0.04] }));
+      break;
+    }
+    case "kaya": {
+      // A kopitiam's spread corner: a squat jar of kaya with a spoon in it, a block of butter on a saucer,
+      // and a butter knife.
+      g.add(counter());
+      g.add(mesh("cyl", mat("#e8eef0", { transparent: true, opacity: 0.55 }), { pos: [-0.14, 1.04, -0.12], scale: [0.16, 0.28, 0.16] }));
+      g.add(mesh("cyl", mat(C.kaya), { pos: [-0.14, 1.0, -0.12], scale: [0.145, 0.2, 0.145], shadow: false }));
+      g.add(mesh("cyl", mat("#c8553d"), { pos: [-0.14, 1.19, -0.12], scale: [0.17, 0.03, 0.17], shadow: false }));
+      g.add(mesh("cyl8", mat("#d9dde0"), { pos: [-0.08, 1.24, -0.1], scale: [0.012, 0.22, 0.012], rot: [0, 0, -0.35], shadow: false }));
+      g.add(mesh("cyl", mat("#fffdf7"), { pos: [0.2, 0.915, 0.08], scale: [0.16, 0.012, 0.16], shadow: false }));
+      g.add(mesh("box", mat(C.butter), { pos: [0.2, 0.95, 0.08], scale: [0.14, 0.06, 0.08] }));
+      g.add(mesh("box", mat("#d9dde0"), { pos: [0.26, 0.92, -0.22], scale: [0.2, 0.01, 0.03], rot: [0, 0.6, 0], shadow: false }));
       break;
     }
     case "press": {

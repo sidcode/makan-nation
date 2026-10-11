@@ -6,6 +6,7 @@
 //   W  wok                O  pot                R  rice cooker / steamer
 //   G  grill              M  kopi urn           I  ice shaver          E  fire extinguisher
 //   T  takeaway boxes (or paper wraps, or tiffins, by era)                 ^  sugarcane press
+//   ~  kaya and butter, spread on toast
 //   Ingredient crates are lower case, digits, and a few capitals no station uses, see CRATES.
 
 export const CRATES = {
@@ -20,7 +21,7 @@ export const CRATES = {
 
 export const STATION_TYPES = {
   "#": "counter", H: "hatch", P: "rack", D: "return", S: "sink", Z: "bin", X: "board",
-  W: "wok", O: "pot", R: "cooker", G: "grill", M: "urn", I: "shaver", E: "ext", T: "boxes", "^": "press",
+  W: "wok", O: "pot", R: "cooker", G: "grill", M: "urn", I: "shaver", E: "ext", T: "boxes", "^": "press", "~": "kaya",
 };
 
 export const LEVELS = [
@@ -43,9 +44,9 @@ export const LEVELS = [
       "c..........D",
       "#...#OO#...S",
       "b...#XX#...E",
+      "e..........G",
       "#..........G",
-      "#..........G",
-      "##Z#2#T#####",
+      "##Z#2#T###~#",
     ],
   },
   {
@@ -156,7 +157,7 @@ export const LEVELS = [
       "#MM##HH#PD##",
       "x..........I",
       "z..........I",
-      "#...####...#",
+      "e...#~O#...#",
       "1..........G",
       "b..........E",
       "J..........S",

@@ -45,8 +45,16 @@ function shade(hex, k) {
 const BUILD = {
   chickenrice: (v) => g(riceDome(), fan("#f6eedd", v === "roasted" ? "#c98436" : "#f3e2b0"), cucumbers(-0.1, 0.12), greens(0.1, 0.1)),
   duckrice: () => g(riceDome(), fan("#9a5a32", "#6b3a1a"), mesh("cyl", mat("#5a3218", { transparent: true, opacity: 0.8 }), { pos: [0.06, 0.035, 0], scale: [0.12, 0.004, 0.12], shadow: false }), cucumbers(-0.1, 0.12)),
-  kayatoast: () =>
+  kayatoast: (v) =>
     g(
+      // The set: two soft-boiled eggs in a saucer, cracked open, for the dark soy and pepper.
+      ...(v === "eggs"
+        ? [
+            mesh("cyl", mat("#fffdf7"), { pos: [0.14, 0.02, 0.12], scale: [0.09, 0.012, 0.09], shadow: false }),
+            ...[-0.03, 0.03].map((dx) => mesh("sphere", mat("#fbf6ea"), { pos: [0.14 + dx, 0.05, 0.12], scale: [0.035, 0.03, 0.035], shadow: false })),
+            mesh("sphere", mat("#f2b632"), { pos: [0.14, 0.07, 0.12], scale: [0.025, 0.012, 0.025], shadow: false }),
+          ]
+        : []),
       ...[0, 1].map((i) =>
         g(
           mesh("box", mat("#e0a85a"), { pos: [i * 0.04 - 0.02, 0.04 + i * 0.05, 0], scale: [0.2, 0.025, 0.2], rot: [0, 0.785 + i * 0.3, 0] }),

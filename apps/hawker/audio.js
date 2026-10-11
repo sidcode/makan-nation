@@ -116,6 +116,9 @@ export class Sfx {
       case "press":
         this.tone(90 + Math.random() * 30, 0.06, { type: "square", vol: 0.05, slide: -20 });
         return this.hiss(0.1, { vol: 0.18, freq: 1100, q: 1.2 });
+      case "spread":
+        // A knife scraping kaya across warm toast.
+        return this.hiss(0.09, { vol: 0.16, freq: 2600, q: 0.8 });
       case "scrub":
         return this.hiss(0.12, { vol: 0.15, freq: 5000, q: 0.5 });
       case "pour":

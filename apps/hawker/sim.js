@@ -99,6 +99,8 @@ export const WORK = {
   board: { verb: "chop", time: 1.6, takes: { chicken: [["poach"], ["roast"], ["braise"]], duck: [["braise"], ["roast"]], cucumber: [[]], charsiew: [[]], fruit: [[]], popiah: [[]] } },
   shaver: { verb: "shave", time: 1.8, takes: { ice: [[]] } },
   press: { verb: "press", time: 2, takes: { sugarcane: [[]] } },
+  // Kaya and butter go on after the toast comes off the grill, the way a kopitiam does it.
+  kaya: { verb: "spread", time: 1.4, takes: { bread: [["toast"]] } },
 };
 
 export const sig = (item) => `${item.k}|${item.s.join(",")}`;
@@ -504,6 +506,7 @@ function interact(sim, ch, st) {
     case "board":
     case "shaver":
     case "press":
+    case "kaya":
       if (!h && st.item) {
         ch.hold = st.item;
         st.item = null;
@@ -961,7 +964,7 @@ function flyAll(sim, dt) {
         st.items.push(f.it);
         recheckHeat(st, sim);
         emit(sim, "cookin", st.x + 0.5, st.z + 0.5, st.type);
-      } else if (st.fire <= 0 && ["counter", "board", "shaver", "press"].includes(st.type) && !st.item) {
+      } else if (st.fire <= 0 && ["counter", "board", "shaver", "press", "kaya"].includes(st.type) && !st.item) {
         st.item = f.it;
         st.prog = 0;
         emit(sim, "drop", st.x + 0.5, st.z + 0.5);

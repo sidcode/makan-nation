@@ -69,7 +69,7 @@ test("a finished plate goes to the hatch, a dirty one to the sink, burnt food to
   sim.orders = [{ id: 1, d: "kayatoast", v: "plain", t: 90, m: 90, dk: null, md: "plain", lg: "en" }];
   const ch = sim.chefs[0];
   const typeOf = () => sim.map.stations[guideFor(snapshot(sim), sim.map, 0).st].type;
-  ch.hold = { id: 5, k: "plate", d: 0, c: [{ id: 6, k: "bread", s: ["toast"], b: 0 }] };
+  ch.hold = { id: 5, k: "plate", d: 0, c: [{ id: 6, k: "bread", s: ["toast", "spread"], b: 0 }] };
   expect(typeOf()).toBe("hatch");
   ch.hold = { id: 5, k: "plate", d: 1, c: [] };
   expect(typeOf()).toBe("sink");

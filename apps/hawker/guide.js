@@ -19,6 +19,7 @@ const WORK_WORDS = {
   board: ["Chop it on the board", "Hold Chop to slice it"],
   shaver: ["Take it to the ice shaver", "Hold Chop to shave the ice"],
   press: ["Feed it to the sugarcane press", "Hold Chop to press the cane"],
+  kaya: ["Take the toast to the kaya jar", "Hold Chop to spread kaya and butter"],
 };
 
 // Snapshot items carry their steps as "a,b". The guide wants arrays, like the kitchen itself.

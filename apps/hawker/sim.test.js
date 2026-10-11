@@ -363,6 +363,34 @@ test("an ice shaver shaves ice for desserts", () => {
   expect(sim.stations.some((s) => s.type === "shaver" && s.item?.s.join() === "shave")).toBe(true);
 });
 
+test("kaya toast needs kaya and butter spread on after the grill", () => {
+  const sim = solo("chickenrice", { calm: true });
+  sim.spawnT = 1e9;
+  sim.orders = [{ id: 1, d: "kayatoast", v: "plain", t: 999, m: 999, dk: null, md: "plain", lg: "en" }];
+  const ch = sim.chefs[0];
+  ch.hold = { id: 900, k: "plate", d: 0, c: [{ id: 901, k: "bread", s: ["toast"], b: 0 }] };
+  stand(sim, 0, find(sim, "hatch"));
+  press(sim);
+  expect(sim.served).toBe(0);
+  // The kaya jar only takes toast, not bread straight from the crate.
+  ch.hold = { id: 902, k: "bread", s: [], b: 0 };
+  const jar = stand(sim, 0, find(sim, "kaya"));
+  press(sim);
+  hold(sim, 0, WORK.kaya.time + 0.1);
+  expect(jar.item.s).toEqual([]);
+  jar.item.s = ["toast"];
+  hold(sim, 0, WORK.kaya.time + 0.1);
+  expect(jar.item.s).toEqual(["toast", "spread"]);
+});
+
+test("a toast auntie spreads kaya on the grill cook's toast", () => {
+  const sim = createSim("dessert", [], { helpers: crew(["grill", "kaya"]) });
+  sim.spawnT = 1e9;
+  sim.orders.push({ id: 1, d: "kayatoast", v: "plain", t: 999, m: 999, dk: null });
+  wait(sim, 30);
+  expect(sim.stations.some((s) => s.type === "kaya" && s.item?.s.join() === "toast,spread")).toBe(true);
+});
+
 test("helpers only offered where their stations exist", () => {
   const level = LEVELS.find((l) => l.id === "friednoodles");
   const map = parseLevel(level);

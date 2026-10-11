@@ -10,6 +10,7 @@ export const ROLES = {
   slicer: { name: "Slicer", job: "Slices chicken, duck, char siew and cucumber.", needs: ["board"], color: "#c9a08f", work: "board" },
   iceman: { name: "Ice shaver", job: "Shaves ice blocks for the desserts.", needs: ["shaver"], color: "#a8d8e8", work: "shaver" },
   caneman: { name: "Sugarcane presser", job: "Feeds sugarcane through the press for juice orders.", needs: ["press"], color: "#9ab04a", work: "press" },
+  kaya: { name: "Toast auntie", job: "Spreads kaya and butter on the toast as it comes off the grill.", needs: ["kaya"], color: "#c6a23a", work: "kaya" },
   wok: { name: "Wok cook", job: "Loads the wok with whatever the orders need.", needs: ["wok"], color: "#d9a441", station: "wok" },
   pot: { name: "Pot cook", job: "Keeps the pots going: poaching, braising, boiling.", needs: ["pot"], color: "#b5a37a", station: "pot" },
   cooker: { name: "Rice cook", job: "Keeps rice, santan rice and chwee kueh steaming.", needs: ["cooker"], color: "#e8dcb5", station: "cooker" },

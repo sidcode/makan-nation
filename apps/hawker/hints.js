@@ -12,6 +12,7 @@ export const STATION_NAMES = {
   counter: "Counter", board: "Chopping board", shaver: "Ice shaver", wok: "Wok", pot: "Pot", cooker: "Rice cooker",
   grill: "Grill", urn: "Kopi urn", hatch: "SERVE hatch", rack: "Clean plates", return: "Dirty plates", sink: "Sink",
   bin: "Bin", ext: "Extinguisher stand", boxes: "Takeaway boxes", press: "Sugarcane press",
+  kaya: "Kaya and butter",
 };
 
 const SHORT = { board: "Board", hatch: "SERVE", ext: "Extinguisher" };

@@ -1658,7 +1658,7 @@ function showPlace(era) {
 // ---------- Sessions ----------
 
 // Each job has a regular face, so the same helper turns up for the same job.
-const HELPER_FOR = { washer: "Ah Seng", slicer: "Mr Kumar", iceman: "Ah Boon", caneman: "Ah Boon", wok: "Auntie Mei", pot: "Kak Noor", cooker: "Encik Osman", grill: "Uncle Rahim", kopi: "Auntie Lily" };
+const HELPER_FOR = { washer: "Ah Seng", slicer: "Mr Kumar", iceman: "Ah Boon", caneman: "Ah Boon", kaya: "Auntie Lily", wok: "Auntie Mei", pot: "Kak Noor", cooker: "Encik Osman", grill: "Uncle Rahim", kopi: "Auntie Lily" };
 function helperCrew(roles) {
   const used = new Set();
   return roles.map((role) => {

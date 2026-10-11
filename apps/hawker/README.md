@@ -48,12 +48,12 @@ With one chef on a keyboard, both key sets work. Esc pauses a local game. Phones
 
 | Stall | Dishes |
 |---|---|
-| Chicken rice and kopi | Chicken rice (steamed or roasted), kaya toast set, kopitiam drinks |
+| Chicken rice and kopi | Chicken rice (steamed or roasted), kaya toast set (toast only or with eggs), kopitiam drinks |
 | Fried noodles | Char kway teow, carrot cake (white or black), Hokkien mee, oyster omelette |
 | Noodles and kueh | Wanton mee, laksa, chwee kueh, braised duck rice |
 | Nasi lemak and satay | Nasi lemak, satay (ayam or kambing), mee rebus |
 | Prata and teh tarik | Roti prata (kosong or telur), murtabak, kopitiam drinks |
-| Desserts and kopi | Ice kachang, chendol, kaya toast set, kopitiam drinks |
+| Desserts and kopi | Ice kachang, chendol, kaya toast set (toast only or with eggs), kopitiam drinks |
 
 Tickets list every component and how it is cooked ("Chicken, roasted + sliced"), and crates carry labels. A line at the bottom of the screen says what you are holding and what you are facing.
 
@@ -62,7 +62,7 @@ Tickets list every component and how it is cooked ("Chicken, roasted + sliced"),
 - Crates give raw ingredients. They cost money, and so does anything you bin.
 - Pots, woks, rice cookers and the grill cook what you put in. Some recipes take several things at once (kway teow and egg in the wok). When a bigger recipe is possible, the station waits a moment for the last ingredient: radish cake and egg make white carrot cake, add black sauce in time and it turns black. If an open order wants the bigger dish and none wants the smaller one, it waits longer (7 seconds instead of 2.2), so bee hoon in the pot waits for the prawns when someone has ordered laksa.
 - Delivery riders (today and 2065): some orders come by app. A GrabFood rider in green or a foodpanda rider in pink waits behind the hatch, the ticket says so, the food goes out in a takeaway box, and the app's commission (30%, the rate Grab gave in 2020) shows in the profit and loss. There are no riders in the 1950s or 1980s: we found no delivery from hawker centres then.
-- Hold Chop at the chopping board, the ice shaver or the sugarcane press.
+- Hold Chop at the chopping board, the ice shaver, the sugarcane press or the kaya jar. Kaya toast comes off the grill plain; spread kaya and butter on it at the jar, as a kopitiam does.
 - Plate everything at once and hand it in at SERVE. Drinks can be handed in on their own.
 - Food left on the heat burns, then catches fire, then the fire spreads. Hold Chop on it with the extinguisher (a wet towel in the 1950s).
 - Dash to get around faster. Throw raw ingredients to a teammate, onto a counter or straight into a pot.
@@ -70,7 +70,7 @@ Tickets list every component and how it is cooked ("Chicken, roasted + sliced"),
 
 **Kopi in kopi code.** Drink orders arrive the way they are shouted at a kopitiam ("Kopi-O Kosong Peng", "Teh-C Siew Dai"), generated and checked with the Kopi Compiler's own module (`apps/kopi/compiler.js`). At the urn, set the drink, milk, sugar, strength, ice and extras, then pull it. Each drink ticket links to the Kopi Compiler to decode the order.
 
-**Hired help and the money side.** Before a round you can hire up to three helpers, each with one job: dishwasher, slicer, ice shaver, sugarcane presser, wok, pot, rice or grill cook, or kopi uncle. They are AI chefs with simple rules, run by the host's game, so they work in solo, local and online games. At the end you get a profit and loss for the hour: takings, the speed bonus, ingredients and waste, rent and charges, helper wages and utilities. It is inspired by [Hawkernomics](https://www.hack.gov.sg/2025/hawkernomics/) (Hack for Public Good 2025).
+**Hired help and the money side.** Before a round you can hire up to three helpers, each with one job: dishwasher, slicer, ice shaver, sugarcane presser, toast auntie (kaya and butter), wok, pot, rice or grill cook, or kopi uncle. They are AI chefs with simple rules, run by the host's game, so they work in solo, local and online games. At the end you get a profit and loss for the hour: takings, the speed bonus, ingredients and waste, rent and charges, helper wages and utilities. It is inspired by [Hawkernomics](https://www.hack.gov.sg/2025/hawkernomics/) (Hack for Public Good 2025).
 
 The numbers are a game simplification. One round stands for one hour of trading. Rent and charges use the 2025 medians for a non-subsidised cooked food stall (rent $1,450, S&CC $200, table cleaning $520 a month, [MSE](https://www.mse.gov.sg/latest-news/written-reply-to-parliamentary-question-on-heat-preparedness-by-ms-grace-fu--minister-for-sustainability-and-the-environment-/)), spread over 26 days of 12 hours. Helpers cost the part-time food stall assistant rate under the Food Services PWM from 1 July 2026, $11.64 an hour ([MOM](https://www.mom.gov.sg/newsroom/press-releases/2026/0316-government-accepts-tcf-recommendations-on-food-services-pwm-2026-to-2028)). Everything scales by era using SingStat's annual food inflation; 2065 is a projection. Ingredient prices, dish prices and utilities are our guesses.
 

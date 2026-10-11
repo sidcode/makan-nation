@@ -100,6 +100,7 @@ const STEP_WORDS = {
   shave: "shaved",
   simmer: "simmered",
   press: "pressed",
+  spread: "spread with kaya and butter",
 };
 
 // Plain words for a component, e.g. "Chicken, poached + sliced".
@@ -107,7 +108,8 @@ export function componentLabel(sig) {
   const [kind, steps] = sig.split("|");
   const words = (steps ? steps.split(",") : []).map((s) => STEP_WORDS[s] ?? s);
   const base = INGREDIENTS[kind]?.name ?? kind;
-  if (kind === "bread" && words.includes("toasted")) return "Kaya toast";
+  if (kind === "bread" && steps?.includes("spread")) return "Kaya toast";
+  if (kind === "bread" && words.includes("toasted")) return "Toast, no kaya yet";
   if (kind === "ice" && words.includes("shaved")) return "Shaved ice";
   if (kind === "chilli") return "Chilli on the side";
   if (kind === "puff" && words.includes("fried")) return "Curry puff, fried";
@@ -166,7 +168,10 @@ export const DISHES = {
     price: 3.5,
     patience: 75,
     drink: true,
-    variants: { plain: { parts: ["bread|toast"], how: "Toast bread on the grill. Pull the drink in the order at the urn. Plate both." } },
+    variants: {
+      plain: { label: "Toast only", parts: ["bread|toast,spread"], how: "Toast bread on the grill, then spread kaya and butter on it at the kaya jar. Pull the drink in the order at the urn. Plate both." },
+      eggs: { label: "With eggs", parts: ["bread|toast,spread", "egg|boil"], how: "Toast bread on the grill and spread kaya and butter on it. Soft-boil an egg in the pot. Pull the drink at the urn. Plate it all." },
+    },
     community: "Hainanese",
     past: "Hainanese cooks who had worked on British ships brought the idea ashore and opened kopitiams. Loi Ah Koon, who came from Hainan in 1926, registered Ya Kun Coffeestall in 1944.",
     present: "Breakfast or tea time: toast with butter and kaya, two soft-boiled eggs with dark soy and white pepper, and a kopi.",
