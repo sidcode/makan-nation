@@ -1,0 +1,423 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, user-scalable=no">
+  <meta name="theme-color" content="#f3e3c3">
+  <title>Makan Nation</title>
+  <meta name="description" content="A nation proud of its food: cook Singapore hawker classics together across four eras, collect Hawker Passport stamps, and leave a memory for the next cook.">
+  <link rel="stylesheet" href="../../node_modules/leaflet/dist/leaflet.css">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <canvas id="stage" aria-label="The hawker stall kitchen"></canvas>
+
+  <!-- Playing -->
+  <div class="hud" id="hud" hidden>
+    <div class="tags" id="tags" aria-hidden="true" hidden></div>
+    <ol class="tickets" id="tickets" aria-label="Orders"></ol>
+    <div class="meter">
+      <p class="meter__time" id="time" aria-label="Time left">3:00</p>
+      <p class="meter__coins"><span id="coins">$0.00</span></p>
+      <p class="meter__streak" id="streak" hidden></p>
+    </div>
+    <p class="quip" id="quip" role="status"></p>
+    <p class="banner" id="banner" aria-live="assertive"></p>
+    <p class="bubble" id="bubble" aria-live="polite" hidden></p>
+    <p class="bubble bubble--say" id="say" aria-live="polite" hidden></p>
+    <div class="floaters" id="floaters" aria-hidden="true"></div>
+    <div class="lines" id="lines">
+      <p class="lines__where" id="where" hidden></p>
+      <p class="lines__radio" id="radio" hidden></p>
+      <div id="holding"></div>
+      <p class="lines__keys" id="keysHint"></p>
+    </div>
+    <div class="hud__buttons">
+      <button class="hud__btn" id="fullBtn" type="button" aria-label="Full screen" hidden>⛶</button>
+      <button class="hud__btn hud__btn--hint" id="hintBtn" type="button" aria-label="Hints" data-level="labels"><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg><span class="hud__hint">Labels</span></button>
+      <button class="hud__btn" id="pauseBtn" type="button" aria-label="Menu">II</button>
+    </div>
+    <p class="tutorial" id="tutorial" hidden></p>
+    <p class="tipcard" id="tip" role="status" hidden></p>
+  </div>
+
+  <!-- Customer mode: walking a hawker centre -->
+  <div class="whud" id="walkHud" hidden>
+    <div class="wtags" id="walkTags" aria-hidden="true"></div>
+    <section class="wcard" aria-label="Makan list">
+      <p class="wcard__where" id="walkWhere"></p>
+      <button class="wcard__fold" id="walkFold" type="button" aria-label="Fold the makan list away">
+        <span class="wcard__title">Makan list</span>
+      </button>
+      <div class="wnext" id="walkNext" hidden>
+        <span class="wnext__label">Next</span>
+        <span class="wnext__text" id="walkNextText"></span>
+        <button class="wnext__go" id="walkGoBtn" type="button" aria-label="Walk to the next step (G)">Go</button>
+      </div>
+      <ol class="wlist" id="walkList"></ol>
+      <p class="wcard__meta"><span id="walkMoney"></span><span id="walkTissue"></span><span id="walkClock">0:00</span></p>
+    </section>
+    <div class="wbtns">
+      <button class="hud__btn hud__btn--text" id="walkCamBtn" type="button">Above</button>
+      <button class="hud__btn" id="walkZoomIn" type="button" aria-label="Zoom in">+</button>
+      <button class="hud__btn" id="walkZoomOut" type="button" aria-label="Zoom out">−</button>
+      <button class="hud__btn" id="walkPauseBtn" type="button" aria-label="Menu">II</button>
+    </div>
+    <canvas class="wmap" id="walkMap" aria-label="Map of the hawker centre. M for a bigger map; on the big map, tap a stall to walk there."></canvas>
+    <div class="waim" id="walkAim" hidden aria-hidden="true"></div>
+    <p class="wprompt" id="walkPrompt" role="status" hidden></p>
+    <p class="wtoast" id="walkToast" role="status" aria-live="polite"></p>
+    <p class="wsay" id="walkSay" hidden aria-live="polite"></p>
+    <div class="whelp" id="walkHelp" hidden></div>
+    <div class="worder-wrap" id="walkOrder" hidden role="dialog" aria-modal="true" aria-label="Order at the stall"></div>
+    <div class="worder-wrap" id="walkPause" hidden role="dialog" aria-modal="true" aria-label="Paused">
+      <div class="worder">
+        <h2 class="panel__title">Paused</h2>
+        <div class="hintpick">
+          <p class="hintpick__label">View <small>(V)</small></p>
+          <div class="seg" role="radiogroup" aria-label="View">
+            <label><input type="radio" name="walkCam2" value="above"><span>Above</span></label>
+            <label><input type="radio" name="walkCam2" value="behind"><span>Behind</span></label>
+            <label><input type="radio" name="walkCam2" value="eyes"><span>Eyes</span></label>
+          </div>
+        </div>
+        <div class="hintpick">
+          <p class="hintpick__label">Look</p>
+          <div class="seg" role="radiogroup" aria-label="Look">
+            <label><input type="radio" name="walkLook2" value="toon"><span>Cartoon</span></label>
+            <label><input type="radio" name="walkLook2" value="soft"><span>Soft</span></label>
+            <label><input type="radio" name="walkLook2" value="real"><span>Real</span></label>
+          </div>
+        </div>
+        <div class="hintpick">
+          <p class="hintpick__label">People</p>
+          <div class="seg" role="radiogroup" aria-label="People">
+            <label><input type="radio" name="walkPeople2" value="auto"><span>Match the look</span></label>
+            <label><input type="radio" name="walkPeople2" value="classic"><span>Classic</span></label>
+            <label><input type="radio" name="walkPeople2" value="lifelike"><span>Lifelike</span></label>
+          </div>
+        </div>
+        <div class="hintpick">
+          <p class="hintpick__label">Guide path</p>
+          <div class="seg" role="radiogroup" aria-label="Guide path">
+            <label><input type="radio" name="walkGuide2" value="on"><span>On</span></label>
+            <label><input type="radio" name="walkGuide2" value="off"><span>Off</span></label>
+          </div>
+        </div>
+        <p class="cnote">Real uses CC0 textures and skies from ambientCG and Poly Haven. Sounds of the hall: food court recordings from Freesound by djuvray (CC0) and LoopUdu (CC BY 4.0), trimmed and mixed to mono. Dish and centre photos are from Wikimedia Commons, credited where they appear.</p>
+        <div class="actions">
+          <button class="ghost" type="button" id="walkQuit">Leave the centre</button>
+          <button class="ghost" type="button" id="walkHelpBtn">Controls</button>
+          <button class="go" type="button" id="walkResume">Back to makan</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="touch" id="touch" hidden></div>
+
+  <!-- The kopi builder, like Build it mode in the Kopi Compiler -->
+  <div class="kopi" id="kopi" hidden role="dialog" aria-modal="true" aria-labelledby="kopiTitle">
+    <div class="kopi__card">
+      <p class="kicker">At the urn</p>
+      <h2 class="kopi__title" id="kopiTitle">Pull a drink</h2>
+      <div class="kopi__rows" id="kopiRows"></div>
+      <div class="kopi__preview">
+        <p class="kopi__code" id="kopiCode"></p>
+        <p class="kopi__desc" id="kopiDesc"></p>
+        <p class="kopi__warn" id="kopiWarn" role="alert"></p>
+      </div>
+      <div class="actions">
+        <button class="ghost" type="button" id="kopiCancel">Cancel</button>
+        <button class="go" type="button" id="kopiPull">Pull it</button>
+      </div>
+      <p class="kopi__help" id="kopiHelp">Cannot read the code? <a href="../kopi/" target="_blank" rel="noopener">Ask the Kopi Compiler</a>.</p>
+    </div>
+  </div>
+
+  <!-- Menus -->
+  <main class="menu" id="menu">
+    <header class="menu__head">
+      <a class="back" href="../" id="backLink">Common Ground</a>
+      <span class="menu__links">
+        <button class="link" type="button" id="voicesBtn">Settings</button>
+        <button class="link" type="button" id="bookBtn">Recipe book</button>
+      </span>
+    </header>
+
+    <section class="panel" id="home">
+      <p class="kicker">Stall #01-23 · Hawker co-op</p>
+      <h1 class="title">Makan <em>Nation</em></h1>
+      <p class="lede">A nation proud of its food, one stall at a time. Cook hawker classics with your kakis, from the five-foot ways of the 1950s to a hawker centre in 2065. Learn from a mentor in every era, collect passport stamps, and leave a memory for the next cook.</p>
+      <label class="name">
+        <span>Your name</span>
+        <input id="nameInput" maxlength="14" autocomplete="nickname" placeholder="Ah Boy">
+      </label>
+      <button class="big big--passport" type="button" id="passportBtn">Hawker Passport<small id="passportSub">The apprentice trail, 1950s to 2065</small></button>
+      <button class="big big--walk" type="button" id="walkBtn">Makan at a hawker centre<small>Be the customer: chope a table with tissue, queue at the stalls, carry your trays. Any of NEA's 129 centres, in any era.</small></button>
+      <button class="big big--centre" type="button" id="centreBtn">Advanced: Centre Manager<small id="centreSub">Run a real hawker centre for two weeks: menus, prices, hygiene, and successors for retiring hawkers.</small></button>
+      <div class="choices">
+        <button class="big big--play" type="button" id="playHere">Free play<small>Keyboard, gamepads or this tablet</small></button>
+        <button class="big big--host" type="button" id="hostBtn">Host<small>Friends join from their phones</small></button>
+        <button class="big big--join" type="button" id="joinBtn">Join<small>Got a code?</small></button>
+      </div>
+    </section>
+
+    <section class="panel panel--wide" id="walk" hidden></section>
+    <section class="panel panel--wide" id="walkDone" hidden></section>
+
+    <section class="panel panel--wide" id="setup" hidden>
+      <h2 class="panel__title" id="setupTitle">Set up the stall</h2>
+      <p class="centre-banner" id="centreBanner" hidden></p>
+
+      <h3 class="step step--when"><span>1</span> When?</h3>
+      <div class="eras" id="eras" role="radiogroup" aria-label="Era"></div>
+      <article class="eracard" id="eraCard"></article>
+
+      <h3 class="step step--which"><span>2</span> Which stall?</h3>
+      <div class="levels" id="levels" role="radiogroup" aria-label="Stall"></div>
+      <p class="unlock-note" id="unlockNote"></p>
+
+      <h3 class="step"><span>3</span> Hire help? <small>Up to 3, paid by the hour out of your takings</small></h3>
+      <div class="hires" id="hires" role="group" aria-label="Hired help"></div>
+      <p class="hire-note" id="hireNote"></p>
+
+      <h3 class="step"><span>4</span> Who is cooking here?</h3>
+      <div class="local" id="localPick">
+        <div class="seg" role="radiogroup" aria-label="Chefs on this device">
+          <label><input type="radio" name="locals" value="1" checked><span>1 chef</span></label>
+          <label><input type="radio" name="locals" value="2"><span>2 chefs</span></label>
+          <label id="locals3"><input type="radio" name="locals" value="3"><span>3</span></label>
+          <label id="locals4"><input type="radio" name="locals" value="4"><span>4</span></label>
+        </div>
+        <p class="local__note" id="localNote"></p>
+        <div class="pickers" id="chefPickers"></div>
+      </div>
+
+      <div class="room" id="room" hidden>
+        <h3 class="step"><span>5</span> Invite your kakis</h3>
+        <div class="room__mode seg" role="radiogroup" aria-label="How friends join">
+          <label id="modeLanWrap"><input type="radio" name="mode" value="lan" checked><span>Same wifi</span></label>
+          <label id="modeP2pWrap"><input type="radio" name="mode" value="p2p"><span>Online</span></label>
+        </div>
+        <div class="room__card">
+          <canvas class="qr" id="qr" width="164" height="164" aria-label="QR code to join"></canvas>
+          <div>
+            <p class="room__label">Kitchen code</p>
+            <p class="room__code" id="roomCode">----</p>
+            <p class="room__link"><a id="roomLink" href="#" target="_blank" rel="noopener"></a></p>
+            <p class="room__note" id="roomNote"></p>
+          </div>
+        </div>
+        <ul class="crew" id="crew" aria-label="Chefs in the kitchen"></ul>
+      </div>
+
+      <label class="music">
+        <span>Stall radio</span>
+        <input type="range" id="music" min="0" max="100" value="70" aria-label="Music volume">
+      </label>
+
+      <div class="actions actions--sticky">
+        <button class="ghost" type="button" id="setupBack">Back</button>
+        <button class="go" type="button" id="startBtn">Open the stall</button>
+      </div>
+    </section>
+
+    <section class="panel" id="join" hidden>
+      <h2 class="panel__title">Join a kitchen</h2>
+      <label class="name">
+        <span>Your name</span>
+        <input id="joinName" maxlength="14" autocomplete="nickname" placeholder="Ah Girl">
+      </label>
+      <label class="name">
+        <span>Kitchen code</span>
+        <input id="codeInput" maxlength="4" autocomplete="off" autocapitalize="characters" placeholder="ABCD" class="code-input">
+      </label>
+      <p class="name"><span>Your chef</span></p>
+      <div class="pickers" id="joinPicker"></div>
+      <div class="seg join__mode" role="radiogroup" aria-label="How to join">
+        <label id="joinLanWrap"><input type="radio" name="joinmode" value="lan" checked><span>Same wifi</span></label>
+        <label id="joinP2pWrap"><input type="radio" name="joinmode" value="p2p"><span>Online</span></label>
+      </div>
+      <p class="status" id="joinStatus" role="status"></p>
+      <div class="actions">
+        <button class="ghost" type="button" id="joinBack">Back</button>
+        <button class="go" type="button" id="joinGo">Join</button>
+      </div>
+    </section>
+
+    <section class="panel" id="paused" hidden>
+      <h2 class="panel__title" id="pausedTitle">Paused</h2>
+      <p class="lede lede--small" id="pausedNote"></p>
+      <p class="archive-note" id="pausedFact"></p>
+      <div class="hintpick">
+        <p class="hintpick__label">Hints <small>(H)</small></p>
+        <div class="seg" role="radiogroup" aria-label="Hints">
+          <label><input type="radio" name="hints" value="off"><span>Off</span></label>
+          <label><input type="radio" name="hints" value="labels"><span>Labels</span></label>
+          <label><input type="radio" name="hints" value="guide"><span>Guide</span></label>
+        </div>
+        <p class="hintpick__note">Labels name every crate and station. Guide also points to your next step and lights up what the oldest order needs. Tap a part on a ticket to see where it comes from.</p>
+      </div>
+      <div class="hintpick">
+        <p class="hintpick__label">Graphics <small id="gfxNow"></small></p>
+        <div class="seg" role="radiogroup" aria-label="Graphics quality">
+          <label><input type="radio" name="gfx" value="auto"><span>Auto</span></label>
+          <label><input type="radio" name="gfx" value="0"><span>Low</span></label>
+          <label><input type="radio" name="gfx" value="1"><span>Medium</span></label>
+          <label><input type="radio" name="gfx" value="2"><span>High</span></label>
+        </div>
+      </div>
+      <div class="hintpick">
+        <p class="hintpick__label">Look</p>
+        <div class="seg" role="radiogroup" aria-label="Look">
+          <label><input type="radio" name="look" value="toon"><span>Cartoon</span></label>
+          <label><input type="radio" name="look" value="soft"><span>Soft</span></label>
+          <label><input type="radio" name="look" value="real"><span>Real</span></label>
+        </div>
+        <p class="hintpick__note">Cartoon is flat colour with ink lines. Soft lights it like a photo. Real adds photographed tiles, steel, wood and terrazzo, and the light of a real sky.</p>
+      </div>
+      <div class="hintpick">
+        <p class="hintpick__label">People</p>
+        <div class="seg" role="radiogroup" aria-label="People">
+          <label><input type="radio" name="people" value="auto"><span>Match the look</span></label>
+          <label><input type="radio" name="people" value="classic"><span>Classic</span></label>
+          <label><input type="radio" name="people" value="lifelike"><span>Lifelike</span></label>
+        </div>
+        <p class="hintpick__note">Classic is the game's first, chunky cooks and customers. Lifelike has human proportions, with knees and elbows that bend. Match the look gives Cartoon the classic people and Soft and Real the lifelike ones.</p>
+      </div>
+
+      <label class="music">
+        <span>Stall radio</span>
+        <input type="range" id="music2" min="0" max="100" value="70" aria-label="Music volume">
+      </label>
+      <div class="voicectl">
+        <label class="music">
+          <span>Customer voices</span>
+          <input type="range" id="voice2" min="0" max="100" value="80" aria-label="Voice volume">
+        </label>
+        <label class="check"><input type="checkbox" id="voiceMute2"><span>Mute voices</span></label>
+        <button class="link link--inline" type="button" id="pauseVoices">All settings, lend your voice</button>
+      </div>
+      <div class="actions">
+        <button class="ghost" type="button" id="leaveBtn">Leave the kitchen</button>
+        <button class="go" type="button" id="resumeBtn">Back to work</button>
+      </div>
+    </section>
+
+    <section class="panel panel--wide" id="passport" hidden>
+      <div id="passportRoot"></div>
+      <div class="actions">
+        <button class="ghost" type="button" id="passportBack">Back</button>
+        <button class="go" type="button" id="passportNext">Cook the next stop</button>
+      </div>
+    </section>
+
+    <section class="panel panel--wide" id="results" hidden>
+      <div class="quiz" id="quiz" hidden></div>
+      <p class="kicker" id="resultsKicker">Stall closed</p>
+      <h2 class="title title--small" id="resultsTitle">Shiok!</h2>
+      <p class="stars" id="stars" aria-label="Stars"></p>
+      <dl class="tally">
+        <div><dt>Served</dt><dd id="rServed">0</dd></div>
+        <div><dt>Walked off</dt><dd id="rMissed">0</dd></div>
+        <div><dt>Best streak</dt><dd id="rStreak">0</dd></div>
+      </dl>
+      <h3 class="step step--plain">The money side of the hour</h3>
+      <table class="pl" id="pl"></table>
+      <p class="pl__note" id="plNote"></p>
+      <p class="unlocked" id="unlocked"></p>
+      <h3 class="step step--plain">Rojak meter</h3>
+      <div class="rojak" id="rojak"></div>
+      <form class="memory" id="memoryForm" novalidate>
+        <h3 class="step step--plain">Leave a memory for the next cook</h3>
+        <p class="memory__lede">A line about one of today's dishes: who you ate it with, where, what it means to you. It shows up in the recipe book and in the dining area.</p>
+        <label class="name"><span>Dish</span><select id="memoryDish"></select></label>
+        <label class="name"><span>Your memory <small id="memoryCount">0 / 140</small></span><textarea id="memoryText" maxlength="140" rows="2" placeholder="Saturday mornings with my grandma, sharing one plate."></textarea></label>
+        <label class="name"><span>Name <small>(optional)</small></span><input id="memoryName" maxlength="24" autocomplete="nickname"></label>
+        <p class="status" id="memoryStatus" role="status"></p>
+        <button class="ghost" type="submit">Add to the archive</button>
+      </form>
+      <div class="actions">
+        <button class="ghost" type="button" id="resultsBook">Recipe book</button>
+        <button class="ghost" type="button" id="resultsPassport" hidden>Passport</button>
+        <button class="go" type="button" id="resultsCentre" hidden>Back to the centre</button>
+        <button class="go" type="button" id="againBtn">Again!</button>
+      </div>
+    </section>
+
+    <section class="panel panel--wide" id="centre" hidden>
+      <div id="centreRoot"></div>
+    </section>
+
+    <section class="panel" id="voices" hidden>
+      <h2 class="panel__title">Settings</h2>
+      <div class="hintpick">
+        <p class="hintpick__label">Hints <small>(H while cooking)</small></p>
+        <div class="seg" role="radiogroup" aria-label="Hints">
+          <label><input type="radio" name="hints2" value="off"><span>Off</span></label>
+          <label><input type="radio" name="hints2" value="labels"><span>Labels</span></label>
+          <label><input type="radio" name="hints2" value="guide"><span>Guide</span></label>
+        </div>
+      </div>
+      <div class="hintpick">
+        <p class="hintpick__label">Graphics <small id="gfx2Now"></small></p>
+        <div class="seg" role="radiogroup" aria-label="Graphics quality">
+          <label><input type="radio" name="gfx2" value="auto"><span>Auto</span></label>
+          <label><input type="radio" name="gfx2" value="0"><span>Low</span></label>
+          <label><input type="radio" name="gfx2" value="1"><span>Medium</span></label>
+          <label><input type="radio" name="gfx2" value="2"><span>High</span></label>
+        </div>
+      </div>
+      <div class="hintpick">
+        <p class="hintpick__label">Look</p>
+        <div class="seg" role="radiogroup" aria-label="Look">
+          <label><input type="radio" name="look2" value="toon"><span>Cartoon</span></label>
+          <label><input type="radio" name="look2" value="soft"><span>Soft</span></label>
+          <label><input type="radio" name="look2" value="real"><span>Real</span></label>
+        </div>
+        <p class="hintpick__note">Cartoon is flat colour with ink lines. Soft lights it like a photo. Real adds photographed tiles, steel, wood and terrazzo, and the light of a real sky.</p>
+      </div>
+      <div class="hintpick">
+        <p class="hintpick__label">People</p>
+        <div class="seg" role="radiogroup" aria-label="People">
+          <label><input type="radio" name="people2" value="auto"><span>Match the look</span></label>
+          <label><input type="radio" name="people2" value="classic"><span>Classic</span></label>
+          <label><input type="radio" name="people2" value="lifelike"><span>Lifelike</span></label>
+        </div>
+        <p class="hintpick__note">Classic is the game's first, chunky cooks and customers. Lifelike has human proportions, with knees and elbows that bend. Match the look gives Cartoon the classic people and Soft and Real the lifelike ones.</p>
+      </div>
+      <h3 class="step step--plain">Voices</h3>
+      <p class="lede lede--small">Customers order in Singlish, Malay, Mandarin, Cantonese, Hokkien and Tamil. A browser can only speak with the voices its device has, so the stall also plays clips that people lend and clips generated for the game. Anything without a voice shows as words in a speech bubble.</p>
+      <div class="voicectl">
+        <label class="music">
+          <span>Customer voices</span>
+          <input type="range" id="voice" min="0" max="100" value="80" aria-label="Voice volume">
+        </label>
+        <label class="check"><input type="checkbox" id="voiceMute"><span>Mute voices</span></label>
+      </div>
+      <h3 class="step step--plain">On this device</h3>
+      <ul class="voicelist" id="voiceList"></ul>
+      <p class="voicecredit" id="voiceCredit"></p>
+      <h3 class="step step--plain">Lend your voice</h3>
+      <div class="lend" id="lend"></div>
+      <div class="actions">
+        <button class="go" type="button" id="voicesBack">Back</button>
+      </div>
+    </section>
+
+    <section class="panel panel--wide" id="book" hidden>
+      <h2 class="panel__title">Recipe book</h2>
+      <p class="book__heritage" id="heritage"></p>
+      <details class="glossary" id="glossary"></details>
+      <p class="cnote book__loops" id="bookLoops" hidden></p>
+      <div class="book" id="bookCards"></div>
+      <div class="actions">
+        <button class="go" type="button" id="bookBack">Back to the stall</button>
+      </div>
+    </section>
+  </main>
+
+  <script type="module" src="./main.js"></script>
+</body>
+</html>
