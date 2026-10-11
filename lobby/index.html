@@ -6,6 +6,7 @@
   <title>Common Ground</title>
   <meta name="description" content="Makan Nation, a celebration of Singapore's hawker culture, and four more Culture × Tech prototypes for the Common Ground makeathon in Singapore.">
   <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./radio.js"></script>
 </head>
 <body>
   <main class="lobby">
@@ -99,6 +100,23 @@
         </a>
       </li>
     </ol>
+
+    <aside class="radio" aria-label="Lobby radio">
+      <div class="radio__now" hidden>
+        <p class="radio__kicker">Time Capsule Radio · Shellac 78s</p>
+        <a class="radio__title" href="radio/" target="_blank" rel="noopener"></a>
+        <p class="radio__meta" aria-live="polite"></p>
+        <div class="radio__row">
+          <button class="radio__next" type="button">Next record</button>
+          <a class="radio__open" href="radio/">Open the radio</a>
+        </div>
+      </div>
+      <button class="radio__toggle" type="button" aria-pressed="false">
+        <span class="radio__disc" aria-hidden="true"><img alt="" hidden></span>
+        <span class="radio__label">Radio</span>
+        <span class="radio__state">Off</span>
+      </button>
+    </aside>
 
     <footer class="foot">
       <p>Runs on your laptop with <code>bun run dev</code>. Archive data is saved in <code>data/</code> so the demo still works when the wifi does not. Sources are listed inside each prototype.</p>
