@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Musication</title>
+  <meta name="description" content="A field guide to how music rhymes across cultures and decades.">
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <a class="skip" href="#tune">Skip to the tune</a>
+
+  <header class="masthead">
+    <div class="brand">
+      <p class="kicker">Field guide no. 1 · Common Ground, Singapore</p>
+      <h1 class="wordmark">Musi<span>cation</span></h1>
+      <p class="tagline">How music rhymes across cultures and decades.</p>
+    </div>
+    <nav class="index" aria-label="Sections">
+      <a href="#tune"><span class="num">I</span> One tune, many homes</a>
+      <a href="#modes"><span class="num">II</span> Same mode, many names</a>
+      <a href="#twelve"><span class="num">III</span> Twelve notes</a>
+      <a href="#dna"><span class="num">IV</span> Record DNA</a>
+    </nav>
+  </header>
+
+  <main>
+    <section id="tune" class="plate" aria-labelledby="tune-title">
+      <header class="plate-head">
+        <p class="plate-no">Plate I</p>
+        <h2 id="tune-title">One tune, many homes</h2>
+        <p class="lede">Mo Li Hua is Chinese, Arirang Korean, Auld Lang Syne Scottish, Amazing Grace American and Akatombo Japanese. Written out, all five use the same five notes: do re mi sol la. Move a tune into another culture's scale and listen for what stays put. Some homes turn out to be twins: Ethiopia's ambassel and Japan's in scale share every note.</p>
+      </header>
+
+      <div class="tune-grid">
+        <div class="stage">
+          <div class="tune-picker" id="tunes" role="radiogroup" aria-label="Tune"></div>
+          <p class="tune-blurb" id="tune-blurb"></p>
+
+          <figure class="wheel-wrap">
+            <svg id="wheel" viewBox="0 0 400 400" role="img" aria-labelledby="wheel-cap"></svg>
+            <div class="stamp" id="stamp" aria-live="polite"></div>
+            <figcaption id="wheel-cap" class="wheel-cap"></figcaption>
+          </figure>
+
+          <div class="transport">
+            <button class="btn btn-play" id="play" type="button" aria-pressed="false">
+              <span class="btn-icon" aria-hidden="true"></span><span class="btn-label">Play in A</span>
+            </button>
+            <button class="btn btn-ghost" id="ab" type="button">First line in A, then B</button>
+            <label class="switch"><input type="checkbox" id="drone"><span>Drone</span></label>
+            <label class="switch"><input type="checkbox" id="slow"><span>Half speed</span></label>
+          </div>
+        </div>
+
+        <div class="side">
+          <h3 class="mini-head"><span class="tag tag-a">A</span> Play it in</h3>
+          <div class="cards" id="cards" role="radiogroup" aria-label="System A"></div>
+
+          <h3 class="mini-head"><span class="tag tag-b">B</span> Hold it up against</h3>
+          <div class="chips" id="against" role="radiogroup" aria-label="System B"></div>
+
+          <div class="details">
+            <article class="detail" id="detail-a"></article>
+            <article class="detail detail-b" id="detail-b"></article>
+          </div>
+        </div>
+      </div>
+
+      <figure class="ribbon-wrap">
+        <figcaption class="ribbon-cap">
+          <span>The melody, note by note.</span>
+          <span class="legend"><i class="sw sw-a"></i>in A <i class="sw sw-b"></i>in B <i class="sw sw-ab"></i>same place</span>
+        </figcaption>
+        <svg id="ribbon" role="img" aria-label="Melody contour of the tune in system A and system B"></svg>
+      </figure>
+    </section>
+
+    <!-- Plate II is built by modes.js. Only edit inside this section. -->
+    <section id="modes" class="plate" aria-labelledby="modes-title">
+      <header class="plate-head">
+        <p class="plate-no">Plate II</p>
+        <h2 id="modes-title">Same mode, many names</h2>
+        <p class="lede">Traditions thousands of kilometres apart landed on the same seven-note sets and named them differently. Pick a mode to hear it and see every name it goes by.</p>
+      </header>
+      <div id="modes-root"></div>
+    </section>
+
+    <!-- Plate III is built by thesis.js. Only edit inside this section. -->
+    <section id="twelve" class="plate" aria-labelledby="twelve-title">
+      <header class="plate-head">
+        <p class="plate-no">Plate III</p>
+        <h2 id="twelve-title">Twelve notes, sixty thousand songs a day</h2>
+        <p class="lede">In 2022 Ed Sheeran argued that pop runs on only so many notes and very few chords, so songs are bound to bump into each other. Here is that argument, taken apart and made playable.</p>
+      </header>
+      <div id="twelve-root"></div>
+    </section>
+
+    <section id="dna" class="plate" aria-labelledby="dna-title">
+      <header class="plate-head">
+        <p class="plate-no">Plate IV</p>
+        <h2 id="dna-title">Record DNA</h2>
+        <p class="lede">Pick two recordings from different decades or different places. We listen to each 30 second preview and draw its fingerprint: how fast, how bright, how loud over time, and which notes it leans on.</p>
+      </header>
+
+      <div class="pairs" id="pairs" role="group" aria-label="Try a pair"></div>
+
+      <div class="dna-grid">
+        <article class="specimen" id="spec-a" data-side="a"></article>
+        <div class="match" id="match"></div>
+        <article class="specimen" id="spec-b" data-side="b"></article>
+      </div>
+      <p class="fine">Tempo, key and brightness are estimates from a short clip. Your ears outrank our maths.</p>
+    </section>
+  </main>
+
+  <footer class="colophon">
+    <p><strong>How to read the wheel.</strong> One lap is one octave. Distances are in cents: 100 cents is one piano semitone. Two notes rhyme here when they sit within 25 cents of each other. Gamelan and maqam tunings change from ensemble to ensemble and region to region, so treat those dots as textbook sketches.</p>
+    <p><strong>How to read the strip.</strong> Plate II lays one octave out left to right. Blue dots sit on piano keys, pink ones fall between them, and the numbers on the arcs are step sizes in semitones.</p>
+    <p>Tunes transcribed from the scores on Wikipedia. Mode names follow Wikipedia's tables of thaats, melakartas and maqamat; "close" means near enough to be cousins, since maqam intervals shift with region and era. Song previews from the iTunes Search API. Synth voices are rough stand-ins for the real instruments.</p>
+    <p class="back"><a href="../">Back to the lobby</a></p>
+  </footer>
+
+  <p class="sr-only" id="status" aria-live="polite"></p>
+  <script type="module" src="./app.js"></script>
+  <script type="module" src="./thesis.js"></script>
+</body>
+</html>

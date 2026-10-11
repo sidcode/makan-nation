@@ -1,0 +1,732 @@
+/* Plate III: Twelve notes. Every rule is scoped under #twelve. */
+
+#twelve .tw {
+  display: grid;
+  gap: 40px;
+}
+
+#twelve .tw-sec {
+  min-width: 0;
+}
+
+#twelve .tw-h {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 10px;
+  font-family: var(--display);
+  font-weight: 700;
+  font-variation-settings: "SOFT" 80, "WONK" 1;
+  font-size: clamp(24px, 3vw, 32px);
+  line-height: 1.1;
+  letter-spacing: -0.01em;
+}
+
+#twelve .tw-num {
+  flex: none;
+  display: inline-grid;
+  place-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: var(--sun);
+  border: 1.5px solid var(--ink);
+  font-family: var(--mono);
+  font-size: 15px;
+  font-weight: 500;
+  box-shadow: 2px 2px 0 var(--ink);
+}
+
+#twelve .tw-p {
+  margin: 0 0 18px;
+  max-width: 66ch;
+  font-size: 17px;
+  color: var(--ink-soft);
+}
+
+#twelve .tw-fine {
+  margin: 14px 0 0;
+  max-width: 70ch;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+#twelve .tw-mini {
+  margin: 18px 0 8px;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+#twelve .tw-src {
+  margin: 10px 0 0;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+#twelve .tw-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px 16px;
+  margin-bottom: 16px;
+}
+
+#twelve .tw-row--tight {
+  margin: 16px 0 0;
+}
+
+/* ---------- Buttons and chips ---------- */
+
+#twelve .tw-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  font: inherit;
+  font-weight: 650;
+  cursor: pointer;
+  padding: 10px 18px;
+  border-radius: 999px;
+  border: 1.5px solid var(--ink);
+  background: var(--ink);
+  color: var(--paper-3);
+  box-shadow: 3px 3px 0 var(--a);
+  transition: transform 140ms var(--spring), box-shadow 140ms var(--ease), background 140ms var(--ease);
+}
+
+#twelve .tw-btn:hover {
+  transform: translate(-1px, -1px);
+  box-shadow: 5px 5px 0 var(--a);
+}
+
+#twelve .tw-btn:active {
+  transform: translateY(1px) scale(0.98);
+}
+
+#twelve .tw-btn--ghost {
+  background: transparent;
+  color: var(--ink);
+  box-shadow: 3px 3px 0 var(--rule);
+}
+
+#twelve .tw-btn--ghost:hover {
+  background: rgba(255, 79, 116, 0.1);
+  box-shadow: 5px 5px 0 var(--rule);
+}
+
+#twelve .tw-icon {
+  width: 0;
+  height: 0;
+  border-left: 11px solid currentColor;
+  border-top: 6.5px solid transparent;
+  border-bottom: 6.5px solid transparent;
+}
+
+#twelve .tw-play.is-on {
+  background: var(--b);
+  color: #fff;
+  box-shadow: 3px 3px 0 var(--ink);
+}
+
+#twelve .tw-play.is-on .tw-icon {
+  width: 11px;
+  height: 11px;
+  border: 0;
+  border-radius: 2px;
+  background: currentColor;
+}
+
+#twelve .tw-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+#twelve .tw-chip {
+  font: inherit;
+  font-size: 14px;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 5px 12px;
+  border-radius: 999px;
+  border: 1.5px solid var(--rule);
+  background: transparent;
+  transition: transform 140ms var(--spring), background 140ms var(--ease), border-color 140ms var(--ease);
+}
+
+#twelve .tw-chip:hover {
+  border-color: var(--b);
+  transform: translateY(-1px);
+}
+
+#twelve .tw-chip[aria-checked="true"] {
+  background: var(--b);
+  border-color: var(--b);
+  color: #fff;
+  box-shadow: 2px 2px 0 var(--ink);
+}
+
+#twelve .tw-label {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+}
+
+#twelve .tw-select {
+  font: inherit;
+  padding: 6px 10px;
+  border-radius: 10px;
+  border: 1.5px solid var(--ink);
+  background: var(--paper-3);
+  color: var(--ink);
+}
+
+/* ---------- 1. Timeline ---------- */
+
+#twelve .tw-timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 22px;
+  border-left: 2px dashed var(--rule);
+  display: grid;
+  gap: 18px;
+}
+
+#twelve .tw-event {
+  position: relative;
+  max-width: 72ch;
+}
+
+#twelve .tw-event::before {
+  content: "";
+  position: absolute;
+  left: -31px;
+  top: 6px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--b);
+  border: 2px solid var(--ink);
+}
+
+#twelve .tw-event h4 {
+  margin: 2px 0 4px;
+  font-family: var(--display);
+  font-size: 21px;
+  font-weight: 650;
+  line-height: 1.2;
+}
+
+#twelve .tw-event p {
+  margin: 0;
+}
+
+#twelve .tw-when {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  font-family: var(--mono);
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+#twelve .tw-place {
+  padding: 0 8px;
+  border-radius: 999px;
+  background: var(--paper-2);
+}
+
+/* ---------- 2. Strip and chords ---------- */
+
+#twelve .tw-strip {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 4px;
+  padding: 10px;
+  border-radius: var(--radius);
+  background: var(--ink);
+  box-shadow: 4px 4px 0 var(--a);
+}
+
+#twelve .tw-key {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 4px;
+  min-width: 0;
+  height: 104px;
+  padding: 6px 0 8px;
+  border: 0;
+  border-radius: 6px;
+  background: var(--paper-3);
+  color: var(--ink);
+  font: inherit;
+  cursor: pointer;
+  transition: transform 120ms var(--spring), background 160ms var(--ease);
+}
+
+#twelve .tw-key.is-black {
+  height: 78px;
+  align-self: start;
+  background: #3a3c6c;
+  color: var(--paper-3);
+}
+
+#twelve .tw-key:active {
+  transform: translateY(2px);
+}
+
+#twelve .tw-key.is-lit {
+  background: var(--sun);
+  color: var(--ink);
+}
+
+#twelve .tw-key.is-chord {
+  background: var(--b);
+  color: #fff;
+}
+
+#twelve .tw-key-name {
+  font-size: 13px;
+  font-weight: 650;
+}
+
+#twelve .tw-key-deg {
+  min-height: 1.2em;
+  font-family: var(--mono);
+  font-size: 12px;
+}
+
+#twelve .tw-about {
+  margin: 12px 0 0;
+  max-width: 70ch;
+}
+
+#twelve .tw-chords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+#twelve .tw-chord {
+  display: grid;
+  justify-items: center;
+  min-width: 64px;
+  padding: 8px 10px;
+  border-radius: 12px;
+  border: 1.5px solid var(--ink);
+  background: var(--paper-3);
+  color: var(--ink);
+  font: inherit;
+  cursor: pointer;
+  box-shadow: 2px 2px 0 var(--ink);
+  transition: transform 140ms var(--spring);
+}
+
+#twelve .tw-chord:hover {
+  transform: translateY(-2px);
+}
+
+#twelve .tw-chord--min {
+  background: #e6ecfb;
+}
+
+#twelve .tw-chord--dim {
+  background: var(--paper-2);
+}
+
+#twelve .tw-roman {
+  font-family: var(--display);
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+#twelve .tw-chord-name {
+  font-size: 13px;
+}
+
+#twelve .tw-chord-num {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--ink-soft);
+}
+
+/* ---------- 3. Loop cards ---------- */
+
+#twelve .tw-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+  gap: 16px;
+}
+
+#twelve .tw-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+  padding: 18px;
+  border-radius: 18px;
+  border: 1.5px solid var(--ink);
+  background: var(--paper);
+  box-shadow: 4px 4px 0 var(--ink);
+}
+
+#twelve .tw-card h4 {
+  margin: 0;
+  font-family: var(--display);
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+#twelve .tw-card p {
+  margin: 0;
+}
+
+#twelve .tw-numerals {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 4px 12px;
+  font-family: var(--mono);
+  font-size: 14px;
+}
+
+#twelve .tw-digits {
+  padding: 0 8px;
+  border-radius: 6px;
+  background: var(--sun);
+  color: var(--ink);
+}
+
+#twelve .tw-steps {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#twelve .tw-step {
+  display: grid;
+  justify-items: center;
+  min-width: 46px;
+  padding: 4px 6px;
+  border-radius: 8px;
+  border: 1.5px solid var(--rule);
+  background: var(--paper-3);
+  transition: background 120ms var(--ease), transform 160ms var(--spring);
+}
+
+#twelve .tw-step .tw-roman {
+  font-size: 16px;
+}
+
+#twelve .tw-step.is-now {
+  background: var(--a);
+  border-color: var(--a);
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+#twelve .tw-aka {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+#twelve .tw-where {
+  font-size: 14px;
+  color: var(--ink-soft);
+}
+
+#twelve .tw-card .tw-play {
+  align-self: flex-start;
+  padding: 8px 16px;
+}
+
+#twelve .tw-songs {
+  display: grid;
+  gap: 6px;
+  margin: 4px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+#twelve .tw-songs li {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+}
+
+#twelve .tw-prev {
+  flex: none;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  border: 1.5px solid var(--ink);
+  background: var(--paper-3);
+  color: var(--ink);
+  font-size: 12px;
+  cursor: pointer;
+  transition: transform 140ms var(--spring), background 140ms var(--ease);
+}
+
+#twelve .tw-prev:hover {
+  transform: scale(1.08);
+}
+
+#twelve .tw-prev[data-state="playing"] {
+  background: var(--b);
+  border-color: var(--b);
+  color: #fff;
+}
+
+#twelve .tw-prev[data-state="loading"] {
+  background: var(--sun);
+}
+
+#twelve .tw-prev[data-state="missing"] {
+  opacity: 0.45;
+}
+
+#twelve .tw-song {
+  display: grid;
+  min-width: 0;
+  line-height: 1.25;
+}
+
+#twelve .tw-song strong {
+  font-size: 15px;
+  overflow-wrap: anywhere;
+}
+
+#twelve .tw-song span {
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+
+#twelve .tw-nosongs {
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1.5px dashed var(--rule);
+  font-size: 14px;
+  color: var(--ink-soft);
+}
+
+/* ---------- 4. Calculator ---------- */
+
+#twelve .tw-calc {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  gap: 18px;
+  padding: 20px;
+  border-radius: 18px;
+  border: 1.5px solid var(--ink);
+  background: var(--paper);
+  box-shadow: 4px 4px 0 var(--ink);
+}
+
+#twelve .tw-calc-in {
+  display: grid;
+  gap: 14px;
+  min-width: 0;
+}
+
+#twelve .tw-field {
+  display: grid;
+  gap: 6px;
+  min-width: 0;
+}
+
+#twelve .tw-field-label {
+  font-weight: 600;
+}
+
+#twelve .tw-field output {
+  font-family: var(--mono);
+  color: var(--a);
+}
+
+#twelve .tw-range {
+  width: 100%;
+  accent-color: var(--b);
+}
+
+#twelve .tw-calc-line {
+  margin: 0;
+}
+
+#twelve .tw-big {
+  font-family: var(--mono);
+  color: var(--a);
+}
+
+#twelve .tw-calc-out {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 8px;
+  min-width: 0;
+  padding: 18px;
+  border-radius: 14px;
+  background: var(--ink);
+  color: var(--paper-3);
+}
+
+#twelve .tw-calc-out .tw-mini {
+  margin: 0;
+  color: var(--paper-2);
+}
+
+#twelve .tw-calc-out p {
+  margin: 0;
+}
+
+#twelve .tw-huge {
+  font-family: var(--display);
+  font-size: clamp(40px, 6vw, 64px);
+  line-height: 1;
+  color: var(--sun);
+}
+
+#twelve .tw-take {
+  font-weight: 650;
+}
+
+/* ---------- 5. Song lab ---------- */
+
+#twelve .tw-lab {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr);
+  gap: 20px;
+  padding: 20px;
+  border-radius: 18px;
+  border: 1.5px solid var(--ink);
+  background: var(--paper);
+  box-shadow: 4px 4px 0 var(--ink);
+}
+
+#twelve .tw-lab-controls {
+  display: grid;
+  gap: 14px;
+  min-width: 0;
+}
+
+#twelve .tw-lab-stage {
+  min-width: 0;
+}
+
+#twelve .tw-roll {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+#twelve .tw-roll-bg {
+  fill: var(--paper-3);
+  stroke: var(--rule);
+  stroke-width: 1;
+  transition: fill 140ms var(--ease);
+}
+
+#twelve .tw-roll text {
+  font-family: var(--mono);
+  font-size: 9px;
+  fill: var(--ink-soft);
+}
+
+#twelve .tw-roll-note {
+  fill: var(--a);
+}
+
+#twelve .tw-roll-bar.is-now .tw-roll-bg {
+  fill: #fde2e8;
+}
+
+#twelve .tw-roll-bar.is-now .tw-roll-note {
+  fill: var(--b);
+}
+
+/* ---------- 6. Upshot ---------- */
+
+#twelve .tw-upshot {
+  max-width: 70ch;
+  padding: 18px 20px;
+  border-radius: 16px;
+  border-left: 6px solid var(--leaf);
+  background: var(--paper);
+}
+
+#twelve .tw-upshot p {
+  margin: 0 0 10px;
+  font-size: 17px;
+}
+
+#twelve .tw-upshot .tw-fine {
+  margin: 0;
+}
+
+/* ---------- Small screens ---------- */
+
+@media (max-width: 760px) {
+  #twelve .tw-calc,
+  #twelve .tw-lab {
+    grid-template-columns: minmax(0, 1fr);
+    padding: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+  #twelve .tw-strip {
+    gap: 2px;
+    padding: 6px;
+  }
+
+  #twelve .tw-key {
+    height: 84px;
+    border-radius: 4px;
+  }
+
+  #twelve .tw-key.is-black {
+    height: 62px;
+  }
+
+  #twelve .tw-key-name {
+    font-size: 10px;
+  }
+
+  #twelve .tw-key-deg {
+    font-size: 10px;
+  }
+
+  #twelve .tw-timeline {
+    padding-left: 18px;
+  }
+
+  #twelve .tw-event::before {
+    left: -27px;
+  }
+
+  #twelve .tw-chord {
+    min-width: 0;
+    flex: 1 1 calc(25% - 8px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  #twelve *,
+  #twelve *::before,
+  #twelve *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}
