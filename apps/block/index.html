@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Block Birthday</title>
+<meta name="description" content="Every HDB block has a birthday. Type your postal code and throw yours a party.">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="topbar">
+  <a class="home" href="../">Common Ground</a>
+  <span class="brand" aria-hidden="true">
+    <svg viewBox="0 0 20 28" width="14" height="20"><path d="M10 2c3 4 4 6 0 10-4-4-3-6 0-10z" fill="#F2A33A"/><rect x="6" y="13" width="8" height="14" rx="2" fill="#E0603F"/></svg>
+    Block Birthday
+  </span>
+</header>
+
+<main>
+  <section class="hero" id="hero">
+    <h1>Every HDB block has a <em>birthday</em>.</h1>
+    <p class="lede">Type a postal code, or a block and street. We'll bring the cake.</p>
+
+    <div class="search" role="search">
+      <label class="sr-only" for="q">Postal code, or block and street</label>
+      <input id="q" type="text" inputmode="search" autocomplete="off" spellcheck="false"
+        placeholder="560123 or 55 Tiong Bahru Rd"
+        role="combobox" aria-expanded="false" aria-controls="suggest" aria-autocomplete="list">
+      <button id="go" type="button">Party</button>
+      <ul id="suggest" role="listbox" aria-label="Matching blocks" hidden></ul>
+    </div>
+    <p class="hint" id="hint" aria-live="polite">Warming up the oven</p>
+
+    <div class="chips" aria-label="Try one">
+      <button type="button" data-try="560123">560123</button>
+      <button type="button" data-try="55 tiong bahru rd">Tiong Bahru</button>
+      <button type="button" data-try="1 beach rd">1 Beach Rd</button>
+      <button type="button" id="surprise">Surprise me</button>
+    </div>
+
+    <div class="skyline" id="skyline" aria-label="A few blocks to start with"></div>
+  </section>
+
+  <section class="party" id="party" hidden>
+    <div class="stage">
+      <div class="scene-wrap" id="sceneWrap">
+        <svg id="scene" role="img" aria-labelledby="sceneTitle"><title id="sceneTitle">Your block, with candles</title></svg>
+        <div class="confetti" id="confetti" aria-hidden="true"></div>
+      </div>
+      <div class="stage-actions">
+        <button type="button" id="blow" class="blow">Blow the candles</button>
+        <button type="button" id="share" class="ghost">Invite the neighbours</button>
+      </div>
+      <p class="caption" id="caption" role="status"></p>
+    </div>
+
+    <div class="cards">
+      <article class="card then" id="then"></article>
+      <article class="card now" id="now"></article>
+      <article class="card later" id="later"></article>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p id="credits">Block data: HDB Property Information, data.gov.sg. Postal lookup: OneMap. Song previews: Apple Music. Every moment links to its source.</p>
+</footer>
+
+<audio id="player" preload="none"></audio>
+<script type="module" src="./app.js"></script>
+</body>
+</html>

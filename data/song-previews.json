@@ -1,0 +1,680 @@
+{
+ "fetchedAt": "2026-10-11",
+ "source": "iTunes Search API (country SG); previews play from Apple's servers",
+ "previews": {
+  "周璇 天涯歌女": {
+   "trackName": "天涯歌女",
+   "artistName": "Zhou Xuan",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5a/d4/99/5ad499af-f3c2-1b68-4982-7ea736bfe9c4/mzaf_17147460307498191286.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/74/d2/b5/74d2b5fb-c8ea-b121-6b8c-d131e615f390/00077776651552.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/%E5%A4%A9%E6%B6%AF%E6%AD%8C%E5%A5%B3/724638386?i=724638657&uo=4"
+  },
+  "A-Tisket A-Tasket Ella Fitzgerald": {
+   "trackName": "A-Tisket, A-Tasket",
+   "artistName": "Ella Fitzgerald",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ff/18/b8/ff18b8ff-6cad-da45-d73d-9c41fa2ed44c/mzaf_2319737016987668988.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/65/6e/fb/656efb76-ba63-3091-d458-7539948e45e4/14UMGIM51556.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/a-tisket-a-tasket/1434901986?i=1434902272&uo=4"
+  },
+  "Riders in the Sky Vaughn Monroe": {
+   "trackName": "Riders in the Sky",
+   "artistName": "Vaughn Monroe",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/Music/a3/c6/ff/mzi.wgpresti.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/80/ad/2f/80ad2fc1-d8f3-7a51-f1ad-3080a053f76c/cover.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/riders-in-the-sky/556100862?i=556101568&uo=4"
+  },
+  "Majulah Singapura": {
+   "trackName": "Majulah Singapura",
+   "artistName": "Singapore",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/04/db/4a04db60-52f2-585c-911c-27f9c727b3f9/mzaf_1736711450898431676.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/e6/b8/2be6b8bc-3cf4-f179-86da-069adfeac1f5/8447352140312.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/majulah-singapura/1771369583?i=1771369584&uo=4"
+  },
+  "Nel Blu Dipinto di Blu (Volare) Modugno": {
+   "trackName": "Nel Blu Dipinto Di Blu (Volare)",
+   "artistName": "Domenico Modugno",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/66/0e/7b/660e7b91-6970-ed98-8137-c70626351440/mzaf_8028990748818165323.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/1a/94/73/1a947330-f5e5-640d-edf7-db5bc25ebc41/8057685946002_cover.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/nel-blu-dipinto-di-blu-volare/980799282?i=980799375&uo=4"
+  },
+  "The Battle of New Orleans Johnny Horton": {
+   "trackName": "The Battle of New Orleans",
+   "artistName": "Johnny Horton",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c2/5e/37/c25e3783-3910-0cb6-6b96-12c992877b43/mzaf_10392926507703016879.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/8d/44/0b/8d440b30-56c3-6a4b-16ac-1bfe1fd0440c/contsched.nwxawdqk.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/the-battle-of-new-orleans/192990572?i=192991053&uo=4"
+  },
+  "Tossin' and Turnin' Bobby Lewis": {
+   "trackName": "Tossin' and Turnin'",
+   "artistName": "Bobby Lewis",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/96/a2/bd/96a2bda9-db43-1689-9c2d-5014d774aa14/mzaf_16207647808928231947.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/2d/0a/09/2d0a09aa-afce-7045-8f76-d89cd7b541a4/ticket.ratgzddl.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/tossin-and-turnin/336039046?i=336039156&uo=4"
+  },
+  "Stranger on the Shore Acker Bilk": {
+   "trackName": "Stranger On the Shore",
+   "artistName": "Acker Bilk",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/b1/7e/67/b17e67d6-1954-0df6-1ac6-13aa2c7eab88/mzaf_8581192277798235289.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/df/0b/d8/df0bd8e3-74d8-e8f4-49c0-6a569ed1e74e/LM00428683.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/stranger-on-the-shore/589621421?i=589621539&uo=4"
+  },
+  "Sugar Shack Fireballs": {
+   "trackName": "Sugar Shack",
+   "artistName": "The Fireballs",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9b/c0/cc/9bc0ccd6-61c8-7b14-f119-3966dbac5746/mzaf_11469703167926972935.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/29/32/fd/mzi.byagowgx.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/sugar-shack/316858362?i=316858436&uo=4"
+  },
+  "I Want to Hold Your Hand The Beatles": {
+   "trackName": "I Want to Hold Your Hand",
+   "artistName": "The Beatles",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ac/f2/52/acf2524f-9f07-933f-e099-42a8d0f45c64/mzaf_16527119621893589884.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/69/02/01690216-48fc-1c54-b1de-48170d16b1c3/00602567725268.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/i-want-to-hold-your-hand/1441133181?i=1441133632&uo=4"
+  },
+  "Wooly Bully Sam the Sham": {
+   "trackName": "Wooly Bully",
+   "artistName": "Sam the Sham & The Pharaohs",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/89/09/26/89092612-c612-ba6b-f4ee-45e94849dce9/mzaf_6784934478658360775.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/5e/b7/a2/5eb7a248-e341-790f-b746-9a17ca897101/mzi.nnctmtir.tif/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/wooly-bully/428239795?i=428239819&uo=4"
+  },
+  "The Ballad of the Green Berets Sadler": {
+   "trackName": "Ballad of the Green Berets",
+   "artistName": "SSgt. Barry Sadler",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c0/86/9f/c0869f91-f2ec-ed4b-43cf-e5fd7dc22932/mzaf_12610504752512734590.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/5c/e3/ed/mzi.vsxltmiw.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/ballad-of-the-green-berets/271687943?i=271687959&uo=4"
+  },
+  "To Sir with Love Lulu": {
+   "trackName": "To Sir with Love",
+   "artistName": "Lulu",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/56/7c/75/567c75f3-1160-06e4-837c-6d32f21308dc/mzaf_7624946424870502251.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/e3/d1/34/e3d1344c-354c-2583-4fc2-9bb4b3f4cb2f/5055283436836.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/to-sir-with-love/1350389035?i=1350389036&uo=4"
+  },
+  "Hey Jude The Beatles": {
+   "trackName": "Hey Jude",
+   "artistName": "The Beatles",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/0b/79/29/0b79298a-62dd-0b35-b93e-8530f5a7711a/mzaf_7245259407320973793.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/01/69/02/01690216-48fc-1c54-b1de-48170d16b1c3/00602567725268.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/hey-jude/1441133181?i=1441134371&uo=4"
+  },
+  "Sugar, Sugar The Archies": {
+   "trackName": "Sugar, Sugar",
+   "artistName": "The Archies",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/a6/c0/24/a6c024fd-bd8a-ff9d-4eba-73767609ad90/mzaf_16484569894417758736.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/3f/35/9c/3f359c1d-2f7e-2756-3261-a4b053c6c0e6/dj.ohpderqx.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/sugar-sugar/214805379?i=214805381&uo=4"
+  },
+  "Bridge over Troubled Water Simon": {
+   "trackName": "Bridge Over Troubled Water",
+   "artistName": "Simon & Garfunkel",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e7/9b/60/e79b60c4-4971-aed9-92aa-db57d453cd42/mzaf_12057489393656620288.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/a3/84/0a/a3840a6d-44e8-0afe-fc3e-316c517dddfe/5099749521421.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/bridge-over-troubled-water/324127933?i=324127934&uo=4"
+  },
+  "Joy to the World Three Dog Night": {
+   "trackName": "Joy To the World",
+   "artistName": "Three Dog Night",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/e8/ce/c3e8ce9f-19ff-d5f9-d35f-667c5441ff16/mzaf_1501086841002836024.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/f1/a8/52/f1a85229-2bc3-af61-ecdd-72b020c282e1/00602557921670.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/joy-to-the-world/1444042531?i=1444044169&uo=4"
+  },
+  "The First Time Ever I Saw Your Face Roberta Flack": {
+   "trackName": "The First Time Ever I Saw Your Face",
+   "artistName": "Roberta Flack",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/13/71/ce/1371ce55-52b6-01c4-fe0a-015c34bc5147/mzaf_16671962022956980545.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a2/56/1e/a2561e44-40f2-c839-f36f-38da586885a8/mzi.mkfiotkx.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/the-first-time-ever-i-saw-your-face/355178034?i=355178117&uo=4"
+  },
+  "Tie a Yellow Ribbon 'Round the Ole Oak Tree Dawn": {
+   "trackName": "Tie a Yellow Ribbon Round the Ole Oak Tree",
+   "artistName": "Dawn",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/8a/19/72/8a19721e-c819-7110-8b13-6e2368198d9f/mzaf_18287712507399597907.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/8e/ad/fa/8eadfa47-2d3e-29cf-9b85-f13225a3b82d/888003924451.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/tie-a-yellow-ribbon-round-the-ole-oak-tree/790443675?i=790443678&uo=4"
+  },
+  "The Way We Were Barbra Streisand": {
+   "trackName": "The Way We Were (Soundtrack Version)",
+   "artistName": "Barbra Streisand",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bf/4b/ea/bf4beada-2caa-4c18-5dbc-3d7af19a388d/mzaf_15579828425327061808.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/de/b9/6f/mzi.futhqyec.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/the-way-we-were-soundtrack-version/158514683?i=158514694&uo=4"
+  },
+  "Love Will Keep Us Together Tennille": {
+   "trackName": "Love Will Keep Us Together",
+   "artistName": "Captain & Tennille",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/55/da/d055da8d-0cb5-a57b-0467-ceeefc42f603/mzaf_13277792148035335251.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f0/d4/15/f0d41508-27b4-386b-06f6-c294b3e137ef/00602537747191.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/love-will-keep-us-together/1442300587?i=1442300589&uo=4"
+  },
+  "Silly Love Songs Wings": {
+   "trackName": "Silly Love Songs",
+   "artistName": "Wings",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/14/70/ab/1470abe5-542c-9f6b-67f9-06b690e2aab1/mzaf_12443572749199293437.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/de/18/95/de18958d-8d51-ead8-97cb-1e301f12b534/20UMGIM24689.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/silly-love-songs/1507830072?i=1507830240&uo=4"
+  },
+  "Tonight's the Night (Gonna Be Alright) Rod Stewart": {
+   "trackName": "Tonight's the Night (Gonna Be Alright)",
+   "artistName": "Rod Stewart",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e9/a4/13/e9a4136c-3d44-858f-5adc-769524f17147/mzaf_11470980145736439089.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features114/v4/16/a4/96/16a496af-0828-3dfc-3e18-92aed52276a0/dj.vqrkxnbv.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/tonights-the-night-gonna-be-alright/320268825?i=320268864&uo=4"
+  },
+  "Shadow Dancing Andy Gibb": {
+   "trackName": "Shadow Dancing",
+   "artistName": "Andy Gibb",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/4f/35/464f35c5-09ac-6ce5-a770-83e2841aeeb9/mzaf_1520472472922306528.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/da/6e/98da6e82-c797-53f4-3db8-5acc1bf88d23/00602567436355.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/shadow-dancing/1354134111?i=1354134476&uo=4"
+  },
+  "My Sharona The Knack": {
+   "trackName": "My Sharona (Re-Recorded)",
+   "artistName": "The Knack",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/15/02/7d/15027df3-c086-5680-c76a-ef95bee8c7da/mzaf_7644729281982053929.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/y2004/m04/d07/h04/s05.ugobtony.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/my-sharona-re-recorded/6545174?i=6545167&uo=4"
+  },
+  "Call Me Blondie": {
+   "trackName": "Call Me",
+   "artistName": "Blondie",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b1/13/b5/b113b569-8639-b071-9199-3c8f8fb0d3a9/mzaf_2541938402474802623.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/72/73/8f/72738f62-d8a1-f1f9-e84d-244ff697d1db/13UABIM56926.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/call-me/716231242?i=716231650&uo=4"
+  },
+  "Bette Davis Eyes Kim Carnes": {
+   "trackName": "Bette Davis Eyes",
+   "artistName": "Kim Carnes",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/9c/95/e69c956a-8c85-d4ce-227c-d08bae9206e2/mzaf_12787969426259005125.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/28/c2/5d/28c25d5f-4708-6692-4c0c-9e861b836862/13UABIM53155.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/bette-davis-eyes/714976054?i=714976249&uo=4"
+  },
+  "Physical Olivia Newton-John": {
+   "trackName": "Physical (Remastered 2021)",
+   "artistName": "Olivia Newton-John",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c4/6c/ba/c46cba4a-7b51-68e9-3f51-7a0d989376df/mzaf_10922524826765059840.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/2b/56/a3/2b56a32a-acbb-3a86-3e54-53ed7491bb5c/00792755902158_Cover.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/physical-remastered-2021/1880871403?i=1880871417&uo=4"
+  },
+  "Every Breath You Take The Police": {
+   "trackName": "Every Breath You Take",
+   "artistName": "The Police",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/6c/b4/79/6cb47947-0860-8788-95b1-a2b0a908f342/mzaf_4654925634744235278.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/42/b7/db/42b7dbe1-d13f-c600-5b78-daa57c5d0f08/06UMGIM50761.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/every-breath-you-take/1440882817?i=1440882897&uo=4"
+  },
+  "Stand Up For Singapore Jeremy Monteiro": {
+   "trackName": "Stand Up For Singapore",
+   "artistName": "Jeremy Monteiro, Hugh Harrison, Anne Weerapass, Robert Fernando, Roslinda Baharudin & Jonathan Tan Teck Meng",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/97/dd/69/97dd69fe-5b6d-fad8-f742-defabe298db7/mzaf_6827554119914804735.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/stand-up-for-singapore/1136283983?i=1136286642&uo=4"
+  },
+  "When Doves Cry Prince": {
+   "trackName": "When Doves Cry",
+   "artistName": "Prince",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/f0/51/fc/f051fcce-eb4f-f9d5-d7ea-eb137750d9a8/mzaf_15769385331104997195.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/2b/d8/bf/mzi.leavbcjk.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/when-doves-cry/212972881?i=212972932&uo=4"
+  },
+  "Careless Whisper Wham!": null,
+  "Count On Me Singapore Clement Chow": {
+   "trackName": "Count On Me Singapore",
+   "artistName": "Clement Chow",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/51/11/46/51114606-76a9-eeed-17e6-0a0243c0bd6e/mzaf_3183524582802069114.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/count-on-me-singapore/1136283983?i=1136286641&uo=4"
+  },
+  "That's What Friends Are For Dionne": {
+   "trackName": "That's What Friends Are For (Live)",
+   "artistName": "Dionne Warwick",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/4c/0f/ab/4c0fab8a-4d8e-ed82-d246-bd4df08aa5b9/mzaf_15891583163044692146.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/fc/0a/f3/fc0af39f-90dc-6492-01d2-3ffea974a7cb/888831965909.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/thats-what-friends-are-for-live/925342625?i=925342847&uo=4"
+  },
+  "We Are Singapore Jonathan Tan": {
+   "trackName": "We Are Singapore (With pledge)",
+   "artistName": "Jonathan Tan Teck Meng, Roslinda Baharudin, Robert Fernando & Anne Weerapass",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/8e/27/2f/8e272fd6-2591-e7e1-f90a-f91ce6d74331/mzaf_8010757407000522310.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/we-are-singapore-with-pledge/1136283983?i=1136286656&uo=4"
+  },
+  "Walk Like an Egyptian The Bangles": {
+   "trackName": "Walk Like an Egyptian",
+   "artistName": "The Bangles",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/48/64/fc/4864fc73-19d1-1aeb-c7a5-a83ff5508ec6/mzaf_14382765644607700273.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/76/a5/64/76a56416-419e-8359-5e09-0c4210aa79b6/mzi.gimwczeb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/walk-like-an-egyptian/397587066?i=397587070&uo=4"
+  },
+  "Faith George Michael": {
+   "trackName": "Faith",
+   "artistName": "George Michael",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/3b/ba/fc/3bbafcda-8454-2df5-300a-3a215beb4abb/mzaf_17008812206809633065.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/87/29/d2/8729d243-f06f-e588-3ddf-ffa87a2ce17e/mzi.yupygcca.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/faith/395918916?i=395918958&uo=4"
+  },
+  "Look Away Chicago": {
+   "trackName": "Look Away",
+   "artistName": "Chicago",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/65/bb/88/65bb8856-b20f-d424-0afe-95c937a4f0f9/mzaf_12111138653073465887.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Features115/v4/ac/91/ef/ac91ef17-d797-c226-62d1-d9098fb3da35/dj.gubbyqzi.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/look-away/28457957?i=28458050&uo=4"
+  },
+  "One People One Nation One Singapore Jeremy Monteiro": {
+   "trackName": "One People, One Nation, One Singapore",
+   "artistName": "Jeremy Monteiro",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/3b/95/a0/3b95a00c-8cf8-6a9d-4a0f-e924e18105e8/mzaf_13111205990944201431.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/87/82/af/mzi.tesxwgwt.tif/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/one-people-one-nation-one-singapore/435637206?i=435637225&uo=4"
+  },
+  "Hold On Wilson Phillips": {
+   "trackName": "Hold On",
+   "artistName": "Wilson Phillips",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/d7/2f/60/d72f604f-bc19-2c5d-686e-2ce2876b6ae1/mzaf_6171953782431728191.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/56/aa/52/56aa52d0-e99b-c2fb-1bad-3403aea633f4/13UABIM53393.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/hold-on/723895185?i=723895262&uo=4"
+  },
+  "It's The Little Things Music & Drama Company": {
+   "trackName": "It's The Little Things (feat. Dominic Chin, RINES, Gail Belmonte, Thaarmin, Izzathy Halil, Khim Ng, Elvern Wong, Rayyanroulette & Jonas Low)",
+   "artistName": "Music & Drama Company",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/ed/3a/eeed3a40-80c8-05fd-b1a4-e814b02249d5/mzaf_6092612650020742284.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/d0/2f/4a/d02f4a4f-c75d-0bf8-6e2d-db5ff531db58/artwork.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/its-the-little-things-feat-dominic-chin-rines-gail/1821275230?i=1821275235&uo=4"
+  },
+  "(Everything I Do) I Do It for You Bryan Adams": {
+   "trackName": "(Everything I Do) I Do It for You",
+   "artistName": "Bryan Adams",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d0/c9/f6/d0c9f679-5af6-a0d3-ea72-ca97144aec33/mzaf_3810195087857353563.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/a1/e2/48/a1e248b2-fa77-1537-3702-642ba4fa3d48/06UMGIM43948.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/everything-i-do-i-do-it-for-you/1440784370?i=1440784715&uo=4"
+  },
+  "End of the Road Boyz II Men": {
+   "trackName": "End of the Road",
+   "artistName": "Boyz II Men",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/c2/44/1fc244f6-d23c-4577-52b6-840ba2ea2df6/mzaf_16926671976894240020.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/0e/de/dd/0ededd27-40a2-582c-41e3-0d815e9f45d1/06UMGIM30213.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/end-of-the-road/1440773028?i=1440773473&uo=4"
+  },
+  "I Will Always Love You Whitney Houston": {
+   "trackName": "I Will Always Love You (Film Version)",
+   "artistName": "Whitney Houston",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/4e/a5/a9/4ea5a9ba-a83a-6ec9-dd50-bd1688081fe0/mzaf_13967322744666106551.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/73/07/0b/73070ba9-bf5b-9032-f5e6-b54ee6b0cefa/886446734385.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/i-will-always-love-you-film-version/1293435381?i=1293435389&uo=4"
+  },
+  "The Sign Ace of Base": {
+   "trackName": "The Sign (2015 Remastered Version)",
+   "artistName": "Ace of Base",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/1f/cc/91/1fcc916e-a50f-0df8-8e3b-9ac479b71aff/mzaf_11069912349531880921.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/42/59/8b/42598b61-bd54-aaa3-5280-d711569800b6/cover.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/the-sign-2015-remastered-version/959563976?i=959563981&uo=4"
+  },
+  "Gangsta's Paradise Coolio": {
+   "trackName": "Gangsta's Paradise (feat. L.V.)",
+   "artistName": "Coolio",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/91/8f/60/918f605a-f8a9-e976-f43a-1bb5f0a8199d/mzaf_11718273018999451377.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/92/f7/88/92f7884b-d115-5d5f-1eb5-85128af2d58f/081227882365.png/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/gangstas-paradise-feat-l-v/1604645496?i=1604645502&uo=4"
+  },
+  "Macarena (Bayside Boys Mix) Los del R": {
+   "trackName": "Macarena (Bayside Boys Remix)",
+   "artistName": "Los del Río",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b2/f0/2a/b2f02a99-3339-5625-9990-773271169fa3/mzaf_1478085364092991906.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/a1/2d/6a/a12d6a7b-6173-ed2e-9682-a30d245ed7fe/mzi.ndplymif.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/macarena-bayside-boys-remix/258646894?i=258647008&uo=4"
+  },
+  "Candle in the Wind 1997 Elton John": {
+   "trackName": "Candle In the Wind (1997 Version)",
+   "artistName": "Elton John",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/b4/4f/2b/b44f2b67-e590-9a12-50f4-5bcfa54d61f5/mzaf_14337249702080609226.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/98/b1/dc/98b1dcad-899b-d8c6-d17c-f20a74baf2d7/00731456810928.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/candle-in-the-wind-1997-version/1440916847?i=1440916882&uo=4"
+  },
+  "Kit Chan Home": {
+   "trackName": "Home",
+   "artistName": "Kit Chan",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/d8/8f/4ad88f06-2b0a-29e0-b32d-278b0e6416f4/mzaf_8904411897398247594.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/home/1136283983?i=1136286496&uo=4"
+  },
+  "Too Close Next": {
+   "trackName": "Too Close (Radio Edit)",
+   "artistName": "Next",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b2/e0/da/b2e0dae0-8550-4177-206b-5c5c7b1234d5/mzaf_4502577055195177801.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/61/d8/1c/61d81c56-30d9-6a85-2765-68815c76d5a3/886446724393.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/too-close-radio-edit/1310014905?i=1310015120&uo=4"
+  },
+  "Together Evelyn Tan": {
+   "trackName": "Together",
+   "artistName": "Evelyn Tan & Dreamz FM",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/9e/fe/28/9efe289f-bec7-16cd-bdcf-5442261fdf55/mzaf_15625158904590416242.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/together/1136283983?i=1136286509&uo=4"
+  },
+  "Believe Cher": {
+   "trackName": "Believe",
+   "artistName": "Cher",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/9c/52/d8/9c52d83d-242e-abc4-68fc-273eeb8f0358/mzaf_10714034642820090237.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/bb/90/f3/bb90f392-b78d-f180-ba6b-f04d2d1e62fd/s05.kfnyrece.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/believe/73273758?i=73273491&uo=4"
+  },
+  "Shine On Me NDP": {
+   "trackName": "Shine On Me",
+   "artistName": "Jai",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ef/24/8d/ef248dc2-ad97-cc73-f51b-9b7cee03fe3a/mzaf_505253325494572024.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/shine-on-me/1136283983?i=1136286652&uo=4"
+  },
+  "Breathe Faith Hill": {
+   "trackName": "Breathe",
+   "artistName": "Faith Hill",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/02/bc/2e/02bc2e24-0208-1c86-fce3-f76035475021/mzaf_14553753336233908501.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/27/f3/f3/27f3f31a-84ae-bee3-1f17-6ef76ecf0cdb/mzi.ftpuanax.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/breathe/264602889?i=264603410&uo=4"
+  },
+  "Tanya Chua Where I Belong": {
+   "trackName": "Where I Belong",
+   "artistName": "Tanya Chua",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/86/50/fb865022-1378-6e5f-c050-a782af02d46b/mzaf_7844032431223796537.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/where-i-belong/1136283983?i=1136286503&uo=4"
+  },
+  "Hanging by a Moment Lifehouse": {
+   "trackName": "Hanging By a Moment",
+   "artistName": "Lifehouse",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/99/85/1e/99851e8b-7dcf-6179-7d21-dd29b3ee616d/mzaf_17025111474995512767.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/54/f5/f5/54f5f5fe-6369-7386-c389-9e0361a10804/00602557755008.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/hanging-by-a-moment/1440895067?i=1440895073&uo=4"
+  },
+  "Stefanie Sun We Will Get There": {
+   "trackName": "We Will Get There (Sing Singapore2002 Theme Song) [English Version]",
+   "artistName": "Yanzi Sun",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/dc/9a/27/dc9a27fd-7c34-4030-b29e-494eb16c73f2/mzaf_5816088968131695214.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/we-will-get-there-sing-singapore2002-theme-song-english/1136283983?i=1136286645&uo=4"
+  },
+  "How You Remind Me Nickelback": {
+   "trackName": "How You Remind Me",
+   "artistName": "Nickelback",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/72/41/33/72413329-4f11-13af-ffa2-70c3280d56df/mzaf_6227722515418295262.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ad/16/b7/ad16b7c9-2779-d2e5-0fca-83aeff09f4b6/mzi.exqcjkkz.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/how-you-remind-me/214475427?i=214475478&uo=4"
+  },
+  "Stefanie Sun One United People": {
+   "trackName": "One United People (2003 Singapore National Song)",
+   "artistName": "Yanzi Sun",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/32/4f/6d/324f6d95-6b76-33db-1820-8b7139a69100/mzaf_6390946810877653348.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/one-united-people-2003-singapore-national-song/1136283983?i=1136286498&uo=4"
+  },
+  "In Da Club 50 Cent": {
+   "trackName": "In da Club",
+   "artistName": "50 Cent",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/6e/6a/04/6e6a0436-3bd4-1f71-02df-6bcffe76e636/mzaf_3291234595362168142.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/6e/56/af/6e56af83-bdff-56c2-7c6a-b30cd0d356ce/06UMGIM08757.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/in-da-club/1440907378?i=1440907550&uo=4"
+  },
+  "Yeah! Usher": {
+   "trackName": "Yeah! (feat. Lil Jon & Ludacris)",
+   "artistName": "USHER",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/94/52/3c/94523c88-f5f9-16f4-dbd7-f284ca168048/mzaf_7184891920196479048.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/02/c6/e1/02c6e1cd-8d57-97b4-6ef1-77d2be004509/mzi.sjrqsmrq.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/yeah-feat-lil-jon-ludacris/386153476?i=386153478&uo=4"
+  },
+  "Reach Out For The Skies Taufik": {
+   "trackName": "Reach Out For the Skies",
+   "artistName": "Taufik Batisah & Rui En",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/c3/01/58/c3015859-0c41-fbec-cef3-168d4d1ba627/mzaf_8384000692918483970.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/reach-out-for-the-skies/1136283983?i=1136286649&uo=4"
+  },
+  "We Belong Together Mariah Carey": {
+   "trackName": "We Belong Together",
+   "artistName": "Mariah Carey",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ec/a2/03/eca20372-e62e-a279-2fe9-118f19f03157/mzaf_3519549200001384487.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/34/66/31/346631f0-dc0e-500f-7cb8-537e7523e022/15UMGIM78299.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/we-belong-together/1476731879?i=1476731889&uo=4"
+  },
+  "Kaira Gong My Island Home": {
+   "trackName": "My Island Home",
+   "artistName": "Kaira Gong",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/65/98/6a/65986add-4e7f-1b01-beb8-889852afc6f9/mzaf_16536569517618179193.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/my-island-home/1136283983?i=1136286653&uo=4"
+  },
+  "Bad Day Daniel Powter": {
+   "trackName": "Bad Day",
+   "artistName": "Daniel Powter",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e4/ae/91/e4ae912a-0685-a7c6-b10c-b7290a7fb16f/mzaf_16493963156495176302.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/90/db/17/mzi.tiuteyft.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/bad-day/63816246?i=63816165&uo=4"
+  },
+  "Kit Chan There's No Place I'd Rather Be": {
+   "trackName": "There's No Place I'd Rather Be",
+   "artistName": "Kit Chan",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d8/e7/e1/d8e7e17c-3156-ca2a-d0d5-a115b97b340e/mzaf_15069169224798358670.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/theres-no-place-id-rather-be/1136283983?i=1136286647&uo=4"
+  },
+  "Irreplaceable Beyoncé": {
+   "trackName": "Irreplaceable",
+   "artistName": "Beyoncé",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/46/53/95/4653953c-6eb2-50a7-2126-c19be876de38/mzaf_14304340183842995989.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/47/b2/b2/47b2b26b-5abd-0953-6688-7dfff80508ec/mzi.sozuruch.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/irreplaceable/261707051?i=261707067&uo=4"
+  },
+  "Hady Mirza Shine For Singapore": {
+   "trackName": "Shine For Singapore",
+   "artistName": "Hady Mirza",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/04/5f/fb045fdc-4a02-c847-b7d6-86e61a18d573/mzaf_4378801464573672019.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/shine-for-singapore/1136283983?i=1136286515&uo=4"
+  },
+  "Low Flo Rida": {
+   "trackName": "Low (feat. T-Pain)",
+   "artistName": "Flo Rida",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/96/c0/eb/96c0eb66-ccd4-28b2-be8f-66703b8c5215/mzaf_16852340528645692707.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music/59/99/4e/mzi.cnzdlaac.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/low-feat-t-pain/267019874?i=267019888&uo=4"
+  },
+  "Electrico What Do You See": {
+   "trackName": "What Do You See",
+   "artistName": "Electrico",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/10/17/bd/1017bd42-936c-e3e0-0182-e04b3a3a847c/mzaf_5103107907692181941.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/what-do-you-see/1136283983?i=1136286504&uo=4"
+  },
+  "Boom Boom Pow The Black Eyed Peas": null,
+  "Corrinne May Song For Singapore": {
+   "trackName": "Song For Singapore",
+   "artistName": "Corrinne May",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/57/30/39/57303932-fa06-da81-ec00-ef8bdb523c61/mzaf_7945974324320955069.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/song-for-singapore/1136283983?i=1136286502&uo=4"
+  },
+  "Tik Tok Kesha": {
+   "trackName": "TiK ToK",
+   "artistName": "Kesha",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/d6/99/55/d6995507-6a80-8b62-72a0-21a914a48eea/mzaf_14378600983604314702.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/47/05/fe/4705fe88-5de2-fc40-3e7a-b77b7fc2e432/884977397390.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/tik-tok/339972787?i=339972792&uo=4"
+  },
+  "Sylvia Ratonel In A Heartbeat": {
+   "trackName": "In a Heartbeat",
+   "artistName": "Sylvia Ratonel",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/fb/e7/45/fbe7451c-db01-25d3-c1c1-2f69ea1adc34/mzaf_17584394188015254485.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/in-a-heartbeat/1136283983?i=1136286505&uo=4"
+  },
+  "Rolling in the Deep Adele": {
+   "trackName": "Rolling In the Deep",
+   "artistName": "Adele",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/89/27/1b/89271b8c-74c5-955a-ed3b-86e44e5012bf/mzaf_14153268409398031391.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/7a/80/6a/7a806a9a-ba56-57c0-f6c7-59cfc1ca2abf/634904852160.png/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/rolling-in-the-deep/413623676?i=413623677&uo=4"
+  },
+  "Olivia Ong Love At First Light": {
+   "trackName": "Love At First Light",
+   "artistName": "Olivia Ong & Natanya Tan",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/ce/97/9c/ce979cb2-e977-5488-ef01-3a89dd1d3858/mzaf_7737910314308238497.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/love-at-first-light/1136283983?i=1136286648&uo=4"
+  },
+  "Somebody That I Used to Know Gotye": {
+   "trackName": "Somebody That I Used to Know (feat. Kimbra)",
+   "artistName": "Gotye",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/25/8e/d8/258ed843-d4ba-850c-c737-a05bcb791282/mzaf_7009070284069042251.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/e3/67/50/e3675015-7363-b193-525c-e9358ef88da0/11UMGIM40991.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/somebody-that-i-used-to-know-feat-kimbra/1445184953?i=1445184957&uo=4"
+  },
+  "One Singapore Sing A Nation": {
+   "trackName": "One Singapore",
+   "artistName": "Sing A Nation Choir",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/dd/71/5b/dd715b27-e1ca-5001-3b2a-2c2f0debbe9b/mzaf_15200984546046202737.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/one-singapore/1136283983?i=1136286651&uo=4"
+  },
+  "Thrift Shop Macklemore": {
+   "trackName": "Thrift Shop (feat. Wanz)",
+   "artistName": "Macklemore & Ryan Lewis",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ce/5c/aa/ce5caa72-ff73-221e-cc83-295c23bce434/mzaf_8353999015135739287.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/44/40/83/44408300-636f-8cae-d508-9dd96db48cea/707541528191.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/thrift-shop-feat-wanz/560097246?i=560097550&uo=4"
+  },
+  "Happy Pharrell Williams": {
+   "trackName": "Happy (Oktoberfest Mix)",
+   "artistName": "Pharrell Williams",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/46/5b/82/465b82ee-f7b1-fd5d-366a-eb164d809cb6/mzaf_6521804329652378308.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/c9/4f/d5/c94fd5a0-8a7e-2d09-6496-9d6198d29998/886444853156.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/happy-oktoberfest-mix/919628184?i=919628212&uo=4"
+  },
+  "Our Singapore JJ Lin": {
+   "trackName": "Our Singapore",
+   "artistName": "JJ Lin",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/49/58/fc/4958fc92-13b7-5349-0056-3387cdd3bd89/mzaf_5245052350949413538.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/our-singapore/1136283983?i=1136286494&uo=4"
+  },
+  "Uptown Funk Mark Ronson": {
+   "trackName": "Uptown Funk (feat. Bruno Mars) [Will Sparks Remix]",
+   "artistName": "Mark Ronson",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b4/9e/50/b49e503b-d25f-eb58-896f-b87b4e2fb069/mzaf_15583189650711161326.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music5/v4/5c/eb/9d/5ceb9d47-c80d-a70a-1842-a8ca347bcc8e/886445222081.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/uptown-funk-feat-bruno-mars-will-sparks-remix/984607458?i=984607463&uo=4"
+  },
+  "53A Tomorrow's Here Today": {
+   "trackName": "Tomorrow's Here Today",
+   "artistName": "53a",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/bd/4c/c2/bd4cc286-cfaf-adbe-cbad-777b203bcd0d/mzaf_5486928013406174792.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/5c/d6/85/5cd6852d-9bd7-f8f8-e909-265c31ad000f/825646036608.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/tomorrows-here-today/1136283983?i=1136286449&uo=4"
+  },
+  "Love Yourself Justin Bieber": {
+   "trackName": "Love Yourself",
+   "artistName": "Justin Bieber",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/e6/1a/47/e61a47bd-eef9-b194-708b-7fad30f12df4/mzaf_3246192722630166321.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/dd/28/22/dd282288-ad81-63ba-036e-1261596cd9c1/15UMGIM59416.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/love-yourself/1442692577?i=1442692593&uo=4"
+  },
+  "Shape of You Ed Sheeran": {
+   "trackName": "Shape of You",
+   "artistName": "Ed Sheeran",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/44/c7/4f/44c74f0d-72dc-6143-d4d0-ba14d661ca0d/mzaf_9566898362556366703.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/15/e6/e8/15e6e8a4-4190-6a8b-86c3-ab4a51b88288/190295851286.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/shape-of-you/1193701079?i=1193701392&uo=4"
+  },
+  "God's Plan Drake": {
+   "trackName": "God's Plan",
+   "artistName": "Drake",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/c6/4a/be/c64abe74-adb4-cff5-005d-0fab3d72a806/mzaf_10276154697254415719.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/bb/6d/8f/bb6d8f67-6d04-10b5-dd62-eb5809ac54fc/00602567879152.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/gods-plan/1406109769?i=1406109863&uo=4"
+  },
+  "Old Town Road Lil Nas X": {
+   "trackName": "Old Town Road",
+   "artistName": "Lil Nas X",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/47/7d/fd/477dfdf3-9261-cb11-d14f-b7eb454d2c5d/mzaf_4800633009593423692.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/71/3f/d3/713fd3d1-7ffc-ba46-73bf-aa577309ca52/886447622827.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/old-town-road/1456313174?i=1456313177&uo=4"
+  },
+  "Blinding Lights The Weeknd": {
+   "trackName": "Blinding Lights",
+   "artistName": "The Weeknd",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/19/d6/60/19d660ff-e3a9-8377-15a3-ce4b28e89cac/mzaf_18422426156481158187.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/6f/bc/e6/6fbce6c4-c38c-72d8-4fd0-66cfff32f679/20UMGIM12176.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/blinding-lights/1499378108?i=1499378607&uo=4"
+  },
+  "Linying The Road Ahead": {
+   "trackName": "The Road Ahead",
+   "artistName": "Shabir, Sezairi, Shye & Linying",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/f9/1e/b2/f91eb2cd-49d6-e8e9-601b-17dfe09a008d/mzaf_1861341032917176928.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/d8/dc/03/d8dc034d-41d7-c8c4-1713-9bf467bae921/cover.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/the-road-ahead/1574840834?i=1574841158&uo=4"
+  },
+  "Levitating Dua Lipa": {
+   "trackName": "Levitating",
+   "artistName": "Dua Lipa",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/59/dc/4d/59dc4dda-93ff-8f1c-c536-f005f6ea6af5/mzaf_3066686759813252385.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/6c/11/d6/6c11d681-aa3a-d59e-4c2e-f77e181026ab/190295092665.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/levitating/1538003494?i=1538003843&uo=4"
+  },
+  "Heat Waves Glass Animals": {
+   "trackName": "Heat Waves",
+   "artistName": "Glass Animals",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/1d/df/8a/1ddf8ade-5f39-cb5b-879e-de79101edf0f/mzaf_9672076298936912574.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/2c/cd/3e/2ccd3e81-d1d5-e535-06df-b59bfeeaba2e/20UMGIM67087.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/heat-waves/1681997782?i=1681997803&uo=4"
+  },
+  "Shine Your Light NDP 2023": {
+   "trackName": "Shine Your Light (feat. 53a, The Island Voices, lewloh, 王儷婷, ShiGGa Shay, Iman Fandi & Lineath)",
+   "artistName": "NDPeeps",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview116/v4/0c/62/6a/0c626a3e-bd4b-dabe-c541-c11c057e493d/mzaf_10806676751551565559.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/8e/b7/b0/8eb7b02e-1f20-0a9c-e8d3-cad58ec12a76/197188923822.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/shine-your-light-feat-53a-the-island-voices-lewloh/1688351669?i=1688351678&uo=4"
+  },
+  "Last Night Morgan Wallen": {
+   "trackName": "Last Night",
+   "artistName": "Morgan Wallen",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/5e/80/50/5e80506c-cee2-618a-a481-63ca5c74c5ab/mzaf_1765193813138928866.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/db/9f/8e/db9f8e0c-d947-b7fd-cc93-a832c81ce4ee/00602455241252_Cover.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/last-night/1818408501?i=1818408858&uo=4"
+  },
+  "Benjamin Kheng Not Alone": {
+   "trackName": "Not Alone",
+   "artistName": "NDPeeps & Benjamin Kheng",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/ee/93/ec/ee93eca7-cfa3-e393-b04d-771a8fa9ba4a/mzaf_12329823115316272597.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/74/03/e3/7403e343-5a5c-6f2b-539f-80cdae11ad0a/cover.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/not-alone/1746873815?i=1746873826&uo=4"
+  },
+  "Lose Control Teddy Swims": {
+   "trackName": "Lose Control (Piano Version)",
+   "artistName": "Teddy Swims",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/b6/aa/98/b6aa9841-cde1-ed6a-6b14-a2f1eac81f62/mzaf_14694954021048371245.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/fd/c2/da/fdc2da44-00fc-32d1-40d0-8ca70a20379b/093624842071.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/lose-control-piano-version/1740919431?i=1740919453&uo=4"
+  },
+  "Here We Are NDPeeps": {
+   "trackName": "Here We Are",
+   "artistName": "NDPeeps, Charlie Lim, Kit Chan & The Island Voices",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview221/v4/4a/34/58/4a345859-944a-a25f-778b-fd7aee3a1c56/mzaf_7240218187212222590.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/0a/db/b5/0adbb532-86be-7cba-c100-0ee03d8e4844/3617396386969.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/here-we-are/1891310695?i=1891310699&uo=4"
+  },
+  "Die with a Smile Lady Gaga": {
+   "trackName": "Die With A Smile",
+   "artistName": "Lady Gaga & Bruno Mars",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/07/6a/99/076a99ed-b946-431b-6f1f-54fa187ca5bd/mzaf_8102882277995122875.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/11/ae/f2/11aef294-f57c-bab9-c9fc-529162984e62/24UMGIM85348.rgb.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/die-with-a-smile/1762656724?i=1762656732&uo=4"
+  },
+  "Jasmine Sokko You'll Be Okay": {
+   "trackName": "You'll Be Okay",
+   "artistName": "Jasmine Sokko & NDPeeps",
+   "previewUrl": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview211/v4/18/3b/ac/183bac76-2919-c7ea-e017-ae95ca0a0957/mzaf_15183530784868907241.plus.aac.p.m4a",
+   "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/01/04/f2/0104f21c-c41f-36f9-a193-8390f340e815/4711720303994.jpg/300x300bb.jpg",
+   "trackViewUrl": "https://music.apple.com/sg/album/youll-be-okay/6769327792?i=6769327793&uo=4"
+  }
+ }
+}

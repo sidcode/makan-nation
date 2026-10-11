@@ -1,0 +1,1865 @@
+{
+ "about": "Hand-picked moments and songs for each year an HDB or SIT block in the dataset was completed. Moments come from the linked sources. World songs are Billboard's year-end No. 1.",
+ "years": {
+  "1937": {
+   "moments": [
+    {
+     "text": "Kallang Airport opened on 12 June.",
+     "url": "https://en.wikipedia.org/wiki/Kallang_Airport"
+    }
+   ],
+   "songs": [
+    {
+     "title": "天涯歌女 (The Wandering Songstress)",
+     "artist": "Zhou Xuan",
+     "term": "周璇 天涯歌女",
+     "match": "天涯歌女",
+     "artistMatch": "Zhou Xuan",
+     "note": "From the Shanghai film Street Angel. Shanghai pop like this filled Nanyang radios.",
+     "src": "https://en.wikipedia.org/wiki/The_Wandering_Songstress",
+     "kind": "local"
+    }
+   ]
+  },
+  "1938": {
+   "moments": [
+    {
+     "text": "The British naval base in the north was completed, with what was then the largest dry dock in the world.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "A-Tisket, A-Tasket",
+     "artist": "Ella Fitzgerald",
+     "term": "A-Tisket A-Tasket Ella Fitzgerald",
+     "match": "A-Tisket",
+     "artistMatch": "Ella Fitzgerald",
+     "note": "Ella's big 1938 hit",
+     "src": "https://en.wikipedia.org/wiki/A-Tisket,_A-Tasket",
+     "kind": "world"
+    }
+   ]
+  },
+  "1949": {
+   "moments": [
+    {
+     "text": "Rediffusion started piping radio into homes by cable. The box ended up in over 100,000 of them.",
+     "url": "https://en.wikipedia.org/wiki/Rediffusion_Singapore"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Riders in the Sky",
+     "artist": "Vaughn Monroe",
+     "term": "Riders in the Sky Vaughn Monroe",
+     "match": "Riders in the Sky",
+     "artistMatch": "Vaughn Monroe",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1958": {
+   "moments": [
+    {
+     "text": "Zubir Said wrote Majulah Singapura for the City Council.",
+     "url": "https://en.wikipedia.org/wiki/Majulah_Singapura"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Majulah Singapura",
+     "artist": "Zubir Said",
+     "term": "Majulah Singapura",
+     "match": "Majulah Singapura",
+     "artistMatch": "",
+     "note": "Written this year for the City Council. A year later it became the anthem.",
+     "src": "https://en.wikipedia.org/wiki/Majulah_Singapura",
+     "kind": "local"
+    },
+    {
+     "title": "Nel Blu Dipinto di Blu (Volare)",
+     "artist": "Domenico Modugno",
+     "term": "Nel Blu Dipinto di Blu (Volare) Modugno",
+     "match": "Blu Dipinto",
+     "artistMatch": "Modugno",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1959": {
+   "moments": [
+    {
+     "text": "Singapore got self-government. On 3 December, Majulah Singapura was presented as the anthem.",
+     "url": "https://en.wikipedia.org/wiki/Majulah_Singapura"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Majulah Singapura",
+     "artist": "Zubir Said",
+     "term": "Majulah Singapura",
+     "match": "Majulah Singapura",
+     "artistMatch": "",
+     "note": "Picked as the anthem when Singapore got self-government",
+     "src": "https://en.wikipedia.org/wiki/Majulah_Singapura",
+     "kind": "local"
+    },
+    {
+     "title": "The Battle of New Orleans",
+     "artist": "Johnny Horton",
+     "term": "The Battle of New Orleans Johnny Horton",
+     "match": "The Battle of New Orleans",
+     "artistMatch": "Johnny Horton",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1961": {
+   "moments": [
+    {
+     "text": "The Bukit Ho Swee fire left about 16,000 people homeless. The year-old HDB promised to rehouse them all within nine months, and did.",
+     "url": "https://en.wikipedia.org/wiki/Bukit_Ho_Swee_fire"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Tossin' and Turnin'",
+     "artist": "Bobby Lewis",
+     "term": "Tossin' and Turnin' Bobby Lewis",
+     "match": "Tossin' and Turnin'",
+     "artistMatch": "Bobby Lewis",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1962": {
+   "moments": [
+    {
+     "text": "Singapore voted in a referendum on merger with Malaysia on 1 September.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Stranger on the Shore",
+     "artist": "Acker Bilk",
+     "term": "Stranger on the Shore Acker Bilk",
+     "match": "Stranger on the Shore",
+     "artistMatch": "Acker Bilk",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1963": {
+   "moments": [
+    {
+     "text": "Malaysia was formed on 16 September, with Singapore in it.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Sugar Shack",
+     "artist": "Jimmy Gilmer and the Fireballs",
+     "term": "Sugar Shack Fireballs",
+     "match": "Sugar Shack",
+     "artistMatch": "Fireballs",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1964": {
+   "moments": [
+    {
+     "text": "The Quests' Shanty topped the Singapore charts for more than 10 weeks.",
+     "url": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=3900ef93-3ab8-42a2-8b77-3b88cca07adf"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Shanty",
+     "artist": "The Quests",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "First local band to hit No. 1 in Singapore, nudging The Beatles off the top",
+     "src": "https://www.nlb.gov.sg/main/article-detail?cmsuuid=3900ef93-3ab8-42a2-8b77-3b88cca07adf",
+     "kind": "local"
+    },
+    {
+     "title": "I Want to Hold Your Hand",
+     "artist": "The Beatles",
+     "term": "I Want to Hold Your Hand The Beatles",
+     "match": "I Want to Hold Your Hand",
+     "artistMatch": "The Beatles",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1965": {
+   "moments": [
+    {
+     "text": "Singapore became independent on 9 August.",
+     "url": "https://en.wikipedia.org/wiki/Proclamation_of_Singapore"
+    },
+    {
+     "text": "It joined the United Nations on 21 September as member No. 117.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Wooly Bully",
+     "artist": "Sam the Sham & the Pharaohs",
+     "term": "Wooly Bully Sam the Sham",
+     "match": "Wooly Bully",
+     "artistMatch": "Sam the Sham",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1966": {
+   "moments": [
+    {
+     "text": "The first National Day Parade marched from the Padang on 9 August, and kept marching through a downpour.",
+     "url": "https://en.wikipedia.org/wiki/National_Day_Parade"
+    },
+    {
+     "text": "Students started reciting the pledge every school day from 24 August.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "The Ballad of the Green Berets",
+     "artist": "SSgt. Barry Sadler",
+     "term": "The Ballad of the Green Berets Sadler",
+     "match": "Green Berets",
+     "artistMatch": "Sadler",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1967": {
+   "moments": [
+    {
+     "text": "The first Singapore dollar was issued on 12 June.",
+     "url": "https://en.wikipedia.org/wiki/Singapore_dollar"
+    },
+    {
+     "text": "Singapore co-founded ASEAN on 8 August.",
+     "url": "https://en.wikipedia.org/wiki/ASEAN"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Singapore Town",
+     "artist": "The Sidaislers",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "A Sing Singapore classic from 1967",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "To Sir with Love",
+     "artist": "Lulu",
+     "term": "To Sir with Love Lulu",
+     "match": "To Sir with Love",
+     "artistMatch": "Lulu",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1968": {
+   "moments": [
+    {
+     "text": "Lee Kuan Yew launched the Keep Singapore Clean campaign on 1 October.",
+     "url": "https://www.sg101.gov.sg/resources/archives/onthisday-keep-singapore-clean-campaign/"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Hey Jude",
+     "artist": "The Beatles",
+     "term": "Hey Jude The Beatles",
+     "match": "Hey Jude",
+     "artistMatch": "The Beatles",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1969": {
+   "moments": [
+    {
+     "text": "National Junior College, Singapore's first JC, opened.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Five Stars Arising",
+     "artist": "Lim Su Chong",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "A Sing Singapore classic from 1969",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Sugar, Sugar",
+     "artist": "The Archies",
+     "term": "Sugar, Sugar The Archies",
+     "match": "Sugar, Sugar",
+     "artistMatch": "The Archies",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1970": {
+   "songs": [
+    {
+     "title": "Bridge over Troubled Water",
+     "artist": "Simon & Garfunkel",
+     "term": "Bridge over Troubled Water Simon",
+     "match": "Bridge over Troubled Water",
+     "artistMatch": "Simon",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1971": {
+   "moments": [
+    {
+     "text": "Jurong Bird Park opened.",
+     "url": "https://en.wikipedia.org/wiki/Jurong_Bird_Park"
+    },
+    {
+     "text": "The last British forces left on 31 October.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Joy to the World",
+     "artist": "Three Dog Night",
+     "term": "Joy to the World Three Dog Night",
+     "match": "Joy to the World",
+     "artistMatch": "Three Dog Night",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1972": {
+   "moments": [
+    {
+     "text": "The Merlion was unveiled at the mouth of the Singapore River on 15 September.",
+     "url": "https://en.wikipedia.org/wiki/Merlion"
+    },
+    {
+     "text": "Singapore Airlines was formed on 1 October.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "The First Time Ever I Saw Your Face",
+     "artist": "Roberta Flack",
+     "term": "The First Time Ever I Saw Your Face Roberta Flack",
+     "match": "First Time Ever I Saw Your Face",
+     "artistMatch": "Roberta Flack",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1973": {
+   "moments": [
+    {
+     "text": "Singapore Zoo opened on 27 June with about 270 animals.",
+     "url": "https://en.wikipedia.org/wiki/Singapore_Zoo"
+    },
+    {
+     "text": "The first Chingay parade was held on 4 February.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Tie a Yellow Ribbon 'Round the Ole Oak Tree",
+     "artist": "Tony Orlando and Dawn",
+     "term": "Tie a Yellow Ribbon 'Round the Ole Oak Tree Dawn",
+     "match": "Yellow Ribbon",
+     "artistMatch": "Dawn",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1974": {
+   "moments": [
+    {
+     "text": "Jurong Town Hall was completed.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "The Way We Were",
+     "artist": "Barbra Streisand",
+     "term": "The Way We Were Barbra Streisand",
+     "match": "The Way We Were",
+     "artistMatch": "Barbra Streisand",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1975": {
+   "songs": [
+    {
+     "title": "Love Will Keep Us Together",
+     "artist": "Captain & Tennille",
+     "term": "Love Will Keep Us Together Tennille",
+     "match": "Love Will Keep Us Together",
+     "artistMatch": "Tennille",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1976": {
+   "songs": [
+    {
+     "title": "Silly Love Songs",
+     "artist": "Wings",
+     "term": "Silly Love Songs Wings",
+     "match": "Silly Love Songs",
+     "artistMatch": "Wings",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1977": {
+   "moments": [
+    {
+     "text": "The Singapore Science Centre opened in Jurong on 10 December.",
+     "url": "https://en.wikipedia.org/wiki/Science_Centre_Singapore"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Tonight's the Night (Gonna Be Alright)",
+     "artist": "Rod Stewart",
+     "term": "Tonight's the Night (Gonna Be Alright) Rod Stewart",
+     "match": "Tonight's the Night",
+     "artistMatch": "Rod Stewart",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1978": {
+   "songs": [
+    {
+     "title": "Shadow Dancing",
+     "artist": "Andy Gibb",
+     "term": "Shadow Dancing Andy Gibb",
+     "match": "Shadow Dancing",
+     "artistMatch": "Andy Gibb",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1979": {
+   "moments": [
+    {
+     "text": "The Speak Mandarin Campaign launched on 7 September.",
+     "url": "https://en.wikipedia.org/wiki/Speak_Mandarin_Campaign"
+    },
+    {
+     "text": "The first National Courtesy Campaign launched on 1 June.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "My Sharona",
+     "artist": "The Knack",
+     "term": "My Sharona The Knack",
+     "match": "My Sharona",
+     "artistMatch": "The Knack",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1980": {
+   "moments": [
+    {
+     "text": "NUS was formed on 8 August, merging the University of Singapore and Nanyang University.",
+     "url": "https://en.wikipedia.org/wiki/National_University_of_Singapore"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Call Me",
+     "artist": "Blondie",
+     "term": "Call Me Blondie",
+     "match": "Call Me",
+     "artistMatch": "Blondie",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1981": {
+   "moments": [
+    {
+     "text": "Changi Airport opened on 1 July.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Bette Davis Eyes",
+     "artist": "Kim Carnes",
+     "term": "Bette Davis Eyes Kim Carnes",
+     "match": "Bette Davis Eyes",
+     "artistMatch": "Kim Carnes",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1982": {
+   "moments": [
+    {
+     "text": "On 1 January, Singapore moved its clocks to UTC+8. Everyone lost half an hour.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Physical",
+     "artist": "Olivia Newton-John",
+     "term": "Physical Olivia Newton-John",
+     "match": "Physical",
+     "artistMatch": "Olivia Newton-John",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1983": {
+   "songs": [
+    {
+     "title": "Every Breath You Take",
+     "artist": "The Police",
+     "term": "Every Breath You Take The Police",
+     "match": "Every Breath You Take",
+     "artistMatch": "The Police",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1984": {
+   "moments": [
+    {
+     "text": "Total Defence was introduced on 22 January.",
+     "url": "https://en.wikipedia.org/wiki/Total_Defence_(Singapore)"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Stand Up for Singapore",
+     "artist": "Hugh Harrison",
+     "term": "Stand Up For Singapore Jeremy Monteiro",
+     "match": "Stand Up For Singapore",
+     "artistMatch": "Jeremy Monteiro",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "When Doves Cry",
+     "artist": "Prince",
+     "term": "When Doves Cry Prince",
+     "match": "When Doves Cry",
+     "artistMatch": "Prince",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1985": {
+   "moments": [
+    {
+     "text": "Wee Kim Wee became President on 2 September.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Stand Up for Singapore",
+     "artist": "Hugh Harrison",
+     "term": "Stand Up For Singapore Jeremy Monteiro",
+     "match": "Stand Up For Singapore",
+     "artistMatch": "Jeremy Monteiro",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Careless Whisper",
+     "artist": "Wham! featuring George Michael",
+     "term": "Careless Whisper Wham!",
+     "match": "Careless Whisper",
+     "artistMatch": "Wham!",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1986": {
+   "moments": [
+    {
+     "text": "Raffles City opened on 3 October. Its Westin Stamford was then the tallest hotel in the world.",
+     "url": "https://en.wikipedia.org/wiki/Raffles_City_Singapore"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Count On Me, Singapore",
+     "artist": "Clement Chow",
+     "term": "Count On Me Singapore Clement Chow",
+     "match": "Count On Me",
+     "artistMatch": "Clement Chow",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "That's What Friends Are For",
+     "artist": "Dionne Warwick & Friends",
+     "term": "That's What Friends Are For Dionne",
+     "match": "That's What Friends Are For",
+     "artistMatch": "Dionne",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1987": {
+   "moments": [
+    {
+     "text": "The MRT started running on 7 November, from Yio Chu Kang to Toa Payoh.",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Mass_Rapid_Transit_(Singapore)"
+    }
+   ],
+   "songs": [
+    {
+     "title": "We Are Singapore",
+     "artist": "Hugh Harrison",
+     "term": "We Are Singapore Jonathan Tan",
+     "match": "We Are Singapore",
+     "artistMatch": "Roslinda",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Walk Like an Egyptian",
+     "artist": "The Bangles",
+     "term": "Walk Like an Egyptian The Bangles",
+     "match": "Walk Like an Egyptian",
+     "artistMatch": "The Bangles",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1988": {
+   "moments": [
+    {
+     "text": "Lee Kuan Yew officially launched the MRT on 12 March.",
+     "url": "https://en.wikipedia.org/wiki/History_of_the_Mass_Rapid_Transit_(Singapore)"
+    }
+   ],
+   "songs": [
+    {
+     "title": "We Are Singapore",
+     "artist": "Hugh Harrison",
+     "term": "We Are Singapore Jonathan Tan",
+     "match": "We Are Singapore",
+     "artistMatch": "Roslinda",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Faith",
+     "artist": "George Michael",
+     "term": "Faith George Michael",
+     "match": "Faith",
+     "artistMatch": "George Michael",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1989": {
+   "songs": [
+    {
+     "title": "Five Stars Arising",
+     "artist": "Lim Su Chong",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Look Away",
+     "artist": "Chicago",
+     "term": "Look Away Chicago",
+     "match": "Look Away",
+     "artistMatch": "Chicago",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1990": {
+   "moments": [
+    {
+     "text": "Goh Chok Tong became the second Prime Minister on 28 November.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    },
+    {
+     "text": "Changi Airport Terminal 2 opened.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "One People, One Nation, One Singapore",
+     "artist": "Jeremy Monteiro and Jim Aitchison",
+     "term": "One People One Nation One Singapore Jeremy Monteiro",
+     "match": "One People",
+     "artistMatch": "Jeremy Monteiro",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Hold On",
+     "artist": "Wilson Phillips",
+     "term": "Hold On Wilson Phillips",
+     "match": "Hold On",
+     "artistMatch": "Wilson Phillips",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1991": {
+   "moments": [
+    {
+     "text": "Raffles Hotel reopened on 16 September after a two-year restoration.",
+     "url": "https://en.wikipedia.org/wiki/Raffles_Hotel"
+    }
+   ],
+   "songs": [
+    {
+     "title": "It's the Little Things",
+     "artist": "Patrick Seet and Ivan Chua",
+     "term": "It's The Little Things Music & Drama Company",
+     "match": "Little Things",
+     "artistMatch": "Music & Drama",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "(Everything I Do) I Do It for You",
+     "artist": "Bryan Adams",
+     "term": "(Everything I Do) I Do It for You Bryan Adams",
+     "match": "Everything I Do",
+     "artistMatch": "Bryan Adams",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1992": {
+   "moments": [
+    {
+     "text": "Selling chewing gum was banned from 3 January.",
+     "url": "https://en.wikipedia.org/wiki/Chewing_gum_sales_ban_in_Singapore"
+    }
+   ],
+   "songs": [
+    {
+     "title": "End of the Road",
+     "artist": "Boyz II Men",
+     "term": "End of the Road Boyz II Men",
+     "match": "End of the Road",
+     "artistMatch": "Boyz II Men",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1993": {
+   "moments": [
+    {
+     "text": "Ong Teng Cheong became the first elected President on 1 September.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "I Will Always Love You",
+     "artist": "Whitney Houston",
+     "term": "I Will Always Love You Whitney Houston",
+     "match": "I Will Always Love You",
+     "artistMatch": "Whitney Houston",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1994": {
+   "moments": [
+    {
+     "text": "The Night Safari, the world's first nocturnal zoo, opened on 26 May.",
+     "url": "https://en.wikipedia.org/wiki/Night_Safari,_Singapore"
+    }
+   ],
+   "songs": [
+    {
+     "title": "The Sign",
+     "artist": "Ace of Base",
+     "term": "The Sign Ace of Base",
+     "match": "The Sign",
+     "artistMatch": "Ace of Base",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1995": {
+   "moments": [
+    {
+     "text": "Under One Roof, the first local English sitcom, premiered on 21 February. The family lived in a Bishan flat.",
+     "url": "https://en.wikipedia.org/wiki/Under_One_Roof_(Singaporean_TV_series)"
+    }
+   ],
+   "songs": [
+    {
+     "title": "My People My Home",
+     "artist": "Lee Tzu Pheng",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Gangsta's Paradise",
+     "artist": "Coolio featuring L.V.",
+     "term": "Gangsta's Paradise Coolio",
+     "match": "Gangsta's Paradise",
+     "artistMatch": "Coolio",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1996": {
+   "moments": [
+    {
+     "text": "The Woodlands MRT extension opened on 10 February.",
+     "url": "https://en.wikipedia.org/wiki/Woodlands_MRT_station"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Count On Me, Singapore",
+     "artist": "Clement Chow",
+     "term": "Count On Me Singapore Clement Chow",
+     "match": "Count On Me",
+     "artistMatch": "Clement Chow",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Macarena (Bayside Boys Mix)",
+     "artist": "Los del Río",
+     "term": "Macarena (Bayside Boys Mix) Los del R",
+     "match": "Macarena",
+     "artistMatch": "Los del R",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1997": {
+   "moments": [
+    {
+     "text": "Phua Chu Kang Pte Ltd premiered on 25 September. Yellow boots, everywhere.",
+     "url": "https://en.wikipedia.org/wiki/Phua_Chu_Kang_Pte_Ltd"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Singapore Town",
+     "artist": "The Sidaislers",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Candle in the Wind 1997",
+     "artist": "Elton John",
+     "term": "Candle in the Wind 1997 Elton John",
+     "match": "Candle in the Wind",
+     "artistMatch": "Elton John",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1998": {
+   "moments": [
+    {
+     "text": "Electronic Road Pricing switched on from 1 April. Singapore was the first city to price congestion electronically.",
+     "url": "https://en.wikipedia.org/wiki/Electronic_Road_Pricing"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Home",
+     "artist": "Kit Chan",
+     "term": "Kit Chan Home",
+     "match": "Home",
+     "artistMatch": "Kit Chan",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Too Close",
+     "artist": "Next",
+     "term": "Too Close Next",
+     "match": "Too Close",
+     "artistMatch": "Next",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "1999": {
+   "moments": [
+    {
+     "text": "S. R. Nathan became President on 1 September.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Together",
+     "artist": "Evelyn Tan & Dreamz FM",
+     "term": "Together Evelyn Tan",
+     "match": "Together",
+     "artistMatch": "Evelyn Tan",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Believe",
+     "artist": "Cher",
+     "term": "Believe Cher",
+     "match": "Believe",
+     "artistMatch": "Cher",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2000": {
+   "moments": [
+    {
+     "text": "Speakers' Corner opened at Hong Lim Park on 1 September.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Shine on Me",
+     "artist": "Jai Wahab",
+     "term": "Shine On Me NDP",
+     "match": "Shine On Me",
+     "artistMatch": "Jai",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Breathe",
+     "artist": "Faith Hill",
+     "term": "Breathe Faith Hill",
+     "match": "Breathe",
+     "artistMatch": "Faith Hill",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2001": {
+   "moments": [
+    {
+     "text": "Tropical Storm Vamei swung by on 27 December. Storms like that are expected once every 100 to 400 years.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Where I Belong",
+     "artist": "Tanya Chua",
+     "term": "Tanya Chua Where I Belong",
+     "match": "Where I Belong",
+     "artistMatch": "Tanya Chua",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Hanging by a Moment",
+     "artist": "Lifehouse",
+     "term": "Hanging by a Moment Lifehouse",
+     "match": "Hanging by a Moment",
+     "artistMatch": "Lifehouse",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2002": {
+   "moments": [
+    {
+     "text": "The Esplanade opened on 12 October.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "We Will Get There",
+     "artist": "Stefanie Sun",
+     "term": "Stefanie Sun We Will Get There",
+     "match": "We Will Get There",
+     "artistMatch": "Sun",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "How You Remind Me",
+     "artist": "Nickelback",
+     "term": "How You Remind Me Nickelback",
+     "match": "How You Remind Me",
+     "artistMatch": "Nickelback",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2003": {
+   "moments": [
+    {
+     "text": "Biopolis, a research hub at one-north, opened on 29 October.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "One United People",
+     "artist": "Stefanie Sun",
+     "term": "Stefanie Sun One United People",
+     "match": "One United People",
+     "artistMatch": "Sun",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "In Da Club",
+     "artist": "50 Cent",
+     "term": "In Da Club 50 Cent",
+     "match": "In Da Club",
+     "artistMatch": "50 Cent",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2004": {
+   "moments": [
+    {
+     "text": "Lee Hsien Loong became the third Prime Minister on 12 August.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Home",
+     "artist": "Kit Chan and JJ Lin",
+     "term": "Kit Chan Home",
+     "match": "Home",
+     "artistMatch": "Kit Chan",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Yeah!",
+     "artist": "Usher featuring Lil Jon and Ludacris",
+     "term": "Yeah! Usher",
+     "match": "Yeah!",
+     "artistMatch": "Usher",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2005": {
+   "moments": [
+    {
+     "text": "The government approved building two integrated resorts on 18 April.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Reach Out for the Skies",
+     "artist": "Taufik Batisah and Rui En",
+     "term": "Reach Out For The Skies Taufik",
+     "match": "Reach Out",
+     "artistMatch": "Taufik",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "We Belong Together",
+     "artist": "Mariah Carey",
+     "term": "We Belong Together Mariah Carey",
+     "match": "We Belong Together",
+     "artistMatch": "Mariah Carey",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2006": {
+   "moments": [
+    {
+     "text": "Changi Airport's Budget Terminal opened on 26 March.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "My Island Home",
+     "artist": "Kaira Gong",
+     "term": "Kaira Gong My Island Home",
+     "match": "My Island Home",
+     "artistMatch": "Kaira Gong",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Bad Day",
+     "artist": "Daniel Powter",
+     "term": "Bad Day Daniel Powter",
+     "match": "Bad Day",
+     "artistMatch": "Daniel Powter",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2007": {
+   "moments": [
+    {
+     "text": "The floating platform at Marina Bay opened on 20 May.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "There's No Place I'd Rather Be",
+     "artist": "Kit Chan",
+     "term": "Kit Chan There's No Place I'd Rather Be",
+     "match": "No Place",
+     "artistMatch": "Kit Chan",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Irreplaceable",
+     "artist": "Beyoncé",
+     "term": "Irreplaceable Beyoncé",
+     "match": "Irreplaceable",
+     "artistMatch": "Beyoncé",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2008": {
+   "moments": [
+    {
+     "text": "Formula One raced at night for the first time ever, on Singapore's streets, on 28 September.",
+     "url": "https://en.wikipedia.org/wiki/2008_Singapore_Grand_Prix"
+    },
+    {
+     "text": "Changi Airport Terminal 3 opened on 9 January.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Shine for Singapore",
+     "artist": "Hady Mirza",
+     "term": "Hady Mirza Shine For Singapore",
+     "match": "Shine For Singapore",
+     "artistMatch": "Hady Mirza",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Low",
+     "artist": "Flo Rida featuring T-Pain",
+     "term": "Low Flo Rida",
+     "match": "Low",
+     "artistMatch": "Flo Rida",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2009": {
+   "songs": [
+    {
+     "title": "What Do You See?",
+     "artist": "Electrico",
+     "term": "Electrico What Do You See",
+     "match": "What Do You See",
+     "artistMatch": "Electrico",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Boom Boom Pow",
+     "artist": "The Black Eyed Peas",
+     "term": "Boom Boom Pow The Black Eyed Peas",
+     "match": "Boom Boom Pow",
+     "artistMatch": "The Black Eyed Peas",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2010": {
+   "moments": [
+    {
+     "text": "Singapore hosted the first ever Youth Olympic Games in August.",
+     "url": "https://en.wikipedia.org/wiki/2010_Summer_Youth_Olympics"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Song for Singapore",
+     "artist": "Corrinne May",
+     "term": "Corrinne May Song For Singapore",
+     "match": "Song For Singapore",
+     "artistMatch": "Corrinne May",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Tik Tok",
+     "artist": "Kesha",
+     "term": "Tik Tok Kesha",
+     "match": "Tik Tok",
+     "artistMatch": "Kesha",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2011": {
+   "moments": [
+    {
+     "text": "Universal Studios Singapore had its grand opening on 28 May.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    },
+    {
+     "text": "Tanjong Pagar Railway Station closed on 1 July.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "In a Heartbeat",
+     "artist": "Sylvia Ratonel",
+     "term": "Sylvia Ratonel In A Heartbeat",
+     "match": "In a Heartbeat",
+     "artistMatch": "Sylvia Ratonel",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Rolling in the Deep",
+     "artist": "Adele",
+     "term": "Rolling in the Deep Adele",
+     "match": "Rolling in the Deep",
+     "artistMatch": "Adele",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2012": {
+   "moments": [
+    {
+     "text": "Gardens by the Bay opened on 29 June.",
+     "url": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Love at First Light",
+     "artist": "Olivia Ong and Natanya Tan",
+     "term": "Olivia Ong Love At First Light",
+     "match": "Love At First Light",
+     "artistMatch": "Olivia Ong",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Somebody That I Used to Know",
+     "artist": "Gotye featuring Kimbra",
+     "term": "Somebody That I Used to Know Gotye",
+     "match": "Somebody That I Used to Know",
+     "artistMatch": "Gotye",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2013": {
+   "songs": [
+    {
+     "title": "One Singapore",
+     "artist": "Sing A Nation choir",
+     "term": "One Singapore Sing A Nation",
+     "match": "One Singapore",
+     "artistMatch": "Sing A Nation",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Thrift Shop",
+     "artist": "Macklemore & Ryan Lewis featuring Wanz",
+     "term": "Thrift Shop Macklemore",
+     "match": "Thrift Shop",
+     "artistMatch": "Macklemore",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2014": {
+   "moments": [
+    {
+     "text": "The new National Stadium opened on 30 June.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "We Will Get There",
+     "artist": "Farisha Ishak, Fauzi Laili, Tay Ke Wei and Rahimah Rahim",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Happy",
+     "artist": "Pharrell Williams",
+     "term": "Happy Pharrell Williams",
+     "match": "Happy",
+     "artistMatch": "Pharrell Williams",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2015": {
+   "moments": [
+    {
+     "text": "Singapore turned 50 on 9 August.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Our Singapore",
+     "artist": "Dick Lee and JJ Lin",
+     "term": "Our Singapore JJ Lin",
+     "match": "Our Singapore",
+     "artistMatch": "JJ Lin",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Uptown Funk",
+     "artist": "Mark Ronson featuring Bruno Mars",
+     "term": "Uptown Funk Mark Ronson",
+     "match": "Uptown Funk",
+     "artistMatch": "Mark Ronson",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2016": {
+   "moments": [
+    {
+     "text": "Joseph Schooling beat Michael Phelps in the 100m butterfly for Singapore's first Olympic gold.",
+     "url": "https://en.wikipedia.org/wiki/Joseph_Schooling"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Tomorrow's Here Today",
+     "artist": "53A",
+     "term": "53A Tomorrow's Here Today",
+     "match": "Tomorrow's Here Today",
+     "artistMatch": "53",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Love Yourself",
+     "artist": "Justin Bieber",
+     "term": "Love Yourself Justin Bieber",
+     "match": "Love Yourself",
+     "artistMatch": "Justin Bieber",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2017": {
+   "moments": [
+    {
+     "text": "Halimah Yacob became Singapore's first female President.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    },
+    {
+     "text": "Changi Airport Terminal 4 opened on 31 October.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Because It's Singapore",
+     "artist": "Jay Lim",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Shape of You",
+     "artist": "Ed Sheeran",
+     "term": "Shape of You Ed Sheeran",
+     "match": "Shape of You",
+     "artistMatch": "Ed Sheeran",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2018": {
+   "moments": [
+    {
+     "text": "Singapore hosted the first summit between the leaders of the US and North Korea on 12 June.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "We Are Singapore (2018)",
+     "artist": "Charlie Lim and friends",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "God's Plan",
+     "artist": "Drake",
+     "term": "God's Plan Drake",
+     "match": "God's Plan",
+     "artistMatch": "Drake",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2019": {
+   "moments": [
+    {
+     "text": "Jewel Changi Airport opened in April.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    },
+    {
+     "text": "The Bicentennial marked 200 years since Raffles arrived in 1819.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Our Singapore (2019)",
+     "artist": "Kit Chan, JJ Lin, Stefanie Sun, Dick Lee and friends",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Old Town Road",
+     "artist": "Lil Nas X featuring Billy Ray Cyrus",
+     "term": "Old Town Road Lil Nas X",
+     "match": "Old Town Road",
+     "artistMatch": "Lil Nas X",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2020": {
+   "moments": [
+    {
+     "text": "Hawker culture joined UNESCO's list of intangible cultural heritage on 16 December.",
+     "url": "https://www.nea.gov.sg/media/news/news/index/hawker-culture-is-singapore-s-first-inscription-on-unesco-s-representative-list-of-the-intangible-cultural-heritage-of-humanity"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Everything I Am",
+     "artist": "Nathan Hartono",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Blinding Lights",
+     "artist": "The Weeknd",
+     "term": "Blinding Lights The Weeknd",
+     "match": "Blinding Lights",
+     "artistMatch": "The Weeknd",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2021": {
+   "moments": [
+    {
+     "text": "Loh Kean Yew became the first Singaporean badminton world champion in December.",
+     "url": "https://en.wikipedia.org/wiki/Loh_Kean_Yew"
+    }
+   ],
+   "songs": [
+    {
+     "title": "The Road Ahead",
+     "artist": "Linying, Sezairi, Shabir and Shye",
+     "term": "Linying The Road Ahead",
+     "match": "The Road Ahead",
+     "artistMatch": "Shabir",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Levitating",
+     "artist": "Dua Lipa",
+     "term": "Levitating Dua Lipa",
+     "match": "Levitating",
+     "artistMatch": "Dua Lipa",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2022": {
+   "moments": [
+    {
+     "text": "On 1 April, Singapore moved into living with COVID-19.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Stronger Together",
+     "artist": "Taufik Batisah",
+     "term": "",
+     "match": "",
+     "artistMatch": "",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Heat Waves",
+     "artist": "Glass Animals",
+     "term": "Heat Waves Glass Animals",
+     "match": "Heat Waves",
+     "artistMatch": "Glass Animals",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2023": {
+   "moments": [
+    {
+     "text": "Tharman Shanmugaratnam became the ninth President on 14 September.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Shine Your Light",
+     "artist": "53A, The Island Voices and friends",
+     "term": "Shine Your Light NDP 2023",
+     "match": "Shine Your Light",
+     "artistMatch": "NDPeeps",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Last Night",
+     "artist": "Morgan Wallen",
+     "term": "Last Night Morgan Wallen",
+     "match": "Last Night",
+     "artistMatch": "Morgan Wallen",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2024": {
+   "moments": [
+    {
+     "text": "Lawrence Wong became the fourth Prime Minister on 15 May.",
+     "url": "https://en.wikipedia.org/wiki/Timeline_of_Singaporean_history"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Not Alone",
+     "artist": "Benjamin Kheng",
+     "term": "Benjamin Kheng Not Alone",
+     "match": "Not Alone",
+     "artistMatch": "Benjamin Kheng",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Lose Control",
+     "artist": "Teddy Swims",
+     "term": "Lose Control Teddy Swims",
+     "match": "Lose Control",
+     "artistMatch": "Teddy Swims",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2025": {
+   "moments": [
+    {
+     "text": "Singapore turned 60 on 9 August.",
+     "url": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs"
+    }
+   ],
+   "songs": [
+    {
+     "title": "Here We Are",
+     "artist": "Charlie Lim, Kit Chan and The Island Voices",
+     "term": "Here We Are NDPeeps",
+     "match": "Here We Are",
+     "artistMatch": "Charlie Lim",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    },
+    {
+     "title": "Die with a Smile",
+     "artist": "Lady Gaga and Bruno Mars",
+     "term": "Die with a Smile Lady Gaga",
+     "match": "Die with a Smile",
+     "artistMatch": "Lady Gaga",
+     "note": "Billboard's top song of the year",
+     "src": "https://en.wikipedia.org/wiki/List_of_Billboard_Year-End_number-one_singles_and_albums",
+     "kind": "world"
+    }
+   ]
+  },
+  "2026": {
+   "moments": [
+    {
+     "text": "NDP 2026 came with three new songs.",
+     "url": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs"
+    }
+   ],
+   "songs": [
+    {
+     "title": "You'll Be Okay",
+     "artist": "Jasmine Sokko",
+     "term": "Jasmine Sokko You'll Be Okay",
+     "match": "You'll Be Okay",
+     "artistMatch": "Jasmine Sokko",
+     "note": "National Day Parade theme song",
+     "src": "https://en.wikipedia.org/wiki/List_of_Singaporean_patriotic_songs",
+     "kind": "local"
+    }
+   ]
+  }
+ }
+}
