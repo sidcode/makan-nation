@@ -1,0 +1,806 @@
+{
+ "source": "docs/research/hawker-archives.md",
+ "generated": "2026-10-09",
+ "facts": [
+  {
+   "id": "f1",
+   "when": "1800s",
+   "era": "1950s",
+   "text": "Migrants from China, India and the region took up street hawking because it needed little money to start, and a meal of three or four dishes could cost three cents.",
+   "sources": [
+    [
+     "Roots: Serving Up a Legacy",
+     "https://www.roots.gov.sg/stories-landing/stories/serving-up-a-legacy"
+    ]
+   ]
+  },
+  {
+   "id": "f2",
+   "when": "1838",
+   "era": "1950s",
+   "text": "Joseph Balestier's sugarcane estate, beside what is now Balestier Road, had its first harvest, and he advertised \"Singapore sugar\" and molasses and made rum.",
+   "sources": [
+    [
+     "NHB: Balestier Heritage Trail",
+     "https://roots.gov.sg/-/media/Roots/Files/balestier-heritage-trail/nhb_balestier_trail-booklet_jun2020_web.ashx"
+    ]
+   ]
+  },
+  {
+   "id": "f3",
+   "when": "1860s",
+   "era": "1950s",
+   "text": "The writer John Cameron described Singapore's walking sellers: Malays with fruit, Chinese with a mix of goods, and Indian sellers with cakes.",
+   "sources": [
+    [
+     "BiblioAsia, 2013",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ]
+   ]
+  },
+  {
+   "id": "f4",
+   "when": "1901",
+   "era": "1950s",
+   "text": "Jalan Ampas, near Balestier, was named after ampas tebu, the crushed sugarcane left once the sugar is extracted.",
+   "sources": [
+    [
+     "NHB: Balestier Heritage Trail",
+     "https://roots.gov.sg/-/media/Roots/Files/balestier-heritage-trail/nhb_balestier_trail-booklet_jun2020_web.ashx"
+    ]
+   ]
+  },
+  {
+   "id": "f5",
+   "when": "1906 to 1907",
+   "era": "1950s",
+   "text": "The colonial municipality brought in its first hawker by-laws; sources differ on the year, with BiblioAsia giving 1906 and Roots giving 1907.",
+   "sources": [
+    [
+     "BiblioAsia",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ],
+    [
+     "Roots MUSE",
+     "https://www.roots.gov.sg/muse/articles/hawker-matters-a-history-of-hawking-in-singapore"
+    ]
+   ]
+  },
+  {
+   "id": "f6",
+   "when": "1922",
+   "era": "1950s",
+   "text": "The first purpose-built hawker shelter went up at Finlayson Green.",
+   "sources": [
+    [
+     "BiblioAsia",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ]
+   ]
+  },
+  {
+   "id": "f7",
+   "when": "1928",
+   "era": "1950s",
+   "text": "Hawker licences were capped at 6,000, and more shelters were built at People's Park, Balestier Road, Carnie Road, Telok Ayer Market and Queen Street.",
+   "sources": [
+    [
+     "BiblioAsia",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ]
+   ]
+  },
+  {
+   "id": "f8",
+   "when": "1929 to 1930",
+   "era": "1950s",
+   "text": "The new Maxwell Road market lost shoppers to street hawkers, so the authorities added cooked food stalls and dining tables.",
+   "sources": [
+    [
+     "Roots: Maxwell Road Food Centre",
+     "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/maxwell-road-food-centre"
+    ]
+   ]
+  },
+  {
+   "id": "f9",
+   "when": "1920s to 1950s",
+   "era": "1950s",
+   "text": "Hainanese migrants, many of whom had worked as cooks and stewards in colonial homes and on European ships, opened coffee shops (kopitiam) and shaped the local style of coffee.",
+   "sources": [
+    [
+     "Roots ICH: Kaya and Kopi",
+     "https://www.roots.gov.sg/ich-landing/ich/traditional-breakfast-of-kaya-and-kopi"
+    ],
+    [
+     "SCCC Culturepaedia",
+     "https://culturepaedia.singaporeccc.org.sg/popular-culture/the-history-and-origins-of-kopi-in-singapore/"
+    ]
+   ]
+  },
+  {
+   "id": "f10",
+   "when": "1950s",
+   "era": "1950s",
+   "text": "By one estimate, more than 80 percent of Singapore's coffee shops were owned by Hainanese and Foochow families.",
+   "sources": [
+    [
+     "SCCC Culturepaedia",
+     "https://culturepaedia.singaporeccc.org.sg/popular-culture/the-history-and-origins-of-kopi-in-singapore/"
+    ]
+   ]
+  },
+  {
+   "id": "f11",
+   "when": "1920s to 1950s, kopitiam era",
+   "era": "1950s",
+   "text": "Traditional Hainanese-style kopi beans are roasted with sugar and margarine, about eight parts beans to two parts sugar and margarine, for around 25 minutes, with salt added halfway.",
+   "sources": [
+    [
+     "Roots ICH: Kaya and Kopi",
+     "https://www.roots.gov.sg/ich-landing/ich/traditional-breakfast-of-kaya-and-kopi"
+    ]
+   ]
+  },
+  {
+   "id": "f12",
+   "when": "1920s to 1950s, kopitiam breakfast",
+   "era": "1950s",
+   "text": "Kaya, the spread on kopitiam toast, is an egg jam made with coconut milk and sugar; the Hainanese style is brown from caramelised sugar, while the Peranakan style is green from pandan.",
+   "sources": [
+    [
+     "Roots ICH: Kaya and Kopi",
+     "https://www.roots.gov.sg/ich-landing/ich/traditional-breakfast-of-kaya-and-kopi"
+    ]
+   ]
+  },
+  {
+   "id": "f13",
+   "when": "Early to mid 1900s",
+   "era": "1950s",
+   "text": "Stacked tiffin carriers, called tingkat, were used to deliver meals to customers or carry workers' lunches.",
+   "sources": [
+    [
+     "Roots collection: Tiffin carrier",
+     "https://www.roots.gov.sg/Collection-Landing/listing/1242310"
+    ]
+   ]
+  },
+  {
+   "id": "f14",
+   "when": "1930s to 1940s",
+   "era": "1950s",
+   "text": "Some of the earliest chicken rice businesses, including Yet Con, Chin Chin Eating House and Swee Kee, opened in these decades, adapting a dish descended from Hainan's Wenchang chicken.",
+   "sources": [
+    [
+     "Roots ICH: Chicken Rice",
+     "https://www.roots.gov.sg/ich-landing/ich/chicken-rice"
+    ]
+   ]
+  },
+  {
+   "id": "f15",
+   "when": "1946",
+   "era": "1950s",
+   "text": "Long Beach Seafood opened at the Bedok Rest House by the sea and was popular with the British Army in colonial times.",
+   "sources": [
+    [
+     "KrisShop, 2020",
+     "https://www.krisshop.com/en/the-edit/origins-of-singapores-iconic-crab-dishes"
+    ],
+    [
+     "Tatler",
+     "https://www.tatlerasia.com/profile/long-beach-seafood"
+    ]
+   ]
+  },
+  {
+   "id": "f16",
+   "when": "December 1946",
+   "era": "1950s",
+   "text": "A government \"Family Restaurant\" at Maxwell Market became the first of a chain selling meals for eight cents to people left poor by the war.",
+   "sources": [
+    [
+     "Roots: Maxwell Road Food Centre",
+     "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/maxwell-road-food-centre"
+    ]
+   ]
+  },
+  {
+   "id": "f17",
+   "when": "1949",
+   "era": "1950s",
+   "text": "M.J. Gomez, a Malayalee cook from Kerala, created fish head curry at his Sophia Road restaurant because his Chinese customers prized fish heads.",
+   "sources": [
+    [
+     "Roots ICH: Fish Head Curry",
+     "https://www.roots.gov.sg/ich-landing/ich/fish-head-curry"
+    ]
+   ]
+  },
+  {
+   "id": "f18",
+   "when": "Late 1940s to 1995",
+   "era": "1950s",
+   "text": "The Satay Club began on Hoi How Road, moved to a field near Dhoby Ghaut in the mid-1950s and to the Esplanade in 1970, and was cleared in 1995, when 8 of its 28 stallholders moved to Clarke Quay.",
+   "sources": [
+    [
+     "Roots collection: Satay Club at the Esplanade",
+     "https://www.roots.gov.sg/Collection-Landing/listing/1191579"
+    ],
+    [
+     "Infopedia: Satay Club",
+     "https://www.nlb.gov.sg/main/article-detail?cmsuuid=0d2d4bea-9182-4ac5-8d8a-041fad2a9d31"
+    ]
+   ]
+  },
+  {
+   "id": "f19",
+   "when": "After the Second World War",
+   "era": "1950s",
+   "text": "One account says Hokkien mee began with workers frying surplus noodles from nearby factories on Rochor Road, though the dish's origins are uncertain.",
+   "sources": [
+    [
+     "Wikipedia: Hokkien mee",
+     "https://en.wikipedia.org/wiki/Hokkien_mee"
+    ],
+    [
+     "Infopedia",
+     "https://www.nlb.gov.sg/main/article-detail?cmsuuid=9a26d915-109c-494e-a373-7ed8cfcda9d9"
+    ]
+   ]
+  },
+  {
+   "id": "f20",
+   "when": "1940s to 1970s",
+   "era": "1950s",
+   "text": "Tok tok mee hawkers pushed three-wheeled carts with a charcoal stove through the streets and called customers by knocking a bamboo striker.",
+   "sources": [
+    [
+     "Roots collection: tok tok mee cart",
+     "https://www.roots.gov.sg/collection-landing/listing/1121135"
+    ]
+   ]
+  },
+  {
+   "id": "f21",
+   "when": "1950",
+   "era": "1950s",
+   "text": "The colonial government set up the Hawkers Inquiry Commission in April and received its report in September, at a time when about 20,000 hawkers worked without licences.",
+   "sources": [
+    [
+     "BiblioAsia",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ],
+    [
+     "Roots: Serving Up a Legacy",
+     "https://www.roots.gov.sg/stories-landing/stories/serving-up-a-legacy"
+    ]
+   ]
+  },
+  {
+   "id": "f22",
+   "when": "1950",
+   "era": "1950s",
+   "text": "The commission's figures showed hawkers were about 84 percent Chinese, 14 percent Indian and 2 percent Malay.",
+   "sources": [
+    [
+     "Roots MUSE: Hawker Matters",
+     "https://www.roots.gov.sg/muse/articles/hawker-matters-a-history-of-hawking-in-singapore"
+    ]
+   ]
+  },
+  {
+   "id": "f23",
+   "when": "1956",
+   "era": "1950s",
+   "text": "Cher Yam Tian and her husband Lim Choo Ngee began selling crab stir-fried with bottled chilli and tomato sauce from a pushcart, which grew into Palm Beach Seafood; another widely served version is credited to chef Hooi Kok Wai in the 1960s.",
+   "sources": [
+    [
+     "Wikipedia: Chilli crab",
+     "https://en.wikipedia.org/wiki/Chilli_crab"
+    ],
+    [
+     "Infopedia: Chilli crab",
+     "https://www.nlb.gov.sg/main/article-detail?cmsuuid=9bb609ca-dcf9-49eb-9941-86ff4ec2b2c5"
+    ]
+   ]
+  },
+  {
+   "id": "f24",
+   "when": "1958",
+   "era": "1950s",
+   "text": "Only 16 inspectors were responsible for about 30,000 hawkers.",
+   "sources": [
+    [
+     "BiblioAsia",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ]
+   ]
+  },
+  {
+   "id": "f25",
+   "when": "1 March 1966",
+   "era": "1980s",
+   "text": "Hawker licensing began after independence, and about 24,000 street hawkers registered.",
+   "sources": [
+    [
+     "NLB CuriosCity",
+     "https://curiocity.nlb.gov.sg/digital-stories/our-hawkers-through-time/hawkers-after-independence/"
+    ]
+   ]
+  },
+  {
+   "id": "f26",
+   "when": "1966 to 1978",
+   "era": "1980s",
+   "text": "Glutton's Square on Orchard Road was a car park by day and an open-air food street by night, with push-cart hawkers serving locals and tourists until it closed over hygiene concerns.",
+   "sources": [
+    [
+     "Roots collection: Glutton's Square",
+     "https://www.roots.gov.sg/Collection-Landing/listing/1192808"
+    ],
+    [
+     "Infopedia",
+     "https://www.nlb.gov.sg/main/article-detail?cmsuuid=e429dca6-7de5-4d07-acab-cf10ca3c1647"
+    ]
+   ]
+  },
+  {
+   "id": "f27",
+   "when": "23 January 1977",
+   "era": "1980s",
+   "text": "In the earliest use we found of chope for keeping seats, a New Nation columnist tells two lunch companions \"I'll go first and chope the seats\".",
+   "sources": [
+    [
+     "NewspaperSG: New Nation, 23 January 1977",
+     "https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770123-1.2.57"
+    ]
+   ]
+  },
+  {
+   "id": "f28",
+   "when": "1978",
+   "era": "1980s",
+   "text": "When Glutton's Square closed, its hawkers moved to Newton Circus and Cuppage, and the square came back briefly from July 2004 to February 2005 for the Singapore Food Festival.",
+   "sources": [
+    [
+     "Roots collection: Glutton's Square",
+     "https://www.roots.gov.sg/Collection-Landing/listing/1192808"
+    ]
+   ]
+  },
+  {
+   "id": "f29",
+   "when": "1960s to 1970s",
+   "era": "1980s",
+   "text": "While centres were being built, hawkers were moved off main roads into back lanes, side streets, vacant land and car parks.",
+   "sources": [
+    [
+     "Roots: Serving Up a Legacy",
+     "https://www.roots.gov.sg/stories-landing/stories/serving-up-a-legacy"
+    ]
+   ]
+  },
+  {
+   "id": "f30",
+   "when": "1960s",
+   "era": "1980s",
+   "text": "Pang Siew Ting began selling Fuzhou oyster cakes, using large clams at first instead of oysters; Seth Lui dates her stall to 1964 on Tras Street while Michelin says only the 1960s, and her family still fries each cake to order at Maxwell Food Centre.",
+   "sources": [
+    [
+     "Seth Lui",
+     "https://sethlui.com/maxwell-fuzhou-oyster-cake-singapore/"
+    ],
+    [
+     "Michelin Guide",
+     "https://guide.michelin.com/en/article/dining-out/michelin-hawker-guide-chinatown-complex"
+    ]
+   ]
+  },
+  {
+   "id": "f31",
+   "when": "1971",
+   "era": "1980s",
+   "text": "The Hawker Centres Development Committee was formed to plan purpose-built centres.",
+   "sources": [
+    [
+     "NLB CuriosCity",
+     "https://curiocity.nlb.gov.sg/digital-stories/our-hawkers-through-time/hawkers-after-independence/"
+    ]
+   ]
+  },
+  {
+   "id": "f32",
+   "when": "1971",
+   "era": "1980s",
+   "text": "Newton Hawker Centre opened with the idea of hawker stalls in a garden setting.",
+   "sources": [
+    [
+     "Roots: Serving Up a Legacy",
+     "https://www.roots.gov.sg/stories-landing/stories/serving-up-a-legacy"
+    ]
+   ]
+  },
+  {
+   "id": "f33",
+   "when": "1971 and 1979",
+   "era": "1980s",
+   "text": "Choong Yee Hong started as a helper at Big Fortune Claypot Rice in Chinatown in 1971 and opened New Lucky Claypot Rice at the Margaret Drive Hawker Centre, since closed, in 1979.",
+   "sources": [
+    [
+     "Michelin Guide: Behind the Bib",
+     "https://guide.michelin.com/en/article/dining-out/behind-the-bib-new-lucky-claypot-rice"
+    ]
+   ]
+  },
+  {
+   "id": "f34",
+   "when": "1972",
+   "era": "1980s",
+   "text": "The new Ministry of the Environment took over building hawker centres and moving street hawkers into them.",
+   "sources": [
+    [
+     "NLB CuriosCity",
+     "https://curiocity.nlb.gov.sg/digital-stories/our-hawkers-through-time/hawkers-after-independence/"
+    ]
+   ]
+  },
+  {
+   "id": "f35",
+   "when": "1974 to 1979",
+   "era": "1980s",
+   "text": "About 54 hawker centres were built across the island in these six years.",
+   "sources": [
+    [
+     "Roots MUSE",
+     "https://www.roots.gov.sg/muse/articles/hawker-matters-a-history-of-hawking-in-singapore"
+    ],
+    [
+     "Roots: Serving Up a Legacy",
+     "https://www.roots.gov.sg/stories-landing/stories/serving-up-a-legacy"
+    ]
+   ]
+  },
+  {
+   "id": "f36",
+   "when": "1982",
+   "era": "1980s",
+   "text": "Long Beach Seafood says it created black pepper crab that year, the year it was incorporated; Tatler says only the 1980s.",
+   "sources": [
+    [
+     "Long Beach Seafood",
+     "https://longbeachseafood.com.sg/corporate/"
+    ],
+    [
+     "KrisShop, 2020",
+     "https://www.krisshop.com/en/the-edit/origins-of-singapores-iconic-crab-dishes"
+    ],
+    [
+     "Tatler",
+     "https://www.tatlerasia.com/profile/long-beach-seafood"
+    ]
+   ]
+  },
+  {
+   "id": "f37",
+   "when": "1982 to 1992",
+   "era": "1980s",
+   "text": "Free seating was the rule by 1982, when the Ministry of the Environment said hawkers had twice been told of it, but some stallholders still shooed off diners who bought elsewhere, and People's Park, the last holdout, only switched in 1992.",
+   "sources": [
+    [
+     "NewspaperSG: New Nation, 23 July 1982",
+     "https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19820723-1.2.23.1"
+    ],
+    [
+     "NewspaperSG: Straits Times, 14 January 1992",
+     "https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920114-1.2.7.1.2"
+    ]
+   ]
+  },
+  {
+   "id": "f38",
+   "when": "1980s",
+   "era": "1980s",
+   "text": "The Ministry of the Environment hired contract cleaners to clear crockery and leftover food from hawker centre tables.",
+   "sources": [
+    [
+     "Roots: The View from Above",
+     "https://www.roots.gov.sg/stories-landing/stories/hawker-centres-the-view-from-above/story"
+    ]
+   ]
+  },
+  {
+   "id": "f39",
+   "when": "1986",
+   "era": "1980s",
+   "text": "The resettlement ended with about 18,000 street hawkers in permanent centres, the last 80 coming from China Square and Haw Par Villa; sources differ on the count, with BiblioAsia giving 113 centres and a Centre for Liveable Cities case study giving 135 built from 1971 to 1985.",
+   "sources": [
+    [
+     "BiblioAsia",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ],
+    [
+     "Development Asia",
+     "https://development.asia/case-study/hawker-centers-serving-affordable-food-all"
+    ]
+   ]
+  },
+  {
+   "id": "f40",
+   "when": "1987 and 1998",
+   "era": "today",
+   "text": "A point demerit system for hygiene offences began in 1987, and letter grades from A to D for stalls replaced it in 1998.",
+   "sources": [
+    [
+     "Roots: The View from Above",
+     "https://www.roots.gov.sg/stories-landing/stories/hawker-centres-the-view-from-above/story"
+    ],
+    [
+     "BiblioAsia",
+     "https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons"
+    ]
+   ]
+  },
+  {
+   "id": "f41",
+   "when": "8 February 2001",
+   "era": "today",
+   "text": "The earliest clear mention of tissue choping we found is a visitor's letter to TODAY headlined \"Is anyone sitting here?\", subheaded \"No, but the seat's taken anyway by a tissue pack\".",
+   "sources": [
+    [
+     "NewspaperSG: TODAY, 8 February 2001",
+     "https://eresources.nlb.gov.sg/newspapers/digitised/article/today20010208-1.2.12.1"
+    ]
+   ]
+  },
+  {
+   "id": "f42",
+   "when": "2001",
+   "era": "today",
+   "text": "The Hawker Centres Upgrading Programme began, bringing anti-slip floors, new pipes, rearranged seating and better ventilation to older centres.",
+   "sources": [
+    [
+     "Roots: The View from Above",
+     "https://www.roots.gov.sg/stories-landing/stories/hawker-centres-the-view-from-above/story"
+    ]
+   ]
+  },
+  {
+   "id": "f43",
+   "when": "2011",
+   "era": "today",
+   "text": "The government restarted hawker centre building after a pause of about 26 years, and by 2016 it planned 20 new centres by 2027.",
+   "sources": [
+    [
+     "Roots: The View from Above",
+     "https://www.roots.gov.sg/stories-landing/stories/hawker-centres-the-view-from-above/story"
+    ],
+    [
+     "Development Asia",
+     "https://development.asia/case-study/hawker-centers-serving-affordable-food-all"
+    ]
+   ]
+  },
+  {
+   "id": "f44",
+   "when": "November 2012 to 2013",
+   "era": "today",
+   "text": "NEA piloted tray return at nine hawker centres from November 2012 and extended it to 34 more from July 2013.",
+   "sources": [
+    [
+     "NEA, July 2013",
+     "https://www.nea.gov.sg/media/news/news/index/tray-return-initiative-to-roll-out-to-all-hawker-centres"
+    ]
+   ]
+  },
+  {
+   "id": "f45",
+   "when": "July 2016",
+   "era": "today",
+   "text": "Michelin's first Singapore guide gave one star each to Hong Kong Soya Sauce Chicken Rice and Noodle in Chinatown and Hill Street Tai Hwa Pork Noodle, the first street food stalls anywhere to get a star; a plate of the chicken rice cost S$2.50.",
+   "sources": [
+    [
+     "NBC News",
+     "https://www.nbcnews.com/business/business-news/singapore-street-stalls-make-dining-history-michelin-star-n615141"
+    ]
+   ]
+  },
+  {
+   "id": "f46",
+   "when": "September 2017",
+   "era": "today",
+   "text": "NEA said it has no rules against reserving seats, and pointed to \"Don't Chope Seats\" house rules at Our Tampines Hub and Tiong Bahru Market.",
+   "sources": [
+    [
+     "Mothership, September 2017",
+     "https://mothership.sg/2017/09/after-6-complaint-letters-to-straits-times-nea-highlights-no-choping-house-rules-at-2-hawker-centres/"
+    ]
+   ]
+  },
+  {
+   "id": "f47",
+   "when": "27 to 28 May 2018",
+   "era": "today",
+   "text": "Uber Eats shut down in Singapore and GrabFood launched island-wide the next day, with hawker stalls on its menu.",
+   "sources": [
+    [
+     "Eatbook: GrabFood",
+     "https://eatbook.sg/grabfood/"
+    ],
+    [
+     "TechCrunch, May 2018",
+     "https://techcrunch.com/2018/05/28/grabfood-launch-southeast-asia"
+    ]
+   ]
+  },
+  {
+   "id": "f48",
+   "when": "2021",
+   "era": "today",
+   "text": "The soya sauce chicken stall, by then known as Hawker Chan, was left out of the 1 September 2021 guide, while Hill Street Tai Hwa (in a coffee shop on Crawford Lane, not a hawker centre) is reported to have kept its star through the 2025 edition.",
+   "sources": [
+    [
+     "CNN via KVIA",
+     "https://kvia.com/entertainment/cnn-style/2021/09/02/famed-singaporean-eatery-hawker-chan-loses-its-michelin-star/"
+    ],
+    [
+     "Wikipedia",
+     "https://en.wikipedia.org/wiki/Hill_Street_Tai_Hwa_Pork_Noodle"
+    ]
+   ]
+  },
+  {
+   "id": "f49",
+   "when": "2013 or 2018, incubation stalls",
+   "era": "today",
+   "text": "New hawkers can rent a fitted-out stall at half the market rent for nine months, then three-quarters for six months; sources differ on the start, with NEA saying its support began in 2013 and a 2021 ministry reply saying the programme launched in 2018.",
+   "sources": [
+    [
+     "NEA ISP",
+     "https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/isp"
+    ],
+    [
+     "NEA, Nov 2020",
+     "https://www.nea.gov.sg/media/news/news/index/nea-to-introduce-a-new-scheme-to-facilitate-the-continued-practice-of-hawker-trade-and-transmission-of-culinary-skills-from-retiring-veteran-hawkers-to-aspiring-successors"
+    ],
+    [
+     "MSE, May 2021",
+     "https://www.mse.gov.sg/latest-news/written-reply-to-pq-on-incubation-stall-programme/"
+    ]
+   ]
+  },
+  {
+   "id": "f50",
+   "when": "January 2020 and 2021",
+   "era": "today",
+   "text": "NEA and SkillsFuture Singapore started the Hawkers' Development Programme (training, apprenticeship, then an incubation stall), and NEA announced a Hawkers Succession Scheme to pair retiring hawkers with successors, with a pilot from early 2021 (CuriosCity dates the scheme to 2022).",
+   "sources": [
+    [
+     "NEA, Nov 2020",
+     "https://www.nea.gov.sg/media/news/news/index/nea-to-introduce-a-new-scheme-to-facilitate-the-continued-practice-of-hawker-trade-and-transmission-of-culinary-skills-from-retiring-veteran-hawkers-to-aspiring-successors"
+    ],
+    [
+     "NLB CuriosCity",
+     "https://curiocity.nlb.gov.sg/digital-stories/our-hawkers-through-time/hawkers-after-independence/"
+    ]
+   ]
+  },
+  {
+   "id": "f51",
+   "when": "March 2019",
+   "era": "today",
+   "text": "Rojak, whose name is a Malay word for a mixture, joined Singapore's intangible cultural heritage inventory; there are Chinese, Malay and Indian versions, from fruit in prawn paste to deep-fried fritters with a chilli and peanut sauce.",
+   "sources": [
+    [
+     "Roots ICH: Rojak",
+     "https://www.roots.gov.sg/ich-landing/ich/rojak"
+    ]
+   ]
+  },
+  {
+   "id": "f52",
+   "when": "16 December 2020",
+   "era": "today",
+   "text": "Hawker culture became Singapore's first entry on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity, after more than 850,000 pledges of support.",
+   "sources": [
+    [
+     "NEA",
+     "https://www.nea.gov.sg/media/news/news/index/hawker-culture-is-singapore-s-first-inscription-on-unesco-s-representative-list-of-the-intangible-cultural-heritage-of-humanity"
+    ],
+    [
+     "UNESCO",
+     "https://ich.unesco.org/en/RL/hawker-culture-in-singapore-community-dining-and-culinary-practices-in-a-multicultural-urban-context-01568"
+    ]
+   ]
+  },
+  {
+   "id": "f53",
+   "when": "2019 nomination",
+   "era": "today",
+   "text": "The nomination counted about 6,000 hawkers in over 110 centres, said more than half were second or third generation, and cited a 2018 survey in which 90 percent agreed hawker centres bring people of all backgrounds together.",
+   "sources": [
+    [
+     "UNESCO nomination form",
+     "https://ich.unesco.org/doc/src/47966-EN.doc"
+    ]
+   ]
+  },
+  {
+   "id": "f54",
+   "when": "1 September 2021",
+   "era": "today",
+   "text": "Clearing your own tray and table became compulsory at hawker centres after a three-month advisory period, with a written warning for a first offence and fines for repeat offenders.",
+   "sources": [
+    [
+     "NEA, May 2021",
+     "https://www.nea.gov.sg/media/news/news/index/mandatory-for-diners-to-return-dirty-trays-crockery-and-clean-table-litter-at-hawker-centres-coffeeshops-and-food-courts"
+    ]
+   ]
+  },
+  {
+   "id": "f55",
+   "when": "April 2024",
+   "era": "today",
+   "text": "After tray return became compulsory, the share of diners returning trays rose from 65% in August 2021 to 93%.",
+   "sources": [
+    [
+     "NEA, June 2024",
+     "https://www.nea.gov.sg/media/news/advisories/index/cleaner-tables-in-hawker-centres-and-coffeeshops"
+    ]
+   ]
+  },
+  {
+   "id": "f56",
+   "when": "4 March 2026",
+   "era": "today",
+   "text": "Deliveroo left Singapore after about 11 years, leaving GrabFood and foodpanda as the apps whose riders collect from hawker stalls.",
+   "sources": [
+    [
+     "Eatbook, 2026",
+     "https://eatbook.sg/deliveroo-closure/"
+    ],
+    [
+     "Marketing-Interactive",
+     "https://www.marketing-interactive.com/deliveroo-to-exit-singapore-platform-to-go-offline-after-4-march"
+    ]
+   ]
+  },
+  {
+   "id": "f57",
+   "when": "Chicken rice",
+   "era": null,
+   "text": "cooking the rice with pandan leaves is a Singapore addition, and Cantonese cooks brought in younger birds and the ice-water plunge for smoother skin.",
+   "sources": [
+    [
+     "Roots ICH: Chicken Rice",
+     "https://www.roots.gov.sg/ich-landing/ich/chicken-rice"
+    ]
+   ]
+  },
+  {
+   "id": "f58",
+   "when": "Char kway teow",
+   "era": null,
+   "text": "it began as a cheap, filling meal for manual labourers, and hawkers later switched from duck eggs to chicken eggs as duck eggs became scarce.",
+   "sources": [
+    [
+     "Roots ICH: Char Kway Teow",
+     "https://www.roots.gov.sg/ich-landing/ich/char-kway-teow"
+    ]
+   ]
+  },
+  {
+   "id": "f59",
+   "when": "Satay",
+   "era": null,
+   "text": "skewered meat grilled over charcoal, served with onions, ketupat rice cakes and a spicy peanut sauce.",
+   "sources": [
+    [
+     "Roots collection: Satay Club",
+     "https://www.roots.gov.sg/Collection-Landing/listing/1191579"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2159 @@
+{
+  "generated": "2026-10-07",
+  "centres": [
+    {
+      "neaName": "Maxwell Food Centre (Kim Hua Market)",
+      "displayName": "Maxwell Food Centre",
+      "opened": "Built 1928 and opened as a wet market (Maxwell Market, also called Kim Hua Market) in 1929 per Roots; Wikipedia gives an opening date of 17 November 1928. Converted to a food centre in 1987 and renamed Maxwell Food Centre in 2001 after renovation. NEA's dataset lists 1935.",
+      "look": {
+        "summary": "A low, open-sided food pavilion made of linked single-storey sheds with sloping tan roofs and peach and orange gable ends, set among big shade trees at the edge of Chinatown with office towers rising behind. Inside, long aisles of stalls with lit signboards face rows of fixed tables, and the sides stay open to the street and the breeze.",
+        "layout": "Single-storey, open-sided hall of linked pitched-roof blocks, with stall rows along long covered aisles and seating between them",
+        "roof": "Pitched sheet roofs in a tan or light brown finish with raised clerestory skylight strips; gable ends carry a round vent window",
+        "materials": [
+          "concrete columns",
+          "sheet metal roofing",
+          "glazed clerestory skylights",
+          "painted rendered walls",
+          "green steel railings"
+        ],
+        "colours": [
+          "tan roof",
+          "peach and cream walls",
+          "orange columns and trim",
+          "green fascia sign with red neon script lettering"
+        ],
+        "features": [
+          "a long queue for Tian Tian chicken rice that Michelin says can stretch out of the centre along a covered walkway",
+          "gable ends with a round porthole vent",
+          "an NEA heritage signboard about the site's history",
+          "a site that was once a 1920s wet market, used for a post-war cheap-meals canteen"
+        ],
+        "timeOfDay": "Weekday lunch for office workers, plus tourists through the day",
+        "surroundings": "CBD and Tanjong Pagar office towers, Chinatown shophouses, trees and a wide road edge at the corner of Maxwell Road and South Bridge Road"
+      },
+      "knownFor": [
+        {
+          "dish": "Hainanese chicken rice",
+          "note": "Tian Tian Hainanese Chicken Rice holds a Michelin Bib Gourmand and became world famous after Anthony Bourdain called it his favourite place for the dish.",
+          "sources": [
+            "https://guide.michelin.com/en/article/dining-out/michelin-hawker-guide-chinatown-complex",
+            "https://en.wikipedia.org/wiki/Maxwell_Food_Centre"
+          ]
+        },
+        {
+          "dish": "Fuzhou oyster cake",
+          "note": "Pang Siew Ting began frying Fuzhou oyster cakes in the 1960s, and her children now run Maxwell Fuzhou Oyster Cake, which the Michelin Guide lists; each cake is fried to order with oysters, prawns and minced pork in a crisp shell.",
+          "sources": [
+            "https://guide.michelin.com/th/en/singapore-region/singapore/restaurant/maxwell-fuzhou-oyster-cake",
+            "https://sethlui.com/maxwell-fuzhou-oyster-cake-singapore/"
+          ]
+        },
+        {
+          "dish": "Cantonese porridge (congee)",
+          "note": "Zhen Zhen Porridge at Maxwell is featured in the Michelin Guide's list of places for comforting congee, with fish, pork and century egg versions.",
+          "sources": [
+            "https://guide.michelin.com/en/article/dining-out/the-breakfast-club-7-places-for-comforting-congee"
+          ]
+        },
+        {
+          "dish": "Ngoh hiang (five-spice meat rolls and fritters)",
+          "note": "China Street Fritters began as a street stall in 1942, moved into Maxwell in 1987 and made its ngoh hiang by hand until it closed there in 2022 for lack of a successor (it later reopened in Telok Blangah).",
+          "sources": [
+            "https://ieatishootipost.sg/china-street-fritters-four-colours-one",
+            "https://mothership.sg/2022/06/china-street-fritters-sale//amp",
+            "https://littlebigreddot.com/china-street-fritters-reopens/"
+          ]
+        },
+        {
+          "dish": "Ham chim peng (fried dough buns)",
+          "note": "Wikipedia lists ham chim peng among Maxwell's well-known foods; a long-running ham chim peng stall here reportedly closed after about 40 years.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Maxwell_Food_Centre",
+            "https://littlebigreddot.com/?p=23579"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The land was a Chinese burial ground cleared in 1907, and the market building was finished in 1928 and opened for trade in 1929.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/maxwell-road-food-centre"
+          ]
+        },
+        {
+          "fact": "Soon after opening it lost trade to street hawkers, so cooked food stalls and eating tables were added around 1929 to 1930.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/maxwell-road-food-centre"
+          ]
+        },
+        {
+          "fact": "From December 1946 the market housed the first of the Social Welfare Department's 'Family Restaurants', which sold cheap meals at eight cents to poor and displaced residents.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/maxwell-road-food-centre"
+          ]
+        },
+        {
+          "fact": "In 1986 about 70 street hawkers from China Square were moved in to join 22 cooked food stalls already there, and in 1987 the market was formally converted into a food centre.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/maxwell-road-food-centre",
+            "https://roots.gov.sg/places/places-landing/Places/surveyed-sites/maxwell-road-food-centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Maxwell_Food_Centre,_2024_(01).jpg",
+          "credit": "Bahnfrend, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Maxwell_Food_Centre,_external_view.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Maxwell_Food_Centre_heritage_signboard_-_2022-08-13.jpg",
+          "credit": "Wzhkevin, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        }
+      ],
+      "confidence": "high: history from NHB Roots; dishes from Michelin Guide pages (read via search summaries, as Michelin blocks direct reads) and food press; look based on the Commons photos listed"
+    },
+    {
+      "neaName": "Smith Street Blk 335 (Chinatown Complex Market)",
+      "displayName": "Chinatown Complex Market and Food Centre",
+      "opened": "Built in 1981 as the Kreta Ayer Complex (Roots, NEA); the last Chinatown street hawkers moved in during October 1983; renamed Chinatown Complex in 1984. NEA's dataset lists 1983.",
+      "look": {
+        "summary": "A large multi-storey concrete complex at the foot of HDB slab blocks, with red columns, yellow walls, Chinese lantern lamps and broad steps at its street entrances. The food centre fills the whole second floor: a dense grid of hundreds of stalls with green and white tiled pillars, big wall fans, red paper lanterns and glowing menu boards.",
+        "layout": "Multi-storey complex: wet market in the basement, sundry shops on the ground floor, food centre on level 2, car parking on levels 4 and 5",
+        "roof": "Mostly flat concrete decks with car parks above; the design brief added Chinese elements such as pitched roofs, clay tiles and a rooftop garden",
+        "materials": [
+          "reinforced concrete",
+          "ceramic wall and pillar tiles",
+          "clay tiles",
+          "steel handrails"
+        ],
+        "colours": [
+          "red columns",
+          "yellow walls",
+          "white upper storeys",
+          "green and white tiled pillars inside",
+          "red lanterns"
+        ],
+        "features": [
+          "more than 700 stalls in the whole complex, which NEA describes as Singapore's largest hawker centre",
+          "Chinese design touches: pavilions, arches, motifs, clay tiles and tall windows",
+          "an airwell and a small shrine inside the complex",
+          "one of the two stalls that received the first Michelin stars given to hawkers, in 2016"
+        ],
+        "timeOfDay": "Lunch and dinner, with locals, office workers and tourists",
+        "surroundings": "Chinatown shophouse streets (Smith, Trengganu, Pagoda and Temple Streets) and HDB residential blocks"
+      },
+      "knownFor": [
+        {
+          "dish": "Soya sauce chicken rice",
+          "note": "Chan Hon Meng's Liao Fan Hong Kong Soya Sauce Chicken Rice & Noodle was one of the first two street food stalls in the world to win a Michelin star in 2016, lost it in 2021 and moved to the Bib Gourmand list.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Hawker_Chan",
+            "https://www.herworld.com/life/foodanddrink/best-hawker-stalls-chinatown-complex-food-centre"
+          ]
+        },
+        {
+          "dish": "Claypot rice",
+          "note": "Lian He Ben Ji Claypot has cooked each pot over charcoal since 1979 and is a Michelin Bib Gourmand awardee.",
+          "sources": [
+            "https://www.herworld.com/life/foodanddrink/best-hawker-stalls-chinatown-complex-food-centre",
+            "https://guide.michelin.com/en/article/dining-out/michelin-hawker-guide-chinatown-complex"
+          ]
+        },
+        {
+          "dish": "Popiah (fresh spring rolls)",
+          "note": "Ann Chin Popiah, founded in the 1940s, makes its thin skins by hand and was given a Michelin Plate in 2019.",
+          "sources": [
+            "https://www.herworld.com/life/foodanddrink/best-hawker-stalls-chinatown-complex-food-centre"
+          ]
+        },
+        {
+          "dish": "Xiao long bao and la mian",
+          "note": "Zhong Guo La Mian Xiao Long Bao is a long-standing favourite here for soup dumplings and hand-pulled noodles.",
+          "sources": [
+            "https://www.herworld.com/life/foodanddrink/best-hawker-stalls-chinatown-complex-food-centre"
+          ]
+        },
+        {
+          "dish": "Satay",
+          "note": "168 CMY Satay at the centre is listed in the Michelin Guide.",
+          "sources": [
+            "https://www.herworld.com/life/foodanddrink/best-hawker-stalls-chinatown-complex-food-centre",
+            "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/168-cmy-satay"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The complex was built in 1981 during Chinatown's urban renewal to house the area's remaining street hawkers.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chinatown-complex-market-food-centre",
+            "https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres"
+          ]
+        },
+        {
+          "fact": "In October 1983 about 300 street hawkers from the surrounding streets moved into the newly finished $18 million complex.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chinatown-complex-market-food-centre"
+          ]
+        },
+        {
+          "fact": "Its designers added Chinese touches such as pavilions, arches, clay tiles and pitched roofs so the block would fit the look of old Chinatown.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chinatown-complex-market-food-centre"
+          ]
+        },
+        {
+          "fact": "After a major renovation it reopened in 2008 with more than 700 stalls.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chinatown-complex-market-food-centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Chinatown_Complex_Market_and_Food_Centre,_exterior.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Chinatown_Complex_Food_Centre_(12849049294).jpg",
+          "credit": "KimonBerlin, via Wikimedia Commons",
+          "licence": "CC BY-SA 2.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Chinatown_Complex_Market_and_Food_Centre,_airwell.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        }
+      ],
+      "confidence": "high: history and layout from NHB Roots and NEA; dishes from Wikipedia and food press, with Michelin status as reported there; look based on the Commons photos listed"
+    },
+    {
+      "neaName": "Old Airport Road Blk 51 (51 Old Airport Road Food Centre and Shopping Mall)",
+      "displayName": "Old Airport Road Food Centre",
+      "opened": "1972 according to NHB Roots (built under the Kallang Airport Estate redevelopment); 1973 according to the NEA dataset and Time Out. Sources disagree by one year.",
+      "look": {
+        "summary": "A long, two-level, flat-roofed concrete block with the hawker stalls on the ground floor and shops and civic services on the upper floor, set on a lawn among tall HDB blocks. Recent photos show a pale facade with a band of bold triangle murals in red, yellow, green and blue along the upper level, outdoor tables under umbrellas and strings of lights at dusk.",
+        "layout": "Two-level block: about 176 food stalls on the ground floor when built, with 136 shop units, a post office branch and a POSB ATM on the upper floor (an 'Emporium-cum-Hawker Centre'). Open sides at ground level, with external staircases to the upper floor.",
+        "roof": "Flat roof on a concrete frame, the style NHB says matched 1960s and 1970s new town food centres such as Woodlands and Commonwealth Avenue.",
+        "materials": [
+          "painted concrete",
+          "concrete columns",
+          "terracotta-red paving outside",
+          "metal railings"
+        ],
+        "colours": [
+          "off-white and pale grey walls",
+          "triangle mural band in red, yellow, green and blue (2025 photo)",
+          "staircase painted in red, yellow and blue bands (2017 photo)",
+          "red paving"
+        ],
+        "features": [
+          "Sits on land that was once the runway of Kallang Airport",
+          "Very large: about 1,904 seats after the 2006 to 2007 upgrade",
+          "Outdoor tables under umbrellas along the front, with fairy lights at night",
+          "External staircases up to the shops on level 2",
+          "High-speed fans added in the 2024 refurbishment",
+          "Block number 51 shown on the facade"
+        ],
+        "timeOfDay": "Lunch and dinner crowds; NHB notes it became a supper stop for people heading home from a night out in town.",
+        "surroundings": "Tall HDB tower blocks of the old Kallang Airport estate, large rain trees and a grassy verge along Old Airport Road."
+      },
+      "knownFor": [
+        {
+          "dish": "Hokkien fried prawn noodles",
+          "note": "Nam Sing Hokkien Fried Mee holds a Michelin Bib Gourmand and has served only this one dish, noodles fried in a prawn shell broth, since 1960.",
+          "sources": [
+            "https://guide.michelin.com/th/en/singapore-region/singapore/restaurant/nam-sing-hokkien-fried-mee"
+          ]
+        },
+        {
+          "dish": "Char kway teow",
+          "note": "Lao Fu Zi Fried Kway Teow appears on the Michelin Bib Gourmand lists for 2019 and 2021.",
+          "sources": [
+            "https://www.timeout.com/singapore/news/michelin-bib-gourmand-2019-58-recipients-and-12-new-entrants-make-the-list-091019",
+            "https://eatbook.sg/michelin-bib-gourmand-2021/"
+          ]
+        },
+        {
+          "dish": "Kway chap (rice sheets with braised pork and offal)",
+          "note": "To-Ricos Guo Shi was a new Bib Gourmand entry in 2019 for its flat rice noodles with pork belly, intestine and tofu braised in spiced soy.",
+          "sources": [
+            "https://guide.michelin.com/my/en/singapore-region/singapore/restaurant/to-ricos-guo-shi",
+            "https://www.timeout.com/singapore/news/michelin-bib-gourmand-2019-58-recipients-and-12-new-entrants-make-the-list-091019"
+          ]
+        },
+        {
+          "dish": "Lor mee",
+          "note": "Xin Mei Xiang Zheng Zong Lor Mee is a well-known stall here that often sells out early, serving noodles in thick, vinegary braising gravy with fish and braised pork.",
+          "sources": [
+            "https://www.womensweekly.com.sg/food/old-airport-road-food-centre-10-best-hawker-stalls",
+            "https://www.treksplorer.com/old-airport-road-food-centre-singapore/"
+          ]
+        },
+        {
+          "dish": "Rojak",
+          "note": "Toa Payoh Rojak is often recommended here for its mix of fruit, vegetables and dough fritters in prawn paste and tamarind dressing with crushed peanuts.",
+          "sources": [
+            "https://www.womensweekly.com.sg/food/old-airport-road-food-centre-10-best-hawker-stalls",
+            "https://www.treksplorer.com/old-airport-road-food-centre-singapore/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The centre was built to give permanent space to street hawkers around Kallang Airport Estate, a housing estate laid out on the runway of the old Kallang Airport after the airport closed in 1955.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/blk-51-old-airport-road"
+          ]
+        },
+        {
+          "fact": "In 1973 a stall here, Khoon Kee Chicken Rice, won Singapore's first competition for the cleanest cooked food stall, sponsored by the Rotary Club.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/blk-51-old-airport-road"
+          ]
+        },
+        {
+          "fact": "A 5.8 million dollar upgrade in 2006 to 2007, the largest of NEA's Hawker Centre Upgrading Programme at the time, raised seating to about 1,904.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/blk-51-old-airport-road"
+          ]
+        },
+        {
+          "fact": "The centre closed from June to September 2024 for repairs and reopened on 1 October 2024 with new tables and stools, high-speed fans, refurbished toilets and fresh paint.",
+          "sources": [
+            "https://www.timeout.com/singapore/news/old-airport-road-food-centre-reopens-after-four-months-2024-100224"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:51_Old_Airport_Road_Food_Centre,_exterior.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Old_Aiport_Road_Food_Centre.jpg",
+          "credit": "Littlemisshy at English Wikipedia, Wikimedia Commons (2017)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://nas.gov.sg/archivesonline/photographs/record-details/3f111559-1162-11e3-83d5-0050568939ad",
+          "credit": "National Archives of Singapore (record titled 'Dr Tony Tan tours Katong/Mountbatten constituencies', 1983, showing the food centre)",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "high: NHB Roots has a dedicated story page; Michelin and Time Out confirm stalls and the 2024 works. Opening year differs between NHB (1972) and NEA (1973)."
+    },
+    {
+      "neaName": "Buffalo Road Blk 665 (Tekka Centre/Zhu Jiao Market)",
+      "displayName": "Tekka Centre (Tekka Market and Food Centre)",
+      "opened": "Original Tekka (Kandang Kerbau) Market opened 1915 across the road. The present Buffalo Road complex: NEA dataset says 1980; NHB Roots says stallholders moved in on 3 May 1981; another NHB page and Wikipedia say 1982.",
+      "look": {
+        "summary": "A big, low podium block in Little India sitting under three tall residential towers, with a wet market and hawker centre on the ground floor and clothing and tailoring shops above. Since a 2023 refresh the street front is painted purple with stripes of yellow, green and orange, and a scalloped arcade runs along the entrance; inside, long rows of orange tables sit under a low ceiling with maroon columns.",
+        "layout": "Ground floor holds the hawker centre wrapped around a wet market (meat, seafood, vegetables); the upper floor has shops selling Indian garments, religious items and tailoring. Residential tower blocks rise above the podium.",
+        "roof": "Concrete podium slab with residential towers above; the dining hall is under a flat concrete ceiling with exposed ducts and pendant lamps.",
+        "materials": [
+          "painted concrete",
+          "ceramic floor tiles",
+          "metal louvres on the facade",
+          "metal shutters on stalls"
+        ],
+        "colours": [
+          "purple facade with yellow, green and orange stripes (repainted 2023, previously bright blue)",
+          "earlier facade described by NHB as splashes of green, yellow, orange and blue",
+          "orange table tops",
+          "maroon columns"
+        ],
+        "features": [
+          "Signboard in English, Tamil, Malay and Chinese",
+          "Wet market on the same floor as the food stalls",
+          "Indian Muslim biryani and prata stalls with long queues",
+          "Indian vegetarian meals served on banana leaves or steel trays",
+          "Bird netting and larger fans installed in 2023",
+          "Next to Little India MRT station"
+        ],
+        "timeOfDay": "Morning wet-market hours through the lunch rush, when biryani queues form.",
+        "surroundings": "Little India: Serangoon Road, Buffalo Road, shophouses, Little India Arcade and HDB towers."
+      },
+      "knownFor": [
+        {
+          "dish": "Biryani",
+          "note": "Allauddin's Briyani is listed in the Michelin Guide Singapore and is known for its mutton biryani and long queues.",
+          "sources": [
+            "https://wonderwall.sg/food/go-there-eat-what-tekka-market-food-centre"
+          ]
+        },
+        {
+          "dish": "Prawn noodles",
+          "note": "545 Whampoa Prawn Noodles, run by a third-generation hawker, appears in the Michelin Guide and serves noodles with prawns, pork and a rich prawn broth.",
+          "sources": [
+            "https://guide.michelin.com/kr/ko/singapore-region/singapore/restaurant/545-whampoa-prawn-noodles",
+            "https://wonderwall.sg/food/go-there-eat-what-tekka-market-food-centre"
+          ]
+        },
+        {
+          "dish": "Murtabak and roti prata",
+          "note": "Lonely Planet singles out Ar Rahman Royal Prata here for murtabak, the stuffed savoury pancake.",
+          "sources": [
+            "https://www.lonelyplanet.com/points-of-interest/tekka-centre/1221892"
+          ]
+        },
+        {
+          "dish": "Thosai (dosa)",
+          "note": "Thin lentil and rice pancakes are among the South Indian staples visitors queue for here.",
+          "sources": [
+            "https://www.lonelyplanet.com/points-of-interest/tekka-centre/1221892"
+          ]
+        },
+        {
+          "dish": "Indian vegetarian rice meals",
+          "note": "Stalls serve vegetarian meals on banana leaves or stainless steel platters alongside North Indian, Malay and Chinese vegetarian food.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Tekka_Centre"
+          ]
+        },
+        {
+          "dish": "Teh tarik",
+          "note": "Pulled milk tea is a standard order alongside biryani and prata at Tekka.",
+          "sources": [
+            "https://www.lonelyplanet.com/points-of-interest/tekka-centre/1221892"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The first market here, Kandang Kerbau Market, opened in 1915 with a colonial-style building of arches and ornate steelwork designed by Municipal Engineer Robert Peirce.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tekka-market"
+          ]
+        },
+        {
+          "fact": "The new complex first carried the name Buffalo Road Market and Cooked Food Centre, was renamed Zhujiao Centre in November 1981 under the push to use Hanyu Pinyin names, and became Tekka Centre in 2000 after residents objected.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tekka-market"
+          ]
+        },
+        {
+          "fact": "The name Tekka comes from the Hokkien for 'foot of the small bamboos', after bamboo that once grew along the Rochor Canal.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Tekka_Centre",
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tekka-market"
+          ]
+        },
+        {
+          "fact": "The centre closed for upgrading in 2008 and reopened in 2009, then shut again from July to October 2023 for repairs that added a purple paint scheme, bigger fans and bird netting.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Tekka_Centre",
+            "https://sethlui.com/tekka-centre-reopens-singapore-oct-2023/"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tekka_Centre_entrance,_evening.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tekka_Centre,_dining_area.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tekka_Centre.JPG",
+          "credit": "Terence Ong, Wikimedia Commons (2006, shows the older look)",
+          "licence": "CC BY 2.5"
+        },
+        {
+          "url": "https://www.nas.gov.sg/archivesonline/photographs/record-details/d3bbfd46-1161-11e3-83d5-0050568939ad",
+          "credit": "National Archives of Singapore (record titled 'Scene view from new hawker centre which previously was the site of Kandang Kerbau Post Office in Serangoon Rd')",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "high for history and look (NHB Roots story page, Wikipedia, 2023 news and recent photos); medium for dishes, which rely on food media and a Michelin listing. Opening year of the current building varies by source (1980, 1981, 1982)."
+    },
+    {
+      "neaName": "Newton Food Centre",
+      "displayName": "Newton Food Centre (Newton Circus)",
+      "opened": "1971 (opened 1 January 1971 as Newton Circus Hawker Centre per Wikipedia; NHB gives 1971); closed in 2005 and rebuilt, reopened 1 July 2006",
+      "look": {
+        "summary": "A low horseshoe of hawker stalls under pitched, clay tiled roofs wraps around an open central courtyard of stone paving, tables and tropical planting. The 2006 rebuild borrowed its roofs from the colonial terrace houses on nearby Monk's Hill Terrace, so it reads like a garden village of stalls rather than a hall.",
+        "layout": "Single storey; stalls arranged in a horseshoe around a central open courtyard, with most seats under the stall roofs or under umbrellas. The 1971 original was seven separate blocks of eight stalls in a garden setting.",
+        "roof": "Pitched roofs with clay roof tiles (2006 rebuild, modelled on Monk's Hill Terrace houses); the 1971 original had colourful nylon roofs",
+        "materials": [
+          "clay roof tiles",
+          "dark timber fascia boards",
+          "stone paving",
+          "concrete and tiled tables with fixed stools",
+          "fabric umbrellas"
+        ],
+        "colours": [
+          "terracotta red roof tiles",
+          "dark brown timber trim",
+          "cream umbrellas",
+          "pale grey and beige paving",
+          "green palms and shrubs (as seen in the 2006 Wikimedia Commons photo)"
+        ],
+        "features": [
+          "horseshoe of stalls around an open courtyard",
+          "palms, nutmeg, pepper and other plantation plants around the edge",
+          "BBQ seafood stalls grilling sambal stingray on banana leaf",
+          "the hawker scene in Crazy Rich Asians (2018) was filmed here",
+          "satay smoke in the evening"
+        ],
+        "timeOfDay": "Evening and late night dinner and supper; popular with tourists",
+        "surroundings": "Newton Circus road junction near Clemenceau Avenue North, big shady trees, and the colonial era terrace houses of Monk's Hill Terrace nearby"
+      },
+      "knownFor": [
+        {
+          "dish": "BBQ sambal stingray",
+          "note": "Michelin describes grilled sambal stingray on banana leaf as a dish said to have started at Newton, and Alliance Seafood here holds a Bib Gourmand for its barbecued seafood.",
+          "sources": [
+            "https://guide.michelin.com/en/article/dining-out/super-series-sambal-bbq-stingray",
+            "https://guide.michelin.com/en/singapore-region/singapore/restaurant/alliance-seafood"
+          ]
+        },
+        {
+          "dish": "Oyster omelette",
+          "note": "Hup Kee Fried Oyster Omelette, which began as a street stall about 50 years ago, holds a Bib Gourmand, and in 1978 a Newton oyster omelette stall was picked by the tourism board for its Rasa Singapura food centre.",
+          "sources": [
+            "https://guide.michelin.com/en/singapore-region/singapore/restaurant/hup-kee-fried-oyster-omelette",
+            "https://www.roots.gov.sg/stories-landing/stories/Hawker-Centres/Newton-Circus-Food-Centre"
+          ]
+        },
+        {
+          "dish": "Satay",
+          "note": "Satay and sambal stingray with beer are what the characters eat in the Crazy Rich Asians hawker scene filmed here.",
+          "sources": [
+            "https://guide.michelin.com/en/article/dining-out/michelin-listed-restaurants-that-crazy-rich-asians-may-have-dined-at",
+            "https://en.wikipedia.org/wiki/Newton_Food_Centre"
+          ]
+        },
+        {
+          "dish": "Fried carrot cake (chai tow kway)",
+          "note": "Heng, a Bib Gourmand stall run by an owner with over 50 years of experience, fries both the white (egg) and black (sweet soy) versions.",
+          "sources": [
+            "https://guide.michelin.com/en/singapore-region/singapore/restaurant/heng"
+          ]
+        },
+        {
+          "dish": "Black pepper crab and cooked to order seafood",
+          "note": "Michelin lists black pepper crab among the classics sold in Newton's rows of stalls, and Alliance Seafood offers sambal, black pepper or salted egg yolk sauces.",
+          "sources": [
+            "https://guide.michelin.com/en/best-of/the-best-hawker-centers-in-singapore-and-what-to-order",
+            "https://guide.michelin.com/en/singapore-region/singapore/restaurant/alliance-seafood"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "Street hawkers gathered at the Newton crossroads from the 1950s, and a weekly bazaar there became so popular that by 1960 it ran three nights a week.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/Hawker-Centres/Newton-Circus-Food-Centre"
+          ]
+        },
+        {
+          "fact": "When it opened in 1971 it was Singapore's first hawker centre built without a wet market, laid out as hawker stalls in a garden setting to suit the garden city image.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/Hawker-Centres/Newton-Circus-Food-Centre",
+            "https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres"
+          ]
+        },
+        {
+          "fact": "It was built to take in street hawkers moved off Koek Road and the Orchard Road car park, the night food spot known as Glutton's Square.",
+          "sources": [
+            "https://www.roots.gov.sg/places/places-landing/places/surveyed-sites/newton-food-centre"
+          ]
+        },
+        {
+          "fact": "A 1982 survey found it was the second most popular eating place in Singapore with 7,309 daily patrons; it was rebuilt from 2005 and reopened on 1 July 2006.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/Hawker-Centres/Newton-Circus-Food-Centre",
+            "https://en.wikipedia.org/wiki/Newton_Food_Centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Newton_Food_Centre,_Aug_06.JPG",
+          "credit": "User:Sengkang, Wikimedia Commons",
+          "licence": "Copyrighted free use (as tagged on Wikimedia Commons)"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Old_Newton_Food_Centre.jpg",
+          "credit": "Aran Ho Yeow Yong, Wikimedia Commons",
+          "licence": "Public domain (as tagged on Wikimedia Commons)"
+        },
+        {
+          "url": "https://www.nas.gov.sg/archivesonline/photographs/record-details/8a94285b-1162-11e3-83d5-0050568939ad",
+          "credit": "Singapore Tourism Board Collection, courtesy of National Archives of Singapore (roti prata stall at Newton Circus Hawker Centre, 1990 to 1994)",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "high: NHB Roots story and surveyed site page plus Michelin listings agree on years, layout and dishes"
+    },
+    {
+      "neaName": "Chomp Chomp Food Centre",
+      "displayName": "Chomp Chomp Food Centre",
+      "opened": "May 1972 (NHB Roots); NEA lists 1972",
+      "look": {
+        "summary": "A small, low food centre of 36 stalls in the middle of a quiet landed housing estate, with a pitched roof on exposed timber rafters over long rows of tables. At night it glows with lit stall signboards, wall fans and smoke from the barbecue and wok stalls.",
+        "layout": "Single storey; stalls line the edges with a covered seating area in the middle; a roof over the customer seating was added in 1998",
+        "roof": "Pitched roof with exposed timber rafters and beams over the seating (seen in a 2013 photo); seating roof built in 1998",
+        "materials": [
+          "timber roof rafters",
+          "terracotta floor tiles",
+          "wooden benches",
+          "stainless steel stall counters",
+          "wall mounted fans"
+        ],
+        "colours": [
+          "terracotta floor tiles",
+          "yellow table tops",
+          "dark timber ceiling",
+          "bright backlit stall signboards (as seen in the 2013 Wikimedia Commons photo)"
+        ],
+        "features": [
+          "only comes alive in the evening",
+          "sambal stingray and chicken wing barbecue smoke",
+          "giant mugs of sugarcane juice",
+          "wall fans everywhere (more were added in a later renovation)",
+          "long queues at the Hokkien mee stall"
+        ],
+        "timeOfDay": "Evening and supper only, roughly 6pm to midnight",
+        "surroundings": "Serangoon Gardens, a private estate completed in 1956 on a former rubber plantation, on Kensington Park Road near Farleigh Avenue and Serangoon Garden Way"
+      },
+      "knownFor": [
+        {
+          "dish": "Hokkien mee",
+          "note": "Ah Hock Fried Hokkien Noodles, listed by Michelin, fries a drier version with thin rice vermicelli and draws long queues.",
+          "sources": [
+            "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/ah-hock-fried-hokkien-noodles",
+            "https://www.timeout.com/singapore/restaurants-and-cafes/chomp-chomp-food-centre"
+          ]
+        },
+        {
+          "dish": "BBQ sambal stingray",
+          "note": "Michelin names Chomp Chomp as a sambal stingray destination and features Hai Wei Yuan BBQ here for supper.",
+          "sources": [
+            "https://guide.michelin.com/en/article/dining-out/super-series-sambal-bbq-stingray",
+            "https://www.timeout.com/singapore/restaurants-and-cafes/chomp-chomp-food-centre"
+          ]
+        },
+        {
+          "dish": "Satay",
+          "note": "Chomp Chomp Satay received a Michelin Plate in 2018 and is still listed in the guide.",
+          "sources": [
+            "https://guide.michelin.com/us/en/singapore-region/singapore/restaurant/chomp-chomp-satay"
+          ]
+        },
+        {
+          "dish": "BBQ chicken wings",
+          "note": "Sweet grilled wings from stalls such as Good Luck Chicken Wings and Satay are a standard order here.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants-and-cafes/chomp-chomp-food-centre",
+            "https://sethlui.com/chomp-chomp-singapore/"
+          ]
+        },
+        {
+          "dish": "Fried carrot cake and oyster omelette",
+          "note": "Time Out singles out the carrot cake at stall 36 and the fried oyster at Ang Sa Lee.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants-and-cafes/chomp-chomp-food-centre"
+          ]
+        },
+        {
+          "dish": "Sugarcane juice",
+          "note": "Drinks stalls sell sugarcane juice in giant mugs and three litre towers to go with the barbecue.",
+          "sources": [
+            "https://sethlui.com/chomp-chomp-singapore/",
+            "https://www.timeout.com/singapore/restaurants-and-cafes/chomp-chomp-food-centre"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The English name Chomp Chomp is an adaptation of the older Teochew name Tiong Tiong, meaning loyalty and righteousness.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chomp-chomp-food-centre",
+            "https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres"
+          ]
+        },
+        {
+          "fact": "It opened in May 1972 at a cost of $95,000 with 36 built in stalls, each with its own sink and neon light, to take in hawkers from the street eating spot on Kensington Park Road.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chomp-chomp-food-centre"
+          ]
+        },
+        {
+          "fact": "Stallholders went from renting to owning their stalls under the Stall Ownership Scheme in 1996, and a roof over the seating was finished in 1998.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chomp-chomp-food-centre"
+          ]
+        },
+        {
+          "fact": "It was voted Singaporeans' favourite hawker centre in the City Hawker Food Hunt between 2011 and 2013.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/chomp-chomp-food-centre",
+            "https://www.timeout.com/singapore/restaurants-and-cafes/chomp-chomp-food-centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Chomp_Chomp_Food_Centre,_Serangoon_Gardens,_Singapore_-_20131102.jpg",
+          "credit": "ProjectManhattan, Wikimedia Commons",
+          "licence": "CC0"
+        }
+      ],
+      "confidence": "high: NHB Roots story gives the history; Michelin and Time Out agree on dishes. Exterior look details are thinner"
+    },
+    {
+      "neaName": "Tiong Bahru Market",
+      "displayName": "Tiong Bahru Market",
+      "opened": "Seng Poh Road Market completed in 1950 and officially opened in 1951 (Roots, NEA); temporary market sheds on the area dated from 1940 (Roots). Wikipedia's Tiong Bahru article instead gives 1945 for the first wet market and 1955 for a larger market. Renamed Tiong Bahru Market in 1993; rebuilt 2004 to 2006. NEA's dataset lists the year as unknown.",
+      "look": {
+        "summary": "A two-storey market with rounded Art Deco corners painted white with bold red bands, a tall red drum at the entrance carrying Chinese characters, and a curved dark canopy above, wrapped around a central garden courtyard. The food centre upstairs is a wide, bright hall with pale green columns banded in blue, a white ceiling with round recessed coves, and a railed opening that looks down into the courtyard and its palms.",
+        "layout": "Two-storey block on a triangular site around a central garden courtyard: wet market and shops on level 1, food centre on level 2, roof deck with a garden and car park",
+        "roof": "Flat roof deck used as a small park and car park, with a curved dark metal canopy over the rounded corner",
+        "materials": [
+          "reinforced concrete",
+          "rendered and painted walls",
+          "horizontal louvres",
+          "floor tiles",
+          "escalators and lifts"
+        ],
+        "colours": [
+          "white",
+          "red",
+          "pale green columns with blue bands",
+          "yellow signage"
+        ],
+        "features": [
+          "Art Deco curves chosen to match the 1930s estate",
+          "a red cylindrical entrance tower with the market's Chinese name",
+          "a central courtyard garden visible from the food centre",
+          "about 85 food stalls and around 1,050 seats upstairs"
+        ],
+        "timeOfDay": "Breakfast and weekend mornings",
+        "surroundings": "The Tiong Bahru estate of 1930s Streamline Moderne Singapore Improvement Trust walk-up flats with curved balconies, plus post-war flats and cafes"
+      },
+      "knownFor": [
+        {
+          "dish": "Chwee kueh (steamed rice cakes)",
+          "note": "Jian Bo Shui Kueh has roots in this market going back to 1958, and one of its outlets has held a Bib Gourmand since 2021; its preserved radish topping is cooked fresh each morning.",
+          "sources": [
+            "https://guide.michelin.com/en/article/travel/hawker-guides-tiong-bahru-market-singapore",
+            "https://thehoneycombers.com/singapore/tiong-bahru-market-singapore/"
+          ]
+        },
+        {
+          "dish": "Hainanese chicken rice",
+          "note": "Tiong Bahru Hainanese Boneless Chicken Rice has served here since 1988 and is a Bib Gourmand recipient.",
+          "sources": [
+            "https://guide.michelin.com/en/article/travel/hawker-guides-tiong-bahru-market-singapore",
+            "https://thehoneycombers.com/singapore/tiong-bahru-market-singapore/"
+          ]
+        },
+        {
+          "dish": "Lor mee",
+          "note": "178 Lor Mee is one of the market's best-known stalls, with waits of 20 minutes or more.",
+          "sources": [
+            "https://thehoneycombers.com/singapore/tiong-bahru-market-singapore/"
+          ]
+        },
+        {
+          "dish": "Fried sotong prawn mee (Hokkien mee)",
+          "note": "Hong Heng Fried Sotong Prawn Mee is a third-generation stall with a Bib Gourmand since 2016.",
+          "sources": [
+            "https://guide.michelin.com/en/article/travel/hawker-guides-tiong-bahru-market-singapore",
+            "https://thehoneycombers.com/singapore/tiong-bahru-market-singapore/"
+          ]
+        },
+        {
+          "dish": "Pig's organ soup",
+          "note": "Koh Brother Pig's Organ Soup is a family stall dating to 1955 and a Bib Gourmand awardee.",
+          "sources": [
+            "https://guide.michelin.com/en/article/travel/hawker-guides-tiong-bahru-market-singapore",
+            "https://thehoneycombers.com/singapore/tiong-bahru-market-singapore/"
+          ]
+        },
+        {
+          "dish": "Chee cheong fun and yam cake (wu thow kou)",
+          "note": "NHB notes that the market built its name on Chinese breakfast foods such as Cantonese chee cheong fun and wu thow kou.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tiong-bahru-market-food-centre"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "Before the permanent market, traders used a row of temporary sheds put up in 1940, which were too small by the late 1940s.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tiong-bahru-market-food-centre"
+          ]
+        },
+        {
+          "fact": "Work on a new market began in 1950 and it opened in 1951 under the name Seng Poh Road Market, serving residents of the new Tiong Bahru flats.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tiong-bahru-market-food-centre",
+            "https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres"
+          ]
+        },
+        {
+          "fact": "After a full revamp in 1993 it was renamed Tiong Bahru Market.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tiong-bahru-market-food-centre"
+          ]
+        },
+        {
+          "fact": "Between 2004 and 2006 the old market was closed and replaced with a new building that borrows Art Deco touches from the surrounding estate.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/tiong-bahru-market-food-centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tiong_Bahru_Market,_exterior.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tiong_Bahru_Market,_food_centre.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Tiong_Bahru_Market,_courtyard_garden.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        }
+      ],
+      "confidence": "high: history and layout from NHB Roots and NEA; dishes from the Michelin Guide (via search summary) and Honeycombers; opening year differs between Roots (1950 to 1951) and Wikipedia (1945, 1955)"
+    },
+    {
+      "neaName": "Amoy Street Food Centre (Telok Ayer Food Centre)",
+      "displayName": "Amoy Street Food Centre",
+      "opened": "Opened 11 April 1983 and officially opened 19 July 1983 (Wikipedia; NEA dataset lists 1983)",
+      "look": {
+        "summary": "A long two-storey concrete block faced in small grey and white tiles, with open sides, curved balconies on the upper deck and round globe lamps, sitting behind a strip of large rain trees and lawn. Stalls run along both floors, and diners upstairs eat at the balcony edge looking out over the greenery to the office towers beyond.",
+        "layout": "Two-storey food centre on levels 1 and 2 of the Ministry of National Development Building Annexe B, with stall rows along both floors",
+        "roof": "Flat concrete roof edged with a row of rectangular fins along the top of the facade",
+        "materials": [
+          "reinforced concrete",
+          "small mosaic wall tiles",
+          "steel balcony railings",
+          "red brick paving outside"
+        ],
+        "colours": [
+          "grey and white tiles",
+          "yellow tiled band on a column",
+          "red brick path",
+          "green lawn and trees"
+        ],
+        "features": [
+          "curved balconies with railings on the upper floor",
+          "a double-height open front",
+          "long lunch queues upstairs for fish soup"
+        ],
+        "timeOfDay": "Weekday CBD lunch; popular stalls sell out early in the afternoon",
+        "surroundings": "CBD office towers and the shophouses of Amoy Street and Telok Ayer Street, close to Maxwell Road and Tanjong Pagar"
+      },
+      "knownFor": [
+        {
+          "dish": "Sliced fish soup",
+          "note": "Han Kee's clear fish soup draws queues of ten to twenty people before it opens at 11am, and it received a Bib Gourmand in 2024.",
+          "sources": [
+            "https://guide.michelin.com/en/article/dining-out/hawker-guide-amoy-street-food-centre",
+            "https://en.wikipedia.org/wiki/Amoy_Street_Food_Centre"
+          ]
+        },
+        {
+          "dish": "Singapore-style ramen (wanton noodles with slow-cooked char siew)",
+          "note": "A Noodle Story won a Bib Gourmand in 2017 and caps itself at 200 bowls a day, so it often sells out by about 1:45pm at lunch.",
+          "sources": [
+            "https://guide.michelin.com/en/article/dining-out/hawker-guide-amoy-street-food-centre",
+            "https://en.wikipedia.org/wiki/Amoy_Street_Food_Centre"
+          ]
+        },
+        {
+          "dish": "Rice dumplings (bak chang)",
+          "note": "Hoo Kee Bak Chang is on the 2025 Michelin Bib Gourmand list for its glutinous rice dumplings.",
+          "sources": [
+            "https://dollarsandsense.sg/most-represented-hawker-centres-in-the-michelin-bib-gourmand-2025-guide/",
+            "https://guide.michelin.com/th/en/singapore-region/singapore/restaurant/hoo-kee-rice-dumpling"
+          ]
+        },
+        {
+          "dish": "Curry puffs",
+          "note": "J2 Famous Crispy Curry Puff sells curry and sardine puffs and is on the 2025 Bib Gourmand list.",
+          "sources": [
+            "https://dollarsandsense.sg/most-represented-hawker-centres-in-the-michelin-bib-gourmand-2025-guide/"
+          ]
+        },
+        {
+          "dish": "Zi char (cook-to-order dishes)",
+          "note": "Quan Ji, a zi char stall here, was featured in the Michelin Guide in 2018.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Amoy_Street_Food_Centre"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The Housing and Development Board began building the centre in 1982 at a cost of about S$5.83 million, and it opened in April 1983.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Amoy_Street_Food_Centre"
+          ]
+        },
+        {
+          "fact": "It was built to serve office workers and to take in street hawkers from Stanley Street, Boon Tat Street, Cecil Street, Amoy Street and Telok Ayer Street.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Amoy_Street_Food_Centre"
+          ]
+        },
+        {
+          "fact": "It closed in September 2002 for a S$2.8 million upgrade and reopened in March 2003.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Amoy_Street_Food_Centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Amoy_Street_Food_Centre.JPG",
+          "credit": "Terence Ong, via Wikimedia Commons",
+          "licence": "CC BY 2.5"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:MND_Building,_Annexe_B,_Amoy_Street_Food_Centre,_Dec_05.JPG",
+          "credit": "Sengkang (English Wikipedia user), via Wikimedia Commons",
+          "licence": "Copyrighted free use (as tagged on Commons); check before reuse"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:A_Noodle_Story.jpg",
+          "credit": "Mx. Granger, via Wikimedia Commons",
+          "licence": "CC0"
+        }
+      ],
+      "confidence": "medium: history relies on Wikipedia (no Roots story for this centre); dish notes from Michelin Guide via search summaries and Dollars and Sense; look based on 2005 to 2006 Commons photos, so finishes may have changed since"
+    },
+    {
+      "neaName": "Upper Cross Street Blk 531A (Hong Lim Food Centre and Market)",
+      "displayName": "Hong Lim Market and Food Centre",
+      "opened": "1978 (Time Out; NEA dataset also lists 1978)",
+      "look": {
+        "summary": "A two-level food centre set into the podium of the HDB Hong Lim Complex, with tall residential slab blocks rising straight above it and a paved courtyard running between them. Inside are long rows of round turquoise tables with fixed dark stools on a patchwork floor of beige, pink and green tiles, under ceiling fans, strip lights and exposed pipes.",
+        "layout": "Food centre on the first and second storeys of an HDB podium, with flats above and an open courtyard between the blocks",
+        "roof": "No separate roof: the concrete podium decks and the residential blocks above shelter the stalls",
+        "materials": [
+          "reinforced concrete",
+          "ceramic floor tiles",
+          "steel and timber-look railings",
+          "fibreglass tables with steel stools"
+        ],
+        "colours": [
+          "grey concrete",
+          "olive green bands on the podium",
+          "turquoise tables",
+          "beige, pink and green floor tiles"
+        ],
+        "features": [
+          "HDB flats directly overhead",
+          "an upper deck walkway with railings looking onto the courtyard",
+          "snaking lunch queues at well-known noodle stalls"
+        ],
+        "timeOfDay": "Weekday lunch for CBD office workers",
+        "surroundings": "HDB slab blocks, Chinatown, CBD office towers, a short walk from Chinatown MRT station"
+      },
+      "knownFor": [
+        {
+          "dish": "Char kway teow",
+          "note": "Outram Park Fried Kway Teow Mee holds a Michelin Bib Gourmand and is often named among the best char kway teow stalls in Singapore.",
+          "sources": [
+            "https://sethlui.com/hong-lim-market-food-centre-guide-singapore/",
+            "https://dollarsandsense.sg/most-represented-hawker-centres-in-the-michelin-bib-gourmand-2025-guide/"
+          ]
+        },
+        {
+          "dish": "Curry chicken bee hoon mee",
+          "note": "Heng Kee's owner says the family first sold curry noodles on Synagogue Street in the 1960s and moved here in 1979; the stall is on the 2025 Bib Gourmand list.",
+          "sources": [
+            "https://makansutra.com/fave-five-hong-lim-food-centre/",
+            "https://dollarsandsense.sg/most-represented-hawker-centres-in-the-michelin-bib-gourmand-2025-guide/"
+          ]
+        },
+        {
+          "dish": "Bak chor mee (minced pork noodles)",
+          "note": "Tai Wah Pork Noodle is a family stall with a Michelin Bib Gourmand.",
+          "sources": [
+            "https://dollarsandsense.sg/most-represented-hawker-centres-in-the-michelin-bib-gourmand-2025-guide/",
+            "https://makansutra.com/fave-five-hong-lim-food-centre/"
+          ]
+        },
+        {
+          "dish": "Wanton noodles",
+          "note": "Ji Ji Noodle House serves char siew wanton noodles and has been in the Michelin Guide since 2016.",
+          "sources": [
+            "https://sethlui.com/hong-lim-market-food-centre-guide-singapore/",
+            "https://dollarsandsense.sg/most-represented-hawker-centres-in-the-michelin-bib-gourmand-2025-guide/"
+          ]
+        },
+        {
+          "dish": "Laksa",
+          "note": "Famous Sungei Road Trishaw Laksa, named for its old street-side roots, is listed as Michelin-recognised.",
+          "sources": [
+            "https://sethlui.com/hong-lim-market-food-centre-guide-singapore/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "Hong Lim Market and Food Centre was built in 1978, making it one of the first proper hawker centres in Chinatown, earlier than nearby Amoy Street and Maxwell food centres.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/hong-lim-market-food-centre"
+          ]
+        },
+        {
+          "fact": "It was built to give shelter to roving hawkers who once lined Nankin Street, Hokkien Street and Sua Kia Teng near North Canal Road.",
+          "sources": [
+            "https://makansutra.com/fave-five-hong-lim-food-centre/"
+          ]
+        },
+        {
+          "fact": "It sits inside Hong Lim Complex, an HDB development on Upper Cross Street that mixes shops and a food centre below with flats above.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Upper_Cross_Street",
+            "https://www.hdb.gov.sg/residential/where2shop/explore/central-area/hong-lim-complex"
+          ]
+        },
+        {
+          "fact": "A major upgrade in May 2011 improved ventilation and added seats, and the centre now has more than 100 cooked food stalls.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/hong-lim-market-food-centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Hong_Lim_Market_and_Food_Centre,_exterior.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Hong_Lim_Market_and_Food_Centre,_interior.jpg",
+          "credit": "Kbseah, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        }
+      ],
+      "confidence": "medium: no Roots story for this centre, so history comes from Time Out and Makansutra; stall details from food press; look based on the Commons photos listed"
+    },
+    {
+      "neaName": "Adam Road Food Centre",
+      "displayName": "Adam Road Food Centre (Adam Food Centre)",
+      "opened": "28 September 1974 (NHB Roots); began as temporary stalls by the Bukit Timah Canal in 1971",
+      "look": {
+        "summary": "A compact, nine sided, almost round food centre with low hipped metal roofs over the stalls and an open dining courtyard in the middle. Big old angsana trees and palms shade it from the busy road junction next to it.",
+        "layout": "Nine sided, nearly circular block: stalls on the outside ring, open central dining courtyard with umbrella covered tables; originally a basic U shape with a covered walkway in front",
+        "roof": "Originally corrugated zinc over the stalls; raised in the 2002 upgrade; now low hipped grey metal roofs (seen in a 2025 photo)",
+        "materials": [
+          "corrugated metal roofing",
+          "mosaic tiles (original stall overlays)",
+          "painted concrete walls",
+          "fixed round tables",
+          "outdoor umbrellas"
+        ],
+        "colours": [
+          "grey metal roof",
+          "green painted walls and trim (as seen in the 2025 Wikimedia Commons photo)",
+          "green tree canopy"
+        ],
+        "features": [
+          "nine sided plan with a central open courtyard",
+          "five old angsana trees kept as shade and noise screens",
+          "early adopter of solar panels in 2002",
+          "queues for nasi lemak",
+          "car park in front off the busy Adam Road junction"
+        ],
+        "timeOfDay": "Lunch, its regular rush since the 1980s when police, students and hired drivers ate here",
+        "surroundings": "A busy road junction a short hop from the Singapore Botanic Gardens, beside the Adam Road flyover and the Bukit Timah Canal, with big old trees"
+      },
+      "knownFor": [
+        {
+          "dish": "Nasi lemak",
+          "note": "NHB says the centre is especially famed for nasi lemak, with one stall serving about 1,000 plates a day by 2016, and Selera Rasa is often named its best known stall.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/adam-road-food-centre",
+            "https://en.wikipedia.org/wiki/Adam_Road_Food_Centre",
+            "https://sethlui.com/adam-road-food-centre-food-guide-singapore/"
+          ]
+        },
+        {
+          "dish": "Mutton soup (sup kambing)",
+          "note": "NHB pairs mutton soup with nasi lemak as the centre's signature, and Bahrakath Mutton Soup, selling since 1973, won a Bib Gourmand in 2023.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/adam-road-food-centre",
+            "https://sethlui.com/adam-road-food-centre-food-guide-singapore/",
+            "https://en.wikipedia.org/wiki/Adam_Road_Food_Centre"
+          ]
+        },
+        {
+          "dish": "Prawn noodles",
+          "note": "Adam Road Noo Cheng Big Prawn Noodle, running for over three decades, won a Bib Gourmand in 2023.",
+          "sources": [
+            "https://sethlui.com/adam-road-food-centre-food-guide-singapore/",
+            "https://en.wikipedia.org/wiki/Adam_Road_Food_Centre"
+          ]
+        },
+        {
+          "dish": "Indian rojak",
+          "note": "Adam's Indian Rojak is listed among the centre's popular stalls.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Adam_Road_Food_Centre"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The Public Works Department set up 32 temporary food stalls beside the Bukit Timah Canal in 1971, and road building plans led to the new centre that opened on 28 September 1974.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/adam-road-food-centre",
+            "https://en.wikipedia.org/wiki/Adam_Road_Food_Centre"
+          ]
+        },
+        {
+          "fact": "In the 1980s it was a regular lunch stop for police on patrol, students from nearby schools and hired drivers.",
+          "sources": [
+            "https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres",
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/adam-road-food-centre"
+          ]
+        },
+        {
+          "fact": "Its 2002 upgrade cost $1.73 million, raised the floor against flooding from the nearby canal, and kept the nine sided plan and five old angsana trees.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/adam-road-food-centre",
+            "https://www.roots.gov.sg/stories-landing/stories/our-hawker-culture-built-for-great-taste"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Adam_Food_Centre.jpg",
+          "credit": "Kbseah, Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Adam_Food_Centre,_2026.jpg",
+          "credit": "Actuall7, Wikimedia Commons",
+          "licence": "CC BY 4.0"
+        },
+        {
+          "url": "https://www.roots.gov.sg/stories-landing/stories/our-hawker-culture-built-for-great-taste",
+          "credit": "Photos by Lee Yik Keat, National Heritage Board (Roots.gov.sg)",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "high: NHB Roots story, NEA heritage page and Wikipedia (citing Straits Times and CNA) agree"
+    },
+    {
+      "neaName": "Geylang Serai Market",
+      "displayName": "Geylang Serai Market and Food Centre (Pasar Geylang Serai)",
+      "opened": "Original market opened in 1964 (foundation stone laid August 1963; opened by Prime Minister Lee Kuan Yew). Rebuilt 2006 to 2009 per NHB Roots; NEA dataset lists 2009; Time Out says the new building was completed in 2010.",
+      "look": {
+        "summary": "A two-storey market modelled on a Malay kampung house, with steep, tiered gable roofs, patterned timber-look gable screens and red-painted steel beams over shaded walkways. A wet market and shops share the building with a 955-seat food centre upstairs under a high, airy roof lined with woven baskets.",
+        "layout": "Two storeys holding a wet market, shops (textiles, festive goods) and a 955-seat food centre on level 2. Entered through a three-tiered grand entrance.",
+        "roof": "Tiered, steeply pitched roofs shaped like a thatched kampung house roof, with corrugated sheeting, decorative gable panels and a ceiling raised to double height for natural ventilation.",
+        "materials": [
+          "corrugated roof sheeting",
+          "painted steel beams and columns",
+          "timber-look gable screens and louvres",
+          "woven baskets as ceiling decoration",
+          "stone and tile paving"
+        ],
+        "colours": [
+          "terracotta red roofs",
+          "dark red steel beams",
+          "warm brown timber tones",
+          "cream walls"
+        ],
+        "features": [
+          "Kampung house roof with stacked gables",
+          "Woven baskets lining the food centre ceiling",
+          "Textile and festive goods stalls spilling out under canvas umbrellas before Hari Raya",
+          "Centre of the Ramadan bazaar and Hari Raya light-up held in Geylang Serai each year",
+          "Wet market downstairs"
+        ],
+        "timeOfDay": "Morning market and lunch; during Ramadan the area fills up in the evenings around the bazaar and the breaking of the fast.",
+        "surroundings": "Geylang Serai, the historic heart of Singapore's Malay community, near Joo Chiat Road, Paya Lebar and HDB blocks."
+      },
+      "knownFor": [
+        {
+          "dish": "Nasi padang",
+          "note": "Two well-known nasi padang stalls trade here: Hajjah Mona Nasi Padang and Sinar Pagi Nasi Padang, which opened in 1966.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/geylang-serai-market-food-centre"
+          ]
+        },
+        {
+          "dish": "Biryani",
+          "note": "Haji Mohammad Yusoff Warung serves large plates of mutton and chicken biryani with cucumber pickle.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/geylang-serai-market-food-centre"
+          ]
+        },
+        {
+          "dish": "Satay with ketupat",
+          "note": "Alhambra Satay Club grills satay over charcoal and serves it with homemade ketupat rice cakes.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/geylang-serai-market-food-centre"
+          ]
+        },
+        {
+          "dish": "Cheng tng (sweet soup)",
+          "note": "Geylang Serai Chee Kong Cheng Tng sells the traditional sweet soup with nuts, barley and seeds.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/geylang-serai-market-food-centre"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "A makeshift hawker shelter stood at the entrance to Kampong Geylang Serai before 1930, long before the market building.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/geylang-serai-market-food-centre"
+          ]
+        },
+        {
+          "fact": "The first Geylang Serai Market opened in 1964, and by 1975 its eating house was noted for having Singapore's largest variety of Muslim food.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/geylang-serai-market-food-centre",
+            "https://nas.gov.sg/archivesonline/photographs/record-details/bfa27c44-1161-11e3-83d5-0050568939ad"
+          ]
+        },
+        {
+          "fact": "The market was rebuilt between 2006 and 2009 in the shape of a Malay kampung house, with a raised ceiling for natural ventilation and light.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/our-hawker-culture-built-for-great-taste",
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/geylang-serai-market-food-centre"
+          ]
+        },
+        {
+          "fact": "The Hari Raya light-up in Geylang Serai began in 1985 and runs alongside the yearly Ramadan bazaar.",
+          "sources": [
+            "https://www.sg101.gov.sg/resources/archives/geylang-serai-lightup-1985/"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Geylang_Serai_Market_aka_Pasar_Geylang_Serai_(2025)_-_img_02.jpg",
+          "credit": "Chainwit., Wikimedia Commons (2025, roof detail)",
+          "licence": "CC BY 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Geylang_Serai_Market_aka_Pasar_Geylang_Serai_(2025)_-_img_01.jpg",
+          "credit": "Chainwit., Wikimedia Commons (2025, Hari Raya stalls)",
+          "licence": "CC BY 4.0"
+        },
+        {
+          "url": "https://nas.gov.sg/archivesonline/photographs/record-details/bfa27c44-1161-11e3-83d5-0050568939ad",
+          "credit": "National Archives of Singapore, 'View of Geylang Serai Market on its day of opening by Prime Minister Lee Kuan Yew' (1964)",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "high for history and look (two NHB Roots pages, NAS record, recent photos); medium for dishes, which come from one Time Out guide."
+    },
+    {
+      "neaName": "East Coast Lagoon Food Village",
+      "displayName": "East Coast Lagoon Food Village",
+      "opened": "Built 1977 to 1978, completed late 1978 (NHB Roots); NEA lists 1978. Rebuilt 2002 to 2004 and reopened January 2004 under its current name",
+      "look": {
+        "summary": "A seaside food village of open sided pavilions with pitched, overhanging roofs, set on raised ground beside the beach at East Coast Park. Since its 2002 to 2004 rebuild it has the feel of a resort, with cabana roofs and timber tables set over sand and white tent shades between the stalls.",
+        "layout": "Single storey, open sided; stall pavilions with dining areas arranged as a series of courtyards on a raised floor looking out to the lagoon; satay and barbecue stalls placed outdoors",
+        "roof": "Pitched roofs with generous overhangs and cabana roofs (after the 2002 to 2004 upgrade); the 1978 original had 10 butterfly shaped roofs over the cooking stalls and 40 pyramid shaped dining shelters",
+        "materials": [
+          "timber structures and tables",
+          "sand underfoot in dining areas",
+          "pitched tiled or sheet roofs on timber rafters",
+          "fabric tent shades",
+          "stainless steel satay grills"
+        ],
+        "colours": [
+          "salmon red roofs",
+          "brown timber",
+          "white tent canopies",
+          "sand",
+          "sea blue (as seen in the 2023 Wikimedia Commons photo)"
+        ],
+        "features": [
+          "sea breeze and views of the beach",
+          "satay grills fanned by hand in the open",
+          "tables over sand",
+          "barbecue seafood smoke",
+          "strong winds at night"
+        ],
+        "timeOfDay": "Late afternoon to supper, after a day at the beach",
+        "surroundings": "East Coast Park beach, the lagoon and the sea, on land reclaimed from the sea"
+      },
+      "knownFor": [
+        {
+          "dish": "Satay",
+          "note": "Haron Satay, now run by the founder's two daughters, appears in Michelin's late night satay list and Time Out calls satay the must try here.",
+          "sources": [
+            "https://guide.michelin.com/sg/en/article/dining-out/supper-series-5-satay-stalls-in-singapore-open-til-late",
+            "https://www.timeout.com/singapore/restaurants/east-coast-lagoon-food-village"
+          ]
+        },
+        {
+          "dish": "BBQ sambal stingray",
+          "note": "Barbecued sambal stingray from stalls such as Stingray Forever BBQ Seafood is a staple of the seaside menu.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/east-coast-lagoon-food-village"
+          ]
+        },
+        {
+          "dish": "Chilli crab",
+          "note": "Time Out lists chilli crab among the barbecued seafood and local fare the centre is known for.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/east-coast-lagoon-food-village"
+          ]
+        },
+        {
+          "dish": "Fried carrot cake and popiah",
+          "note": "Lagoon Carrot Cake sells both fried carrot cake and popiah.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants/east-coast-lagoon-food-village"
+          ]
+        },
+        {
+          "dish": "Chicken wings and oyster omelette",
+          "note": "Grilled chicken wings and oyster omelettes are among the dishes that make it a supper spot for nearby residents.",
+          "sources": [
+            "https://www.womensweekly.com.sg/food/best-hawker-stalls-east-coast-lagoon-food-village"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "It was built on reclaimed land and opened in 1978 to serve the beach front of what was then Singapore's largest seaside resort.",
+          "sources": [
+            "https://www.nea.gov.sg/our-services/hawker-management/programmes-and-grants/heritage-of-our-hawker-centres",
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/east-coast-lagoon-food-village"
+          ]
+        },
+        {
+          "fact": "Its first hawkers came from Alkaff Lane, and in the 1980s sales were poor even though it was Singapore's only seaside hawker centre.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/east-coast-lagoon-food-village"
+          ]
+        },
+        {
+          "fact": "It was renamed East Coast Lagoon Food Centre in 1981 and Food Rendezvous in 1992, then rebuilt in a Balinese resort style for $4.5 million and reopened as the Food Village in January 2004.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/east-coast-lagoon-food-village"
+          ]
+        },
+        {
+          "fact": "A fire hit four stalls in June 2013, and the centre closed for three months for a $1.5 million upgrade; it was upgraded again from November 2020 to February 2021.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/east-coast-lagoon-food-village",
+            "https://www.roots.gov.sg/stories-landing/stories/our-hawker-culture-built-for-great-taste"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Satay_stall_at_East_Coast_Lagoon_Food_Village.jpg",
+          "credit": "PipeDr3am2000, Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://www.roots.gov.sg/stories-landing/stories/our-hawker-culture-built-for-great-taste",
+          "credit": "Photos by Fabian Ong, National Heritage Board (Roots.gov.sg)",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "high: NHB Roots has a full story and a design article; dishes rely on Time Out and one Michelin article"
+    },
+    {
+      "neaName": "Golden Mile Food Centre",
+      "displayName": "Golden Mile Food Centre (Beach Road Army Market)",
+      "opened": "1975, built to resettle street hawkers from the Jalan Sultan street market (NHB Roots; matches NEA dataset).",
+      "look": {
+        "summary": "A long, low concrete market building on Beach Road with hawker stalls in the basement and on the ground floor and the Army Market shops on the floor above, set behind a big open car park. Recent photos show warm orange-brown trim and columns, white railings around open galleries, a green neon name sign and blue tables in the lower hall.",
+        "layout": "Three levels around open voids: hawker stalls in the basement and on level 1, shops selling uniforms, boots and outdoor gear on level 2.",
+        "roof": "Flat concrete roof with a deep overhang over open-sided galleries; ventilators and fans replaced in the 2020 to 2021 works.",
+        "materials": [
+          "painted concrete",
+          "metal railings",
+          "ceramic floor tiles"
+        ],
+        "colours": [
+          "white walls and railings",
+          "orange-brown columns and trim",
+          "green neon sign",
+          "blue tables and stools"
+        ],
+        "features": [
+          "Army Market upstairs selling military uniforms, boots and camping gear",
+          "Split-level hall with a basement food court visible from the galleries",
+          "Green neon 'Golden Mile Food Centre' sign lit at night",
+          "Large open-air car park in front"
+        ],
+        "timeOfDay": "Lunch and dinner; the galleries and neon sign are lit up in the evening.",
+        "surroundings": "Beach Road high-rises and hotels near Kampong Glam and Lavender, with the Golden Mile Complex nearby."
+      },
+      "knownFor": [
+        {
+          "dish": "Fishball noodles",
+          "note": "The Fishball Story at Golden Mile was named in Michelin's first Singapore Bib Gourmand list in 2016.",
+          "sources": [
+            "https://www.timeout.com/singapore/blog/34-hawker-stalls-and-restaurants-get-a-bib-gourmand-in-michelin-guide-singapore-071416"
+          ]
+        },
+        {
+          "dish": "Malay rice and dishes",
+          "note": "Wedang, a Malay food stall here, received a Michelin Bib Gourmand in 2016.",
+          "sources": [
+            "https://www.timeout.com/singapore/blog/34-hawker-stalls-and-restaurants-get-a-bib-gourmand-in-michelin-guide-singapore-071416"
+          ]
+        },
+        {
+          "dish": "Char kway teow",
+          "note": "91 Fried Kway Teow Mee, a pork-free version with strong wok flavour, was featured in the 2016 Michelin Guide Singapore.",
+          "sources": [
+            "https://sethlui.com/golden-mile-food-centre-guide-singapore/"
+          ]
+        },
+        {
+          "dish": "Claypot rice",
+          "note": "Yew Chuan Claypot Rice cooks each pot to order with chicken and salted fish, so diners wait about 20 minutes.",
+          "sources": [
+            "https://sethlui.com/golden-mile-food-centre-guide-singapore/"
+          ]
+        },
+        {
+          "dish": "Hainanese beef noodles",
+          "note": "Kheng Fatt serves Hainanese sliced beef noodles with springy rice noodles in a thick savoury gravy.",
+          "sources": [
+            "https://sethlui.com/golden-mile-food-centre-guide-singapore/",
+            "https://www.misstamchiak.com/golden-mile-food-centre/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "Golden Mile Food Centre was completed in 1975 to house hawkers resettled from the Jalan Sultan street market.",
+          "sources": [
+            "https://www.roots.gov.sg/resources-landing/online-exhibitions/beach-road-army-market",
+            "https://www.misstamchiak.com/golden-mile-food-centre/"
+          ]
+        },
+        {
+          "fact": "Its upper floor became known as the Army Market because the area was close to the headquarters of uniformed groups and the Beach Road Camp, so military supply shops gathered there.",
+          "sources": [
+            "https://www.roots.gov.sg/resources-landing/online-exhibitions/beach-road-army-market"
+          ]
+        },
+        {
+          "fact": "After a six-month closure in 2002, the centre closed again from December 2020 to March 2021 so its ventilators and fans could be replaced.",
+          "sources": [
+            "https://mothership.sg/2020/09/golden-mile-food-centre-renovation/"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Golden_Mile_Food_Centre.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Golden_Mile_Food_Centre,_interior.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        }
+      ],
+      "confidence": "medium: opening year and Army Market history come from an NHB online exhibition; dishes rely on the 2016 Bib Gourmand list and food media; look comes from 2025 photos."
+    },
+    {
+      "neaName": "Zion Riverside Food Centre",
+      "displayName": "Zion Riverside Food Centre",
+      "opened": "1 October 1976 as Zion Road Food Centre (Wikipedia, citing The Straits Times, 29 September 1976); NEA lists 1976",
+      "look": {
+        "summary": "A small, single storey food centre with a low pitched tiled roof, tucked under large rain trees beside the canal at the upper end of the Singapore River. Tall condominium towers rise all around it, and a wooden deck lets people eat right by the water.",
+        "layout": "Compact single storey block of about 32 stalls with airy, well spaced tables and an outdoor wooden deck facing the waterway",
+        "roof": "Low pitched roof with brown tiles over the stalls (seen in a 2025 photo); new roofing added in a recent renovation",
+        "materials": [
+          "tiled pitched roof",
+          "wooden dining deck",
+          "green painted railings",
+          "steel covered walkways"
+        ],
+        "colours": [
+          "brown tiled roof",
+          "green railings",
+          "red signboard lettering",
+          "deep green tree canopy (as seen in the 2025 Wikimedia Commons photo)"
+        ],
+        "features": [
+          "wooden al fresco deck by the water",
+          "life buoys on the railings because the river is right there",
+          "big shady trees out front",
+          "char kway teow wok smoke",
+          "opposite Great World shopping centre"
+        ],
+        "timeOfDay": "Lunch and dinner; in earlier decades a supper stop for clubbers from nearby Zouk",
+        "surroundings": "Alexandra Canal at the narrow upper end of the Singapore River, tall condominium towers all around (2025 photo), and Great World shopping centre across the road"
+      },
+      "knownFor": [
+        {
+          "dish": "Char kway teow",
+          "note": "No. 18 Zion Road Fried Kway Teow holds a Bib Gourmand for noodles fried to order with cockles and fish cake, and has kept the distinction across all ten Michelin Singapore editions.",
+          "sources": [
+            "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/no-18-zion-road-fried-kway-teow",
+            "https://ordinarypatrons.com/2016/09/24/zion-riverside-food-centre/"
+          ]
+        },
+        {
+          "dish": "Prawn noodles",
+          "note": "Zhi Wei Xian Zion Road Big Prawn Noodle is listed by Michelin and first won a Bib Gourmand in 2018.",
+          "sources": [
+            "https://guide.michelin.com/us/en/singapore-region/singapore/restaurant/fresh-taste-big-prawn-noodle",
+            "https://en.wikipedia.org/wiki/Zion_Riverside_Food_Centre"
+          ]
+        },
+        {
+          "dish": "Black and white fried carrot cake",
+          "note": "Lau Goh Teochew Chye Thow Kway serves both kinds of carrot cake on one plate, which a food blog credits to its owner Peter Goh.",
+          "sources": [
+            "https://ordinarypatrons.com/2016/09/24/zion-riverside-food-centre/"
+          ]
+        },
+        {
+          "dish": "Bak kut teh",
+          "note": "Double Happy Bak Kut Teh is a third generation family stall that dates its business to 1936.",
+          "sources": [
+            "https://www.misstamchiak.com/zion-riverside-food-centre/"
+          ]
+        },
+        {
+          "dish": "Cheng tng",
+          "note": "Mohamed Sultan Road Hot and Cold Cheng Tng sells the sweet soup with longan, barley and sago.",
+          "sources": [
+            "https://ordinarypatrons.com/2016/09/24/zion-riverside-food-centre/",
+            "https://www.misstamchiak.com/zion-riverside-food-centre/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "Building started in early 1976 at a cost of S$289,000, and Zion Road Food Centre opened on 1 October 1976 with 34 stalls.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Zion_Riverside_Food_Centre"
+          ]
+        },
+        {
+          "fact": "Most of its first hawkers had sold food along the river near the Great World Amusement Park.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Zion_Riverside_Food_Centre"
+          ]
+        },
+        {
+          "fact": "It closed in September 2002 for a renovation designed by ADDP Architects and reopened on 1 April 2003 with 32 stalls.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Zion_Riverside_Food_Centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Zion_Riverside_Food_Centre,_exterior.jpg",
+          "credit": "Kbseah, Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Zion_Riverside_Food_Centre,_view_toward_Alexandra_Canal.jpg",
+          "credit": "Kbseah, Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Zion_Riverside_Food_Centre,_Jul_06.JPG",
+          "credit": "User:Sengkang, Wikimedia Commons",
+          "licence": "Copyrighted free use (as tagged on Wikimedia Commons)"
+        }
+      ],
+      "confidence": "medium: no NHB story; history comes from Wikipedia citing 1976 to 2003 newspapers, and look and dishes from Michelin and food blogs"
+    },
+    {
+      "neaName": "Jalan Bukit Merah Blk 6 (ABC Brickworks Market/Food Centre)",
+      "displayName": "ABC Brickworks Market and Food Centre",
+      "opened": "1974 (NEA dataset; Time Out; Women's Weekly)",
+      "look": {
+        "summary": "A large 1970s market and food centre of about 96 food stalls under a high corrugated metal roof, with long rows of lit stall signboards and orange tables. Inside, round porthole like openings and louvres high up let air through, and ceiling fans turn over the tables.",
+        "layout": "Combined wet market and food centre block with long rows of stalls facing shared seating aisles (number of storeys not confirmed)",
+        "roof": "High corrugated metal roof with clerestory louvres and round openings (seen in a 2023 photo of the interior)",
+        "materials": [
+          "corrugated metal roof sheeting",
+          "metal louvres",
+          "concrete floor",
+          "fibreglass tables and stools",
+          "steel roof trusses"
+        ],
+        "colours": [
+          "orange table tops and stools",
+          "grey floor with white lines",
+          "white and grey ceiling",
+          "bright yellow and red stall signboards (as seen in the 2023 Wikimedia Commons photo)"
+        ],
+        "features": [
+          "round porthole like openings near the roof",
+          "ceiling and wall fans",
+          "lion dances at Chinese New Year",
+          "stalls open from early morning to past 11pm"
+        ],
+        "timeOfDay": "All day: early breakfast (some stalls open at 5.30am), lunch, and late supper (several stalls open past 11pm)",
+        "surroundings": "HDB blocks of Bukit Merah and Redhill near Alexandra Road, close to Alexandra Village Food Centre"
+      },
+      "knownFor": [
+        {
+          "dish": "Herbal soup",
+          "note": "Ar Er Soup holds a Bib Gourmand for its slow boiled, MSG free soups such as ginseng silkie chicken.",
+          "sources": [
+            "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/ar-er-soup"
+          ]
+        },
+        {
+          "dish": "Penang assam laksa and prawn mee",
+          "note": "Jason Penang Cuisine, a Bib Gourmand stall, sells Penang style assam laksa and prawn mee.",
+          "sources": [
+            "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/jason-penang-cuisine",
+            "https://citynomads.com/abc-brickworks-food-centre-hawker-guide-7-stalls-to-try/"
+          ]
+        },
+        {
+          "dish": "Minced meat noodles (rou cuo mian)",
+          "note": "San Xiang Rou Cuo Mian is listed in the Michelin Guide.",
+          "sources": [
+            "https://guide.michelin.com/sg/en/singapore-region/singapore/restaurant/san-xiang-rou-cuo-mian"
+          ]
+        },
+        {
+          "dish": "Charcoal roasted meats",
+          "note": "Fatty Cheong is known for charcoal roasted pork and char siew.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants-and-cafes/abc-brickworks-centre",
+            "https://www.womensweekly.com.sg/food/10-best-hawker-stalls-to-try-at-abc-brickworks-food-centre"
+          ]
+        },
+        {
+          "dish": "Char siew bao",
+          "note": "Bao Zai sells small handmade char siew buns from about 70 cents each.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants-and-cafes/abc-brickworks-centre",
+            "https://citynomads.com/abc-brickworks-food-centre-hawker-guide-7-stalls-to-try/"
+          ]
+        },
+        {
+          "dish": "Chendol and shaved ice",
+          "note": "Jin Jin Hot and Cold Dessert is known for its Power Chendol and durian topped Gangster Ice.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants-and-cafes/abc-brickworks-centre",
+            "https://citynomads.com/abc-brickworks-food-centre-hawker-guide-7-stalls-to-try/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The centre opened in 1974, among the first generation of food centres built as street hawkers were moved indoors.",
+          "sources": [
+            "https://data.gov.sg/datasets/d_4a086da0a5553be1d89383cd90d07ecd/view",
+            "https://www.timeout.com/singapore/restaurants-and-cafes/abc-brickworks-centre"
+          ]
+        },
+        {
+          "fact": "Sources disagree on the name: Time Out and Women's Weekly link ABC to the Archipelago Brewery Company, whose Anchor beer brewery opened on Alexandra Road in 1933, and to the area's old brickworks, while other writers suggest Alexandra Brickworks.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants-and-cafes/abc-brickworks-centre",
+            "https://www.womensweekly.com.sg/food/10-best-hawker-stalls-to-try-at-abc-brickworks-food-centre",
+            "https://www.roots.gov.sg/places/places-landing/Places/landmarks/my-queenstown-heritage-trail/former-archipelago-brewery-company",
+            "https://www.boringsingapore.com/2007/01/abc-market-what-name-to-give-to-market.html"
+          ]
+        },
+        {
+          "fact": "It closed on 15 March 2020 for repairs and renovation, and its reopening was pushed back by Covid restrictions to 16 June 2020.",
+          "sources": [
+            "https://mothership.sg/2020/06/abc-brickworks-reopen/"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Singapore_Hok_San_Lion_Dance_at_ABC_Brickworks_Food_Centre.jpg",
+          "credit": "Red Eyes Black Dragon 92, Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        }
+      ],
+      "confidence": "low to medium: no NHB or NEA history page found; the name origin is disputed; dishes are well covered by Michelin listings and Time Out, and the look is based mainly on one 2023 photo"
+    },
+    {
+      "neaName": "Changi Village Blk 2 and 3",
+      "displayName": "Changi Village Hawker Centre",
+      "opened": "Completed 1975, running by 1976 with 74 cooked food stalls and a 78 stall market (NHB Roots); NEA lists 1975",
+      "look": {
+        "summary": "A long, low open air hawker centre styled like a seaside resort, with a big corrugated metal roof, deep overhangs and covered walkways along tiled pavements. A green signboard with blue lettering marks the entrance, and the sea and ferry point are a short walk away.",
+        "layout": "Two adjoining blocks (Blocks 2 and 3) of cooked food stalls with a market, open sided and naturally ventilated, with long rows of rectangular tables and covered walkways around the edges",
+        "roof": "Large corrugated metal roof with deep overhangs; Time Out said the original blue metal roof facade was kept in the 2012 upgrade, while a 2024 photo shows maroon red roof sheeting",
+        "materials": [
+          "corrugated metal roofing",
+          "beige wall tiles",
+          "metal louvred doors",
+          "tiled pavements",
+          "steel canopy walkways"
+        ],
+        "colours": [
+          "maroon red corrugated roof (2024 photo)",
+          "blue roof facade (Time Out, 2012 upgrade)",
+          "green signboard with blue letters",
+          "beige and brown tiles"
+        ],
+        "features": [
+          "seaside resort style open air design",
+          "near Changi Point Ferry Terminal for boats to Pulau Ubin",
+          "nasi lemak queues",
+          "most stalls stay open to midnight"
+        ],
+        "timeOfDay": "Lunch (its 1980s rush hour) and evenings, with most stalls open until midnight; weekends bring day trippers heading to Pulau Ubin and fishermen",
+        "surroundings": "Changi Village's low rise blocks, Changi Point Ferry Terminal, the sea and beach, holiday bungalows and fishing spots"
+      },
+      "knownFor": [
+        {
+          "dish": "Nasi lemak",
+          "note": "NHB names nasi lemak as the centre's popular dish, and Time Out calls it a nasi lemak haven, with International Muslim Food Stall Nasi Lemak among the best known.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/changi-village-hawker-centre",
+            "https://www.timeout.com/singapore/restaurants-and-cafes/changi-village-hawker-centre",
+            "https://sethlui.com/changi-village-hawker-centre-food-guide-singapore/"
+          ]
+        },
+        {
+          "dish": "Mee rebus, lontong and mee siam",
+          "note": "Hassan Stall traces its start to 1959 at a makeshift setup outside the founder's kampung house and still sells Malay breakfast noodles and lontong.",
+          "sources": [
+            "https://sethlui.com/changi-village-hawker-centre-food-guide-singapore/"
+          ]
+        },
+        {
+          "dish": "Ipoh hor fun",
+          "note": "Weng Kee sells Malaysian style Ipoh hor fun with chicken.",
+          "sources": [
+            "https://www.timeout.com/singapore/restaurants-and-cafes/changi-village-hawker-centre",
+            "https://sethlui.com/changi-village-hawker-centre-food-guide-singapore/"
+          ]
+        },
+        {
+          "dish": "Goreng pisang (fried banana)",
+          "note": "Million Star Fried Banana fries banana, cempedak, yam and sweet potato fritters.",
+          "sources": [
+            "https://sethlui.com/changi-village-hawker-centre-food-guide-singapore/"
+          ]
+        },
+        {
+          "dish": "Chendol and ice kachang",
+          "note": "Changi V. Dessert House sells chendol and over 20 kinds of iced desserts.",
+          "sources": [
+            "https://sethlui.com/changi-village-hawker-centre-food-guide-singapore/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "Changi Village grew up beside British military camps from 1927, and after most British servicemen left by 1971 it became a struggling kampong.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/changi-village-hawker-centre"
+          ]
+        },
+        {
+          "fact": "A government plan to renew the area began in 1973, and the hawker centre was completed in 1975.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/changi-village-hawker-centre"
+          ]
+        },
+        {
+          "fact": "In the 1980s the centre was packed at lunch with soldiers, air force personnel, and airport and industrial estate workers.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/changi-village-hawker-centre"
+          ]
+        },
+        {
+          "fact": "A 2012 upgrade closed the centre for 10 months, kept the original roof facade, doubled the seats with rectangular tables, and added new stall exhausts.",
+          "sources": [
+            "https://www.roots.gov.sg/stories-landing/stories/hawker-centres/changi-village-hawker-centre",
+            "https://www.timeout.com/singapore/restaurants-and-cafes/changi-village-hawker-centre"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Changi_Village_Hawker_Centre_16-05-2024(1).jpg",
+          "credit": "LN9267, Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Changi_Village_Hawker_Centre_decorated_for_Lunar_New_Year.jpg",
+          "credit": "Kbseah, Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://www.nas.gov.sg/archivesonline/photographs/record-details/60e755bc-1162-11e3-83d5-0050568939ad",
+          "credit": "Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore (Changi Village Road, 1980s)",
+          "licence": "check before reuse"
+        },
+        {
+          "url": "https://www.roots.gov.sg/stories-landing/stories/our-hawker-culture-built-for-great-taste",
+          "credit": "Photos by Fabian Ong, National Heritage Board (Roots.gov.sg)",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "medium: NHB Roots covers the history well, but the roof colour differs between Time Out (blue) and a 2024 photo (maroon), and dishes come from Time Out and Seth Lui rather than Michelin"
+    },
+    {
+      "neaName": "Queen Street Blk 270 (Albert Centre)",
+      "displayName": "Albert Centre Market and Food Centre",
+      "opened": "NEA dataset gives 1978. Food media describe it only as established in the 1980s, and a travel site gives 1980; no primary source found to settle the year.",
+      "look": {
+        "summary": "A multi-storey market and food centre podium under a tall HDB slab block on Queen Street in Bugis, with a white facade broken up by red lattice panels and a tall red and gold screen carrying the centre's Chinese name. Inside, food stalls line the first floor around a long central void that looks down onto a basement car park ramp, with market stalls on the other levels.",
+        "layout": "Multi-storey podium beneath an HDB residential block: more than 80 cooked food stalls on level 1, over 100 market stalls on other levels, basement parking visible through a central void; stairs and a lift between floors.",
+        "roof": "Podium slab under the HDB tower; the central void is topped with a metal roof and skylight strip with exhaust ducts and fans.",
+        "materials": [
+          "painted concrete",
+          "red metal lattice panels",
+          "metal railings",
+          "tiled floors"
+        ],
+        "colours": [
+          "white and pale grey walls",
+          "red lattice and trim",
+          "gold vertical name panel",
+          "beige fan-shaped wall motifs"
+        ],
+        "features": [
+          "Red lattice screens and a tall red and gold name panel on the Queen Street facade",
+          "Central void with a view down to cars in the basement car park",
+          "Market stalls and food stalls in one building",
+          "Renovated in 2025 to be brighter and airier, with a new lift"
+        ],
+        "timeOfDay": "Breakfast and lunch; many stalls open from early morning and close by mid afternoon.",
+        "surroundings": "Bugis and Rochor: Queen Street, Albert Street, shophouses, shopping malls and HDB towers."
+      },
+      "knownFor": [
+        {
+          "dish": "Curry chicken bee hoon",
+          "note": "Hock Hai Curry Chicken Bee Hoon at Albert Centre was on the 2021 Michelin Bib Gourmand list.",
+          "sources": [
+            "https://eatbook.sg/michelin-bib-gourmand-2021/"
+          ]
+        },
+        {
+          "dish": "Mee rebus and satay",
+          "note": "Pondok Makan Indonesia is described as Michelin-recommended for its mee rebus with thick, nutty gravy and its satay.",
+          "sources": [
+            "https://www.misstamchiak.com/albert-centre-market-and-food-centre/"
+          ]
+        },
+        {
+          "dish": "Bak chor mee (minced meat noodles)",
+          "note": "Ah Seng Bak Chor Mee received a Michelin Plate in 2019 and is known for handmade fish and pork meatballs.",
+          "sources": [
+            "https://www.misstamchiak.com/albert-centre-market-and-food-centre/"
+          ]
+        },
+        {
+          "dish": "Goreng pisang (banana fritters)",
+          "note": "Si Ma Lu Goreng Pisang is a fritter stall here noted for its soft, creamy bananas.",
+          "sources": [
+            "https://www.misstamchiak.com/albert-centre-market-and-food-centre/"
+          ]
+        },
+        {
+          "dish": "Fishball noodles",
+          "note": "Hock Lee Fishball Noodles serves handmade bouncy fishballs with noodles in sambal chilli.",
+          "sources": [
+            "https://www.misstamchiak.com/albert-centre-market-and-food-centre/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "In the 1970s, mobile stalls and street bazaars were a common sight on Queen Street until hawkers were moved into licensed food centres and markets in the 1980s.",
+          "sources": [
+            "https://www.roots.gov.sg/Collection-Landing/listing/1404790"
+          ]
+        },
+        {
+          "fact": "Nearby Albert Street was a popular open-air dining street in the 1970s and early 1980s, and when it was redeveloped in the mid 1980s most of its food stalls moved to a hawker centre at the nearby Albert Complex.",
+          "sources": [
+            "https://www.roots.gov.sg/Collection-Landing/listing/1161770"
+          ]
+        },
+        {
+          "fact": "The centre closed in February 2025 for about three months of renovation and reopened on 5 May 2025, brighter and with a lift added for older and disabled visitors.",
+          "sources": [
+            "https://sethlui.com/albert-centre-market-food-centre-reopens-bugis-singapore-may-2025/"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Albert_Centre_Market_and_Food_Centre,_exterior.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Albert_Centre_Market_and_Food_Centre,_interior.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://www.roots.gov.sg/Collection-Landing/listing/1161770",
+          "credit": "National Museum of Singapore, 'Street hawker stalls along Albert Street', early 1980s (accession 2008-05455)",
+          "licence": "check before reuse"
+        },
+        {
+          "url": "https://www.roots.gov.sg/Collection-Landing/listing/1404790",
+          "credit": "National Museum of Singapore, postcard of open-air market at Queen Street, c. 1970s, gift of the late Mrs Grace Lim nee Oh Kim Neo and family (accession 2018-00107)",
+          "licence": "check before reuse"
+        }
+      ],
+      "confidence": "medium: no dedicated NHB story page; history comes from museum collection notes about the street, dishes from food media, look from 2025 photos. Opening year is unconfirmed."
+    },
+    {
+      "neaName": "Whampoa Drive Blk 90 (Whampoa Drive Makan Place/Whampoa Food Centre)",
+      "displayName": "Whampoa Makan Place (Whampoa Food Centre)",
+      "opened": "NEA dataset gives 1976 for Blk 90. NHB Roots says Rayman Market (opened 1952) was replaced in 1973 by Whampoa Market and Food Centre at Blk 91, upgraded in 2006 to 2008 into Whampoa Makan Place.",
+      "look": {
+        "summary": "Two low, open-sided hawker blocks among HDB flats off Whampoa Drive, one a busy evening food hall and the other a morning market with a wet market. The Blk 90 food hall has a tall open roof of grey-painted steel trusses with giant ceiling fans and exhaust ducts, and a rounded corner canopy carrying a lit 'Whampoa Makan Place' sign.",
+        "layout": "Separate blocks: Blk 90 is the 'night market' food centre open for lunch, dinner and supper; Blk 91 is the 'morning market', half wet market and half food stalls that close after lunch. Stalls line the edges with tables in rows down the middle.",
+        "roof": "High metal roof on steel trusses with ventilation openings, giant ceiling fans and exhaust ducting over the dining hall.",
+        "materials": [
+          "steel trusses",
+          "metal roof sheeting",
+          "concrete columns",
+          "ceramic floor tiles",
+          "metal shutters"
+        ],
+        "colours": [
+          "grey and silver roof structure",
+          "white walls",
+          "pinkish tables",
+          "blue sign lettering on a white and orange curved canopy"
+        ],
+        "features": [
+          "Rounded corner canopy with a lit sign",
+          "Giant ceiling fans over the dining hall",
+          "Night supper crowds at Blk 90",
+          "Wet market at Blk 91",
+          "On the Balestier Heritage Trail"
+        ],
+        "timeOfDay": "Blk 91 in the morning; Blk 90 at lunch, dinner and supper.",
+        "surroundings": "HDB blocks of Whampoa near Balestier Road, with motorcycles and cars parked along the side and taller blocks behind."
+      },
+      "knownFor": [
+        {
+          "dish": "Rojak",
+          "note": "Balestier Road Hoover Rojak has been on the Bib Gourmand list several times (2016, 2019, 2021) for its thick prawn paste dressing with jellyfish.",
+          "sources": [
+            "https://www.timeout.com/singapore/blog/34-hawker-stalls-and-restaurants-get-a-bib-gourmand-in-michelin-guide-singapore-071416",
+            "https://eatbook.sg/michelin-bib-gourmand-2021/",
+            "https://eatbook.sg/whampoa-market/"
+          ]
+        },
+        {
+          "dish": "Fish head bee hoon",
+          "note": "Beach Road Fish Head Bee Hoon joined the Bib Gourmand list in 2019 and kept the award in 2021.",
+          "sources": [
+            "https://www.timeout.com/singapore/news/michelin-bib-gourmand-2019-58-recipients-and-12-new-entrants-make-the-list-091019",
+            "https://eatbook.sg/michelin-bib-gourmand-2021/"
+          ]
+        },
+        {
+          "dish": "Braised duck rice",
+          "note": "Liang Zhao Ji Duck Rice was a 2016 Bib Gourmand stall known for its braising sauce.",
+          "sources": [
+            "https://www.timeout.com/singapore/blog/34-hawker-stalls-and-restaurants-get-a-bib-gourmand-in-michelin-guide-singapore-071416",
+            "https://eatbook.sg/whampoa-market/"
+          ]
+        },
+        {
+          "dish": "Fried oyster omelette (orh luak)",
+          "note": "Huat Heng Fried Oyster fries each plate to order in a hot wok and has been recognised by Michelin.",
+          "sources": [
+            "https://eatbook.sg/whampoa-market/"
+          ]
+        },
+        {
+          "dish": "Char siew wonton mee",
+          "note": "Golden Roast Char Siew has sold roast pork noodles here for more than 30 years.",
+          "sources": [
+            "https://eatbook.sg/whampoa-market/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "The site was once Rayman Market, a municipal wet market opened in 1952 for the Rayman housing estate.",
+          "sources": [
+            "https://www.roots.gov.sg/places/places-landing/Places/landmarks/balestier-heritage-trail-faith-film-and-food/Whampoa-Makan-Place",
+            "https://en.wikipedia.org/wiki/Whampoa_Makan_Place"
+          ]
+        },
+        {
+          "fact": "In 1973 Rayman Market was replaced by Whampoa Market and Food Centre, which was upgraded in 2006 to 2008 and renamed Whampoa Makan Place.",
+          "sources": [
+            "https://www.roots.gov.sg/places/places-landing/Places/landmarks/balestier-heritage-trail-faith-film-and-food/Whampoa-Makan-Place"
+          ]
+        },
+        {
+          "fact": "The name Whampoa honours merchant Hoo Ah Kay, nicknamed after his birthplace Huangpu in Guangdong.",
+          "sources": [
+            "https://www.roots.gov.sg/places/places-landing/Places/landmarks/balestier-heritage-trail-faith-film-and-food/Whampoa-Makan-Place"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Whampoa_Makan_Place,_exterior.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Whampoa_Makan_Place,_interior.jpg",
+          "credit": "Kbseah, Wikimedia Commons (2025)",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Whampoa_Makan_Place.jpg",
+          "credit": "Kars Alfrink, Wikimedia Commons (2016)",
+          "licence": "CC BY 2.0"
+        }
+      ],
+      "confidence": "medium: history from an NHB heritage trail page and Wikipedia, dishes from Bib Gourmand lists and Eatbook, look from photos. NEA year (1976) and NHB year (1973) differ, possibly because they refer to different blocks."
+    },
+    {
+      "neaName": null,
+      "displayName": "Lau Pa Sat (Telok Ayer Market)",
+      "opened": "Current cast-iron market completed in 1894; earlier markets on the waterfront date from 1824 and 1838. Converted to a hawker centre in the early 1970s and reopened as Lau Pa Sat Festival Market after reassembly (1991 per Wikipedia, 1992 per NLB Infopedia).",
+      "look": {
+        "summary": "An octagonal Victorian market hall with a white cast-iron frame, terracotta-coloured pitched roofs in eight segments and a white clock tower rising from the centre, set among glass CBD skyscrapers. At night the side street closes to traffic and satay stalls fill the road with charcoal smoke, string lights and long shared tables in front of a gable with a sunburst fan window.",
+        "layout": "Octagonal hall with aisles radiating from a central lantern and clock tower, stalls arranged around the ring",
+        "roof": "Victorian cast-iron structure with terracotta-red pitched roofs, a central lantern and clock tower, and decorative cast-iron gables with fan-shaped windows",
+        "materials": [
+          "cast iron made in Glasgow",
+          "terracotta-coloured roofing",
+          "glass",
+          "painted ironwork filigree"
+        ],
+        "colours": [
+          "white ironwork",
+          "terracotta red roofs",
+          "dark green ironwork on gables",
+          "warm yellow night lighting"
+        ],
+        "features": [
+          "a central clock tower",
+          "ornate cast-iron columns and filigree from Walter MacFarlane & Co of Glasgow",
+          "Satay Street on Boon Tat Street every evening",
+          "a national monument in the middle of the CBD"
+        ],
+        "timeOfDay": "Weekday CBD lunch, then evening and late-night satay on Boon Tat Street",
+        "surroundings": "Raffles Quay and the CBD: glass office and residential towers on all sides, Boon Tat Street, near Downtown and Raffles Place MRT stations"
+      },
+      "knownFor": [
+        {
+          "dish": "Satay",
+          "note": "After about 7pm the stretch of Boon Tat Street beside the market closes to cars and around ten satay stalls grill chicken, beef and prawn skewers over charcoal; Lau Pa Sat dates its Satay Street to 1996.",
+          "sources": [
+            "https://www.laupasat.sg/?p=211",
+            "https://guide.michelin.com/sg/en/article/dining-out/supper-series-5-satay-stalls-in-singapore-open-til-late",
+            "https://en.wikipedia.org/wiki/Boon_Tat_Street"
+          ]
+        },
+        {
+          "dish": "Laksa",
+          "note": "The market's own site lists laksa among the local dishes sold in the hall.",
+          "sources": [
+            "https://www.laupasat.sg/"
+          ]
+        },
+        {
+          "dish": "Char kway teow",
+          "note": "The market's own site lists char kway teow among its local dishes.",
+          "sources": [
+            "https://www.laupasat.sg/"
+          ]
+        }
+      ],
+      "history": [
+        {
+          "fact": "Singapore's first fish market on this shore opened in 1824 as a timber and atap building, and George Coleman replaced it with an octagonal market in 1838.",
+          "sources": [
+            "https://en.wikipedia.org/wiki/Lau_Pa_Sat"
+          ]
+        },
+        {
+          "fact": "Municipal Engineer James MacRitchie rebuilt the market on its present site in 1894, keeping the octagon but adding a clock tower and a cast-iron frame made by Walter MacFarlane & Co in Glasgow.",
+          "sources": [
+            "https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c45187f-be24-4af9-8e9d-db5dd699352d",
+            "https://en.wikipedia.org/wiki/Lau_Pa_Sat"
+          ]
+        },
+        {
+          "fact": "It was gazetted a national monument on 28 June 1973, taken apart in 1986 to protect it during MRT tunnelling, and reassembled by 1989 before reopening as a festival market.",
+          "sources": [
+            "https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c45187f-be24-4af9-8e9d-db5dd699352d",
+            "https://en.wikipedia.org/wiki/Lau_Pa_Sat"
+          ]
+        },
+        {
+          "fact": "Unlike NEA's hawker centres it is privately run: its website says it is managed by FairPrice Group's Kopitiam, and Kopitiam carried out a S$4 million renovation in 2013.",
+          "sources": [
+            "https://www.laupasat.sg/",
+            "https://www.ttgasia.com/2013/09/04/singapores-lau-pa-sat-food-centre-undergoes-renovation/"
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Lau_Pa_Sat_aerial_view.jpg",
+          "credit": "Wikimedia Commons user 7",
+          "licence": "CC BY-SA 3.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Singapore_Telok-Ayer-Market-02.jpg",
+          "credit": "CEphoto, Uwe Aranas, via Wikimedia Commons",
+          "licence": "CC BY-SA 3.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Satay_Street_Lau_Pa_Sat_Singapore.jpg",
+          "credit": "kallerna, via Wikimedia Commons",
+          "licence": "CC BY-SA 4.0"
+        },
+        {
+          "url": "https://commons.wikimedia.org/wiki/File:Telok_Ayer_Market_-_J.T._Thomson.jpg",
+          "credit": "John Turnbull Thomson (1847), via Wikimedia Commons",
+          "licence": "Public domain"
+        }
+      ],
+      "confidence": "high for history and look (NLB Infopedia via search summary, Wikipedia, the market's own site, Commons photos); low to medium for dishes, which beyond satay are generic"
+    }
+  ]
+}
