@@ -1,7 +1,9 @@
-// The lobby's radio: the Time Capsule Radio's shellac 78s as a backdrop. It is on for a first visit and remembers
-// when someone turns it off. Browsers hold back sound until the first tap or key press, so until then it waits.
-// It reads the radio's own station list, so on the Bun server the 78s play from its local copies and on a
-// static site they stream from the Internet Archive, which can take a while to start.
+// The lobby's radio: the Time Capsule Radio's shellac 78s as a backdrop. It is on when people arrive and
+// remembers when someone turns it off. It reads the radio's own station list, so on the Bun server the 78s play
+// from its local copies and on a static site they stream from the Internet Archive.
+//
+// The button only ever says On or Off. Browsers hold back sound until the first tap or key press, so the first
+// record loads straight away and starts on that first gesture, whatever it lands on.
 
 const root = document.querySelector(".radio");
 const toggle = root.querySelector(".radio__toggle");
@@ -14,13 +16,13 @@ const next = root.querySelector(".radio__next");
 
 const VOLUME = 0.7;
 const audio = new Audio();
-audio.preload = "none";
+// Load the record before anyone presses anything, so it plays the moment they do.
+audio.preload = "auto";
 
 let records = null;
 let at = 0;
 let on = false;
 let failures = 0;
-let slowTimer = 0;
 let fadeFrame = 0;
 let blocked = false;
 
@@ -57,9 +59,9 @@ async function load() {
 function fade(to, then) {
   cancelAnimationFrame(fadeFrame);
   const from = audio.volume;
-  const start = performance.now();
+  const begin = performance.now();
   const step = (now) => {
-    const t = Math.min(1, (now - start) / 900);
+    const t = Math.min(1, (now - begin) / 900);
     audio.volume = from + (to - from) * t;
     if (t < 1) fadeFrame = requestAnimationFrame(step);
     else then?.();
@@ -67,18 +69,19 @@ function fade(to, then) {
   fadeFrame = requestAnimationFrame(step);
 }
 
-function show(text) {
-  state.textContent = text;
+function setOn(value) {
+  on = value;
+  toggle.setAttribute("aria-pressed", String(value));
+  state.textContent = value ? "On" : "Off";
+  panel.hidden = !value;
+  if (!value) root.classList.remove("is-playing");
 }
 
-// The browser said no to sound before a gesture: start on the first tap or key press anywhere on the page.
+// If the browser says no to sound before a gesture, wait for the first tap or key press anywhere on the page.
 function start() {
   audio.play().catch((e) => {
-    if (e.name !== "NotAllowedError" || !on) return;
+    if (e.name !== "NotAllowedError" || !on || blocked) return;
     blocked = true;
-    clearTimeout(slowTimer);
-    show("Tap to play");
-    meta.textContent = "Your browser waits for a tap or a key before it plays sound.";
     for (const g of GESTURES) document.addEventListener(g, unlock, true);
   });
 }
@@ -87,11 +90,7 @@ function unlock(e) {
   // A tap on the radio button itself is handled by its own click.
   if (e && toggle.contains(e.target)) return;
   stopWaiting();
-  if (!on) return;
-  const r = records[at];
-  meta.textContent = [r.year, r.artist, r.place].filter(Boolean).join(" · ");
-  show("Tuning in");
-  audio.play().catch(() => {});
+  if (on) audio.play().catch(() => {});
 }
 
 function stopWaiting() {
@@ -109,30 +108,19 @@ function play(i) {
   meta.textContent = [r.year, r.artist, r.place].filter(Boolean).join(" · ");
   disc.src = (r.label || "").replace(/^\.\.\//, "./");
   disc.hidden = !r.label;
-  show("Tuning in");
-  clearTimeout(slowTimer);
-  slowTimer = setTimeout(() => {
-    if (on && !blocked && audio.paused) meta.textContent = "The Internet Archive is slow today. Still tuning in…";
-  }, 12000);
   start();
 }
 
 audio.addEventListener("playing", () => {
   if (!on) return;
   failures = 0;
-  clearTimeout(slowTimer);
-  const r = records[at];
-  meta.textContent = [r.year, r.artist, r.place].filter(Boolean).join(" · ");
   root.classList.add("is-playing");
-  show("On");
   fade(VOLUME);
 });
-audio.addEventListener("waiting", () => on && show("Tuning in"));
 audio.addEventListener("ended", () => on && play(at + 1));
 audio.addEventListener("error", () => {
   if (!on || !audio.src) return;
   if (++failures >= records.length) {
-    show("No signal");
     meta.textContent = "The records cannot be reached right now.";
     return;
   }
@@ -140,15 +128,11 @@ audio.addEventListener("error", () => {
 });
 
 async function turnOn() {
-  on = true;
-  toggle.setAttribute("aria-pressed", "true");
-  panel.hidden = false;
-  show("Tuning in");
+  setOn(true);
   try {
     await load();
   } catch {
-    show("No signal");
-    meta.textContent = "The station list did not load.";
+    meta.textContent = "The records cannot be reached right now.";
     return;
   }
   if (!on) return;
@@ -156,7 +140,6 @@ async function turnOn() {
   cancelAnimationFrame(fadeFrame);
   if (audio.src && !audio.ended && !audio.paused) {
     root.classList.add("is-playing");
-    show("On");
     fade(VOLUME);
   } else if (audio.src && !audio.ended) {
     audio.volume = 0;
@@ -165,18 +148,12 @@ async function turnOn() {
 }
 
 function turnOff() {
-  on = false;
+  setOn(false);
   stopWaiting();
-  clearTimeout(slowTimer);
-  toggle.setAttribute("aria-pressed", "false");
-  root.classList.remove("is-playing");
-  panel.hidden = true;
-  show("Off");
   fade(0, () => audio.pause());
 }
 
 toggle.addEventListener("click", () => {
-  if (blocked) return unlock();
   remember(on ? "off" : "on");
   on ? turnOff() : turnOn();
 });
@@ -186,3 +163,4 @@ next.addEventListener("click", () => {
 });
 
 if (wanted()) turnOn();
+else setOn(false);
