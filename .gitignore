@@ -13,3 +13,4 @@ site/
 # local notes and form drafts
 ignore/
 __pycache__/
+video/
