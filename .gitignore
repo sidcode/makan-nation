@@ -14,3 +14,4 @@ site/
 ignore/
 __pycache__/
 video/
+HANDOFF.md

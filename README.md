@@ -1,6 +1,6 @@
 # Common Ground prototypes
 
-Five Culture × Tech prototypes for the Common Ground makeathon in Singapore, led by **Makan Nation**, a co-op hawker kitchen across four eras that celebrates Singapore as a nation proud of its food and hawker culture. The radio, the Kopi Compiler and Block Birthday all feed into it. Each one reads a slice of Singapore culture in three tenses: what the archives kept, what we do with it now, and what we leave for later. See [HANDOFF.md](HANDOFF.md) for the full handoff (how everything works, data, decisions, known issues and next steps) and [IDEAS.md](IDEAS.md) for the thinking behind them and six more ideas that are ready to pick up.
+Five Culture × Tech prototypes for the Common Ground makeathon in Singapore, led by **Makan Nation**, a co-op hawker kitchen across four eras that celebrates Singapore as a nation proud of its food and hawker culture. The radio, the Kopi Compiler and Block Birthday all feed into it. Each one reads a slice of Singapore culture in three tenses: what the archives kept, what we do with it now, and what we leave for later. See [IDEAS.md](IDEAS.md) for the thinking behind them and six more ideas that are ready to pick up.
 
 | Route | Prototype | What it does |
 |---|---|---|

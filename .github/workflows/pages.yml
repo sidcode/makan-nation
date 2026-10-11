@@ -1,6 +1,6 @@
 # Publishes all of Common Ground (the lobby and the five prototypes) as a static site on GitHub Pages.
 # `bun run build` writes site/ with relative links only, so it works at https://<user>.github.io/<repo>/.
-# Pages cannot run the Bun server, so what needs one works differently there (see HANDOFF.md, "GitHub Pages"):
+# Pages cannot run the Bun server, so what needs one works differently there (see README.md, "On GitHub Pages"):
 # online play goes peer to peer, and wishes, sealed songs, memories and lent voices stay in each browser.
 #
 # One-time setup: repo Settings > Pages > Build and deployment > Source: GitHub Actions.
